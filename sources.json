@@ -1,0 +1,1041 @@
+[
+ {
+  "company": "Careem",
+  "region": "UAE",
+  "type": "greenhouse",
+  "slug": "careem"
+ },
+ {
+  "company": "Tabby",
+  "region": "UAE",
+  "type": "pinpoint",
+  "url": "https://tabby.pinpointhq.com/postings.json"
+ },
+ {
+  "company": "Tamara",
+  "region": "UAE",
+  "type": "greenhouse",
+  "slug": "tamara"
+ },
+ {
+  "company": "talabat",
+  "region": "UAE",
+  "type": "smartrecruiters",
+  "slug": "DeliveryHero"
+ },
+ {
+  "company": "Property Finder",
+  "region": "UAE",
+  "type": "teamtailor",
+  "url": "https://propertyfinder.teamtailor.com/jobs.rss"
+ },
+ {
+  "company": "Kitopi",
+  "region": "UAE",
+  "type": "lever",
+  "slug": "kitopi",
+  "eu": false
+ },
+ {
+  "company": "Ziina",
+  "region": "UAE",
+  "type": "ashby",
+  "slug": "ziina"
+ },
+ {
+  "company": "Huspy",
+  "region": "UAE",
+  "type": "greenhouse",
+  "slug": "huspy"
+ },
+ {
+  "company": "Qashio",
+  "region": "UAE",
+  "type": "teamtailor",
+  "url": "https://careers.qashio.com/jobs.rss"
+ },
+ {
+  "company": "Hostaway",
+  "region": "UAE",
+  "type": "recruitee",
+  "slug": "hostaway"
+ },
+ {
+  "company": "Fresha",
+  "region": "UAE",
+  "type": "teamtailor",
+  "url": "https://www.fresha.com/jobs.rss"
+ },
+ {
+  "company": "Etihad Airways",
+  "region": "UAE",
+  "type": "smartrecruiters",
+  "slug": "EtihadAirways5"
+ },
+ {
+  "company": "think-cell",
+  "region": "UAE",
+  "type": "greenhouse",
+  "slug": "think-cell"
+ },
+ {
+  "company": "Razorpay",
+  "region": "India",
+  "type": "greenhouse",
+  "slug": "razorpaysoftwareprivatelimited"
+ },
+ {
+  "company": "CRED",
+  "region": "India",
+  "type": "lever",
+  "slug": "cred",
+  "eu": false
+ },
+ {
+  "company": "Groww",
+  "region": "India",
+  "type": "greenhouse",
+  "slug": "groww"
+ },
+ {
+  "company": "PhonePe",
+  "region": "India",
+  "type": "greenhouse",
+  "slug": "phonepe"
+ },
+ {
+  "company": "Epifi (Fi)",
+  "region": "India",
+  "type": "lever",
+  "slug": "epifi",
+  "eu": false
+ },
+ {
+  "company": "Postman",
+  "region": "India",
+  "type": "greenhouse",
+  "slug": "postman"
+ },
+ {
+  "company": "BrowserStack",
+  "region": "India",
+  "type": "workday",
+  "tenant": "browserstack",
+  "wd": "wd3",
+  "site": "External"
+ },
+ {
+  "company": "Freshworks",
+  "region": "India",
+  "type": "smartrecruiters",
+  "slug": "Freshworks"
+ },
+ {
+  "company": "Swiggy",
+  "region": "India",
+  "type": "smartrecruiters",
+  "slug": "SWIGGY"
+ },
+ {
+  "company": "Meesho",
+  "region": "India",
+  "type": "lever",
+  "slug": "meesho",
+  "eu": false
+ },
+ {
+  "company": "CARS24",
+  "region": "India",
+  "type": "workable",
+  "slug": "cars24"
+ },
+ {
+  "company": "Sprinklr",
+  "region": "India",
+  "type": "workday",
+  "tenant": "sprinklr",
+  "wd": "wd1",
+  "site": "careers"
+ },
+ {
+  "company": "Tekion",
+  "region": "India",
+  "type": "greenhouse",
+  "slug": "tekion"
+ },
+ {
+  "company": "Innovaccer",
+  "region": "India",
+  "type": "greenhouse",
+  "slug": "innovaccer"
+ },
+ {
+  "company": "Backbase (India)",
+  "region": "India",
+  "type": "greenhouse",
+  "slug": "workatbackbase"
+ },
+ {
+  "company": "HighLevel",
+  "region": "India",
+  "type": "lever",
+  "slug": "gohighlevel",
+  "eu": false
+ },
+ {
+  "company": "Mindtickle",
+  "region": "India",
+  "type": "lever",
+  "slug": "mindtickle",
+  "eu": false
+ },
+ {
+  "company": "GitLab",
+  "region": "Remote",
+  "type": "greenhouse",
+  "slug": "gitlab"
+ },
+ {
+  "company": "Canonical",
+  "region": "Remote",
+  "type": "greenhouse",
+  "slug": "canonical"
+ },
+ {
+  "company": "Wikimedia Foundation",
+  "region": "Remote",
+  "type": "greenhouse",
+  "slug": "wikimedia"
+ },
+ {
+  "company": "Consensys",
+  "region": "Remote",
+  "type": "greenhouse",
+  "slug": "consensys"
+ },
+ {
+  "company": "Clear Street",
+  "region": "Remote",
+  "type": "greenhouse",
+  "slug": "clearstreet"
+ },
+ {
+  "company": "Vercel",
+  "region": "Remote",
+  "type": "greenhouse",
+  "slug": "vercel"
+ },
+ {
+  "company": "Proton",
+  "region": "Remote",
+  "type": "greenhouse",
+  "slug": "proton"
+ },
+ {
+  "company": "Zapier",
+  "region": "Remote",
+  "type": "ashby",
+  "slug": "zapier"
+ },
+ {
+  "company": "PostHog",
+  "region": "Remote",
+  "type": "ashby",
+  "slug": "posthog"
+ },
+ {
+  "company": "Supabase",
+  "region": "Remote",
+  "type": "ashby",
+  "slug": "supabase"
+ },
+ {
+  "company": "Buffer",
+  "region": "Remote",
+  "type": "ashby",
+  "slug": "buffer"
+ },
+ {
+  "company": "Oyster",
+  "region": "Remote",
+  "type": "ashby",
+  "slug": "oyster"
+ },
+ {
+  "company": "DuckDuckGo",
+  "region": "Remote",
+  "type": "ashby",
+  "slug": "duck-duck-go"
+ },
+ {
+  "company": "Linear",
+  "region": "Remote",
+  "type": "ashby",
+  "slug": "linear"
+ },
+ {
+  "company": "n8n",
+  "region": "Remote",
+  "type": "ashby",
+  "slug": "n8n"
+ },
+ {
+  "company": "Railway",
+  "region": "Remote",
+  "type": "ashby",
+  "slug": "railway"
+ },
+ {
+  "company": "Resend",
+  "region": "Remote",
+  "type": "ashby",
+  "slug": "resend"
+ },
+ {
+  "company": "WunderGraph",
+  "region": "Remote",
+  "type": "ashby",
+  "slug": "wundergraph"
+ },
+ {
+  "company": "Close",
+  "region": "Remote",
+  "type": "ashby",
+  "slug": "close"
+ },
+ {
+  "company": "Clera",
+  "region": "Remote",
+  "type": "ashby",
+  "slug": "clera"
+ },
+ {
+  "company": "Contentsquare (incl. Hotjar)",
+  "region": "Remote",
+  "type": "lever",
+  "slug": "contentsquare",
+  "eu": false
+ },
+ {
+  "company": "CoinsPaid",
+  "region": "Remote",
+  "type": "lever",
+  "slug": "coinspaid",
+  "eu": true
+ },
+ {
+  "company": "Tether",
+  "region": "Remote",
+  "type": "recruitee",
+  "slug": "tether"
+ },
+ {
+  "company": "Hugging Face",
+  "region": "Remote",
+  "type": "workable",
+  "slug": "huggingface"
+ },
+ {
+  "company": "TryHackMe",
+  "region": "Remote",
+  "type": "teamtailor",
+  "url": "https://careers.tryhackme.com/jobs.rss"
+ },
+ {
+  "company": "Adyen",
+  "region": "Netherlands",
+  "type": "greenhouse",
+  "slug": "adyen"
+ },
+ {
+  "company": "Mollie",
+  "region": "Netherlands",
+  "type": "ashby",
+  "slug": "mollie"
+ },
+ {
+  "company": "bunq",
+  "region": "Netherlands",
+  "type": "recruitee",
+  "slug": "bunq"
+ },
+ {
+  "company": "Catawiki",
+  "region": "Netherlands",
+  "type": "greenhouse",
+  "slug": "catawiki"
+ },
+ {
+  "company": "Miro",
+  "region": "Netherlands",
+  "type": "greenhouse",
+  "slug": "realtimeboardglobal"
+ },
+ {
+  "company": "Elastic",
+  "region": "Netherlands",
+  "type": "greenhouse",
+  "slug": "elastic"
+ },
+ {
+  "company": "Bitvavo",
+  "region": "Netherlands",
+  "type": "ashby",
+  "slug": "bitvavo"
+ },
+ {
+  "company": "TomTom",
+  "region": "Netherlands",
+  "type": "lever",
+  "slug": "tomtom",
+  "eu": true
+ },
+ {
+  "company": "bol.com",
+  "region": "Netherlands",
+  "type": "greenhouse",
+  "slug": "bolcomen"
+ },
+ {
+  "company": "Lightspeed",
+  "region": "Netherlands",
+  "type": "ashby",
+  "slug": "lightspeedhq"
+ },
+ {
+  "company": "Sendcloud",
+  "region": "Netherlands",
+  "type": "teamtailor",
+  "url": "https://jobs.sendcloud.com/jobs.rss"
+ },
+ {
+  "company": "HousingAnywhere",
+  "region": "Netherlands",
+  "type": "greenhouse",
+  "slug": "housinganywhere"
+ },
+ {
+  "company": "Flexport",
+  "region": "Netherlands",
+  "type": "greenhouse",
+  "slug": "flexport"
+ },
+ {
+  "company": "Rentman",
+  "region": "Netherlands",
+  "type": "ashby",
+  "slug": "rentman"
+ },
+ {
+  "company": "Vio",
+  "region": "Netherlands",
+  "type": "ashby",
+  "slug": "vio"
+ },
+ {
+  "company": "Tebi",
+  "region": "Netherlands",
+  "type": "ashby",
+  "slug": "tebi"
+ },
+ {
+  "company": "Klarna",
+  "region": "Nordics",
+  "type": "teamtailor",
+  "url": "https://klarnagroup.teamtailor.com/jobs.rss"
+ },
+ {
+  "company": "Spotify",
+  "region": "Nordics",
+  "type": "lever",
+  "slug": "spotify",
+  "eu": false
+ },
+ {
+  "company": "Epidemic Sound",
+  "region": "Nordics",
+  "type": "teamtailor",
+  "url": "https://epidemic-sound.teamtailor.com/jobs.rss"
+ },
+ {
+  "company": "Tink",
+  "region": "Nordics",
+  "type": "teamtailor",
+  "url": "https://jobs.tink.se/jobs.rss"
+ },
+ {
+  "company": "Trustly",
+  "region": "Nordics",
+  "type": "ashby",
+  "slug": "trustly"
+ },
+ {
+  "company": "Voi",
+  "region": "Nordics",
+  "type": "teamtailor",
+  "url": "https://careers.voi.com/jobs.rss"
+ },
+ {
+  "company": "Kry",
+  "region": "Nordics",
+  "type": "teamtailor",
+  "url": "https://career.kry.se/jobs.rss"
+ },
+ {
+  "company": "Legora",
+  "region": "Nordics",
+  "type": "ashby",
+  "slug": "legora"
+ },
+ {
+  "company": "Truecaller",
+  "region": "Nordics",
+  "type": "greenhouse",
+  "slug": "truecaller"
+ },
+ {
+  "company": "Zettle by PayPal",
+  "region": "Nordics",
+  "type": "workday",
+  "tenant": "paypal",
+  "wd": "wd1",
+  "site": "jobs"
+ },
+ {
+  "company": "Qred",
+  "region": "Nordics",
+  "type": "teamtailor",
+  "url": "https://jobs.qred.com/jobs.rss"
+ },
+ {
+  "company": "Pleo",
+  "region": "Nordics",
+  "type": "ashby",
+  "slug": "pleo"
+ },
+ {
+  "company": "Lunar",
+  "region": "Nordics",
+  "type": "teamtailor",
+  "url": "https://jobs.lunar.app/jobs.rss"
+ },
+ {
+  "company": "Vivino",
+  "region": "Nordics",
+  "type": "workable",
+  "slug": "vivino"
+ },
+ {
+  "company": "Trustpilot",
+  "region": "Nordics",
+  "type": "greenhouse",
+  "slug": "trustpilot"
+ },
+ {
+  "company": "Unity",
+  "region": "Nordics",
+  "type": "workday",
+  "tenant": "unitytech",
+  "wd": "wd1",
+  "site": "Unity"
+ },
+ {
+  "company": "Too Good To Go",
+  "region": "Nordics",
+  "type": "greenhouse",
+  "slug": "toogoodtogo"
+ },
+ {
+  "company": "Saxo Bank",
+  "region": "Nordics",
+  "type": "workday",
+  "tenant": "saxobank",
+  "wd": "wd3",
+  "site": "CareeratSaxoBank"
+ },
+ {
+  "company": "DFDS",
+  "region": "Nordics",
+  "type": "teamtailor",
+  "url": "https://jobs.dfds.com/jobs.rss"
+ },
+ {
+  "company": "Kahoot!",
+  "region": "Nordics",
+  "type": "workable",
+  "slug": "kahoot"
+ },
+ {
+  "company": "Oda",
+  "region": "Nordics",
+  "type": "lever",
+  "slug": "oda",
+  "eu": false
+ },
+ {
+  "company": "Wolt",
+  "region": "Nordics",
+  "type": "greenhouse",
+  "slug": "wolt"
+ },
+ {
+  "company": "Rovio",
+  "region": "Nordics",
+  "type": "lever",
+  "slug": "rovio-2",
+  "eu": false
+ },
+ {
+  "company": "Smartly",
+  "region": "Nordics",
+  "type": "greenhouse",
+  "slug": "smartlyio"
+ },
+ {
+  "company": "RELEX",
+  "region": "Nordics",
+  "type": "greenhouse",
+  "slug": "relex"
+ },
+ {
+  "company": "Aiven",
+  "region": "Nordics",
+  "type": "greenhouse",
+  "slug": "aiven"
+ },
+ {
+  "company": "Swappie",
+  "region": "Nordics",
+  "type": "lever",
+  "slug": "swappie",
+  "eu": false
+ },
+ {
+  "company": "Oura",
+  "region": "Nordics",
+  "type": "greenhouse",
+  "slug": "oura"
+ },
+ {
+  "company": "AlphaSense",
+  "region": "Nordics",
+  "type": "greenhouse",
+  "slug": "alphasense"
+ },
+ {
+  "company": "Wise",
+  "region": "Europe",
+  "type": "smartrecruiters",
+  "slug": "Wise"
+ },
+ {
+  "company": "Monzo",
+  "region": "Europe",
+  "type": "greenhouse",
+  "slug": "monzo"
+ },
+ {
+  "company": "Starling Bank",
+  "region": "Europe",
+  "type": "workable",
+  "slug": "starling-bank"
+ },
+ {
+  "company": "Ebury",
+  "region": "Europe",
+  "type": "greenhouse",
+  "slug": "ebury"
+ },
+ {
+  "company": "Lendable",
+  "region": "Europe",
+  "type": "ashby",
+  "slug": "lendable"
+ },
+ {
+  "company": "9fin",
+  "region": "Europe",
+  "type": "ashby",
+  "slug": "9fin"
+ },
+ {
+  "company": "Tide",
+  "region": "Europe",
+  "type": "greenhouse",
+  "slug": "tide"
+ },
+ {
+  "company": "GoCardless",
+  "region": "Europe",
+  "type": "greenhouse",
+  "slug": "gocardless"
+ },
+ {
+  "company": "TrueLayer",
+  "region": "Europe",
+  "type": "greenhouse",
+  "slug": "truelayer"
+ },
+ {
+  "company": "Checkout.com",
+  "region": "Europe",
+  "type": "ashby",
+  "slug": "checkout.com"
+ },
+ {
+  "company": "N26",
+  "region": "Europe",
+  "type": "greenhouse",
+  "slug": "n26"
+ },
+ {
+  "company": "Trade Republic",
+  "region": "Europe",
+  "type": "greenhouse",
+  "slug": "traderepublicbank"
+ },
+ {
+  "company": "Scalable Capital",
+  "region": "Europe",
+  "type": "smartrecruiters",
+  "slug": "ScalableGmbH"
+ },
+ {
+  "company": "Bitpanda",
+  "region": "Europe",
+  "type": "greenhouse",
+  "slug": "bitpanda"
+ },
+ {
+  "company": "Raisin",
+  "region": "Europe",
+  "type": "greenhouse",
+  "slug": "raisin"
+ },
+ {
+  "company": "Qonto",
+  "region": "Europe",
+  "type": "lever",
+  "slug": "qonto",
+  "eu": false
+ },
+ {
+  "company": "Perk (TravelPerk)",
+  "region": "Europe",
+  "type": "ashby",
+  "slug": "perk"
+ },
+ {
+  "company": "Stripe",
+  "region": "Europe",
+  "type": "greenhouse",
+  "slug": "stripe"
+ },
+ {
+  "company": "Intercom",
+  "region": "Europe",
+  "type": "greenhouse",
+  "slug": "intercom"
+ },
+ {
+  "company": "Deliveroo",
+  "region": "Europe",
+  "type": "greenhouse",
+  "slug": "deliveroo"
+ },
+ {
+  "company": "GetYourGuide",
+  "region": "Europe",
+  "type": "greenhouse",
+  "slug": "getyourguide"
+ },
+ {
+  "company": "HelloFresh",
+  "region": "Europe",
+  "type": "greenhouse",
+  "slug": "hellofresh"
+ },
+ {
+  "company": "Contentful",
+  "region": "Europe",
+  "type": "greenhouse",
+  "slug": "contentful"
+ },
+ {
+  "company": "Celonis",
+  "region": "Europe",
+  "type": "greenhouse",
+  "slug": "celonis"
+ },
+ {
+  "company": "Typeform",
+  "region": "Europe",
+  "type": "greenhouse",
+  "slug": "typeform"
+ },
+ {
+  "company": "Blacklane",
+  "region": "Europe",
+  "type": "greenhouse",
+  "slug": "blacklane"
+ },
+ {
+  "company": "Deliverect",
+  "region": "Europe",
+  "type": "lever",
+  "slug": "deliverect",
+  "eu": false
+ },
+ {
+  "company": "Moniepoint",
+  "region": "Europe",
+  "type": "greenhouse",
+  "slug": "moniepoint"
+ },
+ {
+  "company": "Allwyn",
+  "region": "Europe",
+  "type": "workable",
+  "slug": "allwynuk"
+ },
+ {
+  "company": "State Street",
+  "region": "Europe",
+  "type": "workday",
+  "tenant": "statestreet",
+  "wd": "wd1",
+  "site": "Global"
+ },
+ {
+  "company": "Taktile",
+  "region": "Europe",
+  "type": "ashby",
+  "slug": "taktile"
+ },
+ {
+  "company": "Zilch",
+  "region": "Europe",
+  "type": "ashby",
+  "slug": "zilch"
+ },
+ {
+  "company": "Iterable",
+  "region": "Europe",
+  "type": "greenhouse",
+  "slug": "iterable"
+ },
+ {
+  "company": "Okta (Spain)",
+  "region": "Europe",
+  "type": "greenhouse",
+  "slug": "okta"
+ },
+ {
+  "company": "Airwallex",
+  "region": "APAC",
+  "type": "ashby",
+  "slug": "airwallex"
+ },
+ {
+  "company": "SafetyCulture",
+  "region": "APAC",
+  "type": "ashby",
+  "slug": "safetyculture"
+ },
+ {
+  "company": "Culture Amp",
+  "region": "APAC",
+  "type": "greenhouse",
+  "slug": "cultureamp"
+ },
+ {
+  "company": "Commonwealth Bank",
+  "region": "APAC",
+  "type": "workday",
+  "tenant": "cba",
+  "wd": "wd3",
+  "site": "CommBank_Careers"
+ },
+ {
+  "company": "HCF",
+  "region": "APAC",
+  "type": "workday",
+  "tenant": "hcf",
+  "wd": "wd105",
+  "site": "HCF_External_Career_Site"
+ },
+ {
+  "company": "Zip Co",
+  "region": "APAC",
+  "type": "greenhouse",
+  "slug": "zipcolimited"
+ },
+ {
+  "company": "Padlet",
+  "region": "APAC",
+  "type": "ashby",
+  "slug": "padlet"
+ },
+ {
+  "company": "Open Government Products",
+  "region": "APAC",
+  "type": "ashby",
+  "slug": "opengovsg"
+ },
+ {
+  "company": "DBS",
+  "region": "APAC",
+  "type": "workday",
+  "tenant": "dbs",
+  "wd": "wd3",
+  "site": "DBS_Careers"
+ },
+ {
+  "company": "GXS Bank",
+  "region": "APAC",
+  "type": "workday",
+  "tenant": "gxs",
+  "wd": "wd3",
+  "site": "GXS"
+ },
+ {
+  "company": "Trust Bank",
+  "region": "APAC",
+  "type": "greenhouse",
+  "slug": "trustbank"
+ },
+ {
+  "company": "Ninja Van",
+  "region": "APAC",
+  "type": "lever",
+  "slug": "ninjavan",
+  "eu": false
+ },
+ {
+  "company": "Carousell",
+  "region": "APAC",
+  "type": "workable",
+  "slug": "carousell"
+ },
+ {
+  "company": "Xendit",
+  "region": "APAC",
+  "type": "greenhouse",
+  "slug": "xendit"
+ },
+ {
+  "company": "Aspire",
+  "region": "APAC",
+  "type": "greenhouse",
+  "slug": "aspire"
+ },
+ {
+  "company": "Nium",
+  "region": "APAC",
+  "type": "lever",
+  "slug": "nium",
+  "eu": false
+ },
+ {
+  "company": "Agoda",
+  "region": "APAC",
+  "type": "greenhouse",
+  "slug": "agoda"
+ },
+ {
+  "company": "Mercari",
+  "region": "APAC",
+  "type": "greenhouse",
+  "slug": "mercari"
+ },
+ {
+  "company": "SmartNews",
+  "region": "APAC",
+  "type": "workable",
+  "slug": "smartnews"
+ },
+ {
+  "company": "PayPay",
+  "region": "APAC",
+  "type": "greenhouse",
+  "slug": "pay2dc"
+ },
+ {
+  "company": "Paidy",
+  "region": "APAC",
+  "type": "greenhouse",
+  "slug": "paidyinc"
+ },
+ {
+  "company": "Karbon",
+  "region": "APAC",
+  "type": "greenhouse",
+  "slug": "karbon"
+ },
+ {
+  "company": "Blinq",
+  "region": "APAC",
+  "type": "lever",
+  "slug": "blinq",
+  "eu": false
+ },
+ {
+  "company": "Castlery",
+  "region": "APAC",
+  "type": "workable",
+  "slug": "castlery"
+ },
+ {
+  "company": "ShopBack",
+  "region": "APAC",
+  "type": "lever",
+  "slug": "shopback",
+  "eu": false
+ },
+ {
+  "company": "Grab",
+  "region": "APAC",
+  "type": "smartrecruiters",
+  "slug": "Grab"
+ },
+ {
+  "company": "Jobicy",
+  "region": "Remote",
+  "type": "jobicy"
+ },
+ {
+  "company": "Remote OK",
+  "region": "Remote",
+  "type": "remoteok"
+ },
+ {
+  "company": "Remotive",
+  "region": "Remote",
+  "type": "remotive"
+ },
+ {
+  "company": "Himalayas",
+  "region": "Remote",
+  "type": "himalayas"
+ },
+ {
+  "company": "We Work Remotely",
+  "region": "Remote",
+  "type": "wwr"
+ },
+ {
+  "company": "Arbeitnow",
+  "region": "Europe",
+  "type": "arbeitnow"
+ },
+ {
+  "company": "Platsbanken",
+  "region": "Nordics",
+  "type": "platsbanken"
+ },
+ {
+  "company": "MyCareersFuture",
+  "region": "APAC",
+  "type": "mcf"
+ }
+]

@@ -30,13 +30,6 @@
   "url": "https://propertyfinder.teamtailor.com/jobs.rss"
  },
  {
-  "company": "Kitopi",
-  "region": "UAE",
-  "type": "lever",
-  "slug": "kitopi",
-  "eu": false
- },
- {
   "company": "Ziina",
   "region": "UAE",
   "type": "ashby",
@@ -59,12 +52,6 @@
   "region": "UAE",
   "type": "recruitee",
   "slug": "hostaway"
- },
- {
-  "company": "Fresha",
-  "region": "UAE",
-  "type": "teamtailor",
-  "url": "https://www.fresha.com/jobs.rss"
  },
  {
   "company": "Etihad Airways",
@@ -566,13 +553,6 @@
   "slug": "kahoot"
  },
  {
-  "company": "Oda",
-  "region": "Nordics",
-  "type": "lever",
-  "slug": "oda",
-  "eu": false
- },
- {
   "company": "Wolt",
   "region": "Nordics",
   "type": "greenhouse",
@@ -602,13 +582,6 @@
   "region": "Nordics",
   "type": "greenhouse",
   "slug": "aiven"
- },
- {
-  "company": "Swappie",
-  "region": "Nordics",
-  "type": "lever",
-  "slug": "swappie",
-  "eu": false
  },
  {
   "company": "Oura",
@@ -837,12 +810,6 @@
   "slug": "airwallex"
  },
  {
-  "company": "SafetyCulture",
-  "region": "APAC",
-  "type": "ashby",
-  "slug": "safetyculture"
- },
- {
   "company": "Culture Amp",
   "region": "APAC",
   "type": "greenhouse",
@@ -984,13 +951,6 @@
   "region": "APAC",
   "type": "workable",
   "slug": "castlery"
- },
- {
-  "company": "ShopBack",
-  "region": "APAC",
-  "type": "lever",
-  "slug": "shopback",
-  "eu": false
  },
  {
   "company": "Grab",

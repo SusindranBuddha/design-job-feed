@@ -95,18 +95,49 @@ def job(src, title, url, location="", posted=None, jid=None, remote=None, extra=
 
 def f_greenhouse(src):
     slug = src["slug"]
+    try:
+        data = get(f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs").json()
+        return [job(src, j["title"], j["absolute_url"], (j.get("location") or {}).get("name", ""),
+                    j.get("updated_at") or j.get("first_published"), j.get("id"))
+                for j in data.get("jobs", [])]
+    except Exception:  # noqa: BLE001
+        pass
+    # Boards hosted only on the EU/HTML job board: read the public listing pages.
     last = None
-    for host in ("boards-api.greenhouse.io", "boards-api.eu.greenhouse.io"):
+    for host in ("job-boards.eu.greenhouse.io", "job-boards.greenhouse.io"):
         try:
-            data = get(f"https://{host}/v1/boards/{slug}/jobs").json()
-            break
+            return _html_links(src, f"https://{host}/{slug}", rf"https://{re.escape(host)}/{re.escape(slug)}/jobs/(\d+)",
+                               pages=10)
         except Exception as e:  # noqa: BLE001
             last = e
-    else:
-        raise last
-    return [job(src, j["title"], j["absolute_url"], (j.get("location") or {}).get("name", ""),
-                j.get("updated_at") or j.get("first_published"), j.get("id"))
-            for j in data.get("jobs", [])]
+    raise last
+
+
+def _html_links(src, base, pattern, pages=1):
+    """Collect job links + anchor text from a server-rendered listing page."""
+    out, seen = [], set()
+    for page in range(1, pages + 1):
+        url = base if page == 1 else f"{base}?page={page}"
+        r = get(url, headers={"Accept": "text/html"})
+        found = 0
+        for m in re.finditer(r'<a[^>]+href="([^"]+)"[^>]*>(.*?)</a>', r.text, re.S | re.I):
+            href, inner = html.unescape(m.group(1)), m.group(2)
+            if href.startswith("/"):
+                href = re.match(r"https?://[^/]+", base).group(0) + href
+            mm = re.match(pattern, href)
+            if not mm or href in seen:
+                continue
+            seen.add(href)
+            parts = [strip(x) for x in re.split(r"</(?:p|div|span|h\d)>", inner) if strip(x)]
+            title = parts[0] if parts else strip(inner)
+            loc = parts[1] if len(parts) > 1 else ""
+            out.append(job(src, title, href, loc, None, mm.group(1)))
+            found += 1
+        if not found:
+            break
+    if not out:
+        raise RuntimeError("no job links found on listing page")
+    return out
 
 
 def f_lever(src):
@@ -185,15 +216,20 @@ def f_smartrecruiters(src):
 
 
 def f_teamtailor(src):
-    r = get(src["url"])
-    root = ET.fromstring(r.content)
-    out = []
-    for it in root.iter("item"):
-        t = it.findtext("title") or ""
-        link = it.findtext("link") or ""
-        loc = " ".join(e.text or "" for e in it if e.tag.endswith("location") or e.tag.endswith("city"))
-        out.append(job(src, t, link, loc, _rfc822(it.findtext("pubDate")), link))
-    return out
+    try:
+        r = get(src["url"])
+        root = ET.fromstring(r.content)
+        out = []
+        for it in root.iter("item"):
+            link = it.findtext("link") or ""
+            loc = " ".join(e.text or "" for e in it if e.tag.endswith("location") or e.tag.endswith("city"))
+            out.append(job(src, it.findtext("title") or "", link, loc, _rfc822(it.findtext("pubDate")), link))
+        if out:
+            return out
+    except Exception:  # noqa: BLE001
+        pass
+    base = src["url"].rsplit("/", 1)[0] + "/jobs"
+    return _html_links(src, base, r"https?://[^/]+/jobs/(\d+)[-\w]*$")
 
 
 def f_workday(src):
@@ -234,8 +270,11 @@ def f_pinpoint(src):
 
 def f_jobicy(src):
     out = []
-    for tag in ("designer", "product designer", "ux"):
-        data = get("https://jobicy.com/api/v2/remote-jobs", params={"count": 50, "tag": tag}).json()
+    for tag in ("designer", "ux", "design"):
+        try:
+            data = get("https://jobicy.com/api/v2/remote-jobs", params={"count": 50, "tag": tag}).json()
+        except Exception:  # noqa: BLE001
+            continue
         for j in data.get("jobs", []):
             out.append(job(src, j.get("jobTitle"), j.get("url"), j.get("jobGeo", ""), j.get("pubDate"),
                            j.get("id"), "remote", {"company": j.get("companyName", "")}))

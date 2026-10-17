@@ -1,0 +1,28 @@
+name: design-job-feed
+on:
+  schedule:
+    - cron: "20 2,14 * * *"   # 06:20 and 18:20 Dubai
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: feed
+  cancel-in-progress: false
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests==2.32.3
+      - run: python scraper.py
+      - name: Commit feed
+        run: |
+          git config user.name "feed-bot"
+          git config user.email "feed-bot@users.noreply.github.com"
+          git add feed
+          git diff --cached --quiet || git commit -m "feed: $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push

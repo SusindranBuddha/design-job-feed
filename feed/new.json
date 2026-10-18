@@ -1,5 +1,102 @@
 {
-"generated": "2026-10-18T07:15:32Z",
-"count": 0,
-"jobs": []
+"generated": "2026-10-18T17:25:18Z",
+"count": 8,
+"jobs": [
+{
+"id": "arbeitnow:Arbeitnow:designer-im-online-marketing-und-webdesign-stuttgart-304930",
+"company": "TaxIt Consulting GmbH",
+"title": "Designer im Online-Marketing und Webdesign (m/w/d)",
+"location": "Stuttgart",
+"remote": null,
+"posted": "2026-10-18",
+"url": "https://www.arbeitnow.com/jobs/companies/taxit-consulting-gmbh/designer-im-online-marketing-und-webdesign-stuttgart-304930",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "arbeitnow:Arbeitnow:designer-working-student-employer-branding-amsterdam-143378",
+"company": "Teampicnic",
+"title": "Designer Working Student - Employer Branding",
+"location": "Amsterdam",
+"remote": null,
+"posted": "2026-10-18",
+"url": "https://www.arbeitnow.nl/jobs/companies/teampicnic/designer-working-student-employer-branding-amsterdam-143378",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "ashby:clera:9d3d93dc-7efa-42b9-ae3c-bc34513c32df",
+"company": "Clera",
+"title": "Fractional Founding Designer",
+"location": "remote",
+"remote": null,
+"posted": "2026-10-18",
+"url": "https://jobs.ashbyhq.com/clera/9d3d93dc-7efa-42b9-ae3c-bc34513c32df",
+"source": "ashby",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "jobicy:Jobicy:153488",
+"company": "EverAI",
+"title": "Senior Product Designer (Full Remote - Italy)",
+"location": "Italy",
+"remote": "remote",
+"posted": "2026-10-18",
+"url": "https://jobicy.com/jobs/153488-senior-product-designer-full-remote-italy",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "jobicy:Jobicy:153484",
+"company": "EverAI",
+"title": "Senior Product Designer (Full Remote - Germany)",
+"location": "Germany",
+"remote": "remote",
+"posted": "2026-10-18",
+"url": "https://jobicy.com/jobs/153484-senior-product-designer-full-remote-germany",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/alkami-technology-inc/jobs/sr-product-designer-mantl",
+"company": "Alkami Technology, Inc.",
+"title": "Sr Product Designer (MANTL)",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-10-18",
+"url": "https://himalayas.app/companies/alkami-technology-inc/jobs/sr-product-designer-mantl",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/brandcoven/jobs/ui-ux-designer",
+"company": "Brandcoven",
+"title": "UI/UX Designer",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-10-18",
+"url": "https://himalayas.app/companies/brandcoven/jobs/ui-ux-designer",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/freebird/jobs/senior-ux-ui-designer",
+"company": "Freebird",
+"title": "Senior UX/UI Designer",
+"location": "United Kingdom",
+"remote": "remote",
+"posted": "2026-10-18",
+"url": "https://himalayas.app/companies/freebird/jobs/senior-ux-ui-designer",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+}
+]
 }

@@ -1,8 +1,32 @@
 {
-"generated": "2026-10-18T07:15:32Z",
+"generated": "2026-10-18T17:25:18Z",
 "region": "Europe",
-"count": 99,
+"count": 97,
 "jobs": [
+{
+"id": "arbeitnow:Arbeitnow:designer-im-online-marketing-und-webdesign-stuttgart-304930",
+"company": "TaxIt Consulting GmbH",
+"title": "Designer im Online-Marketing und Webdesign (m/w/d)",
+"location": "Stuttgart",
+"remote": null,
+"posted": "2026-10-18",
+"url": "https://www.arbeitnow.com/jobs/companies/taxit-consulting-gmbh/designer-im-online-marketing-und-webdesign-stuttgart-304930",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "arbeitnow:Arbeitnow:designer-working-student-employer-branding-amsterdam-143378",
+"company": "Teampicnic",
+"title": "Designer Working Student - Employer Branding",
+"location": "Amsterdam",
+"remote": null,
+"posted": "2026-10-18",
+"url": "https://www.arbeitnow.nl/jobs/companies/teampicnic/designer-working-student-employer-branding-amsterdam-143378",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-18"
+},
 {
 "id": "arbeitnow:Arbeitnow:ux-designer-rotterdam-346557",
 "company": "Handpicked",
@@ -14,18 +38,6 @@
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-10-18"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-manager-product-design-security-paris-414722",
-"company": "Datadog",
-"title": "Senior Manager, Product Design - Security",
-"location": "Paris",
-"remote": null,
-"posted": "2026-10-17",
-"url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-manager-product-design-security-paris-414722",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-17"
 },
 {
 "id": "arbeitnow:Arbeitnow:senior-product-designer-berlin-70645",
@@ -64,14 +76,14 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4710852101",
-"company": "Moniepoint",
-"title": "Staff Product Designer",
-"location": "Remote, Spain",
+"id": "arbeitnow:Arbeitnow:senior-manager-product-design-security-paris-414722",
+"company": "Datadog",
+"title": "Senior Manager, Product Design - Security",
+"location": "Paris",
 "remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710852101",
-"source": "greenhouse",
+"posted": "2026-10-17",
+"url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-manager-product-design-security-paris-414722",
+"source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-10-17"
 },
@@ -88,6 +100,18 @@
 "firstSeen": "2026-10-17"
 },
 {
+"id": "greenhouse:moniepoint:4710852101",
+"company": "Moniepoint",
+"title": "Staff Product Designer",
+"location": "Remote, Spain",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710852101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
 "id": "greenhouse:moniepoint:4710853101",
 "company": "Moniepoint",
 "title": "Staff Product Designer",
@@ -96,18 +120,6 @@
 "posted": "2026-10-16",
 "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710853101",
 "source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "arbeitnow:Arbeitnow:mechanical-design-engineer-lausanne-153255",
-"company": "Harmattan Ai",
-"title": "Mechanical Design Engineer",
-"location": "Lausanne",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/mechanical-design-engineer-lausanne-153255",
-"source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-10-17"
 },
@@ -136,18 +148,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "arbeitnow:Arbeitnow:senior-creative-designer-paris-france-437940",
-"company": "Brevo",
-"title": "Senior Creative Designer",
-"location": "Paris, France",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://www.arbeitnow.fr/jobs/companies/brevo/senior-creative-designer-paris-france-437940",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "arbeitnow:Arbeitnow:weiterbildung-zum-visual-audio-designer-100-forderbar-berlin-457366",
 "company": "velpTEC GmbH",
 "title": "Weiterbildung zum Visual & Audio Designer (m/w/d) – (100 % förderbar)",
@@ -155,18 +155,6 @@
 "remote": "remote",
 "posted": "2026-10-16",
 "url": "https://www.arbeitnow.com/jobs/companies/velptec-gmbh/weiterbildung-zum-visual-audio-designer-100-forderbar-berlin-457366",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-visual-designer-munich-bavaria-162519",
-"company": "Agilerobotsse",
-"title": "Senior Visual Designer (m/f/d)",
-"location": "Munich, Bavaria",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-visual-designer-munich-bavaria-162519",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -352,13 +340,13 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4987958101",
+"id": "greenhouse:moniepoint:4987960101",
 "company": "Moniepoint",
 "title": "Product Design Manager - Design System",
-"location": "London, United Kingdom",
+"location": "Remote, Spain",
 "remote": null,
 "posted": "2026-10-14",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987958101",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987960101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -376,13 +364,13 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4987960101",
+"id": "greenhouse:moniepoint:4987958101",
 "company": "Moniepoint",
 "title": "Product Design Manager - Design System",
-"location": "Remote, Spain",
+"location": "London, United Kingdom",
 "remote": null,
 "posted": "2026-10-14",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987960101",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987958101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -424,18 +412,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "arbeitnow:Arbeitnow:senior-digital-product-designer-in-store-checkout-villeneuve-dascq-nord-170245",
-"company": "Decathlontechnology",
-"title": "Senior Digital Product Designer - In-Store Checkout (f/m/d)",
-"location": "Villeneuve-d'Ascq, Nord",
-"remote": null,
-"posted": "2026-10-14",
-"url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-digital-product-designer-in-store-checkout-villeneuve-dascq-nord-170245",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:stripe:7977745",
 "company": "Stripe",
 "title": "Designer, Web Presence & Platform",
@@ -460,18 +436,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:getyourguide:8278560",
-"company": "GetYourGuide",
-"title": "Senior Design Systems Manager",
-"location": "Zurich",
-"remote": null,
-"posted": "2026-10-13",
-"url": "https://job-boards.greenhouse.io/getyourguide/jobs/8278560",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:getyourguide:8278320",
 "company": "GetYourGuide",
 "title": "Senior Design Systems Manager",
@@ -479,6 +443,18 @@
 "remote": null,
 "posted": "2026-10-13",
 "url": "https://job-boards.greenhouse.io/getyourguide/jobs/8278320",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:getyourguide:8278560",
+"company": "GetYourGuide",
+"title": "Senior Design Systems Manager",
+"location": "Zurich",
+"remote": null,
+"posted": "2026-10-13",
+"url": "https://job-boards.greenhouse.io/getyourguide/jobs/8278560",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -556,18 +532,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4944263101",
-"company": "Moniepoint",
-"title": "Product Design Manager - UX",
-"location": "Remote, Spain",
-"remote": null,
-"posted": "2026-10-12",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4944263101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:moniepoint:4944264101",
 "company": "Moniepoint",
 "title": "Product Design Manager - UX",
@@ -575,6 +539,18 @@
 "remote": null,
 "posted": "2026-10-12",
 "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4944264101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:moniepoint:4944263101",
+"company": "Moniepoint",
+"title": "Product Design Manager - UX",
+"location": "Remote, Spain",
+"remote": null,
+"posted": "2026-10-12",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4944263101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -760,18 +736,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:tide:7786587003",
-"company": "Tide",
-"title": "Product Design Lead (Payment Services)",
-"location": "Serbia",
-"remote": null,
-"posted": "2026-10-05",
-"url": "https://job-boards.greenhouse.io/tide/jobs/7786587003",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:tide:7788365003",
 "company": "Tide",
 "title": "Product Design Lead (Payment Services)",
@@ -779,6 +743,18 @@
 "remote": null,
 "posted": "2026-10-05",
 "url": "https://job-boards.greenhouse.io/tide/jobs/7788365003",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:tide:7786587003",
+"company": "Tide",
+"title": "Product Design Lead (Payment Services)",
+"location": "Serbia",
+"remote": null,
+"posted": "2026-10-05",
+"url": "https://job-boards.greenhouse.io/tide/jobs/7786587003",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -892,18 +868,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:tide:7731830003",
-"company": "Tide",
-"title": "Senior Product Designer",
-"location": "Bulgaria",
-"remote": null,
-"posted": "2026-09-23",
-"url": "https://job-boards.greenhouse.io/tide/jobs/7731830003",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:tide:7779785003",
 "company": "Tide",
 "title": "Senior Product Designer",
@@ -923,6 +887,18 @@
 "remote": null,
 "posted": "2026-09-23",
 "url": "https://job-boards.greenhouse.io/tide/jobs/7788378003",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:tide:7731830003",
+"company": "Tide",
+"title": "Senior Product Designer",
+"location": "Bulgaria",
+"remote": null,
+"posted": "2026-09-23",
+"url": "https://job-boards.greenhouse.io/tide/jobs/7731830003",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -1012,18 +988,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:intercom:7862038",
-"company": "Intercom",
-"title": "Staff/Principal Product Designer",
-"location": "Dublin, Ireland",
-"remote": null,
-"posted": "2026-09-16",
-"url": "https://job-boards.greenhouse.io/intercom/jobs/7862038",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:intercom:7862042",
 "company": "Intercom",
 "title": "Staff/Principal Product Designer",
@@ -1031,6 +995,18 @@
 "remote": null,
 "posted": "2026-09-16",
 "url": "https://job-boards.greenhouse.io/intercom/jobs/7862042",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:intercom:7862038",
+"company": "Intercom",
+"title": "Staff/Principal Product Designer",
+"location": "Dublin, Ireland",
+"remote": null,
+"posted": "2026-09-16",
+"url": "https://job-boards.greenhouse.io/intercom/jobs/7862038",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"

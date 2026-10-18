@@ -1,7 +1,7 @@
 {
-"generated": "2026-10-18T07:15:32Z",
+"generated": "2026-10-18T17:25:18Z",
 "region": "APAC",
-"count": 99,
+"count": 93,
 "jobs": [
 {
 "id": "greenhouse:agoda:8248603",
@@ -975,84 +975,6 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 3000-4200 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:df816f103935e5d276d3e04a966787b3",
-"company": "DCONSTRUCT PLUS PTE. LTD.",
-"title": "UI/UX Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-09-18",
-"url": "https://www.mycareersfuture.gov.sg/job/design/uiux-designer-dconstruct-plus-df816f103935e5d276d3e04a966787b3",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 5000-7000 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:b3435ce5839dbee7722d63e52b3dbe93",
-"company": "BOWEN LEARNING INTERNATIONAL PTE. LTD.",
-"title": "Senior UI/UX Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-09-18",
-"url": "https://www.mycareersfuture.gov.sg/job/design/senior-uiux-designer-bowen-learning-international-b3435ce5839dbee7722d63e52b3dbe93",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 4000-6500 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:d21f597f09fe291ff6ccb4633480cb34",
-"company": "SCIENTEC CONSULTING PTE. LTD.",
-"title": "UX Designer / GOVT",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-09-18",
-"url": "https://www.mycareersfuture.gov.sg/job/design/ux-designer-govt-scientec-consulting-d21f597f09fe291ff6ccb4633480cb34",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 7000-9500 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:8987fb90f2ca3638a9f0026f0116f49e",
-"company": "SCIENTEC CONSULTING PTE. LTD.",
-"title": "Senior UI/UX Designer (Government Projects)",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-09-18",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-uiux-designer-scientec-consulting-8987fb90f2ca3638a9f0026f0116f49e",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 6000-9000 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:18c4abe68ac166420f6ee32887aaabb3",
-"company": "EASMED ASIA PTE. LTD.",
-"title": "Digital Product Designer (UI/UX) Sleep Segment",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-09-18",
-"url": "https://www.mycareersfuture.gov.sg/job/design/digital-product-designer-sleep-segment-easmed-asia-18c4abe68ac166420f6ee32887aaabb3",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 6000-7500 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:575620d2d50655edc20571de79605f27",
-"company": "BULLIONSTAR PTE. LTD.",
-"title": "UX/UI Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-09-18",
-"url": "https://www.mycareersfuture.gov.sg/job/advertising/uxui-designer-bullionstar-575620d2d50655edc20571de79605f27",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 4000-6000 /Monthly",
 "firstSeen": "2026-10-17"
 },
 {

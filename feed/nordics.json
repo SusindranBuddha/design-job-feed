@@ -1,7 +1,7 @@
 {
-"generated": "2026-10-17T19:01:50Z",
+"generated": "2026-10-18T06:16:31Z",
 "region": "Nordics",
-"count": 54,
+"count": 51,
 "jobs": [
 {
 "id": "greenhouse:smartlyio:6208020004",
@@ -540,42 +540,6 @@
 "posted": "2026-09-17",
 "url": "https://jobs.qred.com/jobs/8397839-senior-ux-designer",
 "source": "teamtailor",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "platsbanken:Platsbanken:31491142",
-"company": "Agile Resources AB",
-"title": "UX Designer Specialist",
-"location": "Göteborg",
-"remote": null,
-"posted": "2026-09-17",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31491142",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "platsbanken:Platsbanken:31488983",
-"company": "Integro Consulting AB",
-"title": "Sr UX Designer – Digital Services",
-"location": "Göteborg",
-"remote": null,
-"posted": "2026-09-17",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31488983",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "platsbanken:Platsbanken:31488811",
-"company": "Integro Consulting AB",
-"title": "Sr UX/UI Designer- Digital Products",
-"location": "Göteborg",
-"remote": null,
-"posted": "2026-09-17",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31488811",
-"source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
 },

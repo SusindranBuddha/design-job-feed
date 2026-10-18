@@ -1,19 +1,19 @@
 {
-"generated": "2026-10-17T19:01:50Z",
+"generated": "2026-10-18T06:16:31Z",
 "region": "Europe",
-"count": 99,
+"count": 98,
 "jobs": [
 {
-"id": "arbeitnow:Arbeitnow:senior-product-designer-berlin-70645",
-"company": "Taktile",
-"title": "Senior Product Designer",
-"location": "Berlin Office",
+"id": "arbeitnow:Arbeitnow:ux-designer-rotterdam-346557",
+"company": "Handpicked",
+"title": "UX Designer",
+"location": "Rotterdam, Zuid-Holland, Nederland",
 "remote": null,
-"posted": "2026-10-17",
-"url": "https://www.arbeitnow.com/jobs/companies/taktile/senior-product-designer-berlin-70645",
+"posted": "2026-10-18",
+"url": "https://www.arbeitnow.nl/jobs/companies/handpicked/ux-designer-rotterdam-346557",
 "source": "Arbeitnow",
 "region": "Europe",
-"firstSeen": "2026-10-17"
+"firstSeen": "2026-10-18"
 },
 {
 "id": "arbeitnow:Arbeitnow:senior-manager-product-design-security-paris-414722",
@@ -23,6 +23,18 @@
 "remote": null,
 "posted": "2026-10-17",
 "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-manager-product-design-security-paris-414722",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-berlin-70645",
+"company": "Taktile",
+"title": "Senior Product Designer",
+"location": "Berlin Office",
+"remote": null,
+"posted": "2026-10-17",
+"url": "https://www.arbeitnow.com/jobs/companies/taktile/senior-product-designer-berlin-70645",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -40,25 +52,13 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "arbeitnow:Arbeitnow:product-designer-london-105391",
-"company": "Creativex",
-"title": "Product Designer",
-"location": "London",
-"remote": null,
-"posted": "2026-10-17",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/creativex/product-designer-london-105391",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:moniepoint:4710853101",
+"id": "greenhouse:moniepoint:4988183101",
 "company": "Moniepoint",
 "title": "Staff Product Designer",
-"location": "Remote, Poland",
+"location": "London, United Kingdom",
 "remote": null,
 "posted": "2026-10-16",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710853101",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4988183101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -76,26 +76,14 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4988183101",
+"id": "greenhouse:moniepoint:4710853101",
 "company": "Moniepoint",
 "title": "Staff Product Designer",
-"location": "London, United Kingdom",
+"location": "Remote, Poland",
 "remote": null,
 "posted": "2026-10-16",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4988183101",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710853101",
 "source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-web-ux-ui-designer-berlin-munich-316297",
-"company": "jetbrains",
-"title": "Senior Web UX/UI Designer",
-"location": "Berlin; Munich",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://www.arbeitnow.com/jobs/companies/jetbrains/senior-web-ux-ui-designer-berlin-munich-316297",
-"source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-10-17"
 },
@@ -124,6 +112,30 @@
 "firstSeen": "2026-10-17"
 },
 {
+"id": "arbeitnow:Arbeitnow:senior-web-ux-ui-designer-berlin-munich-316297",
+"company": "jetbrains",
+"title": "Senior Web UX/UI Designer",
+"location": "Berlin; Munich",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://www.arbeitnow.com/jobs/companies/jetbrains/senior-web-ux-ui-designer-berlin-munich-316297",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-creative-designer-paris-france-437940",
+"company": "Brevo",
+"title": "Senior Creative Designer",
+"location": "Paris, France",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://www.arbeitnow.fr/jobs/companies/brevo/senior-creative-designer-paris-france-437940",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
 "id": "arbeitnow:Arbeitnow:weiterbildung-zum-visual-audio-designer-100-forderbar-berlin-457366",
 "company": "velpTEC GmbH",
 "title": "Weiterbildung zum Visual & Audio Designer (m/w/d) – (100 % förderbar)",
@@ -143,30 +155,6 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-visual-designer-munich-bavaria-162519",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-creative-designer-paris-france-437940",
-"company": "Brevo",
-"title": "Senior Creative Designer",
-"location": "Paris, France",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://www.arbeitnow.fr/jobs/companies/brevo/senior-creative-designer-paris-france-437940",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-digital-design-engineer-fpga-munich-330017",
-"company": "Hypersonica",
-"title": "Senior Digital Design Engineer (FPGA)",
-"location": "Munich",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://www.arbeitnow.com/jobs/companies/hypersonica/senior-digital-design-engineer-fpga-munich-330017",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -352,6 +340,18 @@
 "firstSeen": "2026-10-17"
 },
 {
+"id": "greenhouse:moniepoint:4987960101",
+"company": "Moniepoint",
+"title": "Product Design Manager - Design System",
+"location": "Remote, Spain",
+"remote": null,
+"posted": "2026-10-14",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987960101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
 "id": "greenhouse:moniepoint:4987959101",
 "company": "Moniepoint",
 "title": "Product Design Manager - Design System",
@@ -371,18 +371,6 @@
 "remote": null,
 "posted": "2026-10-14",
 "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987958101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:moniepoint:4987960101",
-"company": "Moniepoint",
-"title": "Product Design Manager - Design System",
-"location": "Remote, Spain",
-"remote": null,
-"posted": "2026-10-14",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987960101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -556,18 +544,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4944263101",
-"company": "Moniepoint",
-"title": "Product Design Manager - UX",
-"location": "Remote, Spain",
-"remote": null,
-"posted": "2026-10-12",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4944263101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:moniepoint:4944264101",
 "company": "Moniepoint",
 "title": "Product Design Manager - UX",
@@ -575,6 +551,18 @@
 "remote": null,
 "posted": "2026-10-12",
 "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4944264101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:moniepoint:4944263101",
+"company": "Moniepoint",
+"title": "Product Design Manager - UX",
+"location": "Remote, Spain",
+"remote": null,
+"posted": "2026-10-12",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4944263101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"

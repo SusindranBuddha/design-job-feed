@@ -1,8 +1,20 @@
 {
-"generated": "2026-10-18T17:25:18Z",
+"generated": "2026-10-19T07:49:45Z",
 "region": "Nordics",
-"count": 51,
+"count": 52,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31611609",
+"company": "SAAB Aktiebolag",
+"title": "UX Designer",
+"location": "Linköping",
+"remote": null,
+"posted": "2026-10-19",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31611609",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-10-19"
+},
 {
 "id": "greenhouse:smartlyio:6208020004",
 "company": "Smartly",

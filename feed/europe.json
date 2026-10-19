@@ -1,8 +1,80 @@
 {
-"generated": "2026-10-18T17:25:18Z",
+"generated": "2026-10-19T07:49:45Z",
 "region": "Europe",
-"count": 97,
+"count": 100,
 "jobs": [
+{
+"id": "arbeitnow:Arbeitnow:mentorin-product-design-ux-ui-bootcamp-cologne-18890",
+"company": "Digitale Leute School",
+"title": "Mentor:in Product Design UX/UI Bootcamp (m/w/d)",
+"location": "Cologne",
+"remote": null,
+"posted": "2026-10-19",
+"url": "https://www.arbeitnow.com/jobs/companies/digitale-leute-school/mentorin-product-design-ux-ui-bootcamp-cologne-18890",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-19"
+},
+{
+"id": "arbeitnow:Arbeitnow:ux-ui-designer-paris-336129",
+"company": "O'CD",
+"title": "UX/UI Designer",
+"location": "Paris",
+"remote": null,
+"posted": "2026-10-18",
+"url": "https://www.arbeitnow.fr/jobs/companies/ocd/ux-ui-designer-paris-336129",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-19"
+},
+{
+"id": "arbeitnow:Arbeitnow:founding-lead-product-designer-paris-215022",
+"company": "Raison",
+"title": "Founding lead Product Designer",
+"location": "Paris",
+"remote": null,
+"posted": "2026-10-18",
+"url": "https://www.arbeitnow.fr/jobs/companies/raison/founding-lead-product-designer-paris-215022",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-19"
+},
+{
+"id": "arbeitnow:Arbeitnow:stage-graphiste-designer-h-f-paris-462979",
+"company": "LACURE GROUP",
+"title": "Stage Graphiste Designer H/F",
+"location": "Paris",
+"remote": null,
+"posted": "2026-10-18",
+"url": "https://www.arbeitnow.fr/jobs/companies/lacure-group/stage-graphiste-designer-h-f-paris-462979",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-19"
+},
+{
+"id": "arbeitnow:Arbeitnow:stage-design-graphique-ux-ui-design-janvier-2027-montreuil-77343",
+"company": "Et Si",
+"title": "Stage Design graphique / UX-UI design - Janvier 2027",
+"location": "Montreuil",
+"remote": null,
+"posted": "2026-10-18",
+"url": "https://www.arbeitnow.fr/jobs/companies/et-si/stage-design-graphique-ux-ui-design-janvier-2027-montreuil-77343",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-19"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-ux-ui-designer-digital-banking-zurich-401903",
+"company": "PROSTAFF Schweiz GmbH",
+"title": "Senior UX/UI Designer – Digital Banking",
+"location": "Zürich",
+"remote": null,
+"posted": "2026-10-18",
+"url": "https://www.arbeitnow.ch/jobs/companies/prostaff-schweiz-gmbh/senior-ux-ui-designer-digital-banking-zurich-401903",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-19"
+},
 {
 "id": "arbeitnow:Arbeitnow:designer-im-online-marketing-und-webdesign-stuttgart-304930",
 "company": "TaxIt Consulting GmbH",
@@ -64,30 +136,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "arbeitnow:Arbeitnow:product-designer-london-105391",
-"company": "Creativex",
-"title": "Product Designer",
-"location": "London",
-"remote": null,
-"posted": "2026-10-17",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/creativex/product-designer-london-105391",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-manager-product-design-security-paris-414722",
-"company": "Datadog",
-"title": "Senior Manager, Product Design - Security",
-"location": "Paris",
-"remote": null,
-"posted": "2026-10-17",
-"url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-manager-product-design-security-paris-414722",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:moniepoint:4988183101",
 "company": "Moniepoint",
 "title": "Staff Product Designer",
@@ -143,18 +191,6 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/senior-web-ux-ui-designer-berlin-munich-316297",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "arbeitnow:Arbeitnow:weiterbildung-zum-visual-audio-designer-100-forderbar-berlin-457366",
-"company": "velpTEC GmbH",
-"title": "Weiterbildung zum Visual & Audio Designer (m/w/d) – (100 % förderbar)",
-"location": "Berlin",
-"remote": "remote",
-"posted": "2026-10-16",
-"url": "https://www.arbeitnow.com/jobs/companies/velptec-gmbh/weiterbildung-zum-visual-audio-designer-100-forderbar-berlin-457366",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -1165,7 +1201,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Instruction-Designer-Sr-Manager_R-798129-2",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 30 Days Ago",
+"postedText": "Posted 30+ Days Ago",
 "firstSeen": "2026-10-17"
 }
 ]

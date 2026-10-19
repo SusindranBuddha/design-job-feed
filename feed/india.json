@@ -1,7 +1,7 @@
 {
-"generated": "2026-10-18T17:25:18Z",
+"generated": "2026-10-19T07:49:45Z",
 "region": "India",
-"count": 16,
+"count": 15,
 "jobs": [
 {
 "id": "greenhouse:razorpaysoftwareprivatelimited:4741222005",
@@ -182,19 +182,6 @@
 "source": "workday",
 "region": "India",
 "postedText": "Posted 30+ Days Ago",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "workday:sprinklr:/job/India---Haryana---Gurgaon/Senior-Manager---Product-Design_113306-JOB",
-"company": "Sprinklr",
-"title": "Senior Manager - Product Design",
-"location": "2 Locations",
-"remote": null,
-"posted": null,
-"url": "https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-Manager---Product-Design_113306-JOB",
-"source": "workday",
-"region": "India",
-"postedText": "Posted 18 Days Ago",
 "firstSeen": "2026-10-17"
 }
 ]

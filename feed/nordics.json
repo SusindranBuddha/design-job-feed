@@ -1,7 +1,7 @@
 {
-"generated": "2026-10-19T07:49:45Z",
+"generated": "2026-10-19T19:58:21Z",
 "region": "Nordics",
-"count": 52,
+"count": 49,
 "jobs": [
 {
 "id": "platsbanken:Platsbanken:31611609",
@@ -172,18 +172,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "platsbanken:Platsbanken:31597986",
-"company": "Sway Sourcing Sweden Aktiebolag",
-"title": "Senior UX Designer – Digitala planeringsverktyg | Malmö",
-"location": "Malmö",
-"remote": null,
-"posted": "2026-10-14",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31597986",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "platsbanken:Platsbanken:31592076",
 "company": "PrimeComp AB",
 "title": "Elkonstruktör / Electrical Design Engineer – Västerås",
@@ -263,30 +251,6 @@
 "remote": null,
 "posted": "2026-10-12",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31585369",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "platsbanken:Platsbanken:31586591",
-"company": "AVL MTC Motortestcenter AB",
-"title": "Electronic Hardware Design Engineer",
-"location": "Göteborg",
-"remote": null,
-"posted": "2026-10-12",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31586591",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "platsbanken:Platsbanken:31585973",
-"company": "Alten Sverige Aktiebolag",
-"title": "System Designer Automotive",
-"location": "Göteborg",
-"remote": null,
-"posted": "2026-10-12",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31585973",
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-17"

@@ -1,8 +1,32 @@
 {
-"generated": "2026-10-20T07:37:39Z",
+"generated": "2026-10-20T18:29:24Z",
 "region": "Remote",
-"count": 150,
+"count": 152,
 "jobs": [
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/humanit-digital-consulting/jobs/senior-product-designer-figma-design-systems-6month-project-portugal-full",
+"company": "HumanIT Digital Consulting",
+"title": "Senior Product Designer (Figma/Design Systems) (6month Project) - Portugal Full",
+"location": "Portugal",
+"remote": "remote",
+"posted": "2026-10-20",
+"url": "https://himalayas.app/companies/humanit-digital-consulting/jobs/senior-product-designer-figma-design-systems-6month-project-portugal-full?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-20"
+},
+{
+"id": "wwr:We Work Remotely:https://weworkremotely.com/remote-jobs/workiva-principal-experience-designer-visual-design-design-systems",
+"company": "Workiva",
+"title": "Principal Experience Designer - Visual Design & Design Systems",
+"location": "Anywhere in the World",
+"remote": "remote",
+"posted": "2026-10-20",
+"url": "https://weworkremotely.com/remote-jobs/workiva-principal-experience-designer-visual-design-design-systems",
+"source": "We Work Remotely",
+"region": "Remote",
+"firstSeen": "2026-10-20"
+},
 {
 "id": "ashby:clera:416379f5-9788-4f6d-9477-dd76766eeac6",
 "company": "Clera",
@@ -62,6 +86,18 @@
 "source": "We Work Remotely",
 "region": "Remote",
 "firstSeen": "2026-10-19"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/remote-office/jobs/senior-ui-ux-designer",
+"company": "Remote Office",
+"title": "Senior UI/UX Designer",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-10-20",
+"url": "https://himalayas.app/companies/remote-office/jobs/senior-ui-ux-designer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
 },
 {
 "id": "ashby:clera:9d3d93dc-7efa-42b9-ae3c-bc34513c32df",
@@ -215,18 +251,6 @@
 "remote": "remote",
 "posted": "2026-10-07",
 "url": "https://himalayas.app/companies/panic-stations/jobs/system-designer-3-month-contract?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/grupo-sysmap/jobs/ux-designer-sr",
-"company": "Grupo SysMap",
-"title": "UX Designer SR",
-"location": "Brazil",
-"remote": "remote",
-"posted": "2026-10-02",
-"url": "https://himalayas.app/companies/grupo-sysmap/jobs/ux-designer-sr?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"
@@ -484,6 +508,42 @@
 "firstSeen": "2026-10-18"
 },
 {
+"id": "greenhouse:clearstreet:8241303",
+"company": "Clear Street",
+"title": "Senior Product Designer — Design Systems",
+"location": "Remote",
+"remote": null,
+"posted": "2026-10-20",
+"url": "https://job-boards.greenhouse.io/clearstreet/jobs/8241303",
+"source": "greenhouse",
+"region": "Remote",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:clearstreet:8241353",
+"company": "Clear Street",
+"title": "Senior Product Designer — Mobile",
+"location": "Remote",
+"remote": null,
+"posted": "2026-10-20",
+"url": "https://job-boards.greenhouse.io/clearstreet/jobs/8241353",
+"source": "greenhouse",
+"region": "Remote",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:clearstreet:8241344",
+"company": "Clear Street",
+"title": "Senior Product Designer — Trading",
+"location": "Remote",
+"remote": null,
+"posted": "2026-10-20",
+"url": "https://job-boards.greenhouse.io/clearstreet/jobs/8241344",
+"source": "greenhouse",
+"region": "Remote",
+"firstSeen": "2026-10-17"
+},
+{
 "id": "ashby:clera:03c65268-81d6-4601-b0f1-c358417a1611",
 "company": "Clera",
 "title": "Founding Product Designer",
@@ -636,30 +696,6 @@
 "posted": "2026-10-13",
 "url": "https://himalayas.app/companies/growe-talents/jobs/ui-ux-designer-igaming?utm_source=api",
 "source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:clearstreet:8241353",
-"company": "Clear Street",
-"title": "Senior Product Designer — Mobile",
-"location": "Remote",
-"remote": null,
-"posted": "2026-10-12",
-"url": "https://job-boards.greenhouse.io/clearstreet/jobs/8241353",
-"source": "greenhouse",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:clearstreet:8241344",
-"company": "Clear Street",
-"title": "Senior Product Designer — Trading",
-"location": "Remote",
-"remote": null,
-"posted": "2026-10-12",
-"url": "https://job-boards.greenhouse.io/clearstreet/jobs/8241344",
-"source": "greenhouse",
 "region": "Remote",
 "firstSeen": "2026-10-17"
 },
@@ -1008,18 +1044,6 @@
 "posted": "2026-10-01",
 "url": "https://weworkremotely.com/remote-jobs/calm-com-senior-product-designer",
 "source": "We Work Remotely",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:clearstreet:8241303",
-"company": "Clear Street",
-"title": "Senior Product Designer — Design Systems",
-"location": "Remote",
-"remote": null,
-"posted": "2026-09-30",
-"url": "https://job-boards.greenhouse.io/clearstreet/jobs/8241303",
-"source": "greenhouse",
 "region": "Remote",
 "firstSeen": "2026-10-17"
 },

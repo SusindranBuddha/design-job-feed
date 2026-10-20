@@ -1,8 +1,32 @@
 {
-"generated": "2026-10-20T07:37:39Z",
+"generated": "2026-10-20T18:29:24Z",
 "region": "Netherlands",
-"count": 12,
+"count": 10,
 "jobs": [
+{
+"id": "greenhouse:adyen:8045285",
+"company": "Adyen",
+"title": "Senior Product Experience Designer",
+"location": "Chicago",
+"remote": null,
+"posted": "2026-10-20",
+"url": "https://job-boards.greenhouse.io/adyen/jobs/8045285",
+"source": "greenhouse",
+"region": "Netherlands",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:catawiki:3418665",
+"company": "Catawiki",
+"title": "Senior UX Designer - Seller Experience",
+"location": "Netherlands (Amsterdam)",
+"remote": null,
+"posted": "2026-10-20",
+"url": "https://job-boards.greenhouse.io/catawiki/jobs/3418665",
+"source": "greenhouse",
+"region": "Netherlands",
+"firstSeen": "2026-10-17"
+},
 {
 "id": "greenhouse:adyen:8214546",
 "company": "Adyen",
@@ -23,30 +47,6 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.greenhouse.io/adyen/jobs/8242349",
-"source": "greenhouse",
-"region": "Netherlands",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:adyen:8045285",
-"company": "Adyen",
-"title": "Senior Product Experience Designer",
-"location": "Chicago",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/adyen/jobs/8045285",
-"source": "greenhouse",
-"region": "Netherlands",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:catawiki:3418665",
-"company": "Catawiki",
-"title": "Senior UX Designer - Seller Experience",
-"location": "Netherlands (Amsterdam)",
-"remote": null,
-"posted": "2026-10-12",
-"url": "https://job-boards.greenhouse.io/catawiki/jobs/3418665",
 "source": "greenhouse",
 "region": "Netherlands",
 "firstSeen": "2026-10-17"
@@ -120,30 +120,6 @@
 "posted": "2026-09-08",
 "url": "https://jobs.ashbyhq.com/lightspeedhq/5b8ef427-872c-4012-a68f-7eb8a7907c43",
 "source": "ashby",
-"region": "Netherlands",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "ashby:rentman:86561042-c8f9-4a2c-9d93-c51ba421e6e7",
-"company": "Rentman",
-"title": "Product Designer",
-"location": "Utrecht",
-"remote": "Hybrid",
-"posted": "2026-08-24",
-"url": "https://jobs.ashbyhq.com/rentman/86561042-c8f9-4a2c-9d93-c51ba421e6e7",
-"source": "ashby",
-"region": "Netherlands",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "lever:tomtom:b93bd63d-e7d1-4f7f-87e2-3ff959cdb10f",
-"company": "TomTom",
-"title": "Senior UX Designer - Map Visualisation",
-"location": "Amsterdam, The Netherlands",
-"remote": "remote",
-"posted": "2026-04-17",
-"url": "https://jobs.eu.lever.co/tomtom/b93bd63d-e7d1-4f7f-87e2-3ff959cdb10f",
-"source": "lever",
 "region": "Netherlands",
 "firstSeen": "2026-10-17"
 }

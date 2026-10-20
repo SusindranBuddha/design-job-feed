@@ -1,8 +1,20 @@
 {
-"generated": "2026-10-20T07:37:39Z",
+"generated": "2026-10-20T18:29:24Z",
 "region": "India",
 "count": 15,
 "jobs": [
+{
+"id": "greenhouse:workatbackbase:8194709",
+"company": "Backbase (India)",
+"title": "Senior UX Designer",
+"location": "Hyderabad",
+"remote": null,
+"posted": "2026-10-20",
+"url": "https://job-boards.greenhouse.io/workatbackbase/jobs/8194709",
+"source": "greenhouse",
+"region": "India",
+"firstSeen": "2026-10-17"
+},
 {
 "id": "greenhouse:razorpaysoftwareprivatelimited:4741222005",
 "company": "Razorpay",
@@ -11,18 +23,6 @@
 "remote": null,
 "posted": "2026-10-12",
 "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4741222005",
-"source": "greenhouse",
-"region": "India",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:workatbackbase:8194709",
-"company": "Backbase (India)",
-"title": "Senior UX Designer",
-"location": "Hyderabad",
-"remote": null,
-"posted": "2026-10-12",
-"url": "https://job-boards.greenhouse.io/workatbackbase/jobs/8194709",
 "source": "greenhouse",
 "region": "India",
 "firstSeen": "2026-10-17"

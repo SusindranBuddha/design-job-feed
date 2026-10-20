@@ -1,7 +1,7 @@
 {
-"generated": "2026-10-19T19:58:21Z",
+"generated": "2026-10-20T07:37:39Z",
 "region": "Remote",
-"count": 152,
+"count": 150,
 "jobs": [
 {
 "id": "ashby:clera:416379f5-9788-4f6d-9477-dd76766eeac6",
@@ -120,18 +120,6 @@
 "posted": "2026-10-18",
 "url": "https://himalayas.app/companies/freebird/jobs/senior-ux-ui-designer?utm_source=api",
 "source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
-"id": "jobicy:Jobicy:153406",
-"company": "Fieldguide",
-"title": "Senior Product Designer",
-"location": "USA",
-"remote": "remote",
-"posted": "2026-10-17",
-"url": "https://jobicy.com/jobs/153406-senior-product-designer-12",
-"source": "Jobicy",
 "region": "Remote",
 "firstSeen": "2026-10-18"
 },
@@ -376,6 +364,18 @@
 "firstSeen": "2026-10-18"
 },
 {
+"id": "himalayas:Himalayas:https://himalayas.app/companies/questronix-corporation/jobs/ui-ux-designer",
+"company": "Questronix Corporation",
+"title": "UI/UX Designer",
+"location": "Philippines",
+"remote": "remote",
+"posted": "2026-09-18",
+"url": "https://himalayas.app/companies/questronix-corporation/jobs/ui-ux-designer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/cribl/jobs/sr-ux-designer-security",
 "company": "Cribl",
 "title": "Sr. UX Designer, Security",
@@ -419,18 +419,6 @@
 "remote": "remote",
 "posted": "2026-09-05",
 "url": "https://himalayas.app/companies/nearsource-technologies/jobs/ux-designer-retail-operational-systems?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/sapsol-technologies-inc/jobs/structural-and-systems-installation-design-engineer",
-"company": "SAPSOL Technologies Inc.",
-"title": "Structural and Systems Installation Design Engineer",
-"location": "Canada",
-"remote": "remote",
-"posted": "2026-09-03",
-"url": "https://himalayas.app/companies/sapsol-technologies-inc/jobs/structural-and-systems-installation-design-engineer?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"
@@ -491,18 +479,6 @@
 "remote": "remote",
 "posted": "2026-08-22",
 "url": "https://himalayas.app/companies/mercor/jobs/design-systems-specialist-fully-remote-upto-80-hr?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/remote-office/jobs/senior-ui-ux-designer",
-"company": "Remote Office",
-"title": "Senior UI/UX Designer",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-08-20",
-"url": "https://himalayas.app/companies/remote-office/jobs/senior-ui-ux-designer?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"

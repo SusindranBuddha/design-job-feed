@@ -1,8 +1,20 @@
 {
-"generated": "2026-10-19T19:58:21Z",
+"generated": "2026-10-20T07:37:39Z",
 "region": "Nordics",
-"count": 49,
+"count": 50,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31617221",
+"company": "Arbetsförmedlingen",
+"title": "Senior UX-designer med kompetens inom tjänstedesign",
+"location": "Solna",
+"remote": null,
+"posted": "2026-10-20",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31617221",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-10-20"
+},
 {
 "id": "platsbanken:Platsbanken:31611609",
 "company": "SAAB Aktiebolag",

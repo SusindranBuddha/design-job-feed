@@ -1,7 +1,7 @@
 {
-"generated": "2026-10-21T07:42:07Z",
+"generated": "2026-10-21T18:40:56Z",
 "region": "India",
-"count": 15,
+"count": 14,
 "jobs": [
 {
 "id": "greenhouse:workatbackbase:8194709",
@@ -35,18 +35,6 @@
 "remote": "remote",
 "posted": "2026-10-07",
 "url": "https://jobs.lever.co/gohighlevel/0ef426a8-6be5-4eb2-b28c-27cc96a18bd2",
-"source": "lever",
-"region": "India",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "lever:gohighlevel:726389ca-785f-4410-a6c1-7aeee6bf6ebe",
-"company": "HighLevel",
-"title": "Sr. Product Designer",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-10-07",
-"url": "https://jobs.lever.co/gohighlevel/726389ca-785f-4410-a6c1-7aeee6bf6ebe",
 "source": "lever",
 "region": "India",
 "firstSeen": "2026-10-17"

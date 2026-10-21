@@ -1,8 +1,44 @@
 {
-"generated": "2026-10-21T07:42:07Z",
+"generated": "2026-10-21T18:40:56Z",
 "region": "Nordics",
-"count": 54,
+"count": 55,
 "jobs": [
+{
+"id": "lever:spotify:f02fb195-ba10-40bd-a926-0318a34a7fae",
+"company": "Spotify",
+"title": "Staff Product Designer - Platform Design",
+"location": "London",
+"remote": "remote",
+"posted": "2026-10-21",
+"url": "https://jobs.lever.co/spotify/f02fb195-ba10-40bd-a926-0318a34a7fae",
+"source": "lever",
+"region": "Nordics",
+"firstSeen": "2026-10-21"
+},
+{
+"id": "platsbanken:Platsbanken:31626858",
+"company": "Kongsberg Maritime Sweden AB",
+"title": "Propeller Blade Designer / Hydrodynamicist",
+"location": "Kristinehamn",
+"remote": null,
+"posted": "2026-10-21",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31626858",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-10-21"
+},
+{
+"id": "platsbanken:Platsbanken:31625284",
+"company": "Green Grit Recruitment AB",
+"title": "Senior UX-designer till heltidsuppdrag i Jönköping",
+"location": "Jönköping",
+"remote": null,
+"posted": "2026-10-21",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31625284",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-10-21"
+},
 {
 "id": "platsbanken:Platsbanken:31621911",
 "company": "21Activa Bemanning & Rekrytering AB",
@@ -232,18 +268,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "platsbanken:Platsbanken:31127629",
-"company": "Kapita Investment Group AB",
-"title": "UX designer - obetald praktik!",
-"location": "Göteborg",
-"remote": null,
-"posted": "2026-10-15",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31127629",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "platsbanken:Platsbanken:31592076",
 "company": "PrimeComp AB",
 "title": "Elkonstruktör / Electrical Design Engineer – Västerås",
@@ -456,18 +480,6 @@
 "posted": "2026-09-25",
 "url": "https://job-boards.greenhouse.io/oura/jobs/4203623009",
 "source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "platsbanken:Platsbanken:31522037",
-"company": "Embark Studios AB",
-"title": "UX Design Consultant",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-09-25",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31522037",
-"source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
 },

@@ -1,8 +1,56 @@
 {
-"generated": "2026-10-20T18:29:24Z",
+"generated": "2026-10-21T07:42:07Z",
 "region": "Europe",
-"count": 104,
+"count": 103,
 "jobs": [
+{
+"id": "arbeitnow:Arbeitnow:product-design-london-182345",
+"company": "Axle Careers",
+"title": "Product Design",
+"location": "London",
+"remote": null,
+"posted": "2026-10-21",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/axle-careers/product-design-london-182345",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-21"
+},
+{
+"id": "arbeitnow:Arbeitnow:graduate-ux-engineer-2027-bristol-457489",
+"company": "Graphcore",
+"title": "Graduate UX Engineer 2027",
+"location": "Bristol",
+"remote": null,
+"posted": "2026-10-20",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/graduate-ux-engineer-2027-bristol-457489",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-21"
+},
+{
+"id": "arbeitnow:Arbeitnow:product-designer-new-grad-london-united-kingdom-215834",
+"company": "Palantir",
+"title": "Product Designer, New Grad",
+"location": "London, United Kingdom",
+"remote": null,
+"posted": "2026-10-20",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/palantir/product-designer-new-grad-london-united-kingdom-215834",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-21"
+},
+{
+"id": "arbeitnow:Arbeitnow:product-designer-london-united-kingdom-200588",
+"company": "Palantir",
+"title": "Product Designer",
+"location": "London, United Kingdom",
+"remote": null,
+"posted": "2026-10-20",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/palantir/product-designer-london-united-kingdom-200588",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-21"
+},
 {
 "id": "greenhouse:raisin:5008476101",
 "company": "Raisin",
@@ -35,30 +83,6 @@
 "remote": null,
 "posted": "2026-10-20",
 "url": "https://www.arbeitnow.com/jobs/companies/kopp-verlag-ek/ux-ui-designer-schwerpunkt-e-commerce-rottenburg-350089",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-20"
-},
-{
-"id": "arbeitnow:Arbeitnow:graduate-ux-engineer-2027-bristol-236762",
-"company": "Graphcore Early Careers",
-"title": "Graduate UX Engineer 2027",
-"location": "Bristol",
-"remote": null,
-"posted": "2026-10-20",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore-early-careers/graduate-ux-engineer-2027-bristol-236762",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-20"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-social-designer-12-month-ftc-london-214735",
-"company": "OLIVER",
-"title": "Senior Social Designer - 12 month FTC",
-"location": "London, London, United Kingdom",
-"remote": null,
-"posted": "2026-10-20",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/oliver/senior-social-designer-12-month-ftc-london-214735",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-10-20"
@@ -112,13 +136,25 @@
 "firstSeen": "2026-10-20"
 },
 {
-"id": "arbeitnow:Arbeitnow:lead-photonics-design-engineer-iii-v-components-oxford-378561",
-"company": "Salience Labs",
-"title": "Lead Photonics Design Engineer - III/V Components",
-"location": "Oxford, United Kingdom",
+"id": "arbeitnow:Arbeitnow:graduate-ux-engineer-2027-bristol-236762",
+"company": "Graphcore Early Careers",
+"title": "Graduate UX Engineer 2027",
+"location": "Bristol",
 "remote": null,
 "posted": "2026-10-20",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/salience-labs/lead-photonics-design-engineer-iii-v-components-oxford-378561",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore-early-careers/graduate-ux-engineer-2027-bristol-236762",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-20"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-social-designer-12-month-ftc-london-214735",
+"company": "OLIVER",
+"title": "Senior Social Designer - 12 month FTC",
+"location": "London, London, United Kingdom",
+"remote": null,
+"posted": "2026-10-20",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/oliver/senior-social-designer-12-month-ftc-london-214735",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-10-20"
@@ -145,7 +181,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Business-Analysis--AVP-1_R-786883",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted Yesterday",
+"postedText": "Posted 2 Days Ago",
 "firstSeen": "2026-10-20"
 },
 {
@@ -168,30 +204,6 @@
 "remote": null,
 "posted": "2026-10-19",
 "url": "https://www.arbeitnow.com/jobs/companies/region10-group-gmbh/full-stack-entwickler-react-nextjs-mit-ui-ux-fokus-kosching-324697",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-19"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-designer-london-441009",
-"company": "Tangible",
-"title": "Senior Designer",
-"location": "London",
-"remote": "remote",
-"posted": "2026-10-19",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/tangible/senior-designer-london-441009",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-19"
-},
-{
-"id": "arbeitnow:Arbeitnow:mentorin-product-design-ux-ui-bootcamp-cologne-18890",
-"company": "Digitale Leute School",
-"title": "Mentor:in Product Design UX/UI Bootcamp (m/w/d)",
-"location": "Cologne",
-"remote": null,
-"posted": "2026-10-19",
-"url": "https://www.arbeitnow.com/jobs/companies/digitale-leute-school/mentorin-product-design-ux-ui-bootcamp-cologne-18890",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-10-19"
@@ -254,7 +266,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Platform-Engineering---Dev-UX--Production-Website---Off_R-799791-1",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted Yesterday",
+"postedText": "Posted 2 Days Ago",
 "firstSeen": "2026-10-19"
 },
 {
@@ -306,6 +318,54 @@
 "firstSeen": "2026-10-17"
 },
 {
+"id": "greenhouse:stripe:8212314",
+"company": "Stripe",
+"title": "Design Engineer, Expansion",
+"location": "US, Canada",
+"remote": null,
+"posted": "2026-10-20",
+"url": "https://stripe.com/jobs/search?gh_jid=8212314",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:stripe:8130913",
+"company": "Stripe",
+"title": "Designer, Web Presence & Platform",
+"location": "US-Remote",
+"remote": null,
+"posted": "2026-10-20",
+"url": "https://stripe.com/jobs/search?gh_jid=8130913",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:stripe:7663023",
+"company": "Stripe",
+"title": "Product Designer, Connect Risk",
+"location": "Canada",
+"remote": null,
+"posted": "2026-10-20",
+"url": "https://stripe.com/jobs/search?gh_jid=7663023",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:stripe:7980578",
+"company": "Stripe",
+"title": "Product Designer - Dashboard",
+"location": "US / Canada",
+"remote": null,
+"posted": "2026-10-20",
+"url": "https://stripe.com/jobs/search?gh_jid=7980578",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
 "id": "greenhouse:stripe:7983076",
 "company": "Stripe",
 "title": "Product Designer, Design Systems",
@@ -313,6 +373,102 @@
 "remote": null,
 "posted": "2026-10-20",
 "url": "https://stripe.com/jobs/search?gh_jid=7983076",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:stripe:7861422",
+"company": "Stripe",
+"title": "Product Designer, Global",
+"location": "Ireland",
+"remote": null,
+"posted": "2026-10-20",
+"url": "https://stripe.com/jobs/search?gh_jid=7861422",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:stripe:8164479",
+"company": "Stripe",
+"title": "Product Designer, Growth",
+"location": "New York, NY",
+"remote": null,
+"posted": "2026-10-20",
+"url": "https://stripe.com/jobs/search?gh_jid=8164479",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:stripe:7954207",
+"company": "Stripe",
+"title": "Product Designer, Internal Tools",
+"location": "US / Canada",
+"remote": null,
+"posted": "2026-10-20",
+"url": "https://stripe.com/jobs/search?gh_jid=7954207",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:stripe:8282390",
+"company": "Stripe",
+"title": "Product Designer, Terminal",
+"location": "US Remote",
+"remote": null,
+"posted": "2026-10-20",
+"url": "https://stripe.com/jobs/search?gh_jid=8282390",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:stripe:8170920",
+"company": "Stripe",
+"title": "Senior Mechanical and Industrial Design Engineer",
+"location": "Taipei,Taiwan",
+"remote": null,
+"posted": "2026-10-20",
+"url": "https://stripe.com/jobs/search?gh_jid=8170920",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:stripe:8268059",
+"company": "Stripe",
+"title": "Staff Product Designer, Checkout",
+"location": "US / Canada",
+"remote": null,
+"posted": "2026-10-20",
+"url": "https://stripe.com/jobs/search?gh_jid=8268059",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:stripe:7202630",
+"company": "Stripe",
+"title": "Staff Product Designer, Link",
+"location": "NYC",
+"remote": null,
+"posted": "2026-10-20",
+"url": "https://stripe.com/jobs/search?gh_jid=7202630",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:stripe:8031782",
+"company": "Stripe",
+"title": "Staff Product Designer, Risk",
+"location": "US Remote",
+"remote": null,
+"posted": "2026-10-20",
+"url": "https://stripe.com/jobs/search?gh_jid=8031782",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -378,18 +534,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4944263101",
-"company": "Moniepoint",
-"title": "Product Design Manager - UX",
-"location": "Remote, Spain",
-"remote": null,
-"posted": "2026-10-19",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4944263101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:moniepoint:4944264101",
 "company": "Moniepoint",
 "title": "Product Design Manager - UX",
@@ -402,13 +546,25 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4710852101",
+"id": "greenhouse:moniepoint:4944263101",
 "company": "Moniepoint",
-"title": "Staff Product Designer",
+"title": "Product Design Manager - UX",
 "location": "Remote, Spain",
 "remote": null,
+"posted": "2026-10-19",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4944263101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:moniepoint:4710853101",
+"company": "Moniepoint",
+"title": "Staff Product Designer",
+"location": "Remote, Poland",
+"remote": null,
 "posted": "2026-10-16",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710852101",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710853101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -426,13 +582,13 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4710853101",
+"id": "greenhouse:moniepoint:4710852101",
 "company": "Moniepoint",
 "title": "Staff Product Designer",
-"location": "Remote, Poland",
+"location": "Remote, Spain",
 "remote": null,
 "posted": "2026-10-16",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710853101",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710852101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -570,18 +726,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:stripe:8282390",
-"company": "Stripe",
-"title": "Product Designer, Terminal",
-"location": "US Remote",
-"remote": null,
-"posted": "2026-10-14",
-"url": "https://stripe.com/jobs/search?gh_jid=8282390",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:moniepoint:4997735101",
 "company": "Moniepoint",
 "title": "Senior Product Designer - Design System",
@@ -606,37 +750,13 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "arbeitnow:Arbeitnow:senior-customer-experience-designer-amsterdam-98992",
-"company": "Optics11",
-"title": "Senior Customer Experience Designer",
-"location": "Amsterdam, Noord-Holland, Netherlands",
-"remote": null,
-"posted": "2026-10-14",
-"url": "https://www.arbeitnow.nl/jobs/companies/optics11/senior-customer-experience-designer-amsterdam-98992",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:stripe:7977745",
-"company": "Stripe",
-"title": "Designer, Web Presence & Platform",
-"location": "US / Cananda",
+"id": "greenhouse:getyourguide:8278560",
+"company": "GetYourGuide",
+"title": "Senior Design Systems Manager",
+"location": "Zurich",
 "remote": null,
 "posted": "2026-10-13",
-"url": "https://stripe.com/jobs/search?gh_jid=7977745",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:stripe:8031782",
-"company": "Stripe",
-"title": "Staff Product Designer, Risk",
-"location": "US Remote",
-"remote": null,
-"posted": "2026-10-13",
-"url": "https://stripe.com/jobs/search?gh_jid=8031782",
+"url": "https://job-boards.greenhouse.io/getyourguide/jobs/8278560",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -649,18 +769,6 @@
 "remote": null,
 "posted": "2026-10-13",
 "url": "https://job-boards.greenhouse.io/getyourguide/jobs/8278320",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:getyourguide:8278560",
-"company": "GetYourGuide",
-"title": "Senior Design Systems Manager",
-"location": "Zurich",
-"remote": null,
-"posted": "2026-10-13",
-"url": "https://job-boards.greenhouse.io/getyourguide/jobs/8278560",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -738,126 +846,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:stripe:7861422",
-"company": "Stripe",
-"title": "Product Designer, Global",
-"location": "Ireland",
-"remote": null,
-"posted": "2026-10-09",
-"url": "https://stripe.com/jobs/search?gh_jid=7861422",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:stripe:8268059",
-"company": "Stripe",
-"title": "Staff Product Designer, Checkout",
-"location": "US / Canada",
-"remote": null,
-"posted": "2026-10-09",
-"url": "https://stripe.com/jobs/search?gh_jid=8268059",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:stripe:8212314",
-"company": "Stripe",
-"title": "Design Engineer, Expansion",
-"location": "US, Canada",
-"remote": null,
-"posted": "2026-10-07",
-"url": "https://stripe.com/jobs/search?gh_jid=8212314",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:stripe:8130913",
-"company": "Stripe",
-"title": "Designer, Web Presence & Platform",
-"location": "US-Remote",
-"remote": null,
-"posted": "2026-10-07",
-"url": "https://stripe.com/jobs/search?gh_jid=8130913",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:stripe:7663023",
-"company": "Stripe",
-"title": "Product Designer, Connect Risk",
-"location": "Canada",
-"remote": null,
-"posted": "2026-10-07",
-"url": "https://stripe.com/jobs/search?gh_jid=7663023",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:stripe:7980578",
-"company": "Stripe",
-"title": "Product Designer - Dashboard",
-"location": "US / Canada",
-"remote": null,
-"posted": "2026-10-07",
-"url": "https://stripe.com/jobs/search?gh_jid=7980578",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:stripe:8164479",
-"company": "Stripe",
-"title": "Product Designer, Growth",
-"location": "New York, NY",
-"remote": null,
-"posted": "2026-10-07",
-"url": "https://stripe.com/jobs/search?gh_jid=8164479",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:stripe:7954207",
-"company": "Stripe",
-"title": "Product Designer, Internal Tools",
-"location": "US / Canada",
-"remote": null,
-"posted": "2026-10-07",
-"url": "https://stripe.com/jobs/search?gh_jid=7954207",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:stripe:8170920",
-"company": "Stripe",
-"title": "Senior Mechanical and Industrial Design Engineer",
-"location": "Taipei,Taiwan",
-"remote": null,
-"posted": "2026-10-07",
-"url": "https://stripe.com/jobs/search?gh_jid=8170920",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:stripe:7202630",
-"company": "Stripe",
-"title": "Staff Product Designer, Link",
-"location": "NYC",
-"remote": null,
-"posted": "2026-10-07",
-"url": "https://stripe.com/jobs/search?gh_jid=7202630",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:deliveroo:8202562",
 "company": "Deliveroo",
 "title": "Staff Product Designer",
@@ -870,13 +858,13 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:tide:7788365003",
+"id": "greenhouse:tide:7788362003",
 "company": "Tide",
 "title": "Product Design Lead (Payment Services)",
-"location": "Lithuania",
+"location": "Bulgaria",
 "remote": null,
 "posted": "2026-10-05",
-"url": "https://job-boards.greenhouse.io/tide/jobs/7788365003",
+"url": "https://job-boards.greenhouse.io/tide/jobs/7788362003",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -894,13 +882,13 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:tide:7788362003",
+"id": "greenhouse:tide:7788365003",
 "company": "Tide",
 "title": "Product Design Lead (Payment Services)",
-"location": "Bulgaria",
+"location": "Lithuania",
 "remote": null,
 "posted": "2026-10-05",
-"url": "https://job-boards.greenhouse.io/tide/jobs/7788362003",
+"url": "https://job-boards.greenhouse.io/tide/jobs/7788365003",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -1134,18 +1122,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:intercom:7862042",
-"company": "Intercom",
-"title": "Staff/Principal Product Designer",
-"location": "London, England",
-"remote": null,
-"posted": "2026-09-16",
-"url": "https://job-boards.greenhouse.io/intercom/jobs/7862042",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:intercom:7862038",
 "company": "Intercom",
 "title": "Staff/Principal Product Designer",
@@ -1153,6 +1129,18 @@
 "remote": null,
 "posted": "2026-09-16",
 "url": "https://job-boards.greenhouse.io/intercom/jobs/7862038",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:intercom:7862042",
+"company": "Intercom",
+"title": "Staff/Principal Product Designer",
+"location": "London, England",
+"remote": null,
+"posted": "2026-09-16",
+"url": "https://job-boards.greenhouse.io/intercom/jobs/7862042",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"

@@ -1,7 +1,7 @@
 {
-"generated": "2026-10-20T18:29:24Z",
+"generated": "2026-10-21T07:42:07Z",
 "region": "Remote",
-"count": 152,
+"count": 149,
 "jobs": [
 {
 "id": "himalayas:Himalayas:https://himalayas.app/companies/humanit-digital-consulting/jobs/senior-product-designer-figma-design-systems-6month-project-portugal-full",
@@ -108,30 +108,6 @@
 "posted": "2026-10-18",
 "url": "https://jobs.ashbyhq.com/clera/9d3d93dc-7efa-42b9-ae3c-bc34513c32df",
 "source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
-"id": "jobicy:Jobicy:153488",
-"company": "EverAI",
-"title": "Senior Product Designer (Full Remote - Italy)",
-"location": "Italy",
-"remote": "remote",
-"posted": "2026-10-18",
-"url": "https://jobicy.com/jobs/153488-senior-product-designer-full-remote-italy",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
-"id": "jobicy:Jobicy:153484",
-"company": "EverAI",
-"title": "Senior Product Designer (Full Remote - Germany)",
-"location": "Germany",
-"remote": "remote",
-"posted": "2026-10-18",
-"url": "https://jobicy.com/jobs/153484-senior-product-designer-full-remote-germany",
-"source": "Jobicy",
 "region": "Remote",
 "firstSeen": "2026-10-18"
 },
@@ -268,6 +244,18 @@
 "firstSeen": "2026-10-18"
 },
 {
+"id": "himalayas:Himalayas:https://himalayas.app/companies/coders-boutique/jobs/ux-ui-designer",
+"company": "Coders Boutique",
+"title": "UX/UI Designer",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-10-02",
+"url": "https://himalayas.app/companies/coders-boutique/jobs/ux-ui-designer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/fabley/jobs/ui-ux-designer",
 "company": "Fabley",
 "title": "UI/UX Designer",
@@ -299,6 +287,18 @@
 "remote": "remote",
 "posted": "2026-09-23",
 "url": "https://himalayas.app/companies/bugece/jobs/ui-ux-designer-1888781552?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/red-stamp-media/jobs/ux-ui-designer-5858537283",
+"company": "Red Stamp Media",
+"title": "UX/UI Designer",
+"location": "Costa Rica",
+"remote": "remote",
+"posted": "2026-09-23",
+"url": "https://himalayas.app/companies/red-stamp-media/jobs/ux-ui-designer-5858537283?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"
@@ -347,18 +347,6 @@
 "remote": "remote",
 "posted": "2026-09-21",
 "url": "https://himalayas.app/companies/jobs-for-humanity/jobs/ux-ui-freelance-designer?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/fabulous/jobs/senior-ui-ux-designer",
-"company": "Fabulous",
-"title": "Senior UI/UX Designer",
-"location": "France",
-"remote": "remote",
-"posted": "2026-09-21",
-"url": "https://himalayas.app/companies/fabulous/jobs/senior-ui-ux-designer?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"
@@ -448,6 +436,18 @@
 "firstSeen": "2026-10-18"
 },
 {
+"id": "himalayas:Himalayas:https://himalayas.app/companies/sapsol-technologies-inc/jobs/structural-and-systems-installation-design-engineer",
+"company": "SAPSOL Technologies Inc.",
+"title": "Structural and Systems Installation Design Engineer",
+"location": "Canada",
+"remote": "remote",
+"posted": "2026-09-03",
+"url": "https://himalayas.app/companies/sapsol-technologies-inc/jobs/structural-and-systems-installation-design-engineer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/aecom/jobs/senior-control-system-designer-data-centers-remote-u-s",
 "company": "AECOM",
 "title": "Senior Control System Designer, Data Centers - Remote (U.S.)",
@@ -467,6 +467,18 @@
 "remote": "remote",
 "posted": "2026-08-30",
 "url": "https://himalayas.app/companies/mercor/jobs/design-systems-specialist-fully-remote-upto-80-hr-9213104843?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/softgames/jobs/senior-game-designer-systems-economy-fully-remote",
+"company": "SOFTGAMES",
+"title": "Senior Game Designer - Systems & Economy - Fully Remote",
+"location": "Worldwide",
+"remote": "remote",
+"posted": "2026-08-30",
+"url": "https://himalayas.app/companies/softgames/jobs/senior-game-designer-systems-economy-fully-remote?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"
@@ -508,6 +520,18 @@
 "firstSeen": "2026-10-18"
 },
 {
+"id": "himalayas:Himalayas:https://himalayas.app/companies/remedy-product-studio/jobs/product-designer-3743879344",
+"company": "Remedy Product Studio",
+"title": "Product Designer",
+"location": "Brazil, Colombia, Costa Rica, Georgia, Poland, Serbia",
+"remote": "remote",
+"posted": "2026-10-21",
+"url": "https://himalayas.app/companies/remedy-product-studio/jobs/product-designer-3743879344?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-17"
+},
+{
 "id": "greenhouse:clearstreet:8241303",
 "company": "Clear Street",
 "title": "Senior Product Designer — Design Systems",
@@ -544,6 +568,54 @@
 "firstSeen": "2026-10-17"
 },
 {
+"id": "greenhouse:vercel:6129441004",
+"company": "Vercel",
+"title": "Design Engineer",
+"location": "Remote - United States",
+"remote": null,
+"posted": "2026-10-20",
+"url": "https://job-boards.greenhouse.io/vercel/jobs/6129441004",
+"source": "greenhouse",
+"region": "Remote",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:vercel:6128387004",
+"company": "Vercel",
+"title": "Presentation Designer",
+"location": "Hybrid - San Francisco, New York City",
+"remote": null,
+"posted": "2026-10-20",
+"url": "https://job-boards.greenhouse.io/vercel/jobs/6128387004",
+"source": "greenhouse",
+"region": "Remote",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:vercel:6160974004",
+"company": "Vercel",
+"title": "Product Designer, Marketplace",
+"location": "Hybrid - San Francisco",
+"remote": null,
+"posted": "2026-10-20",
+"url": "https://job-boards.greenhouse.io/vercel/jobs/6160974004",
+"source": "greenhouse",
+"region": "Remote",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:vercel:6131210004",
+"company": "Vercel",
+"title": "Senior Product Designer, Growth",
+"location": "Hybrid - San Francisco, New York City",
+"remote": null,
+"posted": "2026-10-20",
+"url": "https://job-boards.greenhouse.io/vercel/jobs/6131210004",
+"source": "greenhouse",
+"region": "Remote",
+"firstSeen": "2026-10-17"
+},
+{
 "id": "ashby:clera:03c65268-81d6-4601-b0f1-c358417a1611",
 "company": "Clera",
 "title": "Founding Product Designer",
@@ -564,18 +636,6 @@
 "posted": "2026-10-17",
 "url": "https://jobs.ashbyhq.com/clera/e668bb34-8435-4a77-a3b2-e489e4f8e9bc",
 "source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/remedy-product-studio/jobs/product-designer-3743879344",
-"company": "Remedy Product Studio",
-"title": "Product Designer",
-"location": "Brazil, Colombia, Costa Rica, Georgia, Poland, Serbia",
-"remote": "remote",
-"posted": "2026-10-17",
-"url": "https://himalayas.app/companies/remedy-product-studio/jobs/product-designer-3743879344?utm_source=api",
-"source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-17"
 },
@@ -731,18 +791,6 @@
 "remote": "remote",
 "posted": "2026-10-11",
 "url": "https://himalayas.app/companies/olxgroup/jobs/senior-design-system-designer-822039435?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/twinhealth/jobs/principal-design-system-designer",
-"company": "Twin Health",
-"title": "Principal Design System Designer",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-10-11",
-"url": "https://himalayas.app/companies/twinhealth/jobs/principal-design-system-designer?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-17"
@@ -1048,18 +1096,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:vercel:6128387004",
-"company": "Vercel",
-"title": "Presentation Designer",
-"location": "Hybrid - San Francisco, New York City",
-"remote": null,
-"posted": "2026-09-30",
-"url": "https://job-boards.greenhouse.io/vercel/jobs/6128387004",
-"source": "greenhouse",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/aprende-institute/jobs/ux-designer-lead",
 "company": "Aprende Institute",
 "title": "UX Designer Lead",
@@ -1216,18 +1252,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/fantasy/jobs/freelance-design-lead-design-systems-7732931521",
-"company": "Fantasy",
-"title": "Freelance Design Lead - Design Systems",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-09-25",
-"url": "https://himalayas.app/companies/fantasy/jobs/freelance-design-lead-design-systems-7732931521?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/permitflow/jobs/staff-designer-design-systems-9866080073",
 "company": "PermitFlow",
 "title": "Staff Designer - Design Systems",
@@ -1247,42 +1271,6 @@
 "remote": null,
 "posted": "2026-09-24",
 "url": "https://job-boards.greenhouse.io/consensys/jobs/8202750",
-"source": "greenhouse",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:vercel:6129441004",
-"company": "Vercel",
-"title": "Design Engineer",
-"location": "Remote - United States",
-"remote": null,
-"posted": "2026-09-24",
-"url": "https://job-boards.greenhouse.io/vercel/jobs/6129441004",
-"source": "greenhouse",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:vercel:6160974004",
-"company": "Vercel",
-"title": "Product Designer, Marketplace",
-"location": "Hybrid - San Francisco",
-"remote": null,
-"posted": "2026-09-24",
-"url": "https://job-boards.greenhouse.io/vercel/jobs/6160974004",
-"source": "greenhouse",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:vercel:6131210004",
-"company": "Vercel",
-"title": "Senior Product Designer, Growth",
-"location": "Hybrid - San Francisco, New York City",
-"remote": null,
-"posted": "2026-09-24",
-"url": "https://job-boards.greenhouse.io/vercel/jobs/6131210004",
 "source": "greenhouse",
 "region": "Remote",
 "firstSeen": "2026-10-17"
@@ -1463,18 +1451,6 @@
 "remote": "remote",
 "posted": "2026-09-14",
 "url": "https://himalayas.app/companies/quest-defense-systems-solutions-inc/jobs/senior-mechanical-design-engineer-structures-systems?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/padsplit/jobs/senior-product-designer-fully-remote",
-"company": "PadSplit",
-"title": "Senior Product Designer (Fully Remote)",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-09-13",
-"url": "https://himalayas.app/companies/padsplit/jobs/senior-product-designer-fully-remote?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-17"
@@ -1668,18 +1644,6 @@
 "posted": "2026-08-21",
 "url": "https://careers.tether.io/o/senior-product-designer-wallets-100-remote-worldwide",
 "source": "recruitee",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/robots-pencils/jobs/staff-ux-ui-designer-1202964548",
-"company": "Robots & Pencils",
-"title": "Staff UX/UI Designer",
-"location": "Argentina",
-"remote": "remote",
-"posted": "2026-08-21",
-"url": "https://himalayas.app/companies/robots-pencils/jobs/staff-ux-ui-designer-1202964548?utm_source=api",
-"source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-17"
 },

@@ -1,7 +1,7 @@
 {
-"generated": "2026-10-20T18:29:24Z",
+"generated": "2026-10-21T07:42:07Z",
 "region": "Netherlands",
-"count": 10,
+"count": 9,
 "jobs": [
 {
 "id": "greenhouse:adyen:8045285",
@@ -11,18 +11,6 @@
 "remote": null,
 "posted": "2026-10-20",
 "url": "https://job-boards.greenhouse.io/adyen/jobs/8045285",
-"source": "greenhouse",
-"region": "Netherlands",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:catawiki:3418665",
-"company": "Catawiki",
-"title": "Senior UX Designer - Seller Experience",
-"location": "Netherlands (Amsterdam)",
-"remote": null,
-"posted": "2026-10-20",
-"url": "https://job-boards.greenhouse.io/catawiki/jobs/3418665",
 "source": "greenhouse",
 "region": "Netherlands",
 "firstSeen": "2026-10-17"

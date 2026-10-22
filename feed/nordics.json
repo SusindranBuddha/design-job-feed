@@ -1,7 +1,7 @@
 {
-"generated": "2026-10-21T18:40:56Z",
+"generated": "2026-10-22T07:37:59Z",
 "region": "Nordics",
-"count": 55,
+"count": 54,
 "jobs": [
 {
 "id": "lever:spotify:f02fb195-ba10-40bd-a926-0318a34a7fae",
@@ -540,18 +540,6 @@
 "posted": "2026-09-21",
 "url": "https://jobs.ashbyhq.com/legora/56ab32e6-1212-4f66-886b-5711f20fd3dd",
 "source": "ashby",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "platsbanken:Platsbanken:31499635",
-"company": "Blykalla AB",
-"title": "Core designer",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-09-21",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31499635",
-"source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
 },

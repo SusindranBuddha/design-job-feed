@@ -1,8 +1,80 @@
 {
-"generated": "2026-10-21T18:40:56Z",
+"generated": "2026-10-22T07:37:59Z",
 "region": "Europe",
-"count": 95,
+"count": 97,
 "jobs": [
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-sell-online-berlin-13500",
+"company": "sumup",
+"title": "Senior Product Designer - Sell Online",
+"location": "Berlin",
+"remote": null,
+"posted": "2026-10-22",
+"url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-product-designer-sell-online-berlin-13500",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-22"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-pos-berlin-245487",
+"company": "sumup",
+"title": "Senior Product Designer - POS",
+"location": "Berlin",
+"remote": null,
+"posted": "2026-10-22",
+"url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-product-designer-pos-berlin-245487",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-22"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-social-designer-12-month-ftc-london-298252",
+"company": "oliver",
+"title": "Senior Social Designer - 12 month FTC",
+"location": "London",
+"remote": null,
+"posted": "2026-10-22",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/oliver/senior-social-designer-12-month-ftc-london-298252",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-22"
+},
+{
+"id": "greenhouse:stripe:8304725",
+"company": "Stripe",
+"title": "Product Designer, Risk",
+"location": "US / Canada",
+"remote": null,
+"posted": "2026-10-21",
+"url": "https://stripe.com/jobs/search?gh_jid=8304725",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-22"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-meta-designer-unannouced-project-london-271265",
+"company": "Nmcareers",
+"title": "Senior Meta Designer - Unannouced Project",
+"location": "London",
+"remote": null,
+"posted": "2026-10-21",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/nmcareers/senior-meta-designer-unannouced-project-london-271265",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-22"
+},
+{
+"id": "arbeitnow:Arbeitnow:group-product-design-manager-london-103001",
+"company": "Flagstone",
+"title": "Group Product Design Manager",
+"location": "London Office",
+"remote": null,
+"posted": "2026-10-21",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/flagstone/group-product-design-manager-london-103001",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-22"
+},
 {
 "id": "smartrecruiters:Wise:744000156814169",
 "company": "Wise",
@@ -112,30 +184,6 @@
 "firstSeen": "2026-10-21"
 },
 {
-"id": "arbeitnow:Arbeitnow:product-designer-new-grad-london-united-kingdom-215834",
-"company": "Palantir",
-"title": "Product Designer, New Grad",
-"location": "London, United Kingdom",
-"remote": null,
-"posted": "2026-10-20",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/palantir/product-designer-new-grad-london-united-kingdom-215834",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-21"
-},
-{
-"id": "arbeitnow:Arbeitnow:product-designer-london-united-kingdom-200588",
-"company": "Palantir",
-"title": "Product Designer",
-"location": "London, United Kingdom",
-"remote": null,
-"posted": "2026-10-20",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/palantir/product-designer-london-united-kingdom-200588",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-21"
-},
-{
 "id": "greenhouse:raisin:5008476101",
 "company": "Raisin",
 "title": "Digital Designer",
@@ -172,18 +220,6 @@
 "firstSeen": "2026-10-20"
 },
 {
-"id": "arbeitnow:Arbeitnow:trading-card-produkt-designer-dortmund-266930",
-"company": "Ultimate Dropz GmbH",
-"title": "Trading Card & Produkt Designer",
-"location": "Dortmund",
-"remote": null,
-"posted": "2026-10-20",
-"url": "https://www.arbeitnow.com/jobs/companies/ultimate-dropz-gmbh/trading-card-produkt-designer-dortmund-266930",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-20"
-},
-{
 "id": "greenhouse:okta:8145887",
 "company": "Okta (Spain)",
 "title": "Staff Product Designer – UI Platform",
@@ -205,20 +241,8 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Business-Analysis--AVP-1_R-786883",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 2 Days Ago",
+"postedText": "Posted 3 Days Ago",
 "firstSeen": "2026-10-20"
-},
-{
-"id": "arbeitnow:Arbeitnow:ux-ui-designer-paris-336129",
-"company": "O'CD",
-"title": "UX/UI Designer",
-"location": "Paris",
-"remote": null,
-"posted": "2026-10-18",
-"url": "https://www.arbeitnow.fr/jobs/companies/ocd/ux-ui-designer-paris-336129",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-19"
 },
 {
 "id": "workday:statestreet:/job/Hangzhou-China/Platform-Engineering---Dev-UX--Production-Website---Off_R-799791-1",
@@ -230,7 +254,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Platform-Engineering---Dev-UX--Production-Website---Off_R-799791-1",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 2 Days Ago",
+"postedText": "Posted 3 Days Ago",
 "firstSeen": "2026-10-19"
 },
 {
@@ -433,6 +457,18 @@
 "remote": null,
 "posted": "2026-10-21",
 "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8202562",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:okta:8137889",
+"company": "Okta (Spain)",
+"title": "Staff Product Designer, Login and MFA (Auth0)",
+"location": "Toronto, Ontario, Canada",
+"remote": null,
+"posted": "2026-10-21",
+"url": "https://www.okta.com/company/careers/opportunity/8137889?gh_jid=8137889",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -918,18 +954,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:tide:7779785003",
-"company": "Tide",
-"title": "Senior Product Designer",
-"location": "Serbia",
-"remote": null,
-"posted": "2026-09-23",
-"url": "https://job-boards.greenhouse.io/tide/jobs/7779785003",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:tide:7788378003",
 "company": "Tide",
 "title": "Senior Product Designer",
@@ -949,6 +973,18 @@
 "remote": null,
 "posted": "2026-09-23",
 "url": "https://job-boards.greenhouse.io/tide/jobs/7731830003",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:tide:7779785003",
+"company": "Tide",
+"title": "Senior Product Designer",
+"location": "Serbia",
+"remote": null,
+"posted": "2026-09-23",
+"url": "https://job-boards.greenhouse.io/tide/jobs/7779785003",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -985,18 +1021,6 @@
 "remote": null,
 "posted": "2026-09-21",
 "url": "https://www.okta.com/company/careers/opportunity/8078764?gh_jid=8078764",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:okta:8137889",
-"company": "Okta (Spain)",
-"title": "Staff Product Designer, Login and MFA (Auth0)",
-"location": "Toronto, Ontario, Canada",
-"remote": null,
-"posted": "2026-09-21",
-"url": "https://www.okta.com/company/careers/opportunity/8137889?gh_jid=8137889",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"

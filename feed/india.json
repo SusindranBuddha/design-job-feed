@@ -1,8 +1,20 @@
 {
-"generated": "2026-10-22T07:37:59Z",
+"generated": "2026-10-22T18:34:47Z",
 "region": "India",
-"count": 14,
+"count": 11,
 "jobs": [
+{
+"id": "greenhouse:razorpaysoftwareprivatelimited:4745511005",
+"company": "Razorpay",
+"title": "Senior Product Designer (AI Builder)",
+"location": "Bengaluru",
+"remote": null,
+"posted": "2026-10-22",
+"url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4745511005",
+"source": "greenhouse",
+"region": "India",
+"firstSeen": "2026-10-22"
+},
 {
 "id": "greenhouse:workatbackbase:8194709",
 "company": "Backbase (India)",
@@ -35,30 +47,6 @@
 "remote": "remote",
 "posted": "2026-10-07",
 "url": "https://jobs.lever.co/gohighlevel/0ef426a8-6be5-4eb2-b28c-27cc96a18bd2",
-"source": "lever",
-"region": "India",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "lever:mindtickle:729831a1-3b5d-42b1-8fae-de4ee21a1dc4",
-"company": "Mindtickle",
-"title": "Lead Product Designer",
-"location": "Bengaluru, Karnataka",
-"remote": "onsite",
-"posted": "2026-10-06",
-"url": "https://jobs.lever.co/mindtickle/729831a1-3b5d-42b1-8fae-de4ee21a1dc4",
-"source": "lever",
-"region": "India",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "lever:mindtickle:d22d1e61-9a11-4e19-ae78-2f170efbb0c2",
-"company": "Mindtickle",
-"title": "Senior Product Designer",
-"location": "Bengaluru, Karnataka",
-"remote": "onsite",
-"posted": "2026-10-06",
-"url": "https://jobs.lever.co/mindtickle/d22d1e61-9a11-4e19-ae78-2f170efbb0c2",
 "source": "lever",
 "region": "India",
 "firstSeen": "2026-10-17"
@@ -100,18 +88,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "lever:meesho:e03deae3-a5f2-428d-b2f3-3c275f8c433b",
-"company": "Meesho",
-"title": "Senior Manager - User Experience : F&E",
-"location": "Bangalore, Karnataka",
-"remote": "onsite",
-"posted": "2026-08-17",
-"url": "https://jobs.lever.co/meesho/e03deae3-a5f2-428d-b2f3-3c275f8c433b",
-"source": "lever",
-"region": "India",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "lever:gohighlevel:4eac1849-29f4-4556-95fa-db283607c936",
 "company": "HighLevel",
 "title": "Lead Product Designer",
@@ -143,18 +119,6 @@
 "remote": "remote",
 "posted": "2026-07-06",
 "url": "https://jobs.lever.co/gohighlevel/4cddff29-aa63-4762-a550-bbc8db614d68",
-"source": "lever",
-"region": "India",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "lever:mindtickle:a2bc1371-eade-465a-a017-46c746742baa",
-"company": "Mindtickle",
-"title": "Lead Design Engineer",
-"location": "Pune, Maharashtra",
-"remote": "onsite",
-"posted": "2026-04-17",
-"url": "https://jobs.lever.co/mindtickle/a2bc1371-eade-465a-a017-46c746742baa",
 "source": "lever",
 "region": "India",
 "firstSeen": "2026-10-17"

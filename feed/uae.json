@@ -1,8 +1,20 @@
 {
-"generated": "2026-10-22T07:37:59Z",
+"generated": "2026-10-22T18:34:47Z",
 "region": "UAE",
-"count": 13,
+"count": 14,
 "jobs": [
+{
+"id": "smartrecruiters:DeliveryHero:744000157056529",
+"company": "talabat",
+"title": "Senior Product Design Manager",
+"location": "Riyadh, sa",
+"remote": null,
+"posted": "2026-10-22",
+"url": "https://jobs.smartrecruiters.com/DeliveryHero/744000157056529",
+"source": "smartrecruiters",
+"region": "UAE",
+"firstSeen": "2026-10-22"
+},
 {
 "id": "smartrecruiters:DeliveryHero:744000156036369",
 "company": "talabat",

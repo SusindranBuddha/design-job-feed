@@ -1,8 +1,80 @@
 {
-"generated": "2026-10-22T07:37:59Z",
+"generated": "2026-10-22T18:34:47Z",
 "region": "Remote",
-"count": 175,
+"count": 178,
 "jobs": [
+{
+"id": "ashby:clera:bbd25abe-138a-414f-83dc-69882668b73b",
+"company": "Clera",
+"title": "Senior Product Designer",
+"location": "Berlin",
+"remote": "OnSite",
+"posted": "2026-10-22",
+"url": "https://jobs.ashbyhq.com/clera/bbd25abe-138a-414f-83dc-69882668b73b",
+"source": "ashby",
+"region": "Remote",
+"firstSeen": "2026-10-22"
+},
+{
+"id": "lever:contentsquare:af15ce6a-4685-47b8-9143-9b0d829bc053",
+"company": "Contentsquare (incl. Hotjar)",
+"title": "Staff Product Designer, AI",
+"location": "Pittsburgh, Pennsylvania",
+"remote": "remote",
+"posted": "2026-10-22",
+"url": "https://jobs.lever.co/contentsquare/af15ce6a-4685-47b8-9143-9b0d829bc053",
+"source": "lever",
+"region": "Remote",
+"firstSeen": "2026-10-22"
+},
+{
+"id": "jobicy:Jobicy:156358",
+"company": "AlphaSense",
+"title": "Senior/Staff Product Designer",
+"location": "UK",
+"remote": "remote",
+"posted": "2026-10-22",
+"url": "https://jobicy.com/jobs/156358-senior-staff-product-designer",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-22"
+},
+{
+"id": "jobicy:Jobicy:153803",
+"company": "EverAI",
+"title": "Senior Product Designer (Full Remote - UK)",
+"location": "UK",
+"remote": "remote",
+"posted": "2026-10-22",
+"url": "https://jobicy.com/jobs/153803-senior-product-designer-full-remote-uk",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-22"
+},
+{
+"id": "jobicy:Jobicy:153798",
+"company": "EverAI",
+"title": "Senior Product Designer (Full Remote - Netherlands)",
+"location": "Netherlands",
+"remote": "remote",
+"posted": "2026-10-22",
+"url": "https://jobicy.com/jobs/153798-senior-product-designer-full-remote-netherlands",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-22"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/lemon-io/jobs/senior-ui-ux-designer",
+"company": "lemon.io",
+"title": "Senior UI & UX Designer",
+"location": "Albania, Andorra, Argentina, Australia, Austria, Belgium, Belize, Bolivia, Bosnia and Herzegovina, Brazil, Bulgaria, Canada, Chile, Costa Rica, Croatia, Cyprus,",
+"remote": "remote",
+"posted": "2026-10-22",
+"url": "https://himalayas.app/companies/lemon-io/jobs/senior-ui-ux-designer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-22"
+},
 {
 "id": "himalayas:Himalayas:https://himalayas.app/companies/mlabs/jobs/product-designer",
 "company": "MLabs",
@@ -264,18 +336,6 @@
 "posted": "2026-10-19",
 "url": "https://jobs.ashbyhq.com/clera/6abd3a58-ae96-4436-b87c-a4fb078a86a7",
 "source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-10-19"
-},
-{
-"id": "jobicy:Jobicy:153554",
-"company": "WorkWave",
-"title": "Product Designer",
-"location": "UK",
-"remote": "remote",
-"posted": "2026-10-19",
-"url": "https://jobicy.com/jobs/153554-product-designer-2",
-"source": "Jobicy",
 "region": "Remote",
 "firstSeen": "2026-10-19"
 },
@@ -1072,18 +1132,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "ashby:clera:df7216cb-a846-448f-ad6e-14d0bd1cf10a",
-"company": "Clera",
-"title": "Founding Product Designer",
-"location": "San Francisco",
-"remote": "OnSite",
-"posted": "2026-10-15",
-"url": "https://jobs.ashbyhq.com/clera/df7216cb-a846-448f-ad6e-14d0bd1cf10a",
-"source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/games-factory-talents/jobs/lead-product-designer",
 "company": "Games Factory Talents",
 "title": "Lead Product Designer",
@@ -1412,7 +1460,7 @@
 "company": "Contentsquare (incl. Hotjar)",
 "title": "Staff Product Designer, AI",
 "location": "Raleigh, North Carolina",
-"remote": "hybrid",
+"remote": "remote",
 "posted": "2026-10-01",
 "url": "https://jobs.lever.co/contentsquare/5234af0a-e23e-4543-9f9f-a37b8d7e64d8",
 "source": "lever",
@@ -1932,18 +1980,6 @@
 "posted": "2026-08-27",
 "url": "https://remoteOK.com/remote-jobs/remote-senior-level-designer-blackbird-interactive-1137156",
 "source": "Remote OK",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/high-voltage-software/jobs/technical-ui-ux-designer",
-"company": "High Voltage Software",
-"title": "Technical UI/UX Designer",
-"location": "Mexico",
-"remote": "remote",
-"posted": "2026-08-23",
-"url": "https://himalayas.app/companies/high-voltage-software/jobs/technical-ui-ux-designer?utm_source=api",
-"source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-17"
 },

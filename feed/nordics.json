@@ -1,8 +1,44 @@
 {
-"generated": "2026-10-22T07:37:59Z",
+"generated": "2026-10-22T18:34:47Z",
 "region": "Nordics",
-"count": 54,
+"count": 55,
 "jobs": [
+{
+"id": "greenhouse:relex:8039875003",
+"company": "RELEX",
+"title": "Lead Product Designer | Platform Engineering",
+"location": "Helsinki, Finland",
+"remote": null,
+"posted": "2026-10-22",
+"url": "https://www.relexsolutions.com/careers/jobs/?gh_jid=8039875003",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-22"
+},
+{
+"id": "platsbanken:Platsbanken:31633725",
+"company": "Sway Sourcing Sweden Aktiebolag",
+"title": "Senior UX/UI Designer– Gävle",
+"location": "Gävle",
+"remote": null,
+"posted": "2026-10-22",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31633725",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-10-22"
+},
+{
+"id": "platsbanken:Platsbanken:31632814",
+"company": "Knightec Group Hardware and Design AB",
+"title": "UX/UI-designer med fokus på UI och visuell design",
+"location": "Göteborg",
+"remote": null,
+"posted": "2026-10-22",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31632814",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-10-22"
+},
 {
 "id": "lever:spotify:f02fb195-ba10-40bd-a926-0318a34a7fae",
 "company": "Spotify",
@@ -59,18 +95,6 @@
 "remote": null,
 "posted": "2026-10-20",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31621230",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-20"
-},
-{
-"id": "platsbanken:Platsbanken:31621920",
-"company": "Soros Consulting AB",
-"title": "UX-designer Energi",
-"location": "Jönköping",
-"remote": null,
-"posted": "2026-10-20",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31621920",
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-20"
@@ -172,18 +196,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:alphasense:8531119002",
-"company": "AlphaSense",
-"title": "Senior/Staff Product Designer",
-"location": "Remote - United Kingdom",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:alphasense:8530664002",
 "company": "AlphaSense",
 "title": "Senior/Staff Product Designer",
@@ -191,6 +203,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:alphasense:8531119002",
+"company": "AlphaSense",
+"title": "Senior/Staff Product Designer",
+"location": "Remote - United Kingdom",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
@@ -240,18 +264,6 @@
 "posted": "2026-10-15",
 "url": "https://job-boards.greenhouse.io/oura/jobs/4452942009",
 "source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "platsbanken:Platsbanken:31603588",
-"company": "Brightcore AB",
-"title": "Senior UX Designer / Product Designer (AI & Digital Experience)",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-10-15",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31603588",
-"source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
 },

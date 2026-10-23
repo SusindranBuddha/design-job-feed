@@ -1,7 +1,7 @@
 {
-"generated": "2026-10-22T18:34:47Z",
+"generated": "2026-10-23T07:36:15Z",
 "region": "APAC",
-"count": 89,
+"count": 90,
 "jobs": [
 {
 "id": "mcf:MyCareersFuture:535bde1f15b4a66fd61fe97a10e51593",
@@ -170,6 +170,19 @@
 "region": "APAC",
 "salary": "SGD 5000-7000 /Monthly",
 "firstSeen": "2026-10-19"
+},
+{
+"id": "mcf:MyCareersFuture:2d9c4fe659a094f7415c5262592e64f0",
+"company": "HERDHR PRIVATE LIMITED",
+"title": "UX Designer (Experience Team)",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-10-23",
+"url": "https://www.mycareersfuture.gov.sg/job/design/ux-designer-herdhr-2d9c4fe659a094f7415c5262592e64f0",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 3000-4200 /Monthly",
+"firstSeen": "2026-10-17"
 },
 {
 "id": "greenhouse:xendit:7846781003",
@@ -1095,7 +1108,7 @@
 "url": "https://cba.wd3.myworkdayjobs.com/CommBank_Careers/job/Sydney-CBD-Area/Senior-Product-Designer_REQ267047",
 "source": "workday",
 "region": "APAC",
-"postedText": "Posted 6 Days Ago",
+"postedText": "Posted 7 Days Ago",
 "firstSeen": "2026-10-17"
 },
 {
@@ -1108,7 +1121,7 @@
 "url": "https://hcf.wd105.myworkdayjobs.com/HCF_External_Career_Site/job/Sydney-CBD/Senior-Digital-Product-Designer_JR104415",
 "source": "workday",
 "region": "APAC",
-"postedText": "Posted 21 Days Ago",
+"postedText": "Posted 22 Days Ago",
 "firstSeen": "2026-10-17"
 },
 {
@@ -1121,7 +1134,7 @@
 "url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/VP--Team-Lead--Product-Designer--Group-Design--Consumer-Banking-Group_WD83058-1",
 "source": "workday",
 "region": "APAC",
-"postedText": "Posted 28 Days Ago",
+"postedText": "Posted 29 Days Ago",
 "firstSeen": "2026-10-17"
 },
 {

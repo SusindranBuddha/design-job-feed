@@ -1,8 +1,32 @@
 {
-"generated": "2026-10-22T18:34:47Z",
+"generated": "2026-10-23T07:36:15Z",
 "region": "Nordics",
-"count": 55,
+"count": 54,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31634241",
+"company": "SAAB Aktiebolag",
+"title": "Systemingenjör inom UX-Design",
+"location": "Solna",
+"remote": null,
+"posted": "2026-10-22",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31634241",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-10-23"
+},
+{
+"id": "platsbanken:Platsbanken:31634239",
+"company": "SAAB Aktiebolag",
+"title": "Systemingenjör inom UX-Design",
+"location": "Solna",
+"remote": null,
+"posted": "2026-10-22",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31634239",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-10-23"
+},
 {
 "id": "greenhouse:relex:8039875003",
 "company": "RELEX",
@@ -59,18 +83,6 @@
 "remote": null,
 "posted": "2026-10-21",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31626858",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-21"
-},
-{
-"id": "platsbanken:Platsbanken:31625284",
-"company": "Green Grit Recruitment AB",
-"title": "Senior UX-designer till heltidsuppdrag i Jönköping",
-"location": "Jönköping",
-"remote": null,
-"posted": "2026-10-21",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31625284",
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-21"
@@ -503,30 +515,6 @@
 "remote": null,
 "posted": "2026-09-23",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31512343",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "platsbanken:Platsbanken:31508242",
-"company": "Klarna Bank AB",
-"title": "Senior Designer",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-09-22",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31508242",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "platsbanken:Platsbanken:31503979",
-"company": "Agile Resources AB",
-"title": "UX Designer inom Infotainment",
-"location": "Göteborg",
-"remote": null,
-"posted": "2026-09-22",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31503979",
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-17"

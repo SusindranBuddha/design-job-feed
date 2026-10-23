@@ -1,8 +1,32 @@
 {
-"generated": "2026-10-22T18:34:47Z",
+"generated": "2026-10-23T07:36:15Z",
 "region": "UAE",
-"count": 14,
+"count": 15,
 "jobs": [
+{
+"id": "teamtailor:Property Finder:https://propertyfinder.teamtailor.com/jobs/8593872-senior-product-designer",
+"company": "Property Finder",
+"title": "Senior Product Designer",
+"location": "",
+"remote": null,
+"posted": "2026-10-23",
+"url": "https://propertyfinder.teamtailor.com/jobs/8593872-senior-product-designer",
+"source": "teamtailor",
+"region": "UAE",
+"firstSeen": "2026-10-23"
+},
+{
+"id": "smartrecruiters:EtihadAirways5:744000157397725",
+"company": "Etihad Airways",
+"title": "UX/UI Designer",
+"location": "Abu Dhabi, ae",
+"remote": null,
+"posted": "2026-10-23",
+"url": "https://jobs.smartrecruiters.com/EtihadAirways5/744000157397725",
+"source": "smartrecruiters",
+"region": "UAE",
+"firstSeen": "2026-10-23"
+},
 {
 "id": "smartrecruiters:DeliveryHero:744000157056529",
 "company": "talabat",
@@ -23,18 +47,6 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000156036369",
-"source": "smartrecruiters",
-"region": "UAE",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "smartrecruiters:EtihadAirways5:744000155481112",
-"company": "Etihad Airways",
-"title": "UX/UI Designer",
-"location": "Abu Dhabi, ae",
-"remote": null,
-"posted": "2026-10-14",
-"url": "https://jobs.smartrecruiters.com/EtihadAirways5/744000155481112",
 "source": "smartrecruiters",
 "region": "UAE",
 "firstSeen": "2026-10-17"

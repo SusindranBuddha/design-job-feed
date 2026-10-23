@@ -1,8 +1,56 @@
 {
-"generated": "2026-10-22T18:34:47Z",
+"generated": "2026-10-23T07:36:15Z",
 "region": "Europe",
-"count": 101,
+"count": 102,
 "jobs": [
+{
+"id": "arbeitnow:Arbeitnow:senior-meta-designer-unannouced-project-london-52084",
+"company": "Zyngacareers",
+"title": "Senior Meta Designer - Unannouced Project",
+"location": "London",
+"remote": null,
+"posted": "2026-10-22",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/zyngacareers/senior-meta-designer-unannouced-project-london-52084",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-23"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-store-layout-villeneuve-dascq-nord-188085",
+"company": "Junior Data Scientist - Downstream Demand Forecast - Value Chain ...",
+"title": "Senior Product Designer - Store layout (f/m/d)",
+"location": "Villeneuve-d'Ascq, Nord",
+"remote": null,
+"posted": "2026-10-22",
+"url": "https://www.arbeitnow.fr/jobs/companies/junior-data-scientist-downstream-demand-forecast-value-chain/senior-product-designer-store-layout-villeneuve-dascq-nord-188085",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-23"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-full-remote-uk-united-kingdom-242298",
+"company": "EverAI",
+"title": "Senior Product Designer (Full Remote - UK)",
+"location": "United Kingdom",
+"remote": null,
+"posted": "2026-10-22",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/everai/senior-product-designer-full-remote-uk-united-kingdom-242298",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-23"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-design-systems-designer-london-35547",
+"company": "Perk",
+"title": "Senior Design Systems Designer",
+"location": "London",
+"remote": null,
+"posted": "2026-10-22",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/perk/senior-design-systems-designer-london-35547",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-23"
+},
 {
 "id": "greenhouse:n26:8211088",
 "company": "N26",
@@ -16,18 +64,6 @@
 "firstSeen": "2026-10-22"
 },
 {
-"id": "greenhouse:bitpanda:5013167101",
-"company": "Bitpanda",
-"title": "Senior Product Designer, Web3",
-"location": "Barcelona, Spain",
-"remote": null,
-"posted": "2026-10-22",
-"url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5013167101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-22"
-},
-{
 "id": "greenhouse:bitpanda:5009825101",
 "company": "Bitpanda",
 "title": "Senior Product Designer, Web3",
@@ -35,6 +71,18 @@
 "remote": null,
 "posted": "2026-10-22",
 "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5009825101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-22"
+},
+{
+"id": "greenhouse:bitpanda:5013167101",
+"company": "Bitpanda",
+"title": "Senior Product Designer, Web3",
+"location": "Barcelona, Spain",
+"remote": null,
+"posted": "2026-10-22",
+"url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5013167101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-22"
@@ -64,9 +112,21 @@
 "firstSeen": "2026-10-22"
 },
 {
+"id": "arbeitnow:Arbeitnow:freelancer-ux-ui-designer-design-engineer-amsterdam-487401",
+"company": "Creative Clicks B.V.",
+"title": "Freelancer UX/UI Designer (Design Engineer)",
+"location": "Amsterdam, Noord-Holland, Netherlands",
+"remote": null,
+"posted": "2026-10-22",
+"url": "https://www.arbeitnow.nl/jobs/companies/creative-clicks-bv/freelancer-ux-ui-designer-design-engineer-amsterdam-487401",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-22"
+},
+{
 "id": "arbeitnow:Arbeitnow:digital-designer-munich-34926",
 "company": "Moby Digg GmbH",
-"title": "Digital Designer (f/m/d)",
+"title": "Digital Designer (m/w/d)",
 "location": "Munich",
 "remote": null,
 "posted": "2026-10-22",
@@ -78,23 +138,11 @@
 {
 "id": "arbeitnow:Arbeitnow:performance-creative-designer-munich-172795",
 "company": "Moby Digg GmbH",
-"title": "Performance Creative Designer (f/m/d)",
+"title": "Performance Creative Designer (m/w/d)",
 "location": "Munich",
 "remote": null,
 "posted": "2026-10-22",
 "url": "https://www.arbeitnow.com/jobs/companies/moby-digg-gmbh/performance-creative-designer-munich-172795",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-22"
-},
-{
-"id": "arbeitnow:Arbeitnow:freelancer-ux-ui-designer-design-engineer-amsterdam-487401",
-"company": "Creative Clicks B.V.",
-"title": "Freelancer UX/UI Designer (Design Engineer)",
-"location": "Amsterdam, Noord-Holland, Netherlands",
-"remote": null,
-"posted": "2026-10-22",
-"url": "https://www.arbeitnow.nl/jobs/companies/creative-clicks-bv/freelancer-ux-ui-designer-design-engineer-amsterdam-487401",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-10-22"
@@ -179,30 +227,6 @@
 "remote": "remote",
 "posted": "2026-10-22",
 "url": "https://www.arbeitnow.nl/jobs/companies/mlabs/remote-product-designer-netherlands-77442",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-22"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-meta-designer-unannouced-project-london-271265",
-"company": "Nmcareers",
-"title": "Senior Meta Designer - Unannouced Project",
-"location": "London",
-"remote": null,
-"posted": "2026-10-21",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/nmcareers/senior-meta-designer-unannouced-project-london-271265",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-22"
-},
-{
-"id": "arbeitnow:Arbeitnow:group-product-design-manager-london-103001",
-"company": "Flagstone",
-"title": "Group Product Design Manager",
-"location": "London Office",
-"remote": null,
-"posted": "2026-10-21",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/flagstone/group-product-design-manager-london-103001",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-10-22"
@@ -325,7 +349,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Business-Analysis--AVP-1_R-786883",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 3 Days Ago",
+"postedText": "Posted 4 Days Ago",
 "firstSeen": "2026-10-20"
 },
 {
@@ -338,7 +362,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Platform-Engineering---Dev-UX--Production-Website---Off_R-799791-1",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 3 Days Ago",
+"postedText": "Posted 4 Days Ago",
 "firstSeen": "2026-10-19"
 },
 {
@@ -618,18 +642,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4944264101",
-"company": "Moniepoint",
-"title": "Product Design Manager - UX",
-"location": "Remote, Poland",
-"remote": null,
-"posted": "2026-10-19",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4944264101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:moniepoint:4944263101",
 "company": "Moniepoint",
 "title": "Product Design Manager - UX",
@@ -637,6 +649,18 @@
 "remote": null,
 "posted": "2026-10-19",
 "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4944263101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:moniepoint:4944264101",
+"company": "Moniepoint",
+"title": "Product Design Manager - UX",
+"location": "Remote, Poland",
+"remote": null,
+"posted": "2026-10-19",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4944264101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -654,18 +678,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4710853101",
-"company": "Moniepoint",
-"title": "Staff Product Designer",
-"location": "Remote, Poland",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710853101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:moniepoint:4710852101",
 "company": "Moniepoint",
 "title": "Staff Product Designer",
@@ -673,6 +685,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710852101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:moniepoint:4710853101",
+"company": "Moniepoint",
+"title": "Staff Product Designer",
+"location": "Remote, Poland",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710853101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -769,18 +793,6 @@
 "remote": null,
 "posted": "2026-10-15",
 "url": "https://www.okta.com/company/careers/opportunity/8281894?gh_jid=8281894",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:moniepoint:4997735101",
-"company": "Moniepoint",
-"title": "Senior Product Designer - Design System",
-"location": "Remote, Nigeria",
-"remote": null,
-"posted": "2026-10-14",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4997735101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -1002,18 +1014,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:tide:7731830003",
-"company": "Tide",
-"title": "Senior Product Designer",
-"location": "Bulgaria",
-"remote": null,
-"posted": "2026-09-23",
-"url": "https://job-boards.greenhouse.io/tide/jobs/7731830003",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:tide:7788378003",
 "company": "Tide",
 "title": "Senior Product Designer",
@@ -1021,6 +1021,18 @@
 "remote": null,
 "posted": "2026-09-23",
 "url": "https://job-boards.greenhouse.io/tide/jobs/7788378003",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:tide:7731830003",
+"company": "Tide",
+"title": "Senior Product Designer",
+"location": "Bulgaria",
+"remote": null,
+"posted": "2026-09-23",
+"url": "https://job-boards.greenhouse.io/tide/jobs/7731830003",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"

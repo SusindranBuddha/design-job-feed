@@ -1,8 +1,73 @@
 {
-"generated": "2026-10-23T07:36:15Z",
+"generated": "2026-10-23T18:23:49Z",
 "region": "APAC",
 "count": 90,
 "jobs": [
+{
+"id": "mcf:MyCareersFuture:25e88a7ec52c5c62a0849460df40984f",
+"company": "NSEARCH GLOBAL PTE. LTD.",
+"title": "Senior Product Designer (UI/UX)",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-10-23",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-product-designer-nsearch-global-25e88a7ec52c5c62a0849460df40984f",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 9000-12000 /Monthly",
+"firstSeen": "2026-10-23"
+},
+{
+"id": "mcf:MyCareersFuture:7d80a99fbca0ebfd2c04b35e81914c89",
+"company": "OPTIMUM SOLUTIONS (SINGAPORE) PTE LTD",
+"title": "UI/UX Product Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-10-23",
+"url": "https://www.mycareersfuture.gov.sg/job/design/uiux-product-designer-optimum-solutions-7d80a99fbca0ebfd2c04b35e81914c89",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 8500-10000 /Monthly",
+"firstSeen": "2026-10-23"
+},
+{
+"id": "mcf:MyCareersFuture:3b7da20dccb989154b4c33de1b7d7025",
+"company": "RAPSYS TECHNOLOGIES PTE. LTD.",
+"title": "Senior Product Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-10-23",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-product-designer-rapsys-technologies-3b7da20dccb989154b4c33de1b7d7025",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 7000-8000 /Monthly",
+"firstSeen": "2026-10-23"
+},
+{
+"id": "mcf:MyCareersFuture:ebdb5be4273dfe68a50ebc1ee26c41b4",
+"company": "ES RECRUITMENT PTE. LTD.",
+"title": "UX/UI Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-10-23",
+"url": "https://www.mycareersfuture.gov.sg/job/design/uxui-designer-es-recruitment-ebdb5be4273dfe68a50ebc1ee26c41b4",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 6000-7100 /Monthly",
+"firstSeen": "2026-10-23"
+},
+{
+"id": "mcf:MyCareersFuture:bcae68ea164fe197d051fd95a59cc993",
+"company": "SCIENTEC CONSULTING PTE. LTD.",
+"title": "*GOV* UIUX Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-10-23",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/gov-uiux-designer-scientec-consulting-bcae68ea164fe197d051fd95a59cc993",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 6500-9000 /Monthly",
+"firstSeen": "2026-10-23"
+},
 {
 "id": "mcf:MyCareersFuture:535bde1f15b4a66fd61fe97a10e51593",
 "company": "MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD",
@@ -120,32 +185,6 @@
 "firstSeen": "2026-10-19"
 },
 {
-"id": "mcf:MyCareersFuture:ceca63f18512f8e6bdde5ae310a94863",
-"company": "ARGYLL SCOTT CONSULTING PTE. LTD.",
-"title": "Product Designer (IT)",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-19",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/product-designer-argyll-scott-consulting-ceca63f18512f8e6bdde5ae310a94863",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 8000-12500 /Monthly",
-"firstSeen": "2026-10-19"
-},
-{
-"id": "mcf:MyCareersFuture:a96c7df32d159710494cba20cbe743cb",
-"company": "KAROOOOO MANAGEMENT COMPANY PTE. LTD.",
-"title": "Senior Product Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-19",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-product-designer-karooooo-management-company-a96c7df32d159710494cba20cbe743cb",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 5000-10000 /Monthly",
-"firstSeen": "2026-10-19"
-},
-{
 "id": "mcf:MyCareersFuture:7c2800f5061217d64d41d01fd478ac06",
 "company": "DCONSTRUCT PLUS PTE. LTD.",
 "title": "UI/UX Designer",
@@ -169,6 +208,19 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 5000-7000 /Monthly",
+"firstSeen": "2026-10-19"
+},
+{
+"id": "mcf:MyCareersFuture:a96c7df32d159710494cba20cbe743cb",
+"company": "KAROOOOO MANAGEMENT COMPANY PTE. LTD.",
+"title": "Senior Product Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-10-19",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-product-designer-karooooo-management-company-a96c7df32d159710494cba20cbe743cb",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 5000-10000 /Monthly",
 "firstSeen": "2026-10-19"
 },
 {
@@ -731,19 +783,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "mcf:MyCareersFuture:3d9e10db7f8afecf3d04b2ff6ce7066a",
-"company": "ELLIOTT MOSS CONSULTING PTE. LTD.",
-"title": "Senior UX Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-02",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-ux-designer-elliott-moss-consulting-3d9e10db7f8afecf3d04b2ff6ce7066a",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 7500-9200 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "mcf:MyCareersFuture:a16b8a8ec3a021e8ebe0669e673dc227",
 "company": "BRUNEL INTERNATIONAL SOUTH EAST ASIA PTE. LTD.",
 "title": "Senior Experience Designer (UX)",
@@ -949,45 +988,6 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 5000-6500 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:0a25d6f929c5fb6c3c0b3a784c1081a0",
-"company": "DEX DIGITAL TECHNOLOGIES PTE. LTD.",
-"title": "UX/UI Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-09-24",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/uxui-designer-dex-digital-technologies-0a25d6f929c5fb6c3c0b3a784c1081a0",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 6000-7000 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:afc06c0b4a8cafdd1eee67f4d4f85445",
-"company": "OPTIMUM SOLUTIONS (SINGAPORE) PTE LTD",
-"title": "UX Designer, Information Technology (contract role)",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-09-23",
-"url": "https://www.mycareersfuture.gov.sg/job/design/ux-designer-information-technology-optimum-solutions-afc06c0b4a8cafdd1eee67f4d4f85445",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 8500-10000 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:af684eef8445a7ad8bdbe2afaaaf2ae6",
-"company": "SALT TALENT SEARCH PTE. LTD.",
-"title": "UX Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-09-23",
-"url": "https://www.mycareersfuture.gov.sg/job/design/ux-designer-salt-talent-search-af684eef8445a7ad8bdbe2afaaaf2ae6",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 8000-10000 /Monthly",
 "firstSeen": "2026-10-17"
 },
 {

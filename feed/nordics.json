@@ -1,8 +1,68 @@
 {
-"generated": "2026-10-23T07:36:15Z",
+"generated": "2026-10-23T18:23:49Z",
 "region": "Nordics",
 "count": 54,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31640061",
+"company": "Nexer AB",
+"title": "UX Designer (mobil) | Göteborg | Nexer Maverick",
+"location": "Göteborg",
+"remote": null,
+"posted": "2026-10-23",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31640061",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-10-23"
+},
+{
+"id": "platsbanken:Platsbanken:31636537",
+"company": "Curamet AB",
+"title": "Senior UX/UI Designer",
+"location": "Malmö",
+"remote": null,
+"posted": "2026-10-23",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31636537",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-10-23"
+},
+{
+"id": "platsbanken:Platsbanken:31636620",
+"company": "Embark Studios AB",
+"title": "UX Artist - ARC Raiders",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-10-23",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31636620",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-10-23"
+},
+{
+"id": "platsbanken:Platsbanken:31636518",
+"company": "Kriminalvården",
+"title": "UX designer inriktning designsystem",
+"location": "Norrköping",
+"remote": null,
+"posted": "2026-10-23",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31636518",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-10-23"
+},
+{
+"id": "platsbanken:Platsbanken:31638194",
+"company": "Volvo Business Services Aktiebolag",
+"title": "Volvo Group Graduate Program 2027 - Design Engineer for Wheel End Parts",
+"location": "Göteborg",
+"remote": null,
+"posted": "2026-10-23",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31638194",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-10-23"
+},
 {
 "id": "platsbanken:Platsbanken:31634241",
 "company": "SAAB Aktiebolag",
@@ -33,7 +93,7 @@
 "title": "Lead Product Designer | Platform Engineering",
 "location": "Helsinki, Finland",
 "remote": null,
-"posted": "2026-10-22",
+"posted": "2026-10-23",
 "url": "https://www.relexsolutions.com/careers/jobs/?gh_jid=8039875003",
 "source": "greenhouse",
 "region": "Nordics",
@@ -208,18 +268,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:alphasense:8530664002",
-"company": "AlphaSense",
-"title": "Senior/Staff Product Designer",
-"location": "New York, New York, United States; Remote - United States",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:alphasense:8531119002",
 "company": "AlphaSense",
 "title": "Senior/Staff Product Designer",
@@ -232,25 +280,13 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:alphasense:8516322002",
+"id": "greenhouse:alphasense:8530664002",
 "company": "AlphaSense",
-"title": "Staff/Senior Product Designer, Mobile",
-"location": "Remote - United Kingdom",
+"title": "Senior/Staff Product Designer",
+"location": "New York, New York, United States; Remote - United States",
 "remote": null,
 "posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/alphasense/jobs/8516322002",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:alphasense:8322118002",
-"company": "AlphaSense",
-"title": "Staff/Senior Product Designer, Mobile",
-"location": "Helsinki, Uusimaa, Finland",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/alphasense/jobs/8322118002",
+"url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
@@ -312,18 +348,6 @@
 "posted": "2026-10-13",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31588655",
 "source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "teamtailor:DFDS:https://dfdsdenmark.teamtailor.com/jobs/8529880-product-designer",
-"company": "DFDS",
-"title": "Product Designer",
-"location": "",
-"remote": null,
-"posted": "2026-10-12",
-"url": "https://dfdsdenmark.teamtailor.com/jobs/8529880-product-designer",
-"source": "teamtailor",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
 },
@@ -444,18 +468,6 @@
 "posted": "2026-09-30",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31535871",
 "source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "teamtailor:Lunar:https://jobs.lunar.app/jobs/8469749-senior-product-designer",
-"company": "Lunar",
-"title": "Senior Product Designer",
-"location": "",
-"remote": null,
-"posted": "2026-09-29",
-"url": "https://jobs.lunar.app/jobs/8469749-senior-product-designer",
-"source": "teamtailor",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
 },
@@ -611,18 +623,6 @@
 "remote": null,
 "posted": "2026-08-20",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31377280",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "platsbanken:Platsbanken:31345730",
-"company": "Nexer AB",
-"title": "Senior/Lead UX/CX Designer i Göteborg",
-"location": "Göteborg",
-"remote": null,
-"posted": "2026-08-12",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31345730",
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-17"

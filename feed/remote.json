@@ -1,8 +1,92 @@
 {
-"generated": "2026-10-23T07:36:15Z",
+"generated": "2026-10-23T18:23:49Z",
 "region": "Remote",
-"count": 153,
+"count": 157,
 "jobs": [
+{
+"id": "ashby:duck-duck-go:776bd1c8-81aa-4719-8238-ba357e1f5271",
+"company": "DuckDuckGo",
+"title": "Senior Product Designer",
+"location": "Remote; Japan (Remote); Slovakia (Remote); Spain (Remote); Czechia (Remote); Switzerland (Remote); Estonia (Remote); Singapore (Remote); Mexico (Remote); Portug",
+"remote": "Remote",
+"posted": "2026-10-23",
+"url": "https://jobs.ashbyhq.com/duck-duck-go/776bd1c8-81aa-4719-8238-ba357e1f5271",
+"source": "ashby",
+"region": "Remote",
+"firstSeen": "2026-10-23"
+},
+{
+"id": "ashby:clera:c4862ea6-b0a3-4e6a-8e74-5380ba724593",
+"company": "Clera",
+"title": "Founding Product Designer",
+"location": "San Francisco",
+"remote": "OnSite",
+"posted": "2026-10-23",
+"url": "https://jobs.ashbyhq.com/clera/c4862ea6-b0a3-4e6a-8e74-5380ba724593",
+"source": "ashby",
+"region": "Remote",
+"firstSeen": "2026-10-23"
+},
+{
+"id": "jobicy:Jobicy:156555",
+"company": "TrustedHousesitters",
+"title": "Senior Product Designer - Growth",
+"location": "UK",
+"remote": "remote",
+"posted": "2026-10-23",
+"url": "https://jobicy.com/jobs/156555-senior-product-designer-growth",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-23"
+},
+{
+"id": "jobicy:Jobicy:156510",
+"company": "Monzo",
+"title": "Lead Product Designer, Growth",
+"location": "UK",
+"remote": "remote",
+"posted": "2026-10-23",
+"url": "https://jobicy.com/jobs/156510-lead-product-designer-growth",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-23"
+},
+{
+"id": "jobicy:Jobicy:156508",
+"company": "Monzo",
+"title": "Lead Product Designer",
+"location": "UK",
+"remote": "remote",
+"posted": "2026-10-23",
+"url": "https://jobicy.com/jobs/156508-lead-product-designer",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-23"
+},
+{
+"id": "jobicy:Jobicy:156503",
+"company": "Nextiva",
+"title": "Senior Product Designer",
+"location": "USA",
+"remote": "remote",
+"posted": "2026-10-23",
+"url": "https://jobicy.com/jobs/156503-senior-product-designer-16",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-23"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/wearekettle/jobs/product-design-lead-ai",
+"company": "Kettle",
+"title": "Product Design Lead, AI",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-10-23",
+"url": "https://himalayas.app/companies/wearekettle/jobs/product-design-lead-ai?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-23"
+},
 {
 "id": "ashby:clera:bbd25abe-138a-414f-83dc-69882668b73b",
 "company": "Clera",
@@ -299,18 +383,6 @@
 "remote": "remote",
 "posted": "2026-10-17",
 "url": "https://himalayas.app/companies/pavago/jobs/product-designer-ux-ui-design-systems-4218924047?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/discoveryeducation/jobs/design-systems-lead",
-"company": "Discovery Education",
-"title": "Design Systems Lead",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-10-17",
-"url": "https://himalayas.app/companies/discoveryeducation/jobs/design-systems-lead?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"
@@ -676,18 +748,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/remedy-product-studio/jobs/product-designer-3743879344",
-"company": "Remedy Product Studio",
-"title": "Product Designer",
-"location": "Brazil, Colombia, Costa Rica, Georgia, Poland, Serbia",
-"remote": "remote",
-"posted": "2026-10-21",
-"url": "https://himalayas.app/companies/remedy-product-studio/jobs/product-designer-3743879344?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/robots-pencils/jobs/staff-ux-ui-designer-1202964548",
 "company": "Robots & Pencils",
 "title": "Staff UX/UI Designer",
@@ -768,18 +828,6 @@
 "posted": "2026-10-20",
 "url": "https://job-boards.greenhouse.io/vercel/jobs/6160974004",
 "source": "greenhouse",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "ashby:clera:03c65268-81d6-4601-b0f1-c358417a1611",
-"company": "Clera",
-"title": "Founding Product Designer",
-"location": "Berlin",
-"remote": "OnSite",
-"posted": "2026-10-17",
-"url": "https://jobs.ashbyhq.com/clera/03c65268-81d6-4601-b0f1-c358417a1611",
-"source": "ashby",
 "region": "Remote",
 "firstSeen": "2026-10-17"
 },

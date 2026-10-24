@@ -1,7 +1,7 @@
 {
-"generated": "2026-10-23T18:23:49Z",
+"generated": "2026-10-24T07:20:03Z",
 "region": "APAC",
-"count": 90,
+"count": 87,
 "jobs": [
 {
 "id": "mcf:MyCareersFuture:25e88a7ec52c5c62a0849460df40984f",
@@ -1099,19 +1099,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "workday:cba:/job/Sydney-CBD-Area/Senior-Product-Designer_REQ267047",
-"company": "Commonwealth Bank",
-"title": "Senior Product Designer",
-"location": "Sydney CBD Area",
-"remote": null,
-"posted": null,
-"url": "https://cba.wd3.myworkdayjobs.com/CommBank_Careers/job/Sydney-CBD-Area/Senior-Product-Designer_REQ267047",
-"source": "workday",
-"region": "APAC",
-"postedText": "Posted 7 Days Ago",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "workday:hcf:/job/Sydney-CBD/Senior-Digital-Product-Designer_JR104415",
 "company": "HCF",
 "title": "Senior Digital Product Designer",
@@ -1121,33 +1108,7 @@
 "url": "https://hcf.wd105.myworkdayjobs.com/HCF_External_Career_Site/job/Sydney-CBD/Senior-Digital-Product-Designer_JR104415",
 "source": "workday",
 "region": "APAC",
-"postedText": "Posted 22 Days Ago",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "workday:dbs:/job/Singapore---Central/VP--Team-Lead--Product-Designer--Group-Design--Consumer-Banking-Group_WD83058-1",
-"company": "DBS",
-"title": "Senior Associate, Product Designer for IBG Employee Experience, Group Design, Consumer Banking Group",
-"location": "Singapore - Central",
-"remote": null,
-"posted": null,
-"url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/VP--Team-Lead--Product-Designer--Group-Design--Consumer-Banking-Group_WD83058-1",
-"source": "workday",
-"region": "APAC",
-"postedText": "Posted 29 Days Ago",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "workday:dbs:/job/Singapore---Central/AVP--Product-Designer--Group-Design--Consumer-Banking-Group_WD88415",
-"company": "DBS",
-"title": "AVP, Product Designer, Group Design, Consumer Banking Group",
-"location": "Singapore - Central",
-"remote": null,
-"posted": null,
-"url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/AVP--Product-Designer--Group-Design--Consumer-Banking-Group_WD88415",
-"source": "workday",
-"region": "APAC",
-"postedText": "Posted 30+ Days Ago",
+"postedText": "Posted 23 Days Ago",
 "firstSeen": "2026-10-17"
 }
 ]

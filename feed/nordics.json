@@ -1,7 +1,7 @@
 {
-"generated": "2026-10-23T18:23:49Z",
+"generated": "2026-10-24T07:20:03Z",
 "region": "Nordics",
-"count": 54,
+"count": 53,
 "jobs": [
 {
 "id": "platsbanken:Platsbanken:31640061",
@@ -419,18 +419,6 @@
 "remote": null,
 "posted": "2026-10-07",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31565483",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "platsbanken:Platsbanken:31551564",
-"company": "Lendo AB",
-"title": "Lead Product Designer",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-10-05",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31551564",
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-17"

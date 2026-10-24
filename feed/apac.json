@@ -1,8 +1,21 @@
 {
-"generated": "2026-10-24T07:20:03Z",
+"generated": "2026-10-24T17:29:00Z",
 "region": "APAC",
-"count": 87,
+"count": 88,
 "jobs": [
+{
+"id": "mcf:MyCareersFuture:30e240fe43348379dcac1fdf6396f183",
+"company": "ISERIOUS PTE. LTD.",
+"title": "UI/UX Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-10-24",
+"url": "https://www.mycareersfuture.gov.sg/job/design/uiux-designer-iserious-30e240fe43348379dcac1fdf6396f183",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 3000-4800 /Monthly",
+"firstSeen": "2026-10-24"
+},
 {
 "id": "mcf:MyCareersFuture:25e88a7ec52c5c62a0849460df40984f",
 "company": "NSEARCH GLOBAL PTE. LTD.",
@@ -576,19 +589,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "mcf:MyCareersFuture:79b3b936d435e919a008d52cf968444b",
-"company": "PERSOL SINGAPORE PTE. LTD.",
-"title": "UI/UX Engineer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-10",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/uiux-engineer-persol-singapore-79b3b936d435e919a008d52cf968444b",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 7000-10000 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "mcf:MyCareersFuture:0f027e57f0313119d1f962d4ef9ba347",
 "company": "WE ARE WIREFRAME PRIVATE LIMITED",
 "title": "UI/UX Designer",
@@ -978,19 +978,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "mcf:MyCareersFuture:f3a0d8712f6aa7572457f15758d226ec",
-"company": "XCELLINK PTE. LTD.",
-"title": "UI/UX Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-09-24",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/uiux-designer-xcellink-f3a0d8712f6aa7572457f15758d226ec",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 5000-6500 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:pay2dc:4309564006",
 "company": "PayPay",
 "title": "04.Product Designer(UX/UI)",
@@ -1109,6 +1096,32 @@
 "source": "workday",
 "region": "APAC",
 "postedText": "Posted 23 Days Ago",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "workday:dbs:/job/Singapore---Central/VP--Team-Lead--Product-Designer--Group-Design--Consumer-Banking-Group_WD83058-1",
+"company": "DBS",
+"title": "Senior Associate, Product Designer for IBG Employee Experience, Group Design, Consumer Banking Group",
+"location": "Singapore - Central",
+"remote": null,
+"posted": null,
+"url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/VP--Team-Lead--Product-Designer--Group-Design--Consumer-Banking-Group_WD83058-1",
+"source": "workday",
+"region": "APAC",
+"postedText": "Posted 30 Days Ago",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "workday:dbs:/job/Singapore---Central/AVP--Product-Designer--Group-Design--Consumer-Banking-Group_WD88415",
+"company": "DBS",
+"title": "AVP, Product Designer, Group Design, Consumer Banking Group",
+"location": "Singapore - Central",
+"remote": null,
+"posted": null,
+"url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/AVP--Product-Designer--Group-Design--Consumer-Banking-Group_WD88415",
+"source": "workday",
+"region": "APAC",
+"postedText": "Posted 30+ Days Ago",
 "firstSeen": "2026-10-17"
 }
 ]

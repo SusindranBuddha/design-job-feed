@@ -1,7 +1,7 @@
 {
-"generated": "2026-10-24T07:20:03Z",
+"generated": "2026-10-24T17:29:00Z",
 "region": "India",
-"count": 14,
+"count": 15,
 "jobs": [
 {
 "id": "greenhouse:razorpaysoftwareprivatelimited:4745511005",
@@ -169,6 +169,19 @@
 "url": "https://jobs.lever.co/mindtickle/a2bc1371-eade-465a-a017-46c746742baa",
 "source": "lever",
 "region": "India",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "workday:sprinklr:/job/India---Haryana---Gurgaon/Lead-Product-Designer_113299-JOB",
+"company": "Sprinklr",
+"title": "Lead Product Designer",
+"location": "India - Haryana - Gurgaon",
+"remote": null,
+"posted": null,
+"url": "https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Lead-Product-Designer_113299-JOB",
+"source": "workday",
+"region": "India",
+"postedText": "Posted 30+ Days Ago",
 "firstSeen": "2026-10-17"
 }
 ]

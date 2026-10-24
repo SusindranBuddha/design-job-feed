@@ -1,8 +1,56 @@
 {
-"generated": "2026-10-24T07:20:03Z",
+"generated": "2026-10-24T17:29:00Z",
 "region": "Europe",
-"count": 90,
+"count": 96,
 "jobs": [
+{
+"id": "arbeitnow:Arbeitnow:remote-senior-product-designer-255909",
+"company": "Duck Duck Go",
+"title": "Senior Product Designer",
+"location": "Remote",
+"remote": "remote",
+"posted": "2026-10-24",
+"url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-product-designer-255909",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-24"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-growth-berlin-116646",
+"company": "Superhuman",
+"title": "Senior Product Designer, Growth",
+"location": "Hub - Berlin",
+"remote": null,
+"posted": "2026-10-24",
+"url": "https://www.arbeitnow.com/jobs/companies/superhuman/senior-product-designer-growth-berlin-116646",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-24"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-k4b-berlin-114774",
+"company": "Kayak",
+"title": "Senior Product Designer, K4B",
+"location": "Berlin Office",
+"remote": null,
+"posted": "2026-10-24",
+"url": "https://www.arbeitnow.com/jobs/companies/kayak/senior-product-designer-k4b-berlin-114774",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-24"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-interactive-designer-london-193742",
+"company": "Kargo22",
+"title": "Senior Interactive Designer",
+"location": "London",
+"remote": null,
+"posted": "2026-10-24",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/kargo22/senior-interactive-designer-london-193742",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-24"
+},
 {
 "id": "arbeitnow:Arbeitnow:senior-product-designer-move-in-staying-rotterdam-184550",
 "company": "housinganywhere",
@@ -124,18 +172,6 @@
 "firstSeen": "2026-10-23"
 },
 {
-"id": "arbeitnow:Arbeitnow:senior-meta-designer-unannouced-project-london-52084",
-"company": "Zyngacareers",
-"title": "Senior Meta Designer - Unannouced Project",
-"location": "London",
-"remote": null,
-"posted": "2026-10-22",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/zyngacareers/senior-meta-designer-unannouced-project-london-52084",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-23"
-},
-{
 "id": "greenhouse:n26:8211088",
 "company": "N26",
 "title": "Product Designer",
@@ -148,18 +184,6 @@
 "firstSeen": "2026-10-22"
 },
 {
-"id": "greenhouse:bitpanda:5013167101",
-"company": "Bitpanda",
-"title": "Senior Product Designer, Web3",
-"location": "Barcelona, Spain",
-"remote": null,
-"posted": "2026-10-22",
-"url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5013167101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-22"
-},
-{
 "id": "greenhouse:bitpanda:5009825101",
 "company": "Bitpanda",
 "title": "Senior Product Designer, Web3",
@@ -167,6 +191,18 @@
 "remote": null,
 "posted": "2026-10-22",
 "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5009825101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-22"
+},
+{
+"id": "greenhouse:bitpanda:5013167101",
+"company": "Bitpanda",
+"title": "Senior Product Designer, Web3",
+"location": "Barcelona, Spain",
+"remote": null,
+"posted": "2026-10-22",
+"url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5013167101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-22"
@@ -278,6 +314,32 @@
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-20"
+},
+{
+"id": "workday:statestreet:/job/Burlington-Massachusetts/Business-Analysis--AVP-1_R-786883",
+"company": "State Street",
+"title": "Product Designer, AVP",
+"location": "2 Locations",
+"remote": null,
+"posted": null,
+"url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Business-Analysis--AVP-1_R-786883",
+"source": "workday",
+"region": "Europe",
+"postedText": "Posted 5 Days Ago",
+"firstSeen": "2026-10-20"
+},
+{
+"id": "workday:statestreet:/job/Hangzhou-China/Platform-Engineering---Dev-UX--Production-Website---Off_R-799791-1",
+"company": "State Street",
+"title": "Platform Engineering - Dev/UX (Production Website), Off",
+"location": "Hangzhou, China",
+"remote": null,
+"posted": null,
+"url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Platform-Engineering---Dev-UX--Production-Website---Off_R-799791-1",
+"source": "workday",
+"region": "Europe",
+"postedText": "Posted 5 Days Ago",
+"firstSeen": "2026-10-19"
 },
 {
 "id": "greenhouse:deliveroo:8202562",
@@ -508,6 +570,18 @@
 "firstSeen": "2026-10-17"
 },
 {
+"id": "greenhouse:moniepoint:4987960101",
+"company": "Moniepoint",
+"title": "Product Design Manager - Design System",
+"location": "Remote, Spain",
+"remote": null,
+"posted": "2026-10-19",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987960101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
 "id": "greenhouse:moniepoint:4987958101",
 "company": "Moniepoint",
 "title": "Product Design Manager - Design System",
@@ -527,18 +601,6 @@
 "remote": null,
 "posted": "2026-10-19",
 "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987959101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:moniepoint:4987960101",
-"company": "Moniepoint",
-"title": "Product Design Manager - Design System",
-"location": "Remote, Spain",
-"remote": null,
-"posted": "2026-10-19",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987960101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -580,13 +642,13 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4710852101",
+"id": "greenhouse:moniepoint:4988183101",
 "company": "Moniepoint",
 "title": "Staff Product Designer",
-"location": "Remote, Spain",
+"location": "London, United Kingdom",
 "remote": null,
 "posted": "2026-10-16",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710852101",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4988183101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -604,13 +666,13 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4988183101",
+"id": "greenhouse:moniepoint:4710852101",
 "company": "Moniepoint",
 "title": "Staff Product Designer",
-"location": "London, United Kingdom",
+"location": "Remote, Spain",
 "remote": null,
 "posted": "2026-10-16",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4988183101",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710852101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -700,18 +762,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:getyourguide:8278320",
-"company": "GetYourGuide",
-"title": "Senior Design Systems Manager",
-"location": "Berlin",
-"remote": null,
-"posted": "2026-10-13",
-"url": "https://job-boards.greenhouse.io/getyourguide/jobs/8278320",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:getyourguide:8278560",
 "company": "GetYourGuide",
 "title": "Senior Design Systems Manager",
@@ -719,6 +769,18 @@
 "remote": null,
 "posted": "2026-10-13",
 "url": "https://job-boards.greenhouse.io/getyourguide/jobs/8278560",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:getyourguide:8278320",
+"company": "GetYourGuide",
+"title": "Senior Design Systems Manager",
+"location": "Berlin",
+"remote": null,
+"posted": "2026-10-13",
+"url": "https://job-boards.greenhouse.io/getyourguide/jobs/8278320",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -892,18 +954,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:tide:7731830003",
-"company": "Tide",
-"title": "Senior Product Designer",
-"location": "Bulgaria",
-"remote": null,
-"posted": "2026-09-23",
-"url": "https://job-boards.greenhouse.io/tide/jobs/7731830003",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:tide:7788378003",
 "company": "Tide",
 "title": "Senior Product Designer",
@@ -911,6 +961,18 @@
 "remote": null,
 "posted": "2026-09-23",
 "url": "https://job-boards.greenhouse.io/tide/jobs/7788378003",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:tide:7731830003",
+"company": "Tide",
+"title": "Senior Product Designer",
+"location": "Bulgaria",
+"remote": null,
+"posted": "2026-09-23",
+"url": "https://job-boards.greenhouse.io/tide/jobs/7731830003",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -964,18 +1026,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:intercom:7861866",
-"company": "Intercom",
-"title": "Senior Product Designer",
-"location": "London, England",
-"remote": null,
-"posted": "2026-09-16",
-"url": "https://job-boards.greenhouse.io/intercom/jobs/7861866",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:intercom:7862050",
 "company": "Intercom",
 "title": "Senior Product Designer",
@@ -983,6 +1033,18 @@
 "remote": null,
 "posted": "2026-09-16",
 "url": "https://job-boards.greenhouse.io/intercom/jobs/7862050",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:intercom:7861866",
+"company": "Intercom",
+"title": "Senior Product Designer",
+"location": "London, England",
+"remote": null,
+"posted": "2026-09-16",
+"url": "https://job-boards.greenhouse.io/intercom/jobs/7861866",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -1081,6 +1143,19 @@
 "url": "https://jobs.ashbyhq.com/perk/3f12cf23-47f1-4423-9256-eb998d80133e",
 "source": "ashby",
 "region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "workday:statestreet:/job/Bangalore-India/Instruction-Designer-Sr-Manager_R-798129-2",
+"company": "State Street",
+"title": "Instruction Designer Manager",
+"location": "3 Locations",
+"remote": null,
+"posted": null,
+"url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Instruction-Designer-Sr-Manager_R-798129-2",
+"source": "workday",
+"region": "Europe",
+"postedText": "Posted 30+ Days Ago",
 "firstSeen": "2026-10-17"
 }
 ]

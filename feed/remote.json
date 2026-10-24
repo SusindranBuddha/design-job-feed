@@ -1,8 +1,20 @@
 {
-"generated": "2026-10-24T07:20:03Z",
+"generated": "2026-10-24T17:29:00Z",
 "region": "Remote",
-"count": 157,
+"count": 156,
 "jobs": [
+{
+"id": "ashby:clera:859cf49e-e7d4-4035-ab35-f2522a60ec79",
+"company": "Clera",
+"title": "Founding Product Designer",
+"location": "Berlin",
+"remote": "OnSite",
+"posted": "2026-10-24",
+"url": "https://jobs.ashbyhq.com/clera/859cf49e-e7d4-4035-ab35-f2522a60ec79",
+"source": "ashby",
+"region": "Remote",
+"firstSeen": "2026-10-24"
+},
 {
 "id": "jobicy:Jobicy:153973",
 "company": "RevenueCat",
@@ -12,6 +24,30 @@
 "posted": "2026-10-24",
 "url": "https://jobicy.com/jobs/153973-senior-product-designer-13",
 "source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-24"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/sendmarc/jobs/product-designer-2997076912",
+"company": "Sendmarc",
+"title": "Product Designer",
+"location": "South Africa",
+"remote": "remote",
+"posted": "2026-10-24",
+"url": "https://himalayas.app/companies/sendmarc/jobs/product-designer-2997076912?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-24"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/raona/jobs/ux-ui-designer-jr",
+"company": "Raona",
+"title": "UX/UI Designer Jr",
+"location": "Argentina",
+"remote": "remote",
+"posted": "2026-10-24",
+"url": "https://himalayas.app/companies/raona/jobs/ux-ui-designer-jr?utm_source=api",
+"source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-24"
 },
@@ -184,30 +220,6 @@
 "firstSeen": "2026-10-22"
 },
 {
-"id": "jobicy:Jobicy:153803",
-"company": "EverAI",
-"title": "Senior Product Designer (Full Remote - UK)",
-"location": "UK",
-"remote": "remote",
-"posted": "2026-10-22",
-"url": "https://jobicy.com/jobs/153803-senior-product-designer-full-remote-uk",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-10-22"
-},
-{
-"id": "jobicy:Jobicy:153798",
-"company": "EverAI",
-"title": "Senior Product Designer (Full Remote - Netherlands)",
-"location": "Netherlands",
-"remote": "remote",
-"posted": "2026-10-22",
-"url": "https://jobicy.com/jobs/153798-senior-product-designer-full-remote-netherlands",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-10-22"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/lemon-io/jobs/senior-ui-ux-designer",
 "company": "lemon.io",
 "title": "Senior UI & UX Designer",
@@ -336,18 +348,6 @@
 "posted": "2026-10-19",
 "url": "https://jobs.ashbyhq.com/clera/6abd3a58-ae96-4436-b87c-a4fb078a86a7",
 "source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-10-19"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/alpha-cloud-technologies/jobs/ui-ux-designer",
-"company": "Alpha Cloud Technologies",
-"title": "UI / UX Designer",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-10-19",
-"url": "https://himalayas.app/companies/alpha-cloud-technologies/jobs/ui-ux-designer?utm_source=api",
-"source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-19"
 },
@@ -852,18 +852,6 @@
 "posted": "2026-10-20",
 "url": "https://job-boards.greenhouse.io/vercel/jobs/6160974004",
 "source": "greenhouse",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "ashby:clera:e668bb34-8435-4a77-a3b2-e489e4f8e9bc",
-"company": "Clera",
-"title": "Senior Product Designer",
-"location": "remote",
-"remote": null,
-"posted": "2026-10-17",
-"url": "https://jobs.ashbyhq.com/clera/e668bb34-8435-4a77-a3b2-e489e4f8e9bc",
-"source": "ashby",
 "region": "Remote",
 "firstSeen": "2026-10-17"
 },

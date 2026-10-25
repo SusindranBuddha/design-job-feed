@@ -1,7 +1,7 @@
 {
-"generated": "2026-10-25T07:37:25Z",
+"generated": "2026-10-25T17:40:31Z",
 "region": "APAC",
-"count": 88,
+"count": 85,
 "jobs": [
 {
 "id": "mcf:MyCareersFuture:30e240fe43348379dcac1fdf6396f183",
@@ -237,6 +237,18 @@
 "firstSeen": "2026-10-19"
 },
 {
+"id": "greenhouse:xendit:7846781003",
+"company": "Xendit",
+"title": "Senior Design System and Product Designer - Operational Journey",
+"location": "Jakarta, Indonesia",
+"remote": null,
+"posted": "2026-10-25",
+"url": "https://job-boards.greenhouse.io/xendit/jobs/7846781003",
+"source": "greenhouse",
+"region": "APAC",
+"firstSeen": "2026-10-17"
+},
+{
 "id": "mcf:MyCareersFuture:2d9c4fe659a094f7415c5262592e64f0",
 "company": "HERDHR PRIVATE LIMITED",
 "title": "UX Designer (Experience Team)",
@@ -247,18 +259,6 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 3000-4200 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:xendit:7846781003",
-"company": "Xendit",
-"title": "Senior Design System and Product Designer - Operational Journey",
-"location": "Jakarta, Indonesia",
-"remote": null,
-"posted": "2026-10-22",
-"url": "https://job-boards.greenhouse.io/xendit/jobs/7846781003",
-"source": "greenhouse",
-"region": "APAC",
 "firstSeen": "2026-10-17"
 },
 {
@@ -936,45 +936,6 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 4000-7000 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:a68acd3a2b30b045690f87588d59cad5",
-"company": "SCIENTE INTERNATIONAL PTE. LTD.",
-"title": "Lead UI UX Designer (JD#11340)",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-09-25",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/lead-ui-ux-designer-sciente-international-a68acd3a2b30b045690f87588d59cad5",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 6500-7500 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:3ec4038d491d63549e938a36443949ed",
-"company": "JOBSTER PRIVATE LTD.",
-"title": "Senior UX Designer - #1653",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-09-25",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-ux-designer-1653-jobster-3ec4038d491d63549e938a36443949ed",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 7000-8500 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:4b8d1dcbe1a2ada7ac5845e8db2251ad",
-"company": "CHEIL SINGAPORE PTE. LTD.",
-"title": "UX/UI Designer (6-Month Freelance Contract)",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-09-25",
-"url": "https://www.mycareersfuture.gov.sg/job/advertising/uxui-designer-cheil-singapore-4b8d1dcbe1a2ada7ac5845e8db2251ad",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 4000-6000 /Monthly",
 "firstSeen": "2026-10-17"
 },
 {

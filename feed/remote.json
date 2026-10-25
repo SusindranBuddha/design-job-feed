@@ -1,8 +1,56 @@
 {
-"generated": "2026-10-25T07:37:25Z",
+"generated": "2026-10-25T17:40:31Z",
 "region": "Remote",
-"count": 158,
+"count": 197,
 "jobs": [
+{
+"id": "ashby:clera:6900c5c8-a710-4d7b-a181-5d204afff7c8",
+"company": "Clera",
+"title": "Senior Product Designer",
+"location": "remote",
+"remote": null,
+"posted": "2026-10-25",
+"url": "https://jobs.ashbyhq.com/clera/6900c5c8-a710-4d7b-a181-5d204afff7c8",
+"source": "ashby",
+"region": "Remote",
+"firstSeen": "2026-10-25"
+},
+{
+"id": "jobicy:Jobicy:156955",
+"company": "Juniper Square",
+"title": "Staff Design Engineer",
+"location": "Canada, USA",
+"remote": "remote",
+"posted": "2026-10-25",
+"url": "https://jobicy.com/jobs/156955-staff-design-engineer-2",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-25"
+},
+{
+"id": "jobicy:Jobicy:156935",
+"company": "Spotify",
+"title": "Staff Product Designer - Platform Design",
+"location": "Sweden, UK",
+"remote": "remote",
+"posted": "2026-10-25",
+"url": "https://jobicy.com/jobs/156935-staff-product-designer-platform-design",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-25"
+},
+{
+"id": "jobicy:Jobicy:156914",
+"company": "PadSplit",
+"title": "Senior Product Designer (Fully Remote)",
+"location": "USA",
+"remote": "remote",
+"posted": "2026-10-25",
+"url": "https://jobicy.com/jobs/156914-senior-product-designer-fully-remote",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-25"
+},
 {
 "id": "jobicy:Jobicy:154021",
 "company": "Ashby",
@@ -52,6 +100,30 @@
 "firstSeen": "2026-10-25"
 },
 {
+"id": "himalayas:Himalayas:https://himalayas.app/companies/simulmedia/jobs/product-designer-ai-native-b2b",
+"company": "Simulmedia",
+"title": "Product Designer (AI-Native, B2B)",
+"location": "Ukraine",
+"remote": "remote",
+"posted": "2026-10-25",
+"url": "https://himalayas.app/companies/simulmedia/jobs/product-designer-ai-native-b2b?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-25"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/cavallo/jobs/senior-product-designer",
+"company": "Cavallo",
+"title": "Senior Product Designer",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-10-25",
+"url": "https://himalayas.app/companies/cavallo/jobs/senior-product-designer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-25"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/arvore/jobs/game-ux-ui-designer-talent-pool",
 "company": "ARVORE",
 "title": "Game UX/UI Designer | Talent Pool",
@@ -59,6 +131,18 @@
 "remote": "remote",
 "posted": "2026-10-25",
 "url": "https://himalayas.app/companies/arvore/jobs/game-ux-ui-designer-talent-pool?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-25"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/blueprint-ai/jobs/ux-cx-designer",
+"company": "Blueprint",
+"title": "UX/CX Designer",
+"location": "Argentina",
+"remote": "remote",
+"posted": "2026-10-25",
+"url": "https://himalayas.app/companies/blueprint-ai/jobs/ux-cx-designer?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-25"
@@ -96,6 +180,42 @@
 "posted": "2026-10-24",
 "url": "https://jobicy.com/jobs/156776-product-designer-ai-native-products-staff-level-l6",
 "source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-25"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/expo-centric/jobs/ai-3d-exhibition-designer-design-systems-automation",
+"company": "Expo Centric",
+"title": "AI 3D Exhibition Designer – Design Systems & Automation",
+"location": "Australia",
+"remote": "remote",
+"posted": "2026-10-24",
+"url": "https://himalayas.app/companies/expo-centric/jobs/ai-3d-exhibition-designer-design-systems-automation?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-25"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/seismic-squirrel/jobs/senior-videogame-designer-2334521818",
+"company": "Seismic Squirrel",
+"title": "Senior Videogame Designer",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-10-24",
+"url": "https://himalayas.app/companies/seismic-squirrel/jobs/senior-videogame-designer-2334521818?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-25"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/h-r-block/jobs/product-experience-designer",
+"company": "H&R Block",
+"title": "Product Experience Designer",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-10-23",
+"url": "https://himalayas.app/companies/h-r-block/jobs/product-experience-designer?utm_source=api",
+"source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-25"
 },
@@ -232,18 +352,6 @@
 "firstSeen": "2026-10-23"
 },
 {
-"id": "jobicy:Jobicy:156510",
-"company": "Monzo",
-"title": "Lead Product Designer, Growth",
-"location": "UK",
-"remote": "remote",
-"posted": "2026-10-23",
-"url": "https://jobicy.com/jobs/156510-lead-product-designer-growth",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-10-23"
-},
-{
 "id": "jobicy:Jobicy:156508",
 "company": "Monzo",
 "title": "Lead Product Designer",
@@ -340,6 +448,18 @@
 "firstSeen": "2026-10-22"
 },
 {
+"id": "himalayas:Himalayas:https://himalayas.app/companies/mindera/jobs/senior-product-manager-design-system",
+"company": "Mindera",
+"title": "Senior Product Manager - Design System",
+"location": "Portugal",
+"remote": "remote",
+"posted": "2026-10-22",
+"url": "https://himalayas.app/companies/mindera/jobs/senior-product-manager-design-system?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-22"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/granum/jobs/senior-product-designer",
 "company": "Granum",
 "title": "Senior Product Designer",
@@ -376,6 +496,18 @@
 "firstSeen": "2026-10-21"
 },
 {
+"id": "himalayas:Himalayas:https://himalayas.app/companies/bungie/jobs/senior-investment-designer-rewards-and-commerce",
+"company": "Bungie",
+"title": "Senior Investment Designer (Rewards and Commerce)",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-10-21",
+"url": "https://himalayas.app/companies/bungie/jobs/senior-investment-designer-rewards-and-commerce?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-21"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/bonusly-com/jobs/senior-product-designer",
 "company": "Bonusly",
 "title": "Senior Product Designer",
@@ -386,6 +518,78 @@
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-21"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/humanit-digital-consulting/jobs/senior-product-manager-design-system-portugal-full-remote",
+"company": "HumanIT Digital Consulting",
+"title": "Senior Product Manager (Design System) - Portugal Full Remote",
+"location": "Portugal",
+"remote": "remote",
+"posted": "2026-10-19",
+"url": "https://himalayas.app/companies/humanit-digital-consulting/jobs/senior-product-manager-design-system-portugal-full-remote?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-21"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/rr-donnelley/jobs/senior-designer",
+"company": "RR Donnelley",
+"title": "Senior Designer",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-10-17",
+"url": "https://himalayas.app/companies/rr-donnelley/jobs/senior-designer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-21"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/aecom/jobs/control-system-designer-data-centers-remote-u-s",
+"company": "AECOM",
+"title": "Control System Designer, Data Centers - Remote (U.S.)",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-10-07",
+"url": "https://himalayas.app/companies/aecom/jobs/control-system-designer-data-centers-remote-u-s?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-21"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/armada/jobs/senior-mechanical-design-engineer-liquid-cooling-systems",
+"company": "Armada",
+"title": "Senior Mechanical Design Engineer – Liquid Cooling Systems",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-10-05",
+"url": "https://himalayas.app/companies/armada/jobs/senior-mechanical-design-engineer-liquid-cooling-systems?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-21"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/ciena/jobs/senior-serdes-system-dsp-design-engineer",
+"company": "Ciena",
+"title": "Senior SerDes System/DSP Design Engineer",
+"location": "Canada",
+"remote": "remote",
+"posted": "2026-09-18",
+"url": "https://himalayas.app/companies/ciena/jobs/senior-serdes-system-dsp-design-engineer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-21"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/humanit-digital-consulting/jobs/senior-product-designer-figma-design-systems-6month-project-portugal-full",
+"company": "HumanIT Digital Consulting",
+"title": "Senior Product Designer (Figma/Design Systems) (6month Project) - Portugal Full",
+"location": "Portugal",
+"remote": "remote",
+"posted": "2026-10-20",
+"url": "https://himalayas.app/companies/humanit-digital-consulting/jobs/senior-product-designer-figma-design-systems-6month-project-portugal-full?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-20"
 },
 {
 "id": "wwr:We Work Remotely:https://weworkremotely.com/remote-jobs/workiva-principal-experience-designer-visual-design-design-systems",
@@ -424,6 +628,18 @@
 "firstSeen": "2026-10-19"
 },
 {
+"id": "himalayas:Himalayas:https://himalayas.app/companies/mercor/jobs/design-systems-specialist-fully-remote-upto-80-hr",
+"company": "mercor",
+"title": "Design Systems Specialist - Fully Remote | Upto $80/hr",
+"location": "Germany",
+"remote": "remote",
+"posted": "2026-10-21",
+"url": "https://himalayas.app/companies/mercor/jobs/design-systems-specialist-fully-remote-upto-80-hr?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/remote-office/jobs/senior-ui-ux-designer",
 "company": "Remote Office",
 "title": "Senior UI/UX Designer",
@@ -436,14 +652,14 @@
 "firstSeen": "2026-10-18"
 },
 {
-"id": "ashby:clera:9d3d93dc-7efa-42b9-ae3c-bc34513c32df",
-"company": "Clera",
-"title": "Fractional Founding Designer",
-"location": "remote",
-"remote": null,
+"id": "himalayas:Himalayas:https://himalayas.app/companies/alkami-technology-inc/jobs/sr-product-designer-mantl",
+"company": "Alkami Technology, Inc.",
+"title": "Sr Product Designer (MANTL)",
+"location": "United States",
+"remote": "remote",
 "posted": "2026-10-18",
-"url": "https://jobs.ashbyhq.com/clera/9d3d93dc-7efa-42b9-ae3c-bc34513c32df",
-"source": "ashby",
+"url": "https://himalayas.app/companies/alkami-technology-inc/jobs/sr-product-designer-mantl?utm_source=api",
+"source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"
 },
@@ -520,6 +736,30 @@
 "firstSeen": "2026-10-18"
 },
 {
+"id": "himalayas:Himalayas:https://himalayas.app/companies/modash-ou/jobs/senior-product-designer-product-manager",
+"company": "Modash OÜ",
+"title": "Senior Product Designer/Product Manager",
+"location": "Estonia",
+"remote": "remote",
+"posted": "2026-10-12",
+"url": "https://himalayas.app/companies/modash-ou/jobs/senior-product-designer-product-manager?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/petra-brands/jobs/product-designer-6789930287",
+"company": "Petra Brands",
+"title": "Product Designer",
+"location": "Philippines",
+"remote": "remote",
+"posted": "2026-10-11",
+"url": "https://himalayas.app/companies/petra-brands/jobs/product-designer-6789930287?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/pavago/jobs/ux-ui-designer-9173479940",
 "company": "Pavago",
 "title": "UX/UI Designer",
@@ -556,6 +796,18 @@
 "firstSeen": "2026-10-18"
 },
 {
+"id": "himalayas:Himalayas:https://himalayas.app/companies/swimply-inc/jobs/senior-product-designer-224582892",
+"company": "Swimply, Inc.",
+"title": "Senior Product Designer",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-10-09",
+"url": "https://himalayas.app/companies/swimply-inc/jobs/senior-product-designer-224582892?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/zicasso/jobs/product-designer",
 "company": "Zicasso",
 "title": "Product Designer",
@@ -568,13 +820,37 @@
 "firstSeen": "2026-10-18"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/orchata/jobs/ux-ui-designer",
-"company": "Orchata",
-"title": "UX/UI Designer",
-"location": "Mexico",
+"id": "himalayas:Himalayas:https://himalayas.app/companies/rippling/jobs/product-design-lead-hris",
+"company": "Rippling",
+"title": "Product Design Lead, HRIS",
+"location": "India",
 "remote": "remote",
 "posted": "2026-10-08",
-"url": "https://himalayas.app/companies/orchata/jobs/ux-ui-designer?utm_source=api",
+"url": "https://himalayas.app/companies/rippling/jobs/product-design-lead-hris?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/happyco/jobs/senior-product-designer-7816396749",
+"company": "HappyCo",
+"title": "Senior Product Designer",
+"location": "Canada",
+"remote": "remote",
+"posted": "2026-10-07",
+"url": "https://himalayas.app/companies/happyco/jobs/senior-product-designer-7816396749?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/panic-stations/jobs/system-designer-3-month-contract",
+"company": "Panic Stations",
+"title": "System Designer - 3 month contract",
+"location": "United Kingdom",
+"remote": "remote",
+"posted": "2026-10-07",
+"url": "https://himalayas.app/companies/panic-stations/jobs/system-designer-3-month-contract?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"
@@ -599,6 +875,30 @@
 "remote": "remote",
 "posted": "2026-10-05",
 "url": "https://himalayas.app/companies/david-kennedy-recruitment/jobs/product-designer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/codepath/jobs/senior-product-designer-1565625775",
+"company": "CodePath",
+"title": "Senior Product Designer",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-10-02",
+"url": "https://himalayas.app/companies/codepath/jobs/senior-product-designer-1565625775?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/medium/jobs/staff-product-designer",
+"company": "Medium",
+"title": "Staff Product Designer",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-10-02",
+"url": "https://himalayas.app/companies/medium/jobs/staff-product-designer?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"
@@ -664,6 +964,18 @@
 "firstSeen": "2026-10-18"
 },
 {
+"id": "himalayas:Himalayas:https://himalayas.app/companies/1komma5/jobs/working-student-designer-design-system-heartbeat-ai-m-f-d",
+"company": "1KOMMA5˚",
+"title": "Working Student Designer (Design System) – Heartbeat AI (m/f/d)",
+"location": "Germany",
+"remote": "remote",
+"posted": "2026-09-22",
+"url": "https://himalayas.app/companies/1komma5/jobs/working-student-designer-design-system-heartbeat-ai-m-f-d?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/jobs-for-humanity/jobs/ux-ui-designer",
 "company": "Jobs for Humanity",
 "title": "UX/UI Designer",
@@ -700,6 +1012,18 @@
 "firstSeen": "2026-10-18"
 },
 {
+"id": "himalayas:Himalayas:https://himalayas.app/companies/insomniac-games/jobs/lead-systems-designer",
+"company": "Insomniac Games",
+"title": "Lead Systems Designer",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-09-20",
+"url": "https://himalayas.app/companies/insomniac-games/jobs/lead-systems-designer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/rockstar/jobs/product-designer-2495373180",
 "company": "Rockstar",
 "title": "Product Designer",
@@ -719,6 +1043,30 @@
 "remote": "remote",
 "posted": "2026-09-13",
 "url": "https://himalayas.app/companies/cribl/jobs/sr-ux-designer-security?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/a-thinking-ape/jobs/system-economy-designer-intermediate-senior",
+"company": "A Thinking Ape",
+"title": "System & Economy Designer (Intermediate/Senior)",
+"location": "Canada",
+"remote": "remote",
+"posted": "2026-09-13",
+"url": "https://himalayas.app/companies/a-thinking-ape/jobs/system-economy-designer-intermediate-senior?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/mercor/jobs/design-systems-specialist-fully-remote-upto-80-hr-5591764381",
+"company": "mercor",
+"title": "Design Systems Specialist - Fully Remote | Upto $80/hr",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-09-10",
+"url": "https://himalayas.app/companies/mercor/jobs/design-systems-specialist-fully-remote-upto-80-hr-5591764381?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"
@@ -748,6 +1096,42 @@
 "firstSeen": "2026-10-18"
 },
 {
+"id": "himalayas:Himalayas:https://himalayas.app/companies/nearsource-technologies/jobs/ux-designer-retail-operational-systems",
+"company": "NearSource Technologies",
+"title": "UX Designer – Retail & Operational Systems",
+"location": "Canada",
+"remote": "remote",
+"posted": "2026-09-05",
+"url": "https://himalayas.app/companies/nearsource-technologies/jobs/ux-designer-retail-operational-systems?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/accelint/jobs/senior-product-designer-7795120682",
+"company": "Accelint",
+"title": "Senior Product Designer",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-09-03",
+"url": "https://himalayas.app/companies/accelint/jobs/senior-product-designer-7795120682?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/sapsol-technologies-inc/jobs/structural-and-systems-installation-design-engineer",
+"company": "SAPSOL Technologies Inc.",
+"title": "Structural and Systems Installation Design Engineer",
+"location": "Canada",
+"remote": "remote",
+"posted": "2026-09-03",
+"url": "https://himalayas.app/companies/sapsol-technologies-inc/jobs/structural-and-systems-installation-design-engineer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/wati/jobs/lead-product-designer",
 "company": "WATI",
 "title": "Lead Product Designer",
@@ -770,6 +1154,78 @@
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/aecom/jobs/senior-control-system-designer-data-centers-remote-u-s",
+"company": "AECOM",
+"title": "Senior Control System Designer, Data Centers - Remote (U.S.)",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-08-30",
+"url": "https://himalayas.app/companies/aecom/jobs/senior-control-system-designer-data-centers-remote-u-s?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/mercor/jobs/design-systems-specialist-fully-remote-upto-80-hr-9213104843",
+"company": "mercor",
+"title": "Design Systems Specialist - Fully Remote | Upto $80/hr",
+"location": "Canada",
+"remote": "remote",
+"posted": "2026-08-30",
+"url": "https://himalayas.app/companies/mercor/jobs/design-systems-specialist-fully-remote-upto-80-hr-9213104843?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/softgames/jobs/senior-game-designer-systems-economy-fully-remote",
+"company": "SOFTGAMES",
+"title": "Senior Game Designer - Systems & Economy - Fully Remote",
+"location": "Worldwide",
+"remote": "remote",
+"posted": "2026-08-30",
+"url": "https://himalayas.app/companies/softgames/jobs/senior-game-designer-systems-economy-fully-remote?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/mercor/jobs/design-systems-specialist-fully-remote-upto-80-hr-5948947017",
+"company": "mercor",
+"title": "Design Systems Specialist - Fully Remote | Upto $80/hr",
+"location": "United Kingdom",
+"remote": "remote",
+"posted": "2026-08-29",
+"url": "https://himalayas.app/companies/mercor/jobs/design-systems-specialist-fully-remote-upto-80-hr-5948947017?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/mercor/jobs/design-systems-specialist-fully-remote-upto-80-hr-2014843040",
+"company": "mercor",
+"title": "Design Systems Specialist - Fully Remote | Upto $80/hr",
+"location": "India",
+"remote": "remote",
+"posted": "2026-08-29",
+"url": "https://himalayas.app/companies/mercor/jobs/design-systems-specialist-fully-remote-upto-80-hr-2014843040?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/remedy-product-studio/jobs/product-designer-3743879344",
+"company": "Remedy Product Studio",
+"title": "Product Designer",
+"location": "Brazil, Colombia, Costa Rica, Georgia, Poland, Serbia",
+"remote": "remote",
+"posted": "2026-10-25",
+"url": "https://himalayas.app/companies/remedy-product-studio/jobs/product-designer-3743879344?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-17"
 },
 {
 "id": "himalayas:Himalayas:https://himalayas.app/companies/zoftify-travel-software-development/jobs/ui-ux-designer",
@@ -1475,6 +1931,18 @@
 "remote": "remote",
 "posted": "2026-09-22",
 "url": "https://himalayas.app/companies/pavago/jobs/product-designer-ux-ui-design-systems-8651972602?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/pavago/jobs/product-designer-ux-ui-design-systems-4068753111",
+"company": "Pavago",
+"title": "Product Designer - UX/UI & Design Systems",
+"location": "Belize",
+"remote": "remote",
+"posted": "2026-09-22",
+"url": "https://himalayas.app/companies/pavago/jobs/product-designer-ux-ui-design-systems-4068753111?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-17"

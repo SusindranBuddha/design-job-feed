@@ -1,8 +1,32 @@
 {
-"generated": "2026-10-25T07:37:25Z",
+"generated": "2026-10-25T17:40:31Z",
 "region": "Europe",
-"count": 96,
+"count": 98,
 "jobs": [
+{
+"id": "arbeitnow:Arbeitnow:2d-designer-switzerland-376650",
+"company": "Jobgether",
+"title": "2D Designer",
+"location": "Switzerland",
+"remote": null,
+"posted": "2026-10-25",
+"url": "https://www.arbeitnow.ch/jobs/companies/jobgether/2d-designer-switzerland-376650",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-25"
+},
+{
+"id": "arbeitnow:Arbeitnow:vacature-stagiair-illustrator-designer-eindhoven-64598",
+"company": "Bigfish.nl",
+"title": "Vacature: Stagiair Illustrator / Designer",
+"location": "Eindhoven",
+"remote": null,
+"posted": "2026-10-25",
+"url": "https://www.arbeitnow.nl/jobs/companies/bigfishnl/vacature-stagiair-illustrator-designer-eindhoven-64598",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-25"
+},
 {
 "id": "arbeitnow:Arbeitnow:staff-product-designer-platform-design-london-228872",
 "company": "Spotify",
@@ -11,6 +35,54 @@
 "remote": null,
 "posted": "2026-10-25",
 "url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/staff-product-designer-platform-design-london-228872",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-25"
+},
+{
+"id": "arbeitnow:Arbeitnow:2d-designer-france-231615",
+"company": "Jobgether",
+"title": "2D Designer",
+"location": "France",
+"remote": null,
+"posted": "2026-10-25",
+"url": "https://www.arbeitnow.fr/jobs/companies/jobgether/2d-designer-france-231615",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-25"
+},
+{
+"id": "arbeitnow:Arbeitnow:product-designer-cloud-rotterdam-294566",
+"company": "Mendix",
+"title": "Product Designer- Cloud",
+"location": "Rotterdam",
+"remote": null,
+"posted": "2026-10-25",
+"url": "https://www.arbeitnow.nl/jobs/companies/mendix/product-designer-cloud-rotterdam-294566",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-25"
+},
+{
+"id": "arbeitnow:Arbeitnow:ux-ui-designer-h-f-paris-302617",
+"company": "WINAMAX",
+"title": "UX/UI Designer (H/F)",
+"location": "Paris",
+"remote": null,
+"posted": "2026-10-25",
+"url": "https://www.arbeitnow.fr/jobs/companies/winamax/ux-ui-designer-h-f-paris-302617",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-25"
+},
+{
+"id": "arbeitnow:Arbeitnow:stage-ux-ui-designer-h-f-paris-477970",
+"company": "WINAMAX",
+"title": "STAGE - UX/UI Designer (H/F)",
+"location": "Paris",
+"remote": null,
+"posted": "2026-10-25",
+"url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-ux-ui-designer-h-f-paris-477970",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-10-25"
@@ -64,6 +136,30 @@
 "firstSeen": "2026-10-24"
 },
 {
+"id": "arbeitnow:Arbeitnow:senior-product-designer-k4b-berlin-114774",
+"company": "Kayak",
+"title": "Senior Product Designer, K4B",
+"location": "Berlin Office",
+"remote": null,
+"posted": "2026-10-24",
+"url": "https://www.arbeitnow.com/jobs/companies/kayak/senior-product-designer-k4b-berlin-114774",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-24"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-interactive-designer-london-193742",
+"company": "Kargo22",
+"title": "Senior Interactive Designer",
+"location": "London",
+"remote": null,
+"posted": "2026-10-24",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/kargo22/senior-interactive-designer-london-193742",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-24"
+},
+{
 "id": "arbeitnow:Arbeitnow:senior-product-designer-move-in-staying-rotterdam-184550",
 "company": "housinganywhere",
 "title": "Senior Product Designer - Move-in & Staying",
@@ -88,18 +184,6 @@
 "firstSeen": "2026-10-24"
 },
 {
-"id": "arbeitnow:Arbeitnow:senior-product-designer-k4b-berlin-114774",
-"company": "Kayak",
-"title": "Senior Product Designer, K4B",
-"location": "Berlin Office",
-"remote": null,
-"posted": "2026-10-24",
-"url": "https://www.arbeitnow.com/jobs/companies/kayak/senior-product-designer-k4b-berlin-114774",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-24"
-},
-{
 "id": "greenhouse:okta:8319247",
 "company": "Okta (Spain)",
 "title": "Manager, Product Design - Okta Research & Development",
@@ -119,18 +203,6 @@
 "remote": null,
 "posted": "2026-10-23",
 "url": "https://www.arbeitnow.com/jobs/companies/quantumdiamonds/senior-optical-design-engineer-munich-2359",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-24"
-},
-{
-"id": "arbeitnow:Arbeitnow:product-designer-ai-native-products-staff-level-l6-london-45735",
-"company": "Synthesia",
-"title": "Product Designer, AI-Native Products (Staff-Level / L6)",
-"location": "Europe",
-"remote": null,
-"posted": "2026-10-23",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/synthesia/product-designer-ai-native-products-staff-level-l6-london-45735",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-10-24"
@@ -228,54 +300,6 @@
 "posted": "2026-10-22",
 "url": "https://stripe.com/jobs/search?gh_jid=8304725",
 "source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-22"
-},
-{
-"id": "arbeitnow:Arbeitnow:freelancer-ux-ui-designer-design-engineer-amsterdam-487401",
-"company": "Creative Clicks B.V.",
-"title": "Freelancer UX/UI Designer (Design Engineer)",
-"location": "Amsterdam, Noord-Holland, Netherlands",
-"remote": null,
-"posted": "2026-10-22",
-"url": "https://www.arbeitnow.nl/jobs/companies/creative-clicks-bv/freelancer-ux-ui-designer-design-engineer-amsterdam-487401",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-22"
-},
-{
-"id": "arbeitnow:Arbeitnow:embedded-software-designer-eindhoven-21636",
-"company": "GradeMatch",
-"title": "Embedded Software Designer",
-"location": "Eindhoven, Noord-Brabant, Nederland",
-"remote": null,
-"posted": "2026-10-22",
-"url": "https://www.arbeitnow.nl/jobs/companies/gradematch/embedded-software-designer-eindhoven-21636",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-22"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-design-engineer-electrical-almelo-59630",
-"company": "Benchmark",
-"title": "Senior Design Engineer Electrical",
-"location": "Almelo, Overijssel, Nederland",
-"remote": null,
-"posted": "2026-10-22",
-"url": "https://www.arbeitnow.nl/jobs/companies/benchmark/senior-design-engineer-electrical-almelo-59630",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-22"
-},
-{
-"id": "arbeitnow:Arbeitnow:product-designer-amsterdam-110921",
-"company": "Futurewhiz",
-"title": "Product Designer",
-"location": "Amsterdam, Noord-Holland, Netherlands",
-"remote": null,
-"posted": "2026-10-22",
-"url": "https://www.arbeitnow.nl/jobs/companies/futurewhiz/product-designer-amsterdam-110921",
-"source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-10-22"
 },
@@ -954,18 +978,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:tide:7788378003",
-"company": "Tide",
-"title": "Senior Product Designer",
-"location": "Lithuania",
-"remote": null,
-"posted": "2026-09-23",
-"url": "https://job-boards.greenhouse.io/tide/jobs/7788378003",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:tide:7731830003",
 "company": "Tide",
 "title": "Senior Product Designer",
@@ -973,6 +985,18 @@
 "remote": null,
 "posted": "2026-09-23",
 "url": "https://job-boards.greenhouse.io/tide/jobs/7731830003",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:tide:7788378003",
+"company": "Tide",
+"title": "Senior Product Designer",
+"location": "Lithuania",
+"remote": null,
+"posted": "2026-09-23",
+"url": "https://job-boards.greenhouse.io/tide/jobs/7788378003",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"

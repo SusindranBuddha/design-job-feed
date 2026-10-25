@@ -1,8 +1,44 @@
 {
-"generated": "2026-10-24T17:29:00Z",
+"generated": "2026-10-25T07:37:25Z",
 "region": "Europe",
 "count": 96,
 "jobs": [
+{
+"id": "arbeitnow:Arbeitnow:staff-product-designer-platform-design-london-228872",
+"company": "Spotify",
+"title": "Staff Product Designer - Platform Design",
+"location": "London",
+"remote": null,
+"posted": "2026-10-25",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/staff-product-designer-platform-design-london-228872",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-25"
+},
+{
+"id": "arbeitnow:Arbeitnow:product-designer-stuttgart-52023",
+"company": "Sereact GmbH",
+"title": "Product Designer (m/f/d)",
+"location": "Stuttgart Schockenriedstr. 17",
+"remote": null,
+"posted": "2026-10-24",
+"url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/product-designer-stuttgart-52023",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-25"
+},
+{
+"id": "arbeitnow:Arbeitnow:mechanical-design-engineer-germany-70429",
+"company": "Stealthrocketrystartup",
+"title": "Mechanical Design Engineer",
+"location": "Germany",
+"remote": null,
+"posted": "2026-10-24",
+"url": "https://www.arbeitnow.com/jobs/companies/stealthrocketrystartup/mechanical-design-engineer-germany-70429",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-25"
+},
 {
 "id": "arbeitnow:Arbeitnow:remote-senior-product-designer-255909",
 "company": "Duck Duck Go",
@@ -28,30 +64,6 @@
 "firstSeen": "2026-10-24"
 },
 {
-"id": "arbeitnow:Arbeitnow:senior-product-designer-k4b-berlin-114774",
-"company": "Kayak",
-"title": "Senior Product Designer, K4B",
-"location": "Berlin Office",
-"remote": null,
-"posted": "2026-10-24",
-"url": "https://www.arbeitnow.com/jobs/companies/kayak/senior-product-designer-k4b-berlin-114774",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-24"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-interactive-designer-london-193742",
-"company": "Kargo22",
-"title": "Senior Interactive Designer",
-"location": "London",
-"remote": null,
-"posted": "2026-10-24",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/kargo22/senior-interactive-designer-london-193742",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-24"
-},
-{
 "id": "arbeitnow:Arbeitnow:senior-product-designer-move-in-staying-rotterdam-184550",
 "company": "housinganywhere",
 "title": "Senior Product Designer - Move-in & Staying",
@@ -71,6 +83,18 @@
 "remote": null,
 "posted": "2026-10-24",
 "url": "https://www.arbeitnow.nl/jobs/companies/housinganywhere-group/senior-product-designer-move-in-staying-rotterdam-96319",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-24"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-k4b-berlin-114774",
+"company": "Kayak",
+"title": "Senior Product Designer, K4B",
+"location": "Berlin Office",
+"remote": null,
+"posted": "2026-10-24",
+"url": "https://www.arbeitnow.com/jobs/companies/kayak/senior-product-designer-k4b-berlin-114774",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-10-24"
@@ -143,18 +167,6 @@
 "remote": null,
 "posted": "2026-10-23",
 "url": "https://www.arbeitnow.fr/jobs/companies/pysae/product-manager-product-design-h-f-rennes-23820",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-23"
-},
-{
-"id": "arbeitnow:Arbeitnow:composite-cad-design-engineer-munich-416982",
-"company": "The Exploration Company",
-"title": "Composite CAD Design Engineer",
-"location": "Munich, Germany",
-"remote": null,
-"posted": "2026-10-23",
-"url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/composite-cad-design-engineer-munich-416982",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-10-23"
@@ -268,18 +280,6 @@
 "firstSeen": "2026-10-22"
 },
 {
-"id": "arbeitnow:Arbeitnow:remote-product-designer-netherlands-77442",
-"company": "Mlabs",
-"title": "Product Designer",
-"location": "Netherlands",
-"remote": "remote",
-"posted": "2026-10-22",
-"url": "https://www.arbeitnow.nl/jobs/companies/mlabs/remote-product-designer-netherlands-77442",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-22"
-},
-{
 "id": "smartrecruiters:Wise:744000156814169",
 "company": "Wise",
 "title": "Internal Comms Designer",
@@ -325,7 +325,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Business-Analysis--AVP-1_R-786883",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 5 Days Ago",
+"postedText": "Posted 6 Days Ago",
 "firstSeen": "2026-10-20"
 },
 {
@@ -338,7 +338,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Platform-Engineering---Dev-UX--Production-Website---Off_R-799791-1",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 5 Days Ago",
+"postedText": "Posted 6 Days Ago",
 "firstSeen": "2026-10-19"
 },
 {
@@ -570,18 +570,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4987960101",
-"company": "Moniepoint",
-"title": "Product Design Manager - Design System",
-"location": "Remote, Spain",
-"remote": null,
-"posted": "2026-10-19",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987960101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:moniepoint:4987958101",
 "company": "Moniepoint",
 "title": "Product Design Manager - Design System",
@@ -601,6 +589,18 @@
 "remote": null,
 "posted": "2026-10-19",
 "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987959101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:moniepoint:4987960101",
+"company": "Moniepoint",
+"title": "Product Design Manager - Design System",
+"location": "Remote, Spain",
+"remote": null,
+"posted": "2026-10-19",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987960101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -642,18 +642,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4988183101",
-"company": "Moniepoint",
-"title": "Staff Product Designer",
-"location": "London, United Kingdom",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4988183101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:moniepoint:4710853101",
 "company": "Moniepoint",
 "title": "Staff Product Designer",
@@ -673,6 +661,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710852101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:moniepoint:4988183101",
+"company": "Moniepoint",
+"title": "Staff Product Designer",
+"location": "London, United Kingdom",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4988183101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"

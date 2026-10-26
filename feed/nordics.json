@@ -1,8 +1,44 @@
 {
-"generated": "2026-10-26T07:50:28Z",
+"generated": "2026-10-26T19:58:13Z",
 "region": "Nordics",
 "count": 53,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31643632",
+"company": "ALSTOM Transport AB",
+"title": "Program V&V Test Designer - 530990",
+"location": "Västerås",
+"remote": null,
+"posted": "2026-10-26",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31643632",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-10-26"
+},
+{
+"id": "platsbanken:Platsbanken:31642986",
+"company": "REGION STOCKHOLM",
+"title": "UX-designer till ett innovativt utvecklingsprojekt om virtuella patienter",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-10-26",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31642986",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-10-26"
+},
+{
+"id": "platsbanken:Platsbanken:31646928",
+"company": "Specialpedagogiska Skolmyndigheten",
+"title": "Digital strateg med fokus på UX till SPSM, vikariat",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-10-26",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31646928",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-10-26"
+},
 {
 "id": "platsbanken:Platsbanken:31640061",
 "company": "Nexer AB",
@@ -184,30 +220,6 @@
 "firstSeen": "2026-10-20"
 },
 {
-"id": "platsbanken:Platsbanken:31619224",
-"company": "Alfa Laval Technologies AB",
-"title": "Senior Electrical Design Engineer - Automation",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-10-20",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31619224",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-20"
-},
-{
-"id": "platsbanken:Platsbanken:31617895",
-"company": "Husqvarna AB",
-"title": "Design Engineer Accessories Husqvarna Group",
-"location": "Jönköping",
-"remote": null,
-"posted": "2026-10-20",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31617895",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-20"
-},
-{
 "id": "platsbanken:Platsbanken:31611609",
 "company": "SAAB Aktiebolag",
 "title": "UX Designer",
@@ -268,18 +280,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:alphasense:8530664002",
-"company": "AlphaSense",
-"title": "Senior/Staff Product Designer",
-"location": "New York, New York, United States; Remote - United States",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:alphasense:8531119002",
 "company": "AlphaSense",
 "title": "Senior/Staff Product Designer",
@@ -287,6 +287,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:alphasense:8530664002",
+"company": "AlphaSense",
+"title": "Senior/Staff Product Designer",
+"location": "New York, New York, United States; Remote - United States",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
@@ -460,6 +472,18 @@
 "firstSeen": "2026-10-17"
 },
 {
+"id": "teamtailor:Lunar:https://jobs.lunar.app/jobs/8469749-senior-product-designer",
+"company": "Lunar",
+"title": "Senior Product Designer",
+"location": "",
+"remote": null,
+"posted": "2026-09-29",
+"url": "https://jobs.lunar.app/jobs/8469749-senior-product-designer",
+"source": "teamtailor",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
 "id": "greenhouse:oura:4421754009",
 "company": "Oura",
 "title": "Senior Product Designer, Movement",
@@ -468,18 +492,6 @@
 "posted": "2026-09-29",
 "url": "https://job-boards.greenhouse.io/oura/jobs/4421754009",
 "source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "platsbanken:Platsbanken:31533787",
-"company": "Agile Resources AB",
-"title": "Senior UX Designer inom digital tillgänglighet",
-"location": "Göteborg",
-"remote": null,
-"posted": "2026-09-29",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31533787",
-"source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
 },
@@ -612,18 +624,6 @@
 "posted": "2026-08-20",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31377280",
 "source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "ashby:legora:32801e6a-236e-49f0-80e0-3f9090d01b27",
-"company": "Legora",
-"title": "Senior Product Manager - UX Core",
-"location": "Stockholm HQ",
-"remote": "OnSite",
-"posted": "2026-06-24",
-"url": "https://jobs.ashbyhq.com/legora/32801e6a-236e-49f0-80e0-3f9090d01b27",
-"source": "ashby",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
 },

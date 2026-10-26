@@ -1,20 +1,8 @@
 {
-"generated": "2026-10-26T07:50:28Z",
+"generated": "2026-10-26T19:58:13Z",
 "region": "Netherlands",
-"count": 13,
+"count": 14,
 "jobs": [
-{
-"id": "greenhouse:elastic:8301334",
-"company": "Elastic",
-"title": "Software Engineering Manager - Global UX - Applications - Platform",
-"location": "Spain",
-"remote": null,
-"posted": "2026-10-23",
-"url": "https://jobs.elastic.co/jobs?gh_jid=8301334&gh_jid=8301334",
-"source": "greenhouse",
-"region": "Netherlands",
-"firstSeen": "2026-10-24"
-},
 {
 "id": "greenhouse:elastic:8319082",
 "company": "Elastic",
@@ -40,16 +28,40 @@
 "firstSeen": "2026-10-24"
 },
 {
-"id": "greenhouse:housinganywhere:8042994003",
-"company": "HousingAnywhere",
-"title": "Senior Product Designer - Move-in & Staying",
-"location": "Rotterdam, Zuid-Holland, Netherlands",
+"id": "greenhouse:elastic:8301334",
+"company": "Elastic",
+"title": "Software Engineering Manager - Global UX - Applications - Platform",
+"location": "Spain",
 "remote": null,
 "posted": "2026-10-23",
+"url": "https://jobs.elastic.co/jobs?gh_jid=8301334&gh_jid=8301334",
+"source": "greenhouse",
+"region": "Netherlands",
+"firstSeen": "2026-10-24"
+},
+{
+"id": "greenhouse:housinganywhere:8042994003",
+"company": "HousingAnywhere",
+"title": "Senior Product Designer - Post Booking experience",
+"location": "Rotterdam, Zuid-Holland, Netherlands",
+"remote": null,
+"posted": "2026-10-26",
 "url": "https://job-boards.greenhouse.io/housinganywhere/jobs/8042994003",
 "source": "greenhouse",
 "region": "Netherlands",
 "firstSeen": "2026-10-23"
+},
+{
+"id": "greenhouse:housinganywhere:8015483003",
+"company": "HousingAnywhere",
+"title": "Senior Product Designer - Listing & Finding experience",
+"location": "Rotterdam, Zuid-Holland, Netherlands",
+"remote": null,
+"posted": "2026-10-26",
+"url": "https://job-boards.greenhouse.io/housinganywhere/jobs/8015483003",
+"source": "greenhouse",
+"region": "Netherlands",
+"firstSeen": "2026-10-17"
 },
 {
 "id": "greenhouse:adyen:8045285",
@@ -100,18 +112,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:housinganywhere:8015483003",
-"company": "HousingAnywhere",
-"title": "Senior Product Designer",
-"location": "Rotterdam, Zuid-Holland, Netherlands",
-"remote": null,
-"posted": "2026-10-07",
-"url": "https://job-boards.greenhouse.io/housinganywhere/jobs/8015483003",
-"source": "greenhouse",
-"region": "Netherlands",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "ashby:lightspeedhq:cb4d8050-0a90-4fa0-92ea-1a94a4e7fa7d",
 "company": "Lightspeed",
 "title": "Staff Product Designer, Hospitality (all genders)",
@@ -156,6 +156,18 @@
 "posted": "2026-09-08",
 "url": "https://jobs.ashbyhq.com/lightspeedhq/5b8ef427-872c-4012-a68f-7eb8a7907c43",
 "source": "ashby",
+"region": "Netherlands",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "lever:tomtom:b93bd63d-e7d1-4f7f-87e2-3ff959cdb10f",
+"company": "TomTom",
+"title": "Senior UX Designer - Map Visualisation",
+"location": "Amsterdam, The Netherlands",
+"remote": "remote",
+"posted": "2026-04-17",
+"url": "https://jobs.eu.lever.co/tomtom/b93bd63d-e7d1-4f7f-87e2-3ff959cdb10f",
+"source": "lever",
 "region": "Netherlands",
 "firstSeen": "2026-10-17"
 }

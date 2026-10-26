@@ -1,7 +1,7 @@
 {
-"generated": "2026-10-26T07:50:28Z",
+"generated": "2026-10-26T19:58:13Z",
 "region": "APAC",
-"count": 89,
+"count": 87,
 "jobs": [
 {
 "id": "mcf:MyCareersFuture:d457b70689ee464936310b43f6e11db8",
@@ -784,19 +784,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "mcf:MyCareersFuture:93684cc265c3bb649c74b16b95b7917d",
-"company": "NEUTRON PTE. LTD.",
-"title": "UI/UX Designer (Digital Services)",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-05",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/uiux-designer-neutron-93684cc265c3bb649c74b16b95b7917d",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 7000-8500 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "mcf:MyCareersFuture:5d607581663f101625f332f8d73da1f8",
 "company": "SCIENTEC CONSULTING PTE. LTD.",
 "title": "UI/UX Designer",
@@ -937,19 +924,6 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 5500-6500 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:c8a1ad371f338c22abd71d0cc49e3a8b",
-"company": "CYBERBOT PTE. LTD.",
-"title": "UI/UX Designer (Mobile Applications)",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-09-29",
-"url": "https://www.mycareersfuture.gov.sg/job/design/uiux-designer-cyberbot-c8a1ad371f338c22abd71d0cc49e3a8b",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 3000-5000 /Monthly",
 "firstSeen": "2026-10-17"
 },
 {

@@ -1,7 +1,7 @@
 {
-"generated": "2026-10-26T07:50:28Z",
+"generated": "2026-10-26T19:58:13Z",
 "region": "Remote",
-"count": 175,
+"count": 173,
 "jobs": [
 {
 "id": "jobicy:Jobicy:151644",
@@ -530,18 +530,6 @@
 "source": "We Work Remotely",
 "region": "Remote",
 "firstSeen": "2026-10-20"
-},
-{
-"id": "ashby:clera:6abd3a58-ae96-4436-b87c-a4fb078a86a7",
-"company": "Clera",
-"title": "Lead Product Designer (m/w/d)",
-"location": "Vienna",
-"remote": "OnSite",
-"posted": "2026-10-19",
-"url": "https://jobs.ashbyhq.com/clera/6abd3a58-ae96-4436-b87c-a4fb078a86a7",
-"source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-10-19"
 },
 {
 "id": "wwr:We Work Remotely:https://weworkremotely.com/remote-jobs/current-senior-product-designer-webflow-temp-to-perm",
@@ -1416,18 +1404,6 @@
 "posted": "2026-10-02",
 "url": "https://himalayas.app/companies/clear-street-markets/jobs/senior-product-designer-design-systems?utm_source=api",
 "source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:proton:4947375101",
-"company": "Proton",
-"title": "Senior Product Designer (Drive)",
-"location": "London, Geneva",
-"remote": null,
-"posted": "2026-10-01",
-"url": "https://job-boards.eu.greenhouse.io/proton/jobs/4947375101",
-"source": "greenhouse",
 "region": "Remote",
 "firstSeen": "2026-10-17"
 },

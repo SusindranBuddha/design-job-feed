@@ -1,8 +1,20 @@
 {
-"generated": "2026-10-25T17:40:31Z",
+"generated": "2026-10-26T07:50:28Z",
 "region": "Europe",
-"count": 98,
+"count": 97,
 "jobs": [
+{
+"id": "arbeitnow:Arbeitnow:senior-level-designer-holeio-paris-225901",
+"company": "Voodoo",
+"title": "Senior Level Designer - Hole.io",
+"location": "Paris",
+"remote": null,
+"posted": "2026-10-25",
+"url": "https://www.arbeitnow.fr/jobs/companies/voodoo/senior-level-designer-holeio-paris-225901",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-26"
+},
 {
 "id": "arbeitnow:Arbeitnow:2d-designer-switzerland-376650",
 "company": "Jobgether",
@@ -40,18 +52,6 @@
 "firstSeen": "2026-10-25"
 },
 {
-"id": "arbeitnow:Arbeitnow:2d-designer-france-231615",
-"company": "Jobgether",
-"title": "2D Designer",
-"location": "France",
-"remote": null,
-"posted": "2026-10-25",
-"url": "https://www.arbeitnow.fr/jobs/companies/jobgether/2d-designer-france-231615",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-25"
-},
-{
 "id": "arbeitnow:Arbeitnow:product-designer-cloud-rotterdam-294566",
 "company": "Mendix",
 "title": "Product Designer- Cloud",
@@ -59,6 +59,18 @@
 "remote": null,
 "posted": "2026-10-25",
 "url": "https://www.arbeitnow.nl/jobs/companies/mendix/product-designer-cloud-rotterdam-294566",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-25"
+},
+{
+"id": "arbeitnow:Arbeitnow:2d-designer-france-231615",
+"company": "Jobgether",
+"title": "2D Designer",
+"location": "France",
+"remote": null,
+"posted": "2026-10-25",
+"url": "https://www.arbeitnow.fr/jobs/companies/jobgether/2d-designer-france-231615",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-10-25"
@@ -232,30 +244,6 @@
 "firstSeen": "2026-10-23"
 },
 {
-"id": "arbeitnow:Arbeitnow:product-manager-product-design-h-f-rennes-23820",
-"company": "PYSAE",
-"title": "Product Manager – Product Design (H/F)",
-"location": "Rennes, Bretagne, France",
-"remote": null,
-"posted": "2026-10-23",
-"url": "https://www.arbeitnow.fr/jobs/companies/pysae/product-manager-product-design-h-f-rennes-23820",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-23"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-product-designer-store-layout-villeneuve-dascq-nord-188085",
-"company": "Junior Data Scientist - Downstream Demand Forecast - Value Chain ...",
-"title": "Senior Product Designer - Store layout (f/m/d)",
-"location": "Villeneuve-d'Ascq, Nord",
-"remote": null,
-"posted": "2026-10-22",
-"url": "https://www.arbeitnow.fr/jobs/companies/junior-data-scientist-downstream-demand-forecast-value-chain/senior-product-designer-store-layout-villeneuve-dascq-nord-188085",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-23"
-},
-{
 "id": "greenhouse:n26:8211088",
 "company": "N26",
 "title": "Product Designer",
@@ -349,7 +337,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Business-Analysis--AVP-1_R-786883",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 6 Days Ago",
+"postedText": "Posted 7 Days Ago",
 "firstSeen": "2026-10-20"
 },
 {
@@ -362,7 +350,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Platform-Engineering---Dev-UX--Production-Website---Off_R-799791-1",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 6 Days Ago",
+"postedText": "Posted 7 Days Ago",
 "firstSeen": "2026-10-19"
 },
 {
@@ -594,6 +582,18 @@
 "firstSeen": "2026-10-17"
 },
 {
+"id": "greenhouse:moniepoint:4987960101",
+"company": "Moniepoint",
+"title": "Product Design Manager - Design System",
+"location": "Remote, Spain",
+"remote": null,
+"posted": "2026-10-19",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987960101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
 "id": "greenhouse:moniepoint:4987958101",
 "company": "Moniepoint",
 "title": "Product Design Manager - Design System",
@@ -618,18 +618,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4987960101",
-"company": "Moniepoint",
-"title": "Product Design Manager - Design System",
-"location": "Remote, Spain",
-"remote": null,
-"posted": "2026-10-19",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987960101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:moniepoint:4629880101",
 "company": "Moniepoint",
 "title": "Product Design Manager - UX",
@@ -637,18 +625,6 @@
 "remote": null,
 "posted": "2026-10-19",
 "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4629880101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:moniepoint:4944263101",
-"company": "Moniepoint",
-"title": "Product Design Manager - UX",
-"location": "Remote, Spain",
-"remote": null,
-"posted": "2026-10-19",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4944263101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -666,13 +642,13 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4710853101",
+"id": "greenhouse:moniepoint:4944263101",
 "company": "Moniepoint",
-"title": "Staff Product Designer",
-"location": "Remote, Poland",
+"title": "Product Design Manager - UX",
+"location": "Remote, Spain",
 "remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710853101",
+"posted": "2026-10-19",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4944263101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -697,6 +673,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4988183101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:moniepoint:4710853101",
+"company": "Moniepoint",
+"title": "Staff Product Designer",
+"location": "Remote, Poland",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710853101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"

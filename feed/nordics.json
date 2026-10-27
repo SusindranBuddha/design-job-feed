@@ -1,8 +1,32 @@
 {
-"generated": "2026-10-27T07:55:19Z",
+"generated": "2026-10-27T19:27:35Z",
 "region": "Nordics",
-"count": 52,
+"count": 54,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31651537",
+"company": "Ericsson AB",
+"title": "PCB Designer",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-10-27",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31651537",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-10-27"
+},
+{
+"id": "teamtailor:DFDS:https://jobs.dfds.com/jobs/8613115-product-designer-in-ferry-commercial",
+"company": "DFDS",
+"title": "Product Designer in Ferry Commercial",
+"location": "",
+"remote": null,
+"posted": "2026-10-26",
+"url": "https://jobs.dfds.com/jobs/8613115-product-designer-in-ferry-commercial",
+"source": "teamtailor",
+"region": "Nordics",
+"firstSeen": "2026-10-27"
+},
 {
 "id": "platsbanken:Platsbanken:31643632",
 "company": "ALSTOM Transport AB",
@@ -280,18 +304,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:alphasense:8531119002",
-"company": "AlphaSense",
-"title": "Senior/Staff Product Designer",
-"location": "Remote - United Kingdom",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:alphasense:8530664002",
 "company": "AlphaSense",
 "title": "Senior/Staff Product Designer",
@@ -299,6 +311,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:alphasense:8531119002",
+"company": "AlphaSense",
+"title": "Senior/Staff Product Designer",
+"location": "Remote - United Kingdom",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"

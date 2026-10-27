@@ -1,15 +1,27 @@
 {
-"generated": "2026-10-27T07:55:19Z",
+"generated": "2026-10-27T19:27:35Z",
 "region": "India",
-"count": 14,
+"count": 15,
 "jobs": [
+{
+"id": "greenhouse:razorpaysoftwareprivatelimited:4745511005",
+"company": "Razorpay",
+"title": "Senior Product Designer (AI Builder)",
+"location": "Bengaluru",
+"remote": null,
+"posted": "2026-10-27",
+"url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4745511005",
+"source": "greenhouse",
+"region": "India",
+"firstSeen": "2026-10-22"
+},
 {
 "id": "greenhouse:workatbackbase:8194709",
 "company": "Backbase (India)",
 "title": "Senior UX Designer",
 "location": "Hyderabad",
 "remote": null,
-"posted": "2026-10-26",
+"posted": "2026-10-27",
 "url": "https://job-boards.greenhouse.io/workatbackbase/jobs/8194709",
 "source": "greenhouse",
 "region": "India",

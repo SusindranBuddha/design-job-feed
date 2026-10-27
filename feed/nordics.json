@@ -1,7 +1,7 @@
 {
-"generated": "2026-10-26T19:58:13Z",
+"generated": "2026-10-27T07:55:19Z",
 "region": "Nordics",
-"count": 53,
+"count": 52,
 "jobs": [
 {
 "id": "platsbanken:Platsbanken:31643632",
@@ -324,18 +324,6 @@
 "posted": "2026-10-15",
 "url": "https://job-boards.greenhouse.io/oura/jobs/4452942009",
 "source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "platsbanken:Platsbanken:31600684",
-"company": "Acne Studios AB",
-"title": "Senior Designer",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-10-15",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31600684",
-"source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
 },

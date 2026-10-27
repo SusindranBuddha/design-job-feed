@@ -1,8 +1,56 @@
 {
-"generated": "2026-10-26T19:58:13Z",
+"generated": "2026-10-27T07:55:19Z",
 "region": "Remote",
-"count": 173,
+"count": 174,
 "jobs": [
+{
+"id": "jobicy:Jobicy:151771",
+"company": "TeamSnap",
+"title": "Senior Product Designer",
+"location": "USA",
+"remote": "remote",
+"posted": "2026-10-27",
+"url": "https://jobicy.com/jobs/151771-senior-product-designer-3",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-27"
+},
+{
+"id": "jobicy:Jobicy:151702",
+"company": "Future PLC",
+"title": "Senior Product Designer",
+"location": "USA",
+"remote": "remote",
+"posted": "2026-10-27",
+"url": "https://jobicy.com/jobs/151702-senior-product-designer-2",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-27"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/tabby/jobs/senior-product-designer-bnpl",
+"company": "Tabby",
+"title": "Senior Product Designer, BNPL",
+"location": "Kuwait, Saudi Arabia, United Arab Emirates",
+"remote": "remote",
+"posted": "2026-10-27",
+"url": "https://himalayas.app/companies/tabby/jobs/senior-product-designer-bnpl?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-27"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/revizto/jobs/product-designer-design-system-8354912064",
+"company": "Revizto",
+"title": "Product Designer (Design System)",
+"location": "Armenia",
+"remote": "remote",
+"posted": "2026-10-27",
+"url": "https://himalayas.app/companies/revizto/jobs/product-designer-design-system-8354912064?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-27"
+},
 {
 "id": "jobicy:Jobicy:151644",
 "company": "Ashby",
@@ -395,18 +443,6 @@
 "remote": "remote",
 "posted": "2026-10-23",
 "url": "https://jobicy.com/jobs/156508-lead-product-designer",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-10-23"
-},
-{
-"id": "jobicy:Jobicy:156503",
-"company": "Nextiva",
-"title": "Senior Product Designer",
-"location": "USA",
-"remote": "remote",
-"posted": "2026-10-23",
-"url": "https://jobicy.com/jobs/156503-senior-product-designer-16",
 "source": "Jobicy",
 "region": "Remote",
 "firstSeen": "2026-10-23"
@@ -880,18 +916,6 @@
 "firstSeen": "2026-10-18"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/cribl/jobs/sr-ux-designer-security",
-"company": "Cribl",
-"title": "Sr. UX Designer, Security",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-09-13",
-"url": "https://himalayas.app/companies/cribl/jobs/sr-ux-designer-security?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/rootstocklabs/jobs/senior-product-designer-3865616323",
 "company": "RootstockLabs",
 "title": "Senior Product Designer",
@@ -923,18 +947,6 @@
 "remote": "remote",
 "posted": "2026-09-03",
 "url": "https://himalayas.app/companies/accelint/jobs/senior-product-designer-7795120682?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/wati/jobs/lead-product-designer",
-"company": "WATI",
-"title": "Lead Product Designer",
-"location": "India",
-"remote": "remote",
-"posted": "2026-09-01",
-"url": "https://himalayas.app/companies/wati/jobs/lead-product-designer?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"

@@ -1,9 +1,9 @@
 {
-"generated": "2026-10-26T19:58:13Z",
+"generated": "2026-10-27T07:55:19Z",
 "sources": 162,
-"ok": 151,
-"errors": 11,
-"designRoles": 455,
+"ok": 150,
+"errors": 12,
+"designRoles": 399,
 "newRoles": 11,
 "detail": [
 {
@@ -15,12 +15,20 @@
 "secs": 0.3
 },
 {
+"company": "MyCareersFuture",
+"type": "mcf",
+"region": "APAC",
+"status": "error",
+"error": "HTTPError: 504 Server Error: Gateway Timeout for url: https://api.mycareersfuture.gov.sg/v2/jobs?search=product+designer&sortBy=new_posting_date&limit=100",
+"secs": 29.7
+},
+{
 "company": "Innovaccer",
 "type": "greenhouse",
 "region": "India",
 "status": "error",
 "error": "HTTPError: 404 Client Error: Not Found for url: https://job-boards.greenhouse.io/innovaccer",
-"secs": 0.4
+"secs": 0.2
 },
 {
 "company": "PhonePe",
@@ -28,7 +36,7 @@
 "region": "India",
 "status": "error",
 "error": "HTTPError: 404 Client Error: Not Found for url: https://job-boards.greenhouse.io/phonepe",
-"secs": 0.3
+"secs": 0.4
 },
 {
 "company": "Postman",
@@ -36,7 +44,7 @@
 "region": "India",
 "status": "error",
 "error": "HTTPError: 404 Client Error: Not Found for url: https://job-boards.greenhouse.io/postman",
-"secs": 0.2
+"secs": 0.3
 },
 {
 "company": "Tekion",
@@ -44,7 +52,7 @@
 "region": "India",
 "status": "error",
 "error": "HTTPError: 404 Client Error: Not Found for url: https://job-boards.greenhouse.io/tekion",
-"secs": 0.4
+"secs": 0.3
 },
 {
 "company": "Aiven",
@@ -52,7 +60,7 @@
 "region": "Nordics",
 "status": "error",
 "error": "HTTPError: 404 Client Error: Not Found for url: https://job-boards.greenhouse.io/aiven",
-"secs": 0.3
+"secs": 0.2
 },
 {
 "company": "Epidemic Sound",
@@ -60,7 +68,7 @@
 "region": "Nordics",
 "status": "error",
 "error": "HTTPError: 404 Client Error: Not Found for url: https://epidemic-sound.teamtailor.com/jobs",
-"secs": 0.5
+"secs": 0.8
 },
 {
 "company": "Klarna",
@@ -76,7 +84,7 @@
 "region": "Nordics",
 "status": "error",
 "error": "SSLError: HTTPSConnectionPool(host='jobs.tink.se', port=443): Max retries exceeded with url: /jobs (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERI",
-"secs": 0.2
+"secs": 0.1
 },
 {
 "company": "Too Good To Go",
@@ -84,7 +92,7 @@
 "region": "Nordics",
 "status": "error",
 "error": "HTTPError: 404 Client Error: Not Found for url: https://job-boards.greenhouse.io/toogoodtogo",
-"secs": 0.2
+"secs": 0.4
 },
 {
 "company": "Huspy",
@@ -92,23 +100,23 @@
 "region": "UAE",
 "status": "error",
 "error": "HTTPError: 404 Client Error: Not Found for url: https://job-boards.greenhouse.io/huspy",
-"secs": 0.4
+"secs": 0.5
 },
 {
 "company": "Agoda",
 "type": "greenhouse",
 "region": "APAC",
 "status": "ok",
-"total": 309,
+"total": 312,
 "design": 6,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Airwallex",
 "type": "ashby",
 "region": "APAC",
 "status": "ok",
-"total": 510,
+"total": 508,
 "design": 5,
 "secs": 0.3
 },
@@ -119,7 +127,7 @@
 "status": "ok",
 "total": 9,
 "design": 1,
-"secs": 1.7
+"secs": 1.9
 },
 {
 "company": "Carousell",
@@ -128,7 +136,7 @@
 "status": "ok",
 "total": 0,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Castlery",
@@ -144,18 +152,18 @@
 "type": "workday",
 "region": "APAC",
 "status": "ok",
-"total": 8,
+"total": 9,
 "design": 0,
-"secs": 1.6
+"secs": 1.8
 },
 {
 "company": "Culture Amp",
 "type": "greenhouse",
 "region": "APAC",
 "status": "ok",
-"total": 33,
+"total": 35,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "DBS",
@@ -164,7 +172,7 @@
 "status": "ok",
 "total": 209,
 "design": 22,
-"secs": 9.1
+"secs": 9.8
 },
 {
 "company": "GXS Bank",
@@ -173,14 +181,14 @@
 "status": "ok",
 "total": 0,
 "design": 0,
-"secs": 1.2
+"secs": 1.5
 },
 {
 "company": "Grab",
 "type": "smartrecruiters",
 "region": "APAC",
 "status": "ok",
-"total": 440,
+"total": 434,
 "design": 4,
 "secs": 2.0
 },
@@ -189,18 +197,18 @@
 "type": "workday",
 "region": "APAC",
 "status": "ok",
-"total": 11,
+"total": 10,
 "design": 2,
-"secs": 1.6
+"secs": 1.5
 },
 {
 "company": "Karbon",
 "type": "greenhouse",
 "region": "APAC",
 "status": "ok",
-"total": 17,
+"total": 16,
 "design": 2,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Mercari",
@@ -209,16 +217,7 @@
 "status": "ok",
 "total": 0,
 "design": 0,
-"secs": 0.0
-},
-{
-"company": "MyCareersFuture",
-"type": "mcf",
-"region": "APAC",
-"status": "ok",
-"total": 256,
-"design": 76,
-"secs": 23.7
+"secs": 0.1
 },
 {
 "company": "Ninja Van",
@@ -227,16 +226,16 @@
 "status": "ok",
 "total": 139,
 "design": 0,
-"secs": 1.0
+"secs": 25.4
 },
 {
 "company": "Nium",
 "type": "lever",
 "region": "APAC",
 "status": "ok",
-"total": 20,
+"total": 19,
 "design": 0,
-"secs": 7.0
+"secs": 0.5
 },
 {
 "company": "Open Government Products",
@@ -254,7 +253,7 @@
 "status": "ok",
 "total": 17,
 "design": 2,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Paidy",
@@ -272,7 +271,7 @@
 "status": "ok",
 "total": 11,
 "design": 1,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "SmartNews",
@@ -288,9 +287,9 @@
 "type": "greenhouse",
 "region": "APAC",
 "status": "ok",
-"total": 10,
+"total": 11,
 "design": 0,
-"secs": 0.1
+"secs": 0.0
 },
 {
 "company": "Xendit",
@@ -299,7 +298,7 @@
 "status": "ok",
 "total": 25,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Zip Co",
@@ -308,7 +307,7 @@
 "status": "ok",
 "total": 36,
 "design": 1,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "9fin",
@@ -334,8 +333,8 @@
 "region": "Europe",
 "status": "ok",
 "total": 1500,
-"design": 19,
-"secs": 1.0
+"design": 24,
+"secs": 0.8
 },
 {
 "company": "Bitpanda",
@@ -344,7 +343,7 @@
 "status": "ok",
 "total": 35,
 "design": 2,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Blacklane",
@@ -353,7 +352,7 @@
 "status": "ok",
 "total": 9,
 "design": 3,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Celonis",
@@ -362,16 +361,16 @@
 "status": "ok",
 "total": 224,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Checkout.com",
 "type": "ashby",
 "region": "Europe",
 "status": "ok",
-"total": 165,
+"total": 169,
 "design": 0,
-"secs": 0.1
+"secs": 0.2
 },
 {
 "company": "Contentful",
@@ -389,7 +388,7 @@
 "status": "ok",
 "total": 21,
 "design": 1,
-"secs": 2.5
+"secs": 16.8
 },
 {
 "company": "Deliveroo",
@@ -407,7 +406,7 @@
 "status": "ok",
 "total": 140,
 "design": 3,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "GetYourGuide",
@@ -416,7 +415,7 @@
 "status": "ok",
 "total": 72,
 "design": 3,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "GoCardless",
@@ -425,25 +424,25 @@
 "status": "ok",
 "total": 25,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "HelloFresh",
 "type": "greenhouse",
 "region": "Europe",
 "status": "ok",
-"total": 383,
+"total": 377,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Intercom",
 "type": "greenhouse",
 "region": "Europe",
 "status": "ok",
-"total": 100,
+"total": 99,
 "design": 5,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Iterable",
@@ -452,7 +451,7 @@
 "status": "ok",
 "total": 0,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Lendable",
@@ -468,9 +467,9 @@
 "type": "greenhouse",
 "region": "Europe",
 "status": "ok",
-"total": 139,
+"total": 140,
 "design": 10,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Monzo",
@@ -479,7 +478,7 @@
 "status": "ok",
 "total": 70,
 "design": 1,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "N26",
@@ -488,15 +487,15 @@
 "status": "ok",
 "total": 38,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Okta (Spain)",
 "type": "greenhouse",
 "region": "Europe",
 "status": "ok",
-"total": 388,
-"design": 6,
+"total": 390,
+"design": 8,
 "secs": 0.1
 },
 {
@@ -515,7 +514,7 @@
 "status": "ok",
 "total": 0,
 "design": 0,
-"secs": 0.1
+"secs": 0.4
 },
 {
 "company": "Raisin",
@@ -524,16 +523,16 @@
 "status": "ok",
 "total": 36,
 "design": 1,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Scalable Capital",
 "type": "smartrecruiters",
 "region": "Europe",
 "status": "ok",
-"total": 103,
+"total": 99,
 "design": 1,
-"secs": 0.7
+"secs": 0.4
 },
 {
 "company": "Starling Bank",
@@ -542,7 +541,7 @@
 "status": "ok",
 "total": 93,
 "design": 1,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "State Street",
@@ -551,7 +550,7 @@
 "status": "ok",
 "total": 213,
 "design": 3,
-"secs": 7.1
+"secs": 6.3
 },
 {
 "company": "Stripe",
@@ -576,9 +575,9 @@
 "type": "greenhouse",
 "region": "Europe",
 "status": "ok",
-"total": 107,
+"total": 102,
 "design": 4,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Trade Republic",
@@ -587,7 +586,7 @@
 "status": "ok",
 "total": 46,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "TrueLayer",
@@ -596,7 +595,7 @@
 "status": "ok",
 "total": 3,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Typeform",
@@ -605,14 +604,14 @@
 "status": "ok",
 "total": 10,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Wise",
 "type": "smartrecruiters",
 "region": "Europe",
 "status": "ok",
-"total": 420,
+"total": 408,
 "design": 6,
 "secs": 2.1
 },
@@ -623,7 +622,7 @@
 "status": "ok",
 "total": 14,
 "design": 1,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Backbase (India)",
@@ -632,7 +631,7 @@
 "status": "ok",
 "total": 66,
 "design": 1,
-"secs": 0.0
+"secs": 0.3
 },
 {
 "company": "BrowserStack",
@@ -650,7 +649,7 @@
 "status": "ok",
 "total": 0,
 "design": 0,
-"secs": 0.2
+"secs": 0.1
 },
 {
 "company": "CRED",
@@ -659,7 +658,7 @@
 "status": "ok",
 "total": 10,
 "design": 0,
-"secs": 0.5
+"secs": 0.4
 },
 {
 "company": "Epifi (Fi)",
@@ -668,7 +667,7 @@
 "status": "ok",
 "total": 0,
 "design": 0,
-"secs": 0.4
+"secs": 0.2
 },
 {
 "company": "Freshworks",
@@ -686,16 +685,16 @@
 "status": "ok",
 "total": 10,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "HighLevel",
 "type": "lever",
 "region": "India",
 "status": "ok",
-"total": 104,
+"total": 107,
 "design": 6,
-"secs": 1.6
+"secs": 0.4
 },
 {
 "company": "Meesho",
@@ -704,7 +703,7 @@
 "status": "ok",
 "total": 54,
 "design": 1,
-"secs": 1.1
+"secs": 0.5
 },
 {
 "company": "Mindtickle",
@@ -713,43 +712,43 @@
 "status": "ok",
 "total": 21,
 "design": 3,
-"secs": 0.5
+"secs": 2.6
 },
 {
 "company": "Razorpay",
 "type": "greenhouse",
 "region": "India",
 "status": "ok",
-"total": 26,
-"design": 2,
-"secs": 0.0
+"total": 27,
+"design": 1,
+"secs": 0.1
 },
 {
 "company": "Sprinklr",
 "type": "workday",
 "region": "India",
 "status": "ok",
-"total": 77,
+"total": 79,
 "design": 2,
-"secs": 2.5
+"secs": 2.4
 },
 {
 "company": "Swiggy",
 "type": "smartrecruiters",
 "region": "India",
 "status": "ok",
-"total": 201,
+"total": 198,
 "design": 1,
-"secs": 2.0
+"secs": 1.3
 },
 {
 "company": "Adyen",
 "type": "greenhouse",
 "region": "Netherlands",
 "status": "ok",
-"total": 244,
+"total": 247,
 "design": 3,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Bitvavo",
@@ -758,7 +757,7 @@
 "status": "ok",
 "total": 15,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Catawiki",
@@ -767,14 +766,14 @@
 "status": "ok",
 "total": 43,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Elastic",
 "type": "greenhouse",
 "region": "Netherlands",
 "status": "ok",
-"total": 400,
+"total": 401,
 "design": 4,
 "secs": 0.1
 },
@@ -783,9 +782,9 @@
 "type": "greenhouse",
 "region": "Netherlands",
 "status": "ok",
-"total": 188,
+"total": 189,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "HousingAnywhere",
@@ -794,14 +793,14 @@
 "status": "ok",
 "total": 4,
 "design": 2,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Lightspeed",
 "type": "ashby",
 "region": "Netherlands",
 "status": "ok",
-"total": 113,
+"total": 117,
 "design": 3,
 "secs": 0.1
 },
@@ -810,9 +809,9 @@
 "type": "greenhouse",
 "region": "Netherlands",
 "status": "ok",
-"total": 21,
+"total": 20,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Mollie",
@@ -821,7 +820,7 @@
 "status": "ok",
 "total": 51,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Rentman",
@@ -830,7 +829,7 @@
 "status": "ok",
 "total": 9,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Sendcloud",
@@ -839,7 +838,7 @@
 "status": "ok",
 "total": 30,
 "design": 0,
-"secs": 0.1
+"secs": 0.5
 },
 {
 "company": "Tebi",
@@ -848,7 +847,7 @@
 "status": "ok",
 "total": 20,
 "design": 1,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "TomTom",
@@ -857,7 +856,7 @@
 "status": "ok",
 "total": 20,
 "design": 1,
-"secs": 0.8
+"secs": 0.9
 },
 {
 "company": "Vio",
@@ -866,7 +865,7 @@
 "status": "ok",
 "total": 8,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "bol.com",
@@ -875,16 +874,16 @@
 "status": "ok",
 "total": 17,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "bunq",
 "type": "recruitee",
 "region": "Netherlands",
 "status": "ok",
-"total": 20,
+"total": 19,
 "design": 0,
-"secs": 0.3
+"secs": 0.4
 },
 {
 "company": "AlphaSense",
@@ -893,7 +892,7 @@
 "status": "ok",
 "total": 212,
 "design": 4,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "DFDS",
@@ -902,7 +901,7 @@
 "status": "ok",
 "total": 100,
 "design": 0,
-"secs": 1.1
+"secs": 1.2
 },
 {
 "company": "Kahoot!",
@@ -911,7 +910,7 @@
 "status": "ok",
 "total": 6,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Kry",
@@ -920,16 +919,16 @@
 "status": "ok",
 "total": 51,
 "design": 0,
-"secs": 0.1
+"secs": 0.2
 },
 {
 "company": "Legora",
 "type": "ashby",
 "region": "Nordics",
 "status": "ok",
-"total": 306,
+"total": 305,
 "design": 5,
-"secs": 0.2
+"secs": 0.1
 },
 {
 "company": "Lunar",
@@ -938,7 +937,7 @@
 "status": "ok",
 "total": 22,
 "design": 1,
-"secs": 0.2
+"secs": 0.1
 },
 {
 "company": "Oura",
@@ -954,9 +953,9 @@
 "type": "platsbanken",
 "region": "Nordics",
 "status": "ok",
-"total": 158,
-"design": 40,
-"secs": 5.2
+"total": 157,
+"design": 39,
+"secs": 6.2
 },
 {
 "company": "Pleo",
@@ -974,7 +973,7 @@
 "status": "ok",
 "total": 18,
 "design": 1,
-"secs": 0.2
+"secs": 0.1
 },
 {
 "company": "RELEX",
@@ -983,7 +982,7 @@
 "status": "ok",
 "total": 44,
 "design": 1,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Rovio",
@@ -992,16 +991,16 @@
 "status": "ok",
 "total": 2,
 "design": 0,
-"secs": 0.4
+"secs": 0.3
 },
 {
 "company": "Saxo Bank",
 "type": "workday",
 "region": "Nordics",
 "status": "ok",
-"total": 10,
+"total": 9,
 "design": 0,
-"secs": 1.7
+"secs": 2.0
 },
 {
 "company": "Smartly",
@@ -1010,7 +1009,7 @@
 "status": "ok",
 "total": 60,
 "design": 2,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Spotify",
@@ -1019,7 +1018,7 @@
 "status": "ok",
 "total": 89,
 "design": 1,
-"secs": 1.0
+"secs": 0.7
 },
 {
 "company": "Truecaller",
@@ -1028,7 +1027,7 @@
 "status": "ok",
 "total": 33,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Trustly",
@@ -1037,7 +1036,7 @@
 "status": "ok",
 "total": 35,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Trustpilot",
@@ -1046,16 +1045,16 @@
 "status": "ok",
 "total": 46,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Unity",
 "type": "workday",
 "region": "Nordics",
 "status": "ok",
-"total": 13,
+"total": 14,
 "design": 0,
-"secs": 0.7
+"secs": 0.6
 },
 {
 "company": "Vivino",
@@ -1080,18 +1079,18 @@
 "type": "greenhouse",
 "region": "Nordics",
 "status": "ok",
-"total": 195,
+"total": 196,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Zettle by PayPal",
 "type": "workday",
 "region": "Nordics",
 "status": "ok",
-"total": 203,
+"total": 200,
 "design": 0,
-"secs": 11.7
+"secs": 7.9
 },
 {
 "company": "Buffer",
@@ -1100,7 +1099,7 @@
 "status": "ok",
 "total": 0,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Canonical",
@@ -1109,7 +1108,7 @@
 "status": "ok",
 "total": 314,
 "design": 4,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Clear Street",
@@ -1118,14 +1117,14 @@
 "status": "ok",
 "total": 44,
 "design": 3,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Clera",
 "type": "ashby",
 "region": "Remote",
 "status": "ok",
-"total": 295,
+"total": 292,
 "design": 5,
 "secs": 0.1
 },
@@ -1136,25 +1135,25 @@
 "status": "ok",
 "total": 6,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "CoinsPaid",
 "type": "lever",
 "region": "Remote",
 "status": "ok",
-"total": 34,
+"total": 32,
 "design": 1,
-"secs": 0.9
+"secs": 1.0
 },
 {
 "company": "Consensys",
 "type": "greenhouse",
 "region": "Remote",
 "status": "ok",
-"total": 12,
+"total": 11,
 "design": 2,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Contentsquare (incl. Hotjar)",
@@ -1163,7 +1162,7 @@
 "status": "ok",
 "total": 17,
 "design": 2,
-"secs": 12.0
+"secs": 0.2
 },
 {
 "company": "DuckDuckGo",
@@ -1172,25 +1171,25 @@
 "status": "ok",
 "total": 12,
 "design": 2,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "GitLab",
 "type": "greenhouse",
 "region": "Remote",
 "status": "ok",
-"total": 239,
+"total": 238,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Himalayas",
 "type": "himalayas",
 "region": "Remote",
 "status": "ok",
-"total": 139,
-"design": 118,
-"secs": 0.3
+"total": 138,
+"design": 117,
+"secs": 2.3
 },
 {
 "company": "Hugging Face",
@@ -1207,15 +1206,15 @@
 "region": "Remote",
 "status": "ok",
 "total": 100,
-"design": 18,
-"secs": 1.8
+"design": 21,
+"secs": 2.3
 },
 {
 "company": "Linear",
 "type": "ashby",
 "region": "Remote",
 "status": "ok",
-"total": 34,
+"total": 32,
 "design": 4,
 "secs": 0.0
 },
@@ -1224,7 +1223,7 @@
 "type": "ashby",
 "region": "Remote",
 "status": "ok",
-"total": 23,
+"total": 24,
 "design": 0,
 "secs": 0.1
 },
@@ -1235,7 +1234,7 @@
 "status": "ok",
 "total": 11,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Proton",
@@ -1244,7 +1243,7 @@
 "status": "ok",
 "total": 21,
 "design": 2,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Railway",
@@ -1289,7 +1288,7 @@
 "status": "ok",
 "total": 64,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Tether",
@@ -1307,7 +1306,7 @@
 "status": "ok",
 "total": 10,
 "design": 0,
-"secs": 0.2
+"secs": 0.1
 },
 {
 "company": "Vercel",
@@ -1316,7 +1315,7 @@
 "status": "ok",
 "total": 93,
 "design": 3,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "We Work Remotely",
@@ -1334,7 +1333,7 @@
 "status": "ok",
 "total": 15,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "WunderGraph",
@@ -1343,7 +1342,7 @@
 "status": "ok",
 "total": 4,
 "design": 1,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Zapier",
@@ -1361,7 +1360,7 @@
 "status": "ok",
 "total": 38,
 "design": 0,
-"secs": 0.0
+"secs": 0.2
 },
 {
 "company": "Careem",
@@ -1370,16 +1369,16 @@
 "status": "ok",
 "total": 12,
 "design": 0,
-"secs": 0.2
+"secs": 0.1
 },
 {
 "company": "Etihad Airways",
 "type": "smartrecruiters",
 "region": "UAE",
 "status": "ok",
-"total": 96,
+"total": 93,
 "design": 1,
-"secs": 0.4
+"secs": 0.5
 },
 {
 "company": "Hostaway",
@@ -1388,16 +1387,16 @@
 "status": "ok",
 "total": 8,
 "design": 1,
-"secs": 0.2
+"secs": 0.3
 },
 {
 "company": "Property Finder",
 "type": "teamtailor",
 "region": "UAE",
 "status": "ok",
-"total": 37,
+"total": 38,
 "design": 2,
-"secs": 0.6
+"secs": 0.7
 },
 {
 "company": "Qashio",
@@ -1415,7 +1414,7 @@
 "status": "ok",
 "total": 45,
 "design": 2,
-"secs": 1.2
+"secs": 1.4
 },
 {
 "company": "Tamara",
@@ -1424,7 +1423,7 @@
 "status": "ok",
 "total": 46,
 "design": 0,
-"secs": 0.2
+"secs": 0.1
 },
 {
 "company": "Ziina",
@@ -1440,9 +1439,9 @@
 "type": "smartrecruiters",
 "region": "UAE",
 "status": "ok",
-"total": 927,
+"total": 922,
 "design": 7,
-"secs": 4.5
+"secs": 4.2
 },
 {
 "company": "think-cell",
@@ -1451,7 +1450,7 @@
 "status": "ok",
 "total": 29,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 }
 ]
 }

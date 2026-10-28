@@ -1,8 +1,20 @@
 {
-"generated": "2026-10-28T08:37:07Z",
+"generated": "2026-10-28T19:36:33Z",
 "region": "UAE",
 "count": 15,
 "jobs": [
+{
+"id": "smartrecruiters:DeliveryHero:744000158236671",
+"company": "talabat",
+"title": "Senior Product Design Manager",
+"location": "Riyadh, sa",
+"remote": null,
+"posted": "2026-10-28",
+"url": "https://jobs.smartrecruiters.com/DeliveryHero/744000158236671",
+"source": "smartrecruiters",
+"region": "UAE",
+"firstSeen": "2026-10-28"
+},
 {
 "id": "smartrecruiters:EtihadAirways5:744000157802101",
 "company": "Etihad Airways",
@@ -74,18 +86,6 @@
 "source": "smartrecruiters",
 "region": "UAE",
 "firstSeen": "2026-10-23"
-},
-{
-"id": "smartrecruiters:DeliveryHero:744000157056529",
-"company": "talabat",
-"title": "Senior Product Design Manager",
-"location": "Riyadh, sa",
-"remote": null,
-"posted": "2026-10-22",
-"url": "https://jobs.smartrecruiters.com/DeliveryHero/744000157056529",
-"source": "smartrecruiters",
-"region": "UAE",
-"firstSeen": "2026-10-22"
 },
 {
 "id": "smartrecruiters:DeliveryHero:744000156036369",

@@ -1,8 +1,56 @@
 {
-"generated": "2026-10-28T08:37:07Z",
+"generated": "2026-10-28T19:36:33Z",
 "region": "Nordics",
-"count": 52,
+"count": 55,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31657908",
+"company": "Veritaz AB",
+"title": "Product Designer - 20455",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-10-28",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31657908",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-10-28"
+},
+{
+"id": "platsbanken:Platsbanken:31655524",
+"company": "Sway Sourcing Sweden Aktiebolag",
+"title": "Senior Product Designer – TV & Digital Experiences | Stockholm",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-10-28",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31655524",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-10-28"
+},
+{
+"id": "platsbanken:Platsbanken:31656498",
+"company": "Specialpedagogiska Skolmyndigheten",
+"title": "Digital strateg med fokus på UX till SPSM, vikariat",
+"location": "Härnösand",
+"remote": null,
+"posted": "2026-10-28",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31656498",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-10-28"
+},
+{
+"id": "platsbanken:Platsbanken:31656390",
+"company": "Specialpedagogiska Skolmyndigheten",
+"title": "Digital strateg med fokus på UX till SPSM, vikariat",
+"location": "Örebro",
+"remote": null,
+"posted": "2026-10-28",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31656390",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-10-28"
+},
 {
 "id": "platsbanken:Platsbanken:31651537",
 "company": "Ericsson AB",
@@ -304,18 +352,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:alphasense:8531119002",
-"company": "AlphaSense",
-"title": "Senior/Staff Product Designer",
-"location": "Remote - United Kingdom",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:alphasense:8530664002",
 "company": "AlphaSense",
 "title": "Senior/Staff Product Designer",
@@ -323,6 +359,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:alphasense:8531119002",
+"company": "AlphaSense",
+"title": "Senior/Staff Product Designer",
+"location": "Remote - United Kingdom",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
@@ -564,18 +612,6 @@
 "posted": "2026-09-17",
 "url": "https://jobs.ashbyhq.com/legora/89073502-e8e3-49d9-ba4b-5642ef1a933d",
 "source": "ashby",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "teamtailor:Qred:https://jobs.qred.com/jobs/8397839-senior-ux-designer",
-"company": "Qred",
-"title": "Senior UX Designer",
-"location": "",
-"remote": null,
-"posted": "2026-09-17",
-"url": "https://jobs.qred.com/jobs/8397839-senior-ux-designer",
-"source": "teamtailor",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
 },

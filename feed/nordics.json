@@ -1,7 +1,7 @@
 {
-"generated": "2026-10-27T19:27:35Z",
+"generated": "2026-10-28T08:37:07Z",
 "region": "Nordics",
-"count": 54,
+"count": 52,
 "jobs": [
 {
 "id": "platsbanken:Platsbanken:31651537",
@@ -208,18 +208,6 @@
 "firstSeen": "2026-10-21"
 },
 {
-"id": "platsbanken:Platsbanken:31621911",
-"company": "21Activa Bemanning & Rekrytering AB",
-"title": "Senior Accessory Designer",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-10-20",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31621911",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-20"
-},
-{
 "id": "platsbanken:Platsbanken:31621230",
 "company": "MultiMind Holding AB",
 "title": "Senior Accessory Designer",
@@ -254,6 +242,18 @@
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-19"
+},
+{
+"id": "greenhouse:oura:4421754009",
+"company": "Oura",
+"title": "Senior Product Designer, Movement",
+"location": "Hybrid - San Francisco, California",
+"remote": null,
+"posted": "2026-10-27",
+"url": "https://job-boards.greenhouse.io/oura/jobs/4421754009",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
 },
 {
 "id": "greenhouse:smartlyio:6208020004",
@@ -304,18 +304,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:alphasense:8530664002",
-"company": "AlphaSense",
-"title": "Senior/Staff Product Designer",
-"location": "New York, New York, United States; Remote - United States",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:alphasense:8531119002",
 "company": "AlphaSense",
 "title": "Senior/Staff Product Designer",
@@ -323,6 +311,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:alphasense:8530664002",
+"company": "AlphaSense",
+"title": "Senior/Staff Product Designer",
+"location": "New York, New York, United States; Remote - United States",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
@@ -448,18 +448,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "platsbanken:Platsbanken:31544158",
-"company": "Hykmann Global Business Solutions AB",
-"title": "UX/UI/CX Designer",
-"location": "",
-"remote": null,
-"posted": "2026-10-01",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31544158",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "platsbanken:Platsbanken:31535442",
 "company": "Nordic Air Defence AB",
 "title": "Senior Digital Designer",
@@ -492,18 +480,6 @@
 "posted": "2026-09-29",
 "url": "https://jobs.lunar.app/jobs/8469749-senior-product-designer",
 "source": "teamtailor",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:oura:4421754009",
-"company": "Oura",
-"title": "Senior Product Designer, Movement",
-"location": "Hybrid - San Francisco, California",
-"remote": null,
-"posted": "2026-09-29",
-"url": "https://job-boards.greenhouse.io/oura/jobs/4421754009",
-"source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
 },

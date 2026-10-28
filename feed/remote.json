@@ -1,8 +1,80 @@
 {
-"generated": "2026-10-27T19:27:35Z",
+"generated": "2026-10-28T08:37:07Z",
 "region": "Remote",
-"count": 145,
+"count": 143,
 "jobs": [
+{
+"id": "ashby:clera:d7aa277a-a14b-4f59-810f-3cb33886e736",
+"company": "Clera",
+"title": "Founding Design Engineer",
+"location": "Palo Alto",
+"remote": "Remote",
+"posted": "2026-10-28",
+"url": "https://jobs.ashbyhq.com/clera/d7aa277a-a14b-4f59-810f-3cb33886e736",
+"source": "ashby",
+"region": "Remote",
+"firstSeen": "2026-10-28"
+},
+{
+"id": "jobicy:Jobicy:154105",
+"company": "Docplanner",
+"title": "Senior Product Designer - Feegow (100% remote friendly in Brazil)",
+"location": "Brazil",
+"remote": "remote",
+"posted": "2026-10-28",
+"url": "https://jobicy.com/jobs/154105-senior-product-designer-feegow-100-remote-friendly-in-brazil",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-28"
+},
+{
+"id": "jobicy:Jobicy:151800",
+"company": "Homebound",
+"title": "Senior Product Designer, Mobile",
+"location": "USA",
+"remote": "remote",
+"posted": "2026-10-28",
+"url": "https://jobicy.com/jobs/151800-senior-product-designer-mobile",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-28"
+},
+{
+"id": "jobicy:Jobicy:151797",
+"company": "Dispatch",
+"title": "Senior Product Designer",
+"location": "USA",
+"remote": "remote",
+"posted": "2026-10-28",
+"url": "https://jobicy.com/jobs/151797-senior-product-designer-8",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-28"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/step/jobs/lead-product-designer-banking",
+"company": "Step",
+"title": "Lead Product Designer, Banking",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-10-28",
+"url": "https://himalayas.app/companies/step/jobs/lead-product-designer-banking?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-28"
+},
+{
+"id": "jobicy:Jobicy:157436",
+"company": "Mural",
+"title": "Manager, Product Design, Growth (Upper Funnel)",
+"location": "Canada, USA",
+"remote": "remote",
+"posted": "2026-10-27",
+"url": "https://jobicy.com/jobs/157436-manager-product-design-growth-upper-funnel",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-28"
+},
 {
 "id": "ashby:clera:1a5a4d95-0d1b-47ad-b926-617d1441a899",
 "company": "Clera",
@@ -96,30 +168,6 @@
 "posted": "2026-10-25",
 "url": "https://jobicy.com/jobs/157027-senior-product-designer-ii",
 "source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-10-26"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/blueprint-ai/jobs/senior-ux-cx-designer-242438235",
-"company": "Blueprint",
-"title": "Senior UX/CX Designer",
-"location": "Romania",
-"remote": "remote",
-"posted": "2026-10-25",
-"url": "https://himalayas.app/companies/blueprint-ai/jobs/senior-ux-cx-designer-242438235?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-26"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/blueprint-ai/jobs/ux-cx-designer-3582439871",
-"company": "Blueprint",
-"title": "UX/CX Designer",
-"location": "Romania",
-"remote": "remote",
-"posted": "2026-10-25",
-"url": "https://himalayas.app/companies/blueprint-ai/jobs/ux-cx-designer-3582439871?utm_source=api",
-"source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-26"
 },
@@ -232,18 +280,6 @@
 "firstSeen": "2026-10-25"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/cavallo/jobs/senior-product-designer",
-"company": "Cavallo",
-"title": "Senior Product Designer",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-10-25",
-"url": "https://himalayas.app/companies/cavallo/jobs/senior-product-designer?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-25"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/arvore/jobs/game-ux-ui-designer-talent-pool",
 "company": "ARVORE",
 "title": "Game UX/UI Designer | Talent Pool",
@@ -251,18 +287,6 @@
 "remote": "remote",
 "posted": "2026-10-25",
 "url": "https://himalayas.app/companies/arvore/jobs/game-ux-ui-designer-talent-pool?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-25"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/blueprint-ai/jobs/ux-cx-designer",
-"company": "Blueprint",
-"title": "UX/CX Designer",
-"location": "Argentina",
-"remote": "remote",
-"posted": "2026-10-25",
-"url": "https://himalayas.app/companies/blueprint-ai/jobs/ux-cx-designer?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-25"
@@ -292,18 +316,6 @@
 "firstSeen": "2026-10-25"
 },
 {
-"id": "jobicy:Jobicy:156776",
-"company": "Synthesia",
-"title": "Product Designer, AI-Native Products (Staff-Level / L6)",
-"location": "Europe",
-"remote": "remote",
-"posted": "2026-10-24",
-"url": "https://jobicy.com/jobs/156776-product-designer-ai-native-products-staff-level-l6",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-10-25"
-},
-{
 "id": "ashby:clera:859cf49e-e7d4-4035-ab35-f2522a60ec79",
 "company": "Clera",
 "title": "Founding Product Designer",
@@ -312,18 +324,6 @@
 "posted": "2026-10-24",
 "url": "https://jobs.ashbyhq.com/clera/859cf49e-e7d4-4035-ab35-f2522a60ec79",
 "source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-10-24"
-},
-{
-"id": "jobicy:Jobicy:153973",
-"company": "RevenueCat",
-"title": "Senior Product Designer",
-"location": "EMEA, LATAM, Canada, USA",
-"remote": "remote",
-"posted": "2026-10-24",
-"url": "https://jobicy.com/jobs/153973-senior-product-designer-13",
-"source": "Jobicy",
 "region": "Remote",
 "firstSeen": "2026-10-24"
 },
@@ -348,30 +348,6 @@
 "posted": "2026-10-24",
 "url": "https://himalayas.app/companies/raona/jobs/ux-ui-designer-jr?utm_source=api",
 "source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-24"
-},
-{
-"id": "jobicy:Jobicy:156685",
-"company": "Medium",
-"title": "Staff Product Designer",
-"location": "USA",
-"remote": "remote",
-"posted": "2026-10-23",
-"url": "https://jobicy.com/jobs/156685-staff-product-designer-6",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-10-24"
-},
-{
-"id": "jobicy:Jobicy:156673",
-"company": "PadSplit",
-"title": "Senior Product Designer (Fully Remote - anywhere in South America)",
-"location": "LATAM",
-"remote": "remote",
-"posted": "2026-10-23",
-"url": "https://jobicy.com/jobs/156673-senior-product-designer-fully-remote-anywhere-in-south-america",
-"source": "Jobicy",
 "region": "Remote",
 "firstSeen": "2026-10-24"
 },
@@ -604,6 +580,18 @@
 "firstSeen": "2026-10-18"
 },
 {
+"id": "himalayas:Himalayas:https://himalayas.app/companies/orchata/jobs/ux-ui-designer",
+"company": "Orchata",
+"title": "UX/UI Designer",
+"location": "Mexico",
+"remote": "remote",
+"posted": "2026-10-08",
+"url": "https://himalayas.app/companies/orchata/jobs/ux-ui-designer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/digitalforms/jobs/ui-ux-designer",
 "company": "Digital Forms",
 "title": "UI/UX Designer",
@@ -611,6 +599,18 @@
 "remote": "remote",
 "posted": "2026-10-02",
 "url": "https://himalayas.app/companies/digitalforms/jobs/ui-ux-designer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/fabley/jobs/ui-ux-designer",
+"company": "Fabley",
+"title": "UI/UX Designer",
+"location": "Switzerland",
+"remote": "remote",
+"posted": "2026-10-01",
+"url": "https://himalayas.app/companies/fabley/jobs/ui-ux-designer?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"
@@ -635,6 +635,18 @@
 "remote": "remote",
 "posted": "2026-09-23",
 "url": "https://himalayas.app/companies/bugece/jobs/ui-ux-designer-1888781552?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/catch-creation/jobs/ui-ux-designer-5570937710",
+"company": "Catch Creation",
+"title": "UI/ UX Designer",
+"location": "Ukraine",
+"remote": "remote",
+"posted": "2026-09-22",
+"url": "https://himalayas.app/companies/catch-creation/jobs/ui-ux-designer-5570937710?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"
@@ -671,6 +683,18 @@
 "remote": "remote",
 "posted": "2026-09-20",
 "url": "https://himalayas.app/companies/huzzle/jobs/senior-ui-ux-designer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/questronix-corporation/jobs/ui-ux-designer",
+"company": "Questronix Corporation",
+"title": "UI/UX Designer",
+"location": "Philippines",
+"remote": "remote",
+"posted": "2026-09-18",
+"url": "https://himalayas.app/companies/questronix-corporation/jobs/ui-ux-designer?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"
@@ -755,18 +779,6 @@
 "remote": null,
 "posted": "2026-10-20",
 "url": "https://job-boards.greenhouse.io/clearstreet/jobs/8241344",
-"source": "greenhouse",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:vercel:6129441004",
-"company": "Vercel",
-"title": "Design Engineer",
-"location": "Remote - United States",
-"remote": null,
-"posted": "2026-10-20",
-"url": "https://job-boards.greenhouse.io/vercel/jobs/6129441004",
 "source": "greenhouse",
 "region": "Remote",
 "firstSeen": "2026-10-17"
@@ -1096,18 +1108,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/syllo/jobs/senior-ux-ui-designer",
-"company": "Syllo",
-"title": "Senior UX/UI Designer",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-10-02",
-"url": "https://himalayas.app/companies/syllo/jobs/senior-ux-ui-designer?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/perspire-tv/jobs/ui-ux-designer",
 "company": "Perspire.tv",
 "title": "UI/UX Designer",
@@ -1176,18 +1176,6 @@
 "posted": "2026-10-01",
 "url": "https://himalayas.app/companies/moniepoint/jobs/product-design-lead-design-system?utm_source=api",
 "source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "wwr:We Work Remotely:https://weworkremotely.com/remote-jobs/vercel-design-engineer",
-"company": "Vercel",
-"title": "Design Engineer",
-"location": "Anywhere in the World",
-"remote": "remote",
-"posted": "2026-10-01",
-"url": "https://weworkremotely.com/remote-jobs/vercel-design-engineer",
-"source": "We Work Remotely",
 "region": "Remote",
 "firstSeen": "2026-10-17"
 },
@@ -1572,18 +1560,6 @@
 "posted": "2026-08-29",
 "url": "https://himalayas.app/companies/right-side-up/jobs/ux-ui-designer-design-systems-consultant-ai-fluent?utm_source=api",
 "source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "remoteok:Remote OK:1137156",
-"company": "Blackbird Interactive",
-"title": "Senior Level Designer",
-"location": "Vancouver, BC, Canada",
-"remote": "remote",
-"posted": "2026-08-27",
-"url": "https://remoteOK.com/remote-jobs/remote-senior-level-designer-blackbird-interactive-1137156",
-"source": "Remote OK",
 "region": "Remote",
 "firstSeen": "2026-10-17"
 },

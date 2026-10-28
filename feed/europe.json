@@ -1,8 +1,80 @@
 {
-"generated": "2026-10-27T19:27:35Z",
+"generated": "2026-10-28T08:37:07Z",
 "region": "Europe",
-"count": 101,
+"count": 103,
 "jobs": [
+{
+"id": "arbeitnow:Arbeitnow:founding-ui-ux-artist-unannounced-game-london-108544",
+"company": "Supercell",
+"title": "Founding UI/UX Artist, Unannounced Game",
+"location": "London",
+"remote": null,
+"posted": "2026-10-28",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/supercell/founding-ui-ux-artist-unannounced-game-london-108544",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-28"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-consultant-satcom-payload-designer-toulouse-france-152526",
+"company": "Novaspace",
+"title": "Senior Consultant - Satcom Payload Designer",
+"location": "Toulouse, France",
+"remote": null,
+"posted": "2026-10-28",
+"url": "https://www.arbeitnow.fr/jobs/companies/novaspace/senior-consultant-satcom-payload-designer-toulouse-france-152526",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-28"
+},
+{
+"id": "arbeitnow:Arbeitnow:ux-product-designer-amsterdam-466511",
+"company": "Attendi",
+"title": "UX Product Designer",
+"location": "Amsterdam, Noord-Holland, Netherlands",
+"remote": null,
+"posted": "2026-10-27",
+"url": "https://www.arbeitnow.nl/jobs/companies/attendi/ux-product-designer-amsterdam-466511",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-28"
+},
+{
+"id": "arbeitnow:Arbeitnow:lead-service-designer-london-469876",
+"company": "Faculty",
+"title": "Lead Service Designer",
+"location": "London",
+"remote": null,
+"posted": "2026-10-27",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/lead-service-designer-london-469876",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-28"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-service-designer-london-342933",
+"company": "Faculty",
+"title": "Senior Service Designer",
+"location": "London",
+"remote": null,
+"posted": "2026-10-27",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/senior-service-designer-london-342933",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-28"
+},
+{
+"id": "arbeitnow:Arbeitnow:lead-product-designer-6-month-ftc-london-74971",
+"company": "Trainline",
+"title": "Lead Product Designer - 6 Month FTC",
+"location": "London",
+"remote": null,
+"posted": "2026-10-27",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/trainline/lead-product-designer-6-month-ftc-london-74971",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-28"
+},
 {
 "id": "greenhouse:stripe:8283782",
 "company": "Stripe",
@@ -172,30 +244,6 @@
 "firstSeen": "2026-10-26"
 },
 {
-"id": "arbeitnow:Arbeitnow:web-designer-fur-e-mail-marketing-klaviyo-elsdorf-160869",
-"company": "Bendt Brothers",
-"title": "Web Designer für E-Mail Marketing (Klaviyo) (m/w/d)",
-"location": "Elsdorf",
-"remote": "remote",
-"posted": "2026-10-26",
-"url": "https://www.arbeitnow.com/jobs/companies/bendt-brothers/web-designer-fur-e-mail-marketing-klaviyo-elsdorf-160869",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-26"
-},
-{
-"id": "arbeitnow:Arbeitnow:stage-de-6-mois-ux-ui-designer-paris-295393",
-"company": "Ekimetrics",
-"title": "Stage de 6 mois UX/UI Designer (H/F/N) – PARIS",
-"location": "Paris",
-"remote": null,
-"posted": "2026-10-26",
-"url": "https://www.arbeitnow.fr/jobs/companies/ekimetrics/stage-de-6-mois-ux-ui-designer-paris-295393",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-26"
-},
-{
 "id": "arbeitnow:Arbeitnow:2d-designer-switzerland-376650",
 "company": "Jobgether",
 "title": "2D Designer",
@@ -220,28 +268,16 @@
 "firstSeen": "2026-10-25"
 },
 {
-"id": "arbeitnow:Arbeitnow:staff-product-designer-platform-design-london-228872",
-"company": "Spotify",
-"title": "Staff Product Designer - Platform Design",
-"location": "London",
+"id": "arbeitnow:Arbeitnow:product-designer-cloud-rotterdam-294566",
+"company": "Mendix",
+"title": "Product Designer- Cloud",
+"location": "Rotterdam",
 "remote": null,
 "posted": "2026-10-25",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/staff-product-designer-platform-design-london-228872",
+"url": "https://www.arbeitnow.nl/jobs/companies/mendix/product-designer-cloud-rotterdam-294566",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-10-25"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-product-designer-move-in-staying-rotterdam-184550",
-"company": "housinganywhere",
-"title": "Senior Product Designer - Move-in & Staying",
-"location": "Rotterdam",
-"remote": null,
-"posted": "2026-10-24",
-"url": "https://www.arbeitnow.nl/jobs/companies/housinganywhere/senior-product-designer-move-in-staying-rotterdam-184550",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-24"
 },
 {
 "id": "greenhouse:okta:8319247",
@@ -361,7 +397,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Business-Analysis--AVP-1_R-786883",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 8 Days Ago",
+"postedText": "Posted 9 Days Ago",
 "firstSeen": "2026-10-20"
 },
 {
@@ -374,7 +410,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Platform-Engineering---Dev-UX--Production-Website---Off_R-799791-1",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 8 Days Ago",
+"postedText": "Posted 9 Days Ago",
 "firstSeen": "2026-10-19"
 },
 {
@@ -834,18 +870,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:getyourguide:8278320",
-"company": "GetYourGuide",
-"title": "Senior Design Systems Manager",
-"location": "Berlin",
-"remote": null,
-"posted": "2026-10-13",
-"url": "https://job-boards.greenhouse.io/getyourguide/jobs/8278320",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:getyourguide:8278560",
 "company": "GetYourGuide",
 "title": "Senior Design Systems Manager",
@@ -853,6 +877,18 @@
 "remote": null,
 "posted": "2026-10-13",
 "url": "https://job-boards.greenhouse.io/getyourguide/jobs/8278560",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:getyourguide:8278320",
+"company": "GetYourGuide",
+"title": "Senior Design Systems Manager",
+"location": "Berlin",
+"remote": null,
+"posted": "2026-10-13",
+"url": "https://job-boards.greenhouse.io/getyourguide/jobs/8278320",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -978,18 +1014,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "smartrecruiters:Wise:744000152440329",
-"company": "Wise",
-"title": "Senior Product Designer - Spend - Credit",
-"location": "London, gb",
-"remote": null,
-"posted": "2026-09-29",
-"url": "https://jobs.smartrecruiters.com/Wise/744000152440329",
-"source": "smartrecruiters",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:tide:8006663003",
 "company": "Tide",
 "title": "Werkstudent:in (m/w/d) – UX Copywriting",
@@ -1086,18 +1110,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:intercom:7862050",
-"company": "Intercom",
-"title": "Senior Product Designer",
-"location": "Dublin, Ireland",
-"remote": null,
-"posted": "2026-09-16",
-"url": "https://job-boards.greenhouse.io/intercom/jobs/7862050",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:intercom:7861866",
 "company": "Intercom",
 "title": "Senior Product Designer",
@@ -1105,6 +1117,18 @@
 "remote": null,
 "posted": "2026-09-16",
 "url": "https://job-boards.greenhouse.io/intercom/jobs/7861866",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:intercom:7862050",
+"company": "Intercom",
+"title": "Senior Product Designer",
+"location": "Dublin, Ireland",
+"remote": null,
+"posted": "2026-09-16",
+"url": "https://job-boards.greenhouse.io/intercom/jobs/7862050",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"

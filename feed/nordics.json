@@ -1,8 +1,20 @@
 {
-"generated": "2026-10-29T08:32:15Z",
+"generated": "2026-10-29T19:39:49Z",
 "region": "Nordics",
-"count": 57,
+"count": 59,
 "jobs": [
+{
+"id": "greenhouse:oura:4472112009",
+"company": "Oura",
+"title": "Staff Product Designer",
+"location": "Hybrid - San Francisco, California",
+"remote": null,
+"posted": "2026-10-29",
+"url": "https://job-boards.greenhouse.io/oura/jobs/4472112009",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-29"
+},
 {
 "id": "platsbanken:Platsbanken:31659408",
 "company": "Ericsson AB",
@@ -11,6 +23,30 @@
 "remote": null,
 "posted": "2026-10-29",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31659408",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-10-29"
+},
+{
+"id": "platsbanken:Platsbanken:31660485",
+"company": "Försäkringskassan",
+"title": "UX-designer till Försäkringskassans designsystem i Karlskrona",
+"location": "Karlskrona",
+"remote": null,
+"posted": "2026-10-29",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31660485",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-10-29"
+},
+{
+"id": "platsbanken:Platsbanken:31661382",
+"company": "Velora Health AB",
+"title": "Design Engineer, Brand & Growth - HealthTech",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-10-29",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31661382",
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-29"
@@ -179,18 +215,6 @@
 "remote": null,
 "posted": "2026-10-23",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31636518",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-23"
-},
-{
-"id": "platsbanken:Platsbanken:31638194",
-"company": "Volvo Business Services Aktiebolag",
-"title": "Volvo Group Graduate Program 2027 - Design Engineer for Wheel End Parts",
-"location": "Göteborg",
-"remote": null,
-"posted": "2026-10-23",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31638194",
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-23"
@@ -376,18 +400,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:alphasense:8530664002",
-"company": "AlphaSense",
-"title": "Senior/Staff Product Designer",
-"location": "New York, New York, United States; Remote - United States",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:alphasense:8531119002",
 "company": "AlphaSense",
 "title": "Senior/Staff Product Designer",
@@ -395,6 +407,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:alphasense:8530664002",
+"company": "AlphaSense",
+"title": "Senior/Staff Product Designer",
+"location": "New York, New York, United States; Remote - United States",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"

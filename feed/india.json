@@ -1,7 +1,7 @@
 {
-"generated": "2026-10-29T08:32:15Z",
+"generated": "2026-10-29T19:39:49Z",
 "region": "India",
-"count": 15,
+"count": 14,
 "jobs": [
 {
 "id": "greenhouse:razorpaysoftwareprivatelimited:4745511005",
@@ -107,18 +107,6 @@
 "remote": "remote",
 "posted": "2026-09-02",
 "url": "https://jobs.lever.co/gohighlevel/4fcbfdc9-6923-4712-8484-e06c410e1dae",
-"source": "lever",
-"region": "India",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "lever:meesho:e03deae3-a5f2-428d-b2f3-3c275f8c433b",
-"company": "Meesho",
-"title": "Senior Manager - User Experience : F&E",
-"location": "Bangalore, Karnataka",
-"remote": "onsite",
-"posted": "2026-08-17",
-"url": "https://jobs.lever.co/meesho/e03deae3-a5f2-428d-b2f3-3c275f8c433b",
 "source": "lever",
 "region": "India",
 "firstSeen": "2026-10-17"

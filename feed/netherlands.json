@@ -1,20 +1,8 @@
 {
-"generated": "2026-10-28T19:36:33Z",
+"generated": "2026-10-29T08:32:15Z",
 "region": "Netherlands",
 "count": 14,
 "jobs": [
-{
-"id": "greenhouse:elastic:8301334",
-"company": "Elastic",
-"title": "Software Engineering Manager - Global UX - Applications - Platform",
-"location": "Spain",
-"remote": null,
-"posted": "2026-10-23",
-"url": "https://jobs.elastic.co/jobs?gh_jid=8301334&gh_jid=8301334",
-"source": "greenhouse",
-"region": "Netherlands",
-"firstSeen": "2026-10-24"
-},
 {
 "id": "greenhouse:elastic:8319081",
 "company": "Elastic",
@@ -35,6 +23,18 @@
 "remote": null,
 "posted": "2026-10-23",
 "url": "https://jobs.elastic.co/jobs?gh_jid=8319082&gh_jid=8319082",
+"source": "greenhouse",
+"region": "Netherlands",
+"firstSeen": "2026-10-24"
+},
+{
+"id": "greenhouse:elastic:8301334",
+"company": "Elastic",
+"title": "Software Engineering Manager - Global UX - Applications - Platform",
+"location": "Spain",
+"remote": null,
+"posted": "2026-10-23",
+"url": "https://jobs.elastic.co/jobs?gh_jid=8301334&gh_jid=8301334",
 "source": "greenhouse",
 "region": "Netherlands",
 "firstSeen": "2026-10-24"

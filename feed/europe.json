@@ -1,19 +1,43 @@
 {
-"generated": "2026-10-28T19:36:33Z",
+"generated": "2026-10-29T08:32:15Z",
 "region": "Europe",
-"count": 99,
+"count": 100,
 "jobs": [
 {
-"id": "arbeitnow:Arbeitnow:senior-product-designer-london-110937",
-"company": "Aibidia",
-"title": "Senior Product Designer",
-"location": "London",
+"id": "arbeitnow:Arbeitnow:founding-designer-berlin-311173",
+"company": "praxipal",
+"title": "Founding Designer (m/f/d)",
+"location": "Berlin",
 "remote": null,
-"posted": "2026-10-28",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/aibidia/senior-product-designer-london-110937",
+"posted": "2026-10-29",
+"url": "https://www.arbeitnow.com/jobs/companies/praxipal/founding-designer-berlin-311173",
 "source": "Arbeitnow",
 "region": "Europe",
-"firstSeen": "2026-10-28"
+"firstSeen": "2026-10-29"
+},
+{
+"id": "arbeitnow:Arbeitnow:design-engineer-london-51762",
+"company": "Evervault",
+"title": "Design Engineer",
+"location": "London",
+"remote": null,
+"posted": "2026-10-29",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/evervault/design-engineer-london-51762",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-29"
+},
+{
+"id": "arbeitnow:Arbeitnow:ui-ux-designer-b2b-saas-80-zurich-309469",
+"company": "Smino",
+"title": "UI/UX Designer B2B SaaS - 80% (m/w/d)",
+"location": "Zürich",
+"remote": null,
+"posted": "2026-10-29",
+"url": "https://www.arbeitnow.ch/jobs/companies/smino/ui-ux-designer-b2b-saas-80-zurich-309469",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-29"
 },
 {
 "id": "arbeitnow:Arbeitnow:lead-designer-paris-paris-140650",
@@ -35,6 +59,18 @@
 "remote": null,
 "posted": "2026-10-28",
 "url": "https://www.arbeitnow.nl/jobs/companies/bigfishnl/vacature-stagiair-illustrator-designer-eindhoven-160982",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-28"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-consultant-satcom-payload-designer-toulouse-france-152526",
+"company": "Novaspace",
+"title": "Senior Consultant - Satcom Payload Designer",
+"location": "Toulouse, France",
+"remote": null,
+"posted": "2026-10-28",
+"url": "https://www.arbeitnow.fr/jobs/companies/novaspace/senior-consultant-satcom-payload-designer-toulouse-france-152526",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-10-28"
@@ -76,6 +112,18 @@
 "firstSeen": "2026-10-28"
 },
 {
+"id": "arbeitnow:Arbeitnow:senior-product-designer-london-110937",
+"company": "Aibidia",
+"title": "Senior Product Designer",
+"location": "London",
+"remote": null,
+"posted": "2026-10-28",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/aibidia/senior-product-designer-london-110937",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-28"
+},
+{
 "id": "arbeitnow:Arbeitnow:founding-ui-ux-artist-unannounced-game-london-108544",
 "company": "Supercell",
 "title": "Founding UI/UX Artist, Unannounced Game",
@@ -88,18 +136,6 @@
 "firstSeen": "2026-10-28"
 },
 {
-"id": "arbeitnow:Arbeitnow:senior-consultant-satcom-payload-designer-toulouse-france-152526",
-"company": "Novaspace",
-"title": "Senior Consultant - Satcom Payload Designer",
-"location": "Toulouse, France",
-"remote": null,
-"posted": "2026-10-28",
-"url": "https://www.arbeitnow.fr/jobs/companies/novaspace/senior-consultant-satcom-payload-designer-toulouse-france-152526",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-28"
-},
-{
 "id": "arbeitnow:Arbeitnow:ux-product-designer-amsterdam-466511",
 "company": "Attendi",
 "title": "UX Product Designer",
@@ -107,30 +143,6 @@
 "remote": null,
 "posted": "2026-10-27",
 "url": "https://www.arbeitnow.nl/jobs/companies/attendi/ux-product-designer-amsterdam-466511",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-28"
-},
-{
-"id": "arbeitnow:Arbeitnow:lead-service-designer-london-469876",
-"company": "Faculty",
-"title": "Lead Service Designer",
-"location": "London",
-"remote": null,
-"posted": "2026-10-27",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/lead-service-designer-london-469876",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-28"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-service-designer-london-342933",
-"company": "Faculty",
-"title": "Senior Service Designer",
-"location": "London",
-"remote": null,
-"posted": "2026-10-27",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/senior-service-designer-london-342933",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-10-28"
@@ -361,7 +373,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Business-Analysis--AVP-1_R-786883",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 9 Days Ago",
+"postedText": "Posted 10 Days Ago",
 "firstSeen": "2026-10-20"
 },
 {
@@ -374,7 +386,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Platform-Engineering---Dev-UX--Production-Website---Off_R-799791-1",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 9 Days Ago",
+"postedText": "Posted 10 Days Ago",
 "firstSeen": "2026-10-19"
 },
 {
@@ -1002,18 +1014,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:tide:7731830003",
-"company": "Tide",
-"title": "Senior Product Designer",
-"location": "Bulgaria",
-"remote": null,
-"posted": "2026-09-23",
-"url": "https://job-boards.greenhouse.io/tide/jobs/7731830003",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:tide:7779785003",
 "company": "Tide",
 "title": "Senior Product Designer",
@@ -1033,6 +1033,18 @@
 "remote": null,
 "posted": "2026-09-23",
 "url": "https://job-boards.greenhouse.io/tide/jobs/7788378003",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:tide:7731830003",
+"company": "Tide",
+"title": "Senior Product Designer",
+"location": "Bulgaria",
+"remote": null,
+"posted": "2026-09-23",
+"url": "https://job-boards.greenhouse.io/tide/jobs/7731830003",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"

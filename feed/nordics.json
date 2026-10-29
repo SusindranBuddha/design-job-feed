@@ -1,8 +1,32 @@
 {
-"generated": "2026-10-28T19:36:33Z",
+"generated": "2026-10-29T08:32:15Z",
 "region": "Nordics",
-"count": 55,
+"count": 57,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31659408",
+"company": "Ericsson AB",
+"title": "System Designer 6G Technology Testbeds",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-10-29",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31659408",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-10-29"
+},
+{
+"id": "platsbanken:Platsbanken:31659401",
+"company": "AVL MTC Motortestcenter AB",
+"title": "Lead Design Engineer/Technical Lead Engineer - Fordonsindustrin",
+"location": "Göteborg",
+"remote": null,
+"posted": "2026-10-29",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31659401",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-10-29"
+},
 {
 "id": "platsbanken:Platsbanken:31657908",
 "company": "Veritaz AB",
@@ -55,7 +79,7 @@
 "id": "platsbanken:Platsbanken:31651537",
 "company": "Ericsson AB",
 "title": "PCB Designer",
-"location": "Stockholm",
+"location": "Göteborg",
 "remote": null,
 "posted": "2026-10-27",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31651537",

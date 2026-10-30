@@ -1,7 +1,7 @@
 {
-"generated": "2026-10-30T08:41:41Z",
+"generated": "2026-10-30T19:25:42Z",
 "region": "APAC",
-"count": 86,
+"count": 82,
 "jobs": [
 {
 "id": "mcf:MyCareersFuture:25d5dfd1e41c95059307ec647d75fb9a",
@@ -542,30 +542,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:karbon:6226366004",
-"company": "Karbon",
-"title": "Product Designer",
-"location": "Sydney, NSW, Australia",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/karbon/jobs/6226366004",
-"source": "greenhouse",
-"region": "APAC",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:karbon:6226350004",
-"company": "Karbon",
-"title": "Senior Product Designer",
-"location": "Sydney, NSW, Australia",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/karbon/jobs/6226350004",
-"source": "greenhouse",
-"region": "APAC",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "mcf:MyCareersFuture:37c892b6972cbb2f9bf61b2b97914aeb",
 "company": "ARYAN SOLUTIONS PTE. LTD.",
 "title": "UI/UX Designer",
@@ -937,32 +913,6 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 6000-9000 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:d8e99facfdfbec2697ec363637f2a932",
-"company": "WEBSPARKS PTE. LTD.",
-"title": "Senior UX/UI Designer (Public Sector)",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-09-30",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-uxui-designer-websparks-d8e99facfdfbec2697ec363637f2a932",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 7000-10000 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:39757714e06f9dd88219633b199b06f8",
-"company": "AVIENT COLORANTS SINGAPORE PTE. LTD.",
-"title": "Senior UX/UI Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-09-30",
-"url": "https://www.mycareersfuture.gov.sg/job/design/senior-uxui-designer-avient-colorants-singapore-39757714e06f9dd88219633b199b06f8",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 5500-6500 /Monthly",
 "firstSeen": "2026-10-17"
 },
 {

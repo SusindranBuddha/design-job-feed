@@ -1,8 +1,44 @@
 {
-"generated": "2026-10-30T08:41:41Z",
+"generated": "2026-10-30T19:25:42Z",
 "region": "Nordics",
 "count": 58,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31666617",
+"company": "Agile Resources AB",
+"title": "Senior UX/UI Product Designer",
+"location": "Göteborg",
+"remote": null,
+"posted": "2026-10-30",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31666617",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-10-30"
+},
+{
+"id": "platsbanken:Platsbanken:31665534",
+"company": "Q Innovations Sweden AB",
+"title": "FOUNDING PRODUCT DESIGNER",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-10-30",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31665534",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-10-30"
+},
+{
+"id": "platsbanken:Platsbanken:31667345",
+"company": "SAAB Aktiebolag",
+"title": "Mechanical Design Engineer",
+"location": "Linköping",
+"remote": null,
+"posted": "2026-10-30",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31667345",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-10-30"
+},
 {
 "id": "greenhouse:oura:4472112009",
 "company": "Oura",
@@ -256,18 +292,6 @@
 "firstSeen": "2026-10-22"
 },
 {
-"id": "platsbanken:Platsbanken:31633725",
-"company": "Sway Sourcing Sweden Aktiebolag",
-"title": "Senior UX/UI Designer– Gävle",
-"location": "Gävle",
-"remote": null,
-"posted": "2026-10-22",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31633725",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-22"
-},
-{
 "id": "platsbanken:Platsbanken:31632814",
 "company": "Knightec Group Hardware and Design AB",
 "title": "UX/UI-designer med fokus på UI och visuell design",
@@ -278,18 +302,6 @@
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-22"
-},
-{
-"id": "lever:spotify:f02fb195-ba10-40bd-a926-0318a34a7fae",
-"company": "Spotify",
-"title": "Staff Product Designer - Platform Design",
-"location": "London",
-"remote": "remote",
-"posted": "2026-10-21",
-"url": "https://jobs.lever.co/spotify/f02fb195-ba10-40bd-a926-0318a34a7fae",
-"source": "lever",
-"region": "Nordics",
-"firstSeen": "2026-10-21"
 },
 {
 "id": "platsbanken:Platsbanken:31626858",
@@ -340,24 +352,12 @@
 "firstSeen": "2026-10-19"
 },
 {
-"id": "greenhouse:oura:4421754009",
-"company": "Oura",
-"title": "Senior Product Designer, Movement",
-"location": "Hybrid - San Francisco, California",
-"remote": null,
-"posted": "2026-10-27",
-"url": "https://job-boards.greenhouse.io/oura/jobs/4421754009",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:smartlyio:6208020004",
 "company": "Smartly",
 "title": "Lead Product Designer",
 "location": "Mexico City",
 "remote": null,
-"posted": "2026-10-20",
+"posted": "2026-10-30",
 "url": "https://job-boards.greenhouse.io/smartlyio/jobs/6208020004",
 "source": "greenhouse",
 "region": "Nordics",
@@ -369,8 +369,20 @@
 "title": "Production Designer",
 "location": "Philippines",
 "remote": null,
-"posted": "2026-10-20",
+"posted": "2026-10-30",
 "url": "https://job-boards.greenhouse.io/smartlyio/jobs/6126661004",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:oura:4421754009",
+"company": "Oura",
+"title": "Senior Product Designer, Movement",
+"location": "Hybrid - San Francisco, California",
+"remote": null,
+"posted": "2026-10-27",
+"url": "https://job-boards.greenhouse.io/oura/jobs/4421754009",
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
@@ -552,18 +564,6 @@
 "posted": "2026-09-30",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31535871",
 "source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "teamtailor:Lunar:https://jobs.lunar.app/jobs/8469749-senior-product-designer",
-"company": "Lunar",
-"title": "Senior Product Designer",
-"location": "",
-"remote": null,
-"posted": "2026-09-29",
-"url": "https://jobs.lunar.app/jobs/8469749-senior-product-designer",
-"source": "teamtailor",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
 },

@@ -1,8 +1,21 @@
 {
-"generated": "2026-10-29T19:39:49Z",
+"generated": "2026-10-30T08:41:41Z",
 "region": "APAC",
-"count": 87,
+"count": 86,
 "jobs": [
+{
+"id": "mcf:MyCareersFuture:25d5dfd1e41c95059307ec647d75fb9a",
+"company": "ARGYLL SCOTT CONSULTING PTE. LTD.",
+"title": "Product Design Manager",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-10-30",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/product-design-manager-argyll-scott-consulting-25d5dfd1e41c95059307ec647d75fb9a",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 9000-12000 /Monthly",
+"firstSeen": "2026-10-30"
+},
 {
 "id": "mcf:MyCareersFuture:9162d899c706612df1fd887736dd095c",
 "company": "AIRWALLEX (SINGAPORE) PTE. LTD.",
@@ -130,7 +143,7 @@
 "url": "https://cba.wd3.myworkdayjobs.com/CommBank_Careers/job/Sydney-CBD-Area/Principal-Product-Design---Talent-Community_REQ267815",
 "source": "workday",
 "region": "APAC",
-"postedText": "Posted Yesterday",
+"postedText": "Posted 2 Days Ago",
 "firstSeen": "2026-10-28"
 },
 {
@@ -158,45 +171,6 @@
 "region": "APAC",
 "salary": "SGD 6000-7000 /Monthly",
 "firstSeen": "2026-10-27"
-},
-{
-"id": "mcf:MyCareersFuture:d457b70689ee464936310b43f6e11db8",
-"company": "KYNDRYL (SINGAPORE) PTE. LTD.",
-"title": "Senior Product Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-26",
-"url": "https://www.mycareersfuture.gov.sg/job/design/senior-product-designer-kyndryl-d457b70689ee464936310b43f6e11db8",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 7000-10000 /Monthly",
-"firstSeen": "2026-10-26"
-},
-{
-"id": "mcf:MyCareersFuture:3b6242a98ba499fa48ab8c8f08d582b2",
-"company": "GRABTAXI HOLDINGS PTE. LTD.",
-"title": "Senior Product Designer, Fulfilment",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-26",
-"url": "https://www.mycareersfuture.gov.sg/job/design/senior-product-designer-fulfilment-grabtaxi-holdings-3b6242a98ba499fa48ab8c8f08d582b2",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 8600-12500 /Monthly",
-"firstSeen": "2026-10-26"
-},
-{
-"id": "mcf:MyCareersFuture:781686566e1e4a32fd1645375e85ce5d",
-"company": "KOPI RECRUIT PTE. LTD.",
-"title": "Senior Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-26",
-"url": "https://www.mycareersfuture.gov.sg/job/design/senior-designer-kopi-recruit-781686566e1e4a32fd1645375e85ce5d",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 6000-8000 /Monthly",
-"firstSeen": "2026-10-26"
 },
 {
 "id": "mcf:MyCareersFuture:64f9ef5973d3b7f825ec247db512d455",
@@ -235,6 +209,19 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 10000-11500 /Monthly",
+"firstSeen": "2026-10-26"
+},
+{
+"id": "mcf:MyCareersFuture:3b6242a98ba499fa48ab8c8f08d582b2",
+"company": "GRABTAXI HOLDINGS PTE. LTD.",
+"title": "Senior Product Designer, Fulfilment",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-10-26",
+"url": "https://www.mycareersfuture.gov.sg/job/design/senior-product-designer-fulfilment-grabtaxi-holdings-3b6242a98ba499fa48ab8c8f08d582b2",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 8600-12500 /Monthly",
 "firstSeen": "2026-10-26"
 },
 {
@@ -443,6 +430,19 @@
 "region": "APAC",
 "salary": "SGD 5000-10000 /Monthly",
 "firstSeen": "2026-10-19"
+},
+{
+"id": "mcf:MyCareersFuture:b3435ce5839dbee7722d63e52b3dbe93",
+"company": "BOWEN LEARNING INTERNATIONAL PTE. LTD.",
+"title": "Senior UI/UX Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-10-30",
+"url": "https://www.mycareersfuture.gov.sg/job/design/senior-uiux-designer-bowen-learning-international-b3435ce5839dbee7722d63e52b3dbe93",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 4000-6500 /Monthly",
+"firstSeen": "2026-10-17"
 },
 {
 "id": "ashby:airwallex:ec6557d1-5953-49a9-9855-90dec51002fb",
@@ -859,19 +859,6 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 6000-8000 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:f3a0c4a475086d61c7952b23db86bd62",
-"company": "VERTIS DIGITAL PTE. LTD.",
-"title": "Experience Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-07",
-"url": "https://www.mycareersfuture.gov.sg/job/design/experience-designer-vertis-digital-f3a0c4a475086d61c7952b23db86bd62",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 4600-4800 /Monthly",
 "firstSeen": "2026-10-17"
 },
 {

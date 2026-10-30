@@ -1,8 +1,92 @@
 {
-"generated": "2026-10-29T19:39:49Z",
+"generated": "2026-10-30T08:41:41Z",
 "region": "Europe",
-"count": 103,
+"count": 100,
 "jobs": [
+{
+"id": "arbeitnow:Arbeitnow:senior-designer-london-130946",
+"company": "Exclaimer",
+"title": "Senior Designer",
+"location": "London",
+"remote": null,
+"posted": "2026-10-30",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/exclaimer/senior-designer-london-130946",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-30"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-wallets-100-remote-worldwide-united-kindom-135145",
+"company": "Tether Operations Limited",
+"title": "Senior Product Designer (Wallets) - 100% Remote Worldwide",
+"location": "Remote job",
+"remote": "remote",
+"posted": "2026-10-30",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/senior-product-designer-wallets-100-remote-worldwide-united-kindom-135145",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-30"
+},
+{
+"id": "arbeitnow:Arbeitnow:propulsion-design-engineer-all-genders-munich-307896",
+"company": "væridion",
+"title": "Propulsion Design Engineer (all genders)",
+"location": "Munich HQ",
+"remote": null,
+"posted": "2026-10-29",
+"url": "https://www.arbeitnow.com/jobs/companies/vaeridion/propulsion-design-engineer-all-genders-munich-307896",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-30"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-structures-design-engineer-all-genders-munich-489500",
+"company": "væridion",
+"title": "Senior Structures Design Engineer (all genders)",
+"location": "Munich HQ",
+"remote": null,
+"posted": "2026-10-29",
+"url": "https://www.arbeitnow.com/jobs/companies/vaeridion/senior-structures-design-engineer-all-genders-munich-489500",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-30"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-match-3-designer-new-game-london-103451",
+"company": "Supercell",
+"title": "Senior Match-3 Designer, New Game",
+"location": "London",
+"remote": null,
+"posted": "2026-10-29",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/supercell/senior-match-3-designer-new-game-london-103451",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-30"
+},
+{
+"id": "arbeitnow:Arbeitnow:product-design-stage-amsterdam-90806",
+"company": "Crisp",
+"title": "Product Design stage",
+"location": "Amsterdam",
+"remote": null,
+"posted": "2026-10-29",
+"url": "https://www.arbeitnow.nl/jobs/companies/crisp/product-design-stage-amsterdam-90806",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-29"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-amsterdam-292387",
+"company": "Polarsteps",
+"title": "Senior Product Designer",
+"location": "Amsterdam",
+"remote": null,
+"posted": "2026-10-29",
+"url": "https://www.arbeitnow.nl/jobs/companies/polarsteps/senior-product-designer-amsterdam-292387",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-29"
+},
 {
 "id": "arbeitnow:Arbeitnow:senior-ux-designer-munich-81260",
 "company": "Envidual",
@@ -11,6 +95,30 @@
 "remote": null,
 "posted": "2026-10-29",
 "url": "https://www.arbeitnow.com/jobs/companies/envidual/senior-ux-designer-munich-81260",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-29"
+},
+{
+"id": "arbeitnow:Arbeitnow:ui-ux-designer-b2b-saas-80-zurich-309469",
+"company": "Smino",
+"title": "UI/UX Designer B2B SaaS - 80% (m/w/d)",
+"location": "Zürich",
+"remote": null,
+"posted": "2026-10-29",
+"url": "https://www.arbeitnow.ch/jobs/companies/smino/ui-ux-designer-b2b-saas-80-zurich-309469",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-29"
+},
+{
+"id": "arbeitnow:Arbeitnow:ux-product-managerin-tegtmeier-internet-solutions-gmbh-hamburg-259774",
+"company": "SinnKontor",
+"title": "UX Product Manager:in (m/w/d) – Tegtmeier Internet Solutions GmbH",
+"location": "Hamburg",
+"remote": null,
+"posted": "2026-10-29",
+"url": "https://www.arbeitnow.com/jobs/companies/sinnkontor/ux-product-managerin-tegtmeier-internet-solutions-gmbh-hamburg-259774",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-10-29"
@@ -52,54 +160,6 @@
 "firstSeen": "2026-10-29"
 },
 {
-"id": "arbeitnow:Arbeitnow:ui-ux-designer-b2b-saas-80-zurich-309469",
-"company": "Smino",
-"title": "UI/UX Designer B2B SaaS - 80% (m/w/d)",
-"location": "Zürich",
-"remote": null,
-"posted": "2026-10-29",
-"url": "https://www.arbeitnow.ch/jobs/companies/smino/ui-ux-designer-b2b-saas-80-zurich-309469",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-29"
-},
-{
-"id": "arbeitnow:Arbeitnow:product-design-stage-amsterdam-90806",
-"company": "Crisp",
-"title": "Product Design stage",
-"location": "Amsterdam",
-"remote": null,
-"posted": "2026-10-29",
-"url": "https://www.arbeitnow.nl/jobs/companies/crisp/product-design-stage-amsterdam-90806",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-29"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-product-designer-amsterdam-292387",
-"company": "Polarsteps",
-"title": "Senior Product Designer",
-"location": "Amsterdam",
-"remote": null,
-"posted": "2026-10-29",
-"url": "https://www.arbeitnow.nl/jobs/companies/polarsteps/senior-product-designer-amsterdam-292387",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-29"
-},
-{
-"id": "arbeitnow:Arbeitnow:ux-product-managerin-tegtmeier-internet-solutions-gmbh-hamburg-259774",
-"company": "SinnKontor",
-"title": "UX Product Manager:in (m/w/d) – Tegtmeier Internet Solutions GmbH",
-"location": "Hamburg",
-"remote": null,
-"posted": "2026-10-29",
-"url": "https://www.arbeitnow.com/jobs/companies/sinnkontor/ux-product-managerin-tegtmeier-internet-solutions-gmbh-hamburg-259774",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-29"
-},
-{
 "id": "arbeitnow:Arbeitnow:senior-principal-physical-design-engineer-london-jj-mack-9305",
 "company": "Fractile",
 "title": "Senior/Principal Physical Design Engineer",
@@ -107,18 +167,6 @@
 "remote": null,
 "posted": "2026-10-29",
 "url": "https://www.arbeitnow.co.uk/jobs/companies/fractile/senior-principal-physical-design-engineer-london-jj-mack-9305",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-29"
-},
-{
-"id": "arbeitnow:Arbeitnow:design-engineer-london-51762",
-"company": "Evervault",
-"title": "Design Engineer",
-"location": "London",
-"remote": null,
-"posted": "2026-10-29",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/evervault/design-engineer-london-51762",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-10-29"
@@ -136,16 +184,16 @@
 "firstSeen": "2026-10-29"
 },
 {
-"id": "arbeitnow:Arbeitnow:lead-designer-paris-paris-140650",
-"company": "Kaluza",
-"title": "Lead Designer",
-"location": "Paris, Paris",
+"id": "arbeitnow:Arbeitnow:design-engineer-london-51762",
+"company": "Evervault",
+"title": "Design Engineer",
+"location": "London",
 "remote": null,
-"posted": "2026-10-28",
-"url": "https://www.arbeitnow.fr/jobs/companies/kaluza/lead-designer-paris-paris-140650",
+"posted": "2026-10-29",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/evervault/design-engineer-london-51762",
 "source": "Arbeitnow",
 "region": "Europe",
-"firstSeen": "2026-10-28"
+"firstSeen": "2026-10-29"
 },
 {
 "id": "arbeitnow:Arbeitnow:vacature-stagiair-illustrator-designer-eindhoven-160982",
@@ -160,6 +208,18 @@
 "firstSeen": "2026-10-28"
 },
 {
+"id": "arbeitnow:Arbeitnow:lead-designer-paris-paris-140650",
+"company": "Kaluza",
+"title": "Lead Designer",
+"location": "Paris, Paris",
+"remote": null,
+"posted": "2026-10-28",
+"url": "https://www.arbeitnow.fr/jobs/companies/kaluza/lead-designer-paris-paris-140650",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-10-28"
+},
+{
 "id": "arbeitnow:Arbeitnow:senior-consultant-satcom-payload-designer-toulouse-france-152526",
 "company": "Novaspace",
 "title": "Senior Consultant - Satcom Payload Designer",
@@ -167,66 +227,6 @@
 "remote": null,
 "posted": "2026-10-28",
 "url": "https://www.arbeitnow.fr/jobs/companies/novaspace/senior-consultant-satcom-payload-designer-toulouse-france-152526",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-28"
-},
-{
-"id": "arbeitnow:Arbeitnow:cro-e-commerce-designerin-hamburg-83841",
-"company": "we-site GmbH - Shopify Agentur",
-"title": "CRO & E-Commerce Designer:in (m/w/d)",
-"location": "Hamburg",
-"remote": null,
-"posted": "2026-10-28",
-"url": "https://www.arbeitnow.com/jobs/companies/we-site-gmbh-shopify-agentur/cro-e-commerce-designerin-hamburg-83841",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-28"
-},
-{
-"id": "arbeitnow:Arbeitnow:ux-ui-designer-mit-projektverantwortung-mannheim-394075",
-"company": "Liftric GmbH",
-"title": "UX/UI Designer (m/w/d) mit Projektverantwortung",
-"location": "Mannheim",
-"remote": null,
-"posted": "2026-10-28",
-"url": "https://www.arbeitnow.com/jobs/companies/liftric-gmbh/ux-ui-designer-mit-projektverantwortung-mannheim-394075",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-28"
-},
-{
-"id": "arbeitnow:Arbeitnow:remote-staff-product-designer-design-core-235393",
-"company": "Hirehire",
-"title": "Staff Product Designer - Design Core",
-"location": "Remote",
-"remote": "remote",
-"posted": "2026-10-28",
-"url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-staff-product-designer-design-core-235393",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-28"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-product-designer-london-110937",
-"company": "Aibidia",
-"title": "Senior Product Designer",
-"location": "London",
-"remote": null,
-"posted": "2026-10-28",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/aibidia/senior-product-designer-london-110937",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-28"
-},
-{
-"id": "arbeitnow:Arbeitnow:founding-ui-ux-artist-unannounced-game-london-108544",
-"company": "Supercell",
-"title": "Founding UI/UX Artist, Unannounced Game",
-"location": "London",
-"remote": null,
-"posted": "2026-10-28",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/supercell/founding-ui-ux-artist-unannounced-game-london-108544",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-10-28"
@@ -256,6 +256,18 @@
 "firstSeen": "2026-10-27"
 },
 {
+"id": "greenhouse:okta:8326116",
+"company": "Okta (Spain)",
+"title": "Staff Product Designer - UI Platform",
+"location": "Bellevue, Washington; Chicago, Illinois; New York, New York; Toronto, Ontario, Canada; Washington, DC",
+"remote": null,
+"posted": "2026-10-29",
+"url": "https://www.okta.com/company/careers/opportunity/8326116?gh_jid=8326116",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-27"
+},
+{
 "id": "greenhouse:okta:8311018",
 "company": "Okta (Spain)",
 "title": "Senior Product Designer - Enterprise Security",
@@ -264,42 +276,6 @@
 "posted": "2026-10-27",
 "url": "https://www.okta.com/company/careers/opportunity/8311018?gh_jid=8311018",
 "source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-27"
-},
-{
-"id": "greenhouse:okta:8326116",
-"company": "Okta (Spain)",
-"title": "Staff Product Designer - UI Platform",
-"location": "Bellevue, Washington; Chicago, Illinois; New York, New York; Toronto, Ontario, Canada; Washington, DC",
-"remote": null,
-"posted": "2026-10-26",
-"url": "https://www.okta.com/company/careers/opportunity/8326116?gh_jid=8326116",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-27"
-},
-{
-"id": "arbeitnow:Arbeitnow:cdi-ux-ai-designer-artefact-3000-paris-9th-arrondissement-of-paris-75009-paris-113496",
-"company": "Artefactjobs",
-"title": "CDI - UX/AI Designer - Artefact 3000 - Paris",
-"location": "9th arrondissement of Paris, 75009, Paris",
-"remote": null,
-"posted": "2026-10-26",
-"url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/cdi-ux-ai-designer-artefact-3000-paris-9th-arrondissement-of-paris-75009-paris-113496",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-27"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-ui-designer-ecommerce-annecy-28213",
-"company": "Les Pépites",
-"title": "Senior UI Designer eCommerce",
-"location": "Annecy, Auvergne-Rhône-Alpes, France",
-"remote": null,
-"posted": "2026-10-26",
-"url": "https://www.arbeitnow.fr/jobs/companies/les-pepites/senior-ui-designer-ecommerce-annecy-28213",
-"source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-10-27"
 },
@@ -433,7 +409,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Business-Analysis--AVP-1_R-786883",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 10 Days Ago",
+"postedText": "Posted 11 Days Ago",
 "firstSeen": "2026-10-20"
 },
 {
@@ -446,7 +422,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Platform-Engineering---Dev-UX--Production-Website---Off_R-799791-1",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 10 Days Ago",
+"postedText": "Posted 11 Days Ago",
 "firstSeen": "2026-10-19"
 },
 {
@@ -750,13 +726,13 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4987960101",
+"id": "greenhouse:moniepoint:4987958101",
 "company": "Moniepoint",
 "title": "Product Design Manager - Design System",
-"location": "Remote, Spain",
+"location": "London, United Kingdom",
 "remote": null,
 "posted": "2026-10-19",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987960101",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987958101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -774,13 +750,13 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4987958101",
+"id": "greenhouse:moniepoint:4987960101",
 "company": "Moniepoint",
 "title": "Product Design Manager - Design System",
-"location": "London, United Kingdom",
+"location": "Remote, Spain",
 "remote": null,
 "posted": "2026-10-19",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987958101",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987960101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -798,18 +774,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4944264101",
-"company": "Moniepoint",
-"title": "Product Design Manager - UX",
-"location": "Remote, Poland",
-"remote": null,
-"posted": "2026-10-19",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4944264101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:moniepoint:4944263101",
 "company": "Moniepoint",
 "title": "Product Design Manager - UX",
@@ -822,13 +786,25 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4710853101",
+"id": "greenhouse:moniepoint:4944264101",
 "company": "Moniepoint",
-"title": "Staff Product Designer",
+"title": "Product Design Manager - UX",
 "location": "Remote, Poland",
 "remote": null,
+"posted": "2026-10-19",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4944264101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:moniepoint:4988183101",
+"company": "Moniepoint",
+"title": "Staff Product Designer",
+"location": "London, United Kingdom",
+"remote": null,
 "posted": "2026-10-16",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710853101",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4988183101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -846,13 +822,13 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4988183101",
+"id": "greenhouse:moniepoint:4710853101",
 "company": "Moniepoint",
 "title": "Staff Product Designer",
-"location": "London, United Kingdom",
+"location": "Remote, Poland",
 "remote": null,
 "posted": "2026-10-16",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4988183101",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710853101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -985,18 +961,6 @@
 "remote": null,
 "posted": "2026-10-12",
 "url": "https://job-boards.greenhouse.io/blacklane/jobs/8754731002",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:okta:8248278",
-"company": "Okta (Spain)",
-"title": "Senior Product Designer - Okta for AI Agents",
-"location": "Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC",
-"remote": null,
-"posted": "2026-10-02",
-"url": "https://www.okta.com/company/careers/opportunity/8248278?gh_jid=8248278",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"

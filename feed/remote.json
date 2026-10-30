@@ -1,8 +1,68 @@
 {
-"generated": "2026-10-29T19:39:49Z",
+"generated": "2026-10-30T08:41:41Z",
 "region": "Remote",
-"count": 187,
+"count": 208,
 "jobs": [
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/warp/jobs/product-designer",
+"company": "Warp",
+"title": "Product Designer",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-10-30",
+"url": "https://himalayas.app/companies/warp/jobs/product-designer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-30"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/life-science-connect/jobs/ux-ui-designer",
+"company": "Life Science Connect",
+"title": "UX/UI Designer",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-10-30",
+"url": "https://himalayas.app/companies/life-science-connect/jobs/ux-ui-designer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-30"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/pavago/jobs/product-designer-ux-ui-design-systems-7326743247",
+"company": "Pavago",
+"title": "Product Designer - UX/UI & Design Systems",
+"location": "Peru",
+"remote": "remote",
+"posted": "2026-10-30",
+"url": "https://himalayas.app/companies/pavago/jobs/product-designer-ux-ui-design-systems-7326743247?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-30"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/consensys-io/jobs/lead-product-designer",
+"company": "Consensys",
+"title": "Lead Product Designer",
+"location": "Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antarctica, Antigua and Barbuda, Argentina, Armenia, Aruba, Austria, Azerbaijan, Bahamas, Bahrain, Bar",
+"remote": "remote",
+"posted": "2026-10-29",
+"url": "https://himalayas.app/companies/consensys-io/jobs/lead-product-designer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-30"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/thatch/jobs/product-designer-5628717428",
+"company": "Thatch",
+"title": "Product Designer",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-10-23",
+"url": "https://himalayas.app/companies/thatch/jobs/product-designer-5628717428?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-30"
+},
 {
 "id": "jobicy:Jobicy:157854",
 "company": "Ashby",
@@ -11,6 +71,18 @@
 "remote": "remote",
 "posted": "2026-10-29",
 "url": "https://jobicy.com/jobs/157854-staff-product-designer-7",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-29"
+},
+{
+"id": "jobicy:Jobicy:143438",
+"company": "WSP",
+"title": "Overhead Line (OHL) Design engineer",
+"location": "Sweden",
+"remote": "remote",
+"posted": "2026-10-29",
+"url": "https://jobicy.com/jobs/143438-overhead-line-ohl-design-engineer",
 "source": "Jobicy",
 "region": "Remote",
 "firstSeen": "2026-10-29"
@@ -340,6 +412,18 @@
 "firstSeen": "2026-10-27"
 },
 {
+"id": "jobicy:Jobicy:151644",
+"company": "Ashby",
+"title": "Staff Design Engineer - Americas",
+"location": "USA",
+"remote": "remote",
+"posted": "2026-10-26",
+"url": "https://jobicy.com/jobs/151644-staff-design-engineer-americas",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-26"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/revizto/jobs/product-designer-design-system",
 "company": "Revizto",
 "title": "Product Designer (Design System)",
@@ -352,6 +436,18 @@
 "firstSeen": "2026-10-26"
 },
 {
+"id": "jobicy:Jobicy:157027",
+"company": "Wrapbook",
+"title": "Senior Product Designer II",
+"location": "Canada, USA",
+"remote": "remote",
+"posted": "2026-10-25",
+"url": "https://jobicy.com/jobs/157027-senior-product-designer-ii",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-26"
+},
+{
 "id": "ashby:clera:6900c5c8-a710-4d7b-a181-5d204afff7c8",
 "company": "Clera",
 "title": "Senior Product Designer",
@@ -360,6 +456,90 @@
 "posted": "2026-10-25",
 "url": "https://jobs.ashbyhq.com/clera/6900c5c8-a710-4d7b-a181-5d204afff7c8",
 "source": "ashby",
+"region": "Remote",
+"firstSeen": "2026-10-25"
+},
+{
+"id": "jobicy:Jobicy:156935",
+"company": "Spotify",
+"title": "Staff Product Designer - Platform Design",
+"location": "Sweden, UK",
+"remote": "remote",
+"posted": "2026-10-25",
+"url": "https://jobicy.com/jobs/156935-staff-product-designer-platform-design",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-25"
+},
+{
+"id": "jobicy:Jobicy:156914",
+"company": "PadSplit",
+"title": "Senior Product Designer (Fully Remote)",
+"location": "USA",
+"remote": "remote",
+"posted": "2026-10-25",
+"url": "https://jobicy.com/jobs/156914-senior-product-designer-fully-remote",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-25"
+},
+{
+"id": "jobicy:Jobicy:154008",
+"company": "TrustedHousesitters",
+"title": "Senior Product Designer",
+"location": "UK",
+"remote": "remote",
+"posted": "2026-10-25",
+"url": "https://jobicy.com/jobs/154008-senior-product-designer-14",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-25"
+},
+{
+"id": "jobicy:Jobicy:156955",
+"company": "Juniper Square",
+"title": "Staff Design Engineer",
+"location": "Canada, USA",
+"remote": "remote",
+"posted": "2026-10-25",
+"url": "https://jobicy.com/jobs/156955-staff-design-engineer-2",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-25"
+},
+{
+"id": "jobicy:Jobicy:154021",
+"company": "Ashby",
+"title": "Design Engineer - EU",
+"location": "Croatia, Estonia, Germany, Ireland, Italy, Portugal, Romania, Spain, Sweden, Switzerland",
+"remote": "remote",
+"posted": "2026-10-25",
+"url": "https://jobicy.com/jobs/154021-design-engineer-eu",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-25"
+},
+{
+"id": "jobicy:Jobicy:153996",
+"company": "Carrot",
+"title": "Product Design Lead",
+"location": "USA",
+"remote": "remote",
+"posted": "2026-10-25",
+"url": "https://jobicy.com/jobs/153996-product-design-lead",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-25"
+},
+{
+"id": "jobicy:Jobicy:154023",
+"company": "Ashby",
+"title": "Design Engineer - UK",
+"location": "UK",
+"remote": "remote",
+"posted": "2026-10-25",
+"url": "https://jobicy.com/jobs/154023-design-engineer-uk",
+"source": "Jobicy",
 "region": "Remote",
 "firstSeen": "2026-10-25"
 },
@@ -396,6 +576,42 @@
 "posted": "2026-10-25",
 "url": "https://himalayas.app/companies/arvore/jobs/game-ux-ui-designer-talent-pool?utm_source=api",
 "source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-25"
+},
+{
+"id": "jobicy:Jobicy:156776",
+"company": "Synthesia",
+"title": "Product Designer, AI-Native Products (Staff-Level / L6)",
+"location": "Europe",
+"remote": "remote",
+"posted": "2026-10-24",
+"url": "https://jobicy.com/jobs/156776-product-designer-ai-native-products-staff-level-l6",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-25"
+},
+{
+"id": "jobicy:Jobicy:156861",
+"company": "Ashby",
+"title": "Design Engineer - Canada",
+"location": "Canada",
+"remote": "remote",
+"posted": "2026-10-24",
+"url": "https://jobicy.com/jobs/156861-design-engineer-canada",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-25"
+},
+{
+"id": "jobicy:Jobicy:156857",
+"company": "Ashby",
+"title": "Design Engineer - Americas",
+"location": "USA",
+"remote": "remote",
+"posted": "2026-10-24",
+"url": "https://jobicy.com/jobs/156857-design-engineer-americas",
+"source": "Jobicy",
 "region": "Remote",
 "firstSeen": "2026-10-25"
 },
@@ -448,6 +664,18 @@
 "firstSeen": "2026-10-24"
 },
 {
+"id": "jobicy:Jobicy:153973",
+"company": "RevenueCat",
+"title": "Senior Product Designer",
+"location": "EMEA, LATAM, Canada, USA",
+"remote": "remote",
+"posted": "2026-10-24",
+"url": "https://jobicy.com/jobs/153973-senior-product-designer-13",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-24"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/sendmarc/jobs/product-designer-2997076912",
 "company": "Sendmarc",
 "title": "Product Designer",
@@ -472,6 +700,30 @@
 "firstSeen": "2026-10-24"
 },
 {
+"id": "jobicy:Jobicy:156685",
+"company": "Medium",
+"title": "Staff Product Designer",
+"location": "USA",
+"remote": "remote",
+"posted": "2026-10-23",
+"url": "https://jobicy.com/jobs/156685-staff-product-designer-6",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-24"
+},
+{
+"id": "jobicy:Jobicy:156673",
+"company": "PadSplit",
+"title": "Senior Product Designer (Fully Remote - anywhere in South America)",
+"location": "LATAM",
+"remote": "remote",
+"posted": "2026-10-23",
+"url": "https://jobicy.com/jobs/156673-senior-product-designer-fully-remote-anywhere-in-south-america",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-24"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/summit-k12/jobs/principal-ux-design",
 "company": "Summit K12",
 "title": "Principal, UX Design",
@@ -492,6 +744,18 @@
 "posted": "2026-10-23",
 "url": "https://jobs.ashbyhq.com/clera/c4862ea6-b0a3-4e6a-8e74-5380ba724593",
 "source": "ashby",
+"region": "Remote",
+"firstSeen": "2026-10-23"
+},
+{
+"id": "jobicy:Jobicy:156555",
+"company": "TrustedHousesitters",
+"title": "Senior Product Designer - Growth",
+"location": "UK",
+"remote": "remote",
+"posted": "2026-10-23",
+"url": "https://jobicy.com/jobs/156555-senior-product-designer-growth",
+"source": "Jobicy",
 "region": "Remote",
 "firstSeen": "2026-10-23"
 },
@@ -707,6 +971,18 @@
 "remote": "remote",
 "posted": "2026-10-29",
 "url": "https://himalayas.app/companies/rootstocklabs/jobs/senior-product-designer-3865616323?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/accelint/jobs/senior-product-designer-7795120682",
+"company": "Accelint",
+"title": "Senior Product Designer",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-10-29",
+"url": "https://himalayas.app/companies/accelint/jobs/senior-product-designer-7795120682?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"
@@ -1012,18 +1288,6 @@
 "firstSeen": "2026-10-18"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/david-kennedy-recruitment/jobs/product-designer",
-"company": "David Kennedy Recruitment",
-"title": "Product Designer",
-"location": "Croatia, France, Germany, Greece, Italy, Portugal, Spain, United Kingdom",
-"remote": "remote",
-"posted": "2026-10-05",
-"url": "https://himalayas.app/companies/david-kennedy-recruitment/jobs/product-designer?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/codepath/jobs/senior-product-designer-1565625775",
 "company": "CodePath",
 "title": "Senior Product Designer",
@@ -1247,6 +1511,18 @@
 "remote": "remote",
 "posted": "2026-09-05",
 "url": "https://himalayas.app/companies/nearsource-technologies/jobs/ux-designer-retail-operational-systems?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/virtualitics/jobs/sr-product-designer",
+"company": "Virtualitics",
+"title": "Sr Product Designer",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-09-03",
+"url": "https://himalayas.app/companies/virtualitics/jobs/sr-product-designer?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"
@@ -1619,18 +1895,6 @@
 "remote": "remote",
 "posted": "2026-10-03",
 "url": "https://himalayas.app/companies/pavago/jobs/product-designer-ux-ui-design-systems-7347784044?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/slate-auto/jobs/designer-principal-ux",
-"company": "Slate",
-"title": "Designer, Principal UX",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-10-02",
-"url": "https://himalayas.app/companies/slate-auto/jobs/designer-principal-ux?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-17"
@@ -2039,18 +2303,6 @@
 "remote": "remote",
 "posted": "2026-09-07",
 "url": "https://himalayas.app/companies/tbd_14_10_2022_ludia/jobs/senior-system-designer?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/applaudo/jobs/product-designer",
-"company": "Applaudo",
-"title": "Product Designer",
-"location": "Costa Rica",
-"remote": "remote",
-"posted": "2026-09-06",
-"url": "https://himalayas.app/companies/applaudo/jobs/product-designer?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-17"

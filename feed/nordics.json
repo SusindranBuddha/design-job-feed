@@ -1,7 +1,7 @@
 {
-"generated": "2026-10-29T19:39:49Z",
+"generated": "2026-10-30T08:41:41Z",
 "region": "Nordics",
-"count": 59,
+"count": 58,
 "jobs": [
 {
 "id": "greenhouse:oura:4472112009",
@@ -432,18 +432,6 @@
 "posted": "2026-10-16",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31608544",
 "source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:oura:4452942009",
-"company": "Oura",
-"title": "Staff Antenna Design Engineer",
-"location": "On-site - Oulu, North Ostrobothnia",
-"remote": null,
-"posted": "2026-10-15",
-"url": "https://job-boards.greenhouse.io/oura/jobs/4452942009",
-"source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
 },

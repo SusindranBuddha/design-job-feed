@@ -1,7 +1,7 @@
 {
-"generated": "2026-10-31T08:28:21Z",
+"generated": "2026-10-31T18:35:52Z",
 "region": "Europe",
-"count": 97,
+"count": 94,
 "jobs": [
 {
 "id": "arbeitnow:Arbeitnow:senior-product-designer-london-386415",
@@ -124,30 +124,6 @@
 "firstSeen": "2026-10-30"
 },
 {
-"id": "arbeitnow:Arbeitnow:propulsion-design-engineer-all-genders-munich-307896",
-"company": "væridion",
-"title": "Propulsion Design Engineer (all genders)",
-"location": "Munich HQ",
-"remote": null,
-"posted": "2026-10-29",
-"url": "https://www.arbeitnow.com/jobs/companies/vaeridion/propulsion-design-engineer-all-genders-munich-307896",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-30"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-structures-design-engineer-all-genders-munich-489500",
-"company": "væridion",
-"title": "Senior Structures Design Engineer (all genders)",
-"location": "Munich HQ",
-"remote": null,
-"posted": "2026-10-29",
-"url": "https://www.arbeitnow.com/jobs/companies/vaeridion/senior-structures-design-engineer-all-genders-munich-489500",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-30"
-},
-{
 "id": "arbeitnow:Arbeitnow:product-design-stage-amsterdam-90806",
 "company": "Crisp",
 "title": "Product Design stage",
@@ -179,18 +155,6 @@
 "remote": null,
 "posted": "2026-10-29",
 "url": "https://www.arbeitnow.ch/jobs/companies/smino/ui-ux-designer-b2b-saas-80-zurich-309469",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-29"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-ux-designer-munich-81260",
-"company": "Envidual",
-"title": "Senior UX Designer",
-"location": "Munich",
-"remote": null,
-"posted": "2026-10-29",
-"url": "https://www.arbeitnow.com/jobs/companies/envidual/senior-ux-designer-munich-81260",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-10-29"
@@ -304,18 +268,6 @@
 "firstSeen": "2026-10-22"
 },
 {
-"id": "greenhouse:bitpanda:5013167101",
-"company": "Bitpanda",
-"title": "Senior Product Designer, Web3",
-"location": "Barcelona, Spain",
-"remote": null,
-"posted": "2026-10-27",
-"url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5013167101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-22"
-},
-{
 "id": "greenhouse:bitpanda:5009825101",
 "company": "Bitpanda",
 "title": "Senior Product Designer, Web3",
@@ -323,6 +275,18 @@
 "remote": null,
 "posted": "2026-10-27",
 "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5009825101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-22"
+},
+{
+"id": "greenhouse:bitpanda:5013167101",
+"company": "Bitpanda",
+"title": "Senior Product Designer, Web3",
+"location": "Barcelona, Spain",
+"remote": null,
+"posted": "2026-10-27",
+"url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5013167101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-22"
@@ -714,18 +678,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4987959101",
-"company": "Moniepoint",
-"title": "Product Design Manager - Design System",
-"location": "Remote, Nigeria",
-"remote": null,
-"posted": "2026-10-19",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987959101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:moniepoint:4987960101",
 "company": "Moniepoint",
 "title": "Product Design Manager - Design System",
@@ -733,6 +685,18 @@
 "remote": null,
 "posted": "2026-10-19",
 "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987960101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:moniepoint:4987959101",
+"company": "Moniepoint",
+"title": "Product Design Manager - Design System",
+"location": "Remote, Nigeria",
+"remote": null,
+"posted": "2026-10-19",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987959101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -762,18 +726,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4944263101",
-"company": "Moniepoint",
-"title": "Product Design Manager - UX",
-"location": "Remote, Spain",
-"remote": null,
-"posted": "2026-10-19",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4944263101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:moniepoint:4944264101",
 "company": "Moniepoint",
 "title": "Product Design Manager - UX",
@@ -786,13 +738,25 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4710853101",
+"id": "greenhouse:moniepoint:4944263101",
+"company": "Moniepoint",
+"title": "Product Design Manager - UX",
+"location": "Remote, Spain",
+"remote": null,
+"posted": "2026-10-19",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4944263101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:moniepoint:4988183101",
 "company": "Moniepoint",
 "title": "Staff Product Designer",
-"location": "Remote, Poland",
+"location": "London, United Kingdom",
 "remote": null,
 "posted": "2026-10-16",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710853101",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4988183101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -810,13 +774,13 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4988183101",
+"id": "greenhouse:moniepoint:4710853101",
 "company": "Moniepoint",
 "title": "Staff Product Designer",
-"location": "London, United Kingdom",
+"location": "Remote, Poland",
 "remote": null,
 "posted": "2026-10-16",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4988183101",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710853101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -990,13 +954,13 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:tide:7779785003",
+"id": "greenhouse:tide:7731830003",
 "company": "Tide",
 "title": "Senior Product Designer",
-"location": "Serbia",
+"location": "Bulgaria",
 "remote": null,
 "posted": "2026-09-23",
-"url": "https://job-boards.greenhouse.io/tide/jobs/7779785003",
+"url": "https://job-boards.greenhouse.io/tide/jobs/7731830003",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -1014,13 +978,13 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:tide:7731830003",
+"id": "greenhouse:tide:7779785003",
 "company": "Tide",
 "title": "Senior Product Designer",
-"location": "Bulgaria",
+"location": "Serbia",
 "remote": null,
 "posted": "2026-09-23",
-"url": "https://job-boards.greenhouse.io/tide/jobs/7731830003",
+"url": "https://job-boards.greenhouse.io/tide/jobs/7779785003",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"

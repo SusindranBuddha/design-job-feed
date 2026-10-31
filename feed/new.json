@@ -1,64 +1,16 @@
 {
-"generated": "2026-10-31T08:28:21Z",
-"count": 5,
+"generated": "2026-10-31T18:35:52Z",
+"count": 1,
 "jobs": [
 {
-"id": "arbeitnow:Arbeitnow:senior-product-designer-london-386415",
-"company": "Theodo",
-"title": "Senior Product Designer",
-"location": "London",
-"remote": null,
+"id": "ashby:clera:9c739a05-cc20-418a-8bac-77f7cb12b2aa",
+"company": "Clera",
+"title": "Founding Product Designer",
+"location": "San Francisco",
+"remote": "OnSite",
 "posted": "2026-10-31",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/theodo/senior-product-designer-london-386415",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-31"
-},
-{
-"id": "arbeitnow:Arbeitnow:product-designer-london-179184",
-"company": "Wave",
-"title": "Product Designer",
-"location": "London, England, United Kingdom",
-"remote": null,
-"posted": "2026-10-30",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/wave/product-designer-london-179184",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-31"
-},
-{
-"id": "jobicy:Jobicy:158084",
-"company": "Fresh Prints",
-"title": "Technical Designer",
-"location": "Philippines",
-"remote": "remote",
-"posted": "2026-10-30",
-"url": "https://jobicy.com/jobs/158084-technical-designer",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-10-31"
-},
-{
-"id": "jobicy:Jobicy:158078",
-"company": "UpGuard",
-"title": "Senior Web Designer",
-"location": "Australia",
-"remote": "remote",
-"posted": "2026-10-30",
-"url": "https://jobicy.com/jobs/158078-senior-web-designer",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-10-31"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/northrop-grumman/jobs/systems-sw-analyst-principal-systems-sw-analyst-ux-designer",
-"company": "Northrop Grumman",
-"title": "Systems SW Analyst / Principal Systems SW Analyst - (UX Designer)",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-10-30",
-"url": "https://himalayas.app/companies/northrop-grumman/jobs/systems-sw-analyst-principal-systems-sw-analyst-ux-designer?utm_source=api",
-"source": "Himalayas",
+"url": "https://jobs.ashbyhq.com/clera/9c739a05-cc20-418a-8bac-77f7cb12b2aa",
+"source": "ashby",
 "region": "Remote",
 "firstSeen": "2026-10-31"
 }

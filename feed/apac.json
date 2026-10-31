@@ -1,7 +1,7 @@
 {
-"generated": "2026-10-31T08:28:21Z",
+"generated": "2026-10-31T18:35:52Z",
 "region": "APAC",
-"count": 80,
+"count": 78,
 "jobs": [
 {
 "id": "mcf:MyCareersFuture:25d5dfd1e41c95059307ec647d75fb9a",
@@ -861,32 +861,6 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 10000-12000 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:6a6a4961cf4ac840ad7de4dc93faad52",
-"company": "ITCAN PTE. LIMITED",
-"title": "UI UX Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-01",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/ui-ux-designer-itcan-6a6a4961cf4ac840ad7de4dc93faad52",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 4000-5500 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:0e9dac9988406a309a01e4f4bff98662",
-"company": "WEBSPARKS PTE. LTD.",
-"title": "Service & User Experience Designer (Public Sector)",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-01",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/service-user-experience-designer-websparks-0e9dac9988406a309a01e4f4bff98662",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 6000-9000 /Monthly",
 "firstSeen": "2026-10-17"
 },
 {

@@ -1,8 +1,44 @@
 {
-"generated": "2026-10-30T19:25:42Z",
+"generated": "2026-10-31T08:28:21Z",
 "region": "Remote",
 "count": 169,
 "jobs": [
+{
+"id": "jobicy:Jobicy:158084",
+"company": "Fresh Prints",
+"title": "Technical Designer",
+"location": "Philippines",
+"remote": "remote",
+"posted": "2026-10-30",
+"url": "https://jobicy.com/jobs/158084-technical-designer",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-31"
+},
+{
+"id": "jobicy:Jobicy:158078",
+"company": "UpGuard",
+"title": "Senior Web Designer",
+"location": "Australia",
+"remote": "remote",
+"posted": "2026-10-30",
+"url": "https://jobicy.com/jobs/158078-senior-web-designer",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-31"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/northrop-grumman/jobs/systems-sw-analyst-principal-systems-sw-analyst-ux-designer",
+"company": "Northrop Grumman",
+"title": "Systems SW Analyst / Principal Systems SW Analyst - (UX Designer)",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-10-30",
+"url": "https://himalayas.app/companies/northrop-grumman/jobs/systems-sw-analyst-principal-systems-sw-analyst-ux-designer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-31"
+},
 {
 "id": "ashby:clera:490ab89d-3fd5-4f3a-a213-343c8df3a45b",
 "company": "Clera",
@@ -35,30 +71,6 @@
 "remote": "remote",
 "posted": "2026-10-30",
 "url": "https://himalayas.app/companies/warp/jobs/product-designer?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-30"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/knowmad-mood/jobs/product-designer-ux-ui-design-systems-freelance",
-"company": "knowmad mood",
-"title": "Product Designer (UX/UI & Design Systems) - Freelance",
-"location": "Spain",
-"remote": "remote",
-"posted": "2026-10-30",
-"url": "https://himalayas.app/companies/knowmad-mood/jobs/product-designer-ux-ui-design-systems-freelance?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-30"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/knowmad-mood/jobs/product-designer-ux-ui-design-systems",
-"company": "knowmad mood",
-"title": "Product Designer (UX/UI & Design Systems)",
-"location": "Spain",
-"remote": "remote",
-"posted": "2026-10-30",
-"url": "https://himalayas.app/companies/knowmad-mood/jobs/product-designer-ux-ui-design-systems?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-30"
@@ -273,7 +285,7 @@
 "title": "Senior UX Designer",
 "location": "Remote",
 "remote": null,
-"posted": "2026-10-28",
+"posted": "2026-10-30",
 "url": "https://job-boards.greenhouse.io/wikimedia/jobs/8319366",
 "source": "greenhouse",
 "region": "Remote",
@@ -648,18 +660,6 @@
 "posted": "2026-10-29",
 "url": "https://himalayas.app/companies/prism-studio/jobs/lead-ux-ui-designer-8750788806?utm_source=api",
 "source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-24"
-},
-{
-"id": "jobicy:Jobicy:153973",
-"company": "RevenueCat",
-"title": "Senior Product Designer",
-"location": "EMEA, LATAM, Canada, USA",
-"remote": "remote",
-"posted": "2026-10-24",
-"url": "https://jobicy.com/jobs/153973-senior-product-designer-13",
-"source": "Jobicy",
 "region": "Remote",
 "firstSeen": "2026-10-24"
 },

@@ -1,7 +1,7 @@
 {
-"generated": "2026-10-30T19:25:42Z",
+"generated": "2026-10-31T08:28:21Z",
 "region": "APAC",
-"count": 82,
+"count": 80,
 "jobs": [
 {
 "id": "mcf:MyCareersFuture:25d5dfd1e41c95059307ec647d75fb9a",
@@ -143,34 +143,8 @@
 "url": "https://cba.wd3.myworkdayjobs.com/CommBank_Careers/job/Sydney-CBD-Area/Principal-Product-Design---Talent-Community_REQ267815",
 "source": "workday",
 "region": "APAC",
-"postedText": "Posted 2 Days Ago",
+"postedText": "Posted 3 Days Ago",
 "firstSeen": "2026-10-28"
-},
-{
-"id": "mcf:MyCareersFuture:22411510aff616cbd932c95ebb241c42",
-"company": "NAS EDUCATION PTE. LTD.",
-"title": "Product Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-27",
-"url": "https://www.mycareersfuture.gov.sg/job/design/product-designer-nas-education-22411510aff616cbd932c95ebb241c42",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 8000-12000 /Monthly",
-"firstSeen": "2026-10-27"
-},
-{
-"id": "mcf:MyCareersFuture:5c2af06ed31242f01685a87c42ba9519",
-"company": "TALENTSIS PTE. LTD.",
-"title": "Senior Product Designer - Permanent Role",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-27",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-product-designer-permanent-role-talentsis-5c2af06ed31242f01685a87c42ba9519",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 6000-7000 /Monthly",
-"firstSeen": "2026-10-27"
 },
 {
 "id": "mcf:MyCareersFuture:64f9ef5973d3b7f825ec247db512d455",

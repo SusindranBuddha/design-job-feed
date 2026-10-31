@@ -1,7 +1,7 @@
 {
-"generated": "2026-10-30T19:25:42Z",
+"generated": "2026-10-31T08:28:21Z",
 "region": "Nordics",
-"count": 58,
+"count": 59,
 "jobs": [
 {
 "id": "platsbanken:Platsbanken:31666617",
@@ -304,6 +304,18 @@
 "firstSeen": "2026-10-22"
 },
 {
+"id": "lever:spotify:f02fb195-ba10-40bd-a926-0318a34a7fae",
+"company": "Spotify",
+"title": "Staff Product Designer - Platform Design",
+"location": "London",
+"remote": "remote",
+"posted": "2026-10-21",
+"url": "https://jobs.lever.co/spotify/f02fb195-ba10-40bd-a926-0318a34a7fae",
+"source": "lever",
+"region": "Nordics",
+"firstSeen": "2026-10-21"
+},
+{
 "id": "platsbanken:Platsbanken:31626858",
 "company": "Kongsberg Maritime Sweden AB",
 "title": "Propeller Blade Designer / Hydrodynamicist",
@@ -412,18 +424,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:alphasense:8531119002",
-"company": "AlphaSense",
-"title": "Senior/Staff Product Designer",
-"location": "Remote - United Kingdom",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:alphasense:8530664002",
 "company": "AlphaSense",
 "title": "Senior/Staff Product Designer",
@@ -431,6 +431,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:alphasense:8531119002",
+"company": "AlphaSense",
+"title": "Senior/Staff Product Designer",
+"location": "Remote - United Kingdom",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"

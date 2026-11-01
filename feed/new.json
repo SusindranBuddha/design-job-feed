@@ -1,18 +1,102 @@
 {
-"generated": "2026-10-31T18:35:52Z",
-"count": 1,
+"generated": "2026-11-01T09:18:19Z",
+"count": 8,
 "jobs": [
 {
-"id": "ashby:clera:9c739a05-cc20-418a-8bac-77f7cb12b2aa",
-"company": "Clera",
-"title": "Founding Product Designer",
-"location": "San Francisco",
-"remote": "OnSite",
+"id": "arbeitnow:Arbeitnow:microwave-design-engineer-munich-301625",
+"company": "Proxima Fusion GmbH",
+"title": "Microwave Design Engineer",
+"location": "Munich",
+"remote": null,
+"posted": "2026-11-01",
+"url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/microwave-design-engineer-munich-301625",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-01"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-electronics-design-engineer-gilching-7648",
+"company": "Quantum-Systems GmbH",
+"title": "Senior Electronics Design Engineer (m/f/d)",
+"location": "Gilching, Bayern, Germany",
+"remote": null,
+"posted": "2026-11-01",
+"url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-electronics-design-engineer-gilching-7648",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-01"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-design-engineer-berlin-214302",
+"company": "Rohlik",
+"title": "Senior Product Design Engineer",
+"location": "Berlin, Germany",
+"remote": null,
 "posted": "2026-10-31",
-"url": "https://jobs.ashbyhq.com/clera/9c739a05-cc20-418a-8bac-77f7cb12b2aa",
-"source": "ashby",
+"url": "https://www.arbeitnow.com/jobs/companies/rohlik/senior-product-design-engineer-berlin-214302",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-01"
+},
+{
+"id": "arbeitnow:Arbeitnow:product-designer-paris-75685",
+"company": "Bigblue",
+"title": "Product Designer",
+"location": "Paris",
+"remote": null,
+"posted": "2026-11-01",
+"url": "https://www.arbeitnow.fr/jobs/companies/bigblue/product-designer-paris-75685",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-01"
+},
+{
+"id": "arbeitnow:Arbeitnow:remote-senior-product-designer-growth-54230",
+"company": "Trustedhousesitters.com",
+"title": "Senior Product Designer - Growth",
+"location": "Remote",
+"remote": "remote",
+"posted": "2026-11-01",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/trustedhousesitterscom/remote-senior-product-designer-growth-54230",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-01"
+},
+{
+"id": "arbeitnow:Arbeitnow:ux-designer-norwich-63719",
+"company": "Zeal Network",
+"title": "UX Designer (f/m/d)",
+"location": "Norwich, United Kingdom",
+"remote": null,
+"posted": "2026-10-31",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/zeal-network/ux-designer-norwich-63719",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-01"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/highlevel/jobs/lead-product-designer",
+"company": "HighLevel",
+"title": "Lead Product Designer",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-11-01",
+"url": "https://himalayas.app/companies/highlevel/jobs/lead-product-designer?utm_source=api",
+"source": "Himalayas",
 "region": "Remote",
-"firstSeen": "2026-10-31"
+"firstSeen": "2026-11-01"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/engiflex/jobs/ux-designer-design-systems-wcag-freelance-optionnel",
+"company": "EngiFlex",
+"title": "UX Designer - Design Systems & WCAG (Freelance optionnel)",
+"location": "Belgium",
+"remote": "remote",
+"posted": "2026-11-01",
+"url": "https://himalayas.app/companies/engiflex/jobs/ux-designer-design-systems-wcag-freelance-optionnel?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-01"
 }
 ]
 }

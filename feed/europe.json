@@ -1,8 +1,80 @@
 {
-"generated": "2026-10-31T18:35:52Z",
+"generated": "2026-11-01T09:18:19Z",
 "region": "Europe",
-"count": 94,
+"count": 96,
 "jobs": [
+{
+"id": "arbeitnow:Arbeitnow:microwave-design-engineer-munich-301625",
+"company": "Proxima Fusion GmbH",
+"title": "Microwave Design Engineer",
+"location": "Munich",
+"remote": null,
+"posted": "2026-11-01",
+"url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/microwave-design-engineer-munich-301625",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-01"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-electronics-design-engineer-gilching-7648",
+"company": "Quantum-Systems GmbH",
+"title": "Senior Electronics Design Engineer (m/f/d)",
+"location": "Gilching, Bayern, Germany",
+"remote": null,
+"posted": "2026-11-01",
+"url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-electronics-design-engineer-gilching-7648",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-01"
+},
+{
+"id": "arbeitnow:Arbeitnow:product-designer-paris-75685",
+"company": "Bigblue",
+"title": "Product Designer",
+"location": "Paris",
+"remote": null,
+"posted": "2026-11-01",
+"url": "https://www.arbeitnow.fr/jobs/companies/bigblue/product-designer-paris-75685",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-01"
+},
+{
+"id": "arbeitnow:Arbeitnow:remote-senior-product-designer-growth-54230",
+"company": "Trustedhousesitters.com",
+"title": "Senior Product Designer - Growth",
+"location": "Remote",
+"remote": "remote",
+"posted": "2026-11-01",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/trustedhousesitterscom/remote-senior-product-designer-growth-54230",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-01"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-design-engineer-berlin-214302",
+"company": "Rohlik",
+"title": "Senior Product Design Engineer",
+"location": "Berlin, Germany",
+"remote": null,
+"posted": "2026-10-31",
+"url": "https://www.arbeitnow.com/jobs/companies/rohlik/senior-product-design-engineer-berlin-214302",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-01"
+},
+{
+"id": "arbeitnow:Arbeitnow:ux-designer-norwich-63719",
+"company": "Zeal Network",
+"title": "UX Designer (f/m/d)",
+"location": "Norwich, United Kingdom",
+"remote": null,
+"posted": "2026-10-31",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/zeal-network/ux-designer-norwich-63719",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-01"
+},
 {
 "id": "arbeitnow:Arbeitnow:senior-product-designer-london-386415",
 "company": "Theodo",
@@ -71,54 +143,6 @@
 "remote": "remote",
 "posted": "2026-10-30",
 "url": "https://www.arbeitnow.com/jobs/companies/hilobyaktiia/remote-lead-product-designer-germany-357802",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-30"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-designer-london-130946",
-"company": "Exclaimer",
-"title": "Senior Designer",
-"location": "London",
-"remote": null,
-"posted": "2026-10-30",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/exclaimer/senior-designer-london-130946",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-30"
-},
-{
-"id": "arbeitnow:Arbeitnow:remote-senior-product-designer-france-120501",
-"company": "Hilobyaktiia",
-"title": "Senior Product Designer (m/f/d)",
-"location": "France",
-"remote": "remote",
-"posted": "2026-10-30",
-"url": "https://www.arbeitnow.fr/jobs/companies/hilobyaktiia/remote-senior-product-designer-france-120501",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-30"
-},
-{
-"id": "arbeitnow:Arbeitnow:remote-lead-product-designer-france-379469",
-"company": "Hilobyaktiia",
-"title": "Lead Product Designer (m/f/d)",
-"location": "France",
-"remote": "remote",
-"posted": "2026-10-30",
-"url": "https://www.arbeitnow.fr/jobs/companies/hilobyaktiia/remote-lead-product-designer-france-379469",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-30"
-},
-{
-"id": "arbeitnow:Arbeitnow:product-designer-paris-74148",
-"company": "Parallel",
-"title": "Product Designer",
-"location": "Paris",
-"remote": null,
-"posted": "2026-10-30",
-"url": "https://www.arbeitnow.fr/jobs/companies/parallel/product-designer-paris-74148",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-10-30"
@@ -337,7 +361,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Business-Analysis--AVP-1_R-786883",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 12 Days Ago",
+"postedText": "Posted 13 Days Ago",
 "firstSeen": "2026-10-20"
 },
 {
@@ -350,7 +374,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Platform-Engineering---Dev-UX--Production-Website---Off_R-799791-1",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 12 Days Ago",
+"postedText": "Posted 13 Days Ago",
 "firstSeen": "2026-10-19"
 },
 {

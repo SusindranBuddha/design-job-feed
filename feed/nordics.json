@@ -1,7 +1,7 @@
 {
-"generated": "2026-10-31T18:35:52Z",
+"generated": "2026-11-01T09:18:19Z",
 "region": "Nordics",
-"count": 59,
+"count": 58,
 "jobs": [
 {
 "id": "platsbanken:Platsbanken:31666617",
@@ -684,18 +684,6 @@
 "posted": "2026-08-20",
 "url": "https://jobs.ashbyhq.com/legora/92db5fb3-581b-4dcd-b6c1-84c8ba39bb9e",
 "source": "ashby",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "platsbanken:Platsbanken:31377280",
-"company": "Jobs Europe AB",
-"title": "Creative Designer - Malta",
-"location": "",
-"remote": null,
-"posted": "2026-08-20",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31377280",
-"source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
 },

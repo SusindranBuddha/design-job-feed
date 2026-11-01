@@ -1,8 +1,21 @@
 {
-"generated": "2026-11-01T09:18:19Z",
+"generated": "2026-11-01T18:57:42Z",
 "region": "APAC",
 "count": 78,
 "jobs": [
+{
+"id": "mcf:MyCareersFuture:0bf06bd76b6637d346306d103cb1279a",
+"company": "HELIUS TECHNOLOGIES PTE. LTD.",
+"title": "UX/UI Product Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-02",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/uxui-product-designer-helius-technologies-0bf06bd76b6637d346306d103cb1279a",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 4000-6500 /Monthly",
+"firstSeen": "2026-11-01"
+},
 {
 "id": "mcf:MyCareersFuture:25d5dfd1e41c95059307ec647d75fb9a",
 "company": "ARGYLL SCOTT CONSULTING PTE. LTD.",
@@ -848,19 +861,6 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 6000-9000 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:a16b8a8ec3a021e8ebe0669e673dc227",
-"company": "BRUNEL INTERNATIONAL SOUTH EAST ASIA PTE. LTD.",
-"title": "Senior Experience Designer (UX)",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-02",
-"url": "https://www.mycareersfuture.gov.sg/job/design/senior-experience-designer-brunel-international-south-east-asia-a16b8a8ec3a021e8ebe0669e673dc227",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 10000-12000 /Monthly",
 "firstSeen": "2026-10-17"
 },
 {

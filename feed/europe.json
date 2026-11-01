@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-01T09:18:19Z",
+"generated": "2026-11-01T18:57:42Z",
 "region": "Europe",
-"count": 96,
+"count": 95,
 "jobs": [
 {
 "id": "arbeitnow:Arbeitnow:microwave-design-engineer-munich-301625",
@@ -23,6 +23,18 @@
 "remote": null,
 "posted": "2026-11-01",
 "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-electronics-design-engineer-gilching-7648",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-01"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-london-19194",
+"company": "Sahajsoftware",
+"title": "Senior Product Designer",
+"location": "London",
+"remote": null,
+"posted": "2026-11-01",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/sahajsoftware/senior-product-designer-london-19194",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-01"
@@ -74,30 +86,6 @@
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-01"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-product-designer-london-386415",
-"company": "Theodo",
-"title": "Senior Product Designer",
-"location": "London",
-"remote": null,
-"posted": "2026-10-31",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/theodo/senior-product-designer-london-386415",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-31"
-},
-{
-"id": "arbeitnow:Arbeitnow:product-designer-london-179184",
-"company": "Wave",
-"title": "Product Designer",
-"location": "London, England, United Kingdom",
-"remote": null,
-"posted": "2026-10-30",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/wave/product-designer-london-179184",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-31"
 },
 {
 "id": "arbeitnow:Arbeitnow:senior-product-designer-rotterdam-154118",

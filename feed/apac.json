@@ -1,8 +1,34 @@
 {
-"generated": "2026-11-01T18:57:42Z",
+"generated": "2026-11-02T09:33:25Z",
 "region": "APAC",
-"count": 78,
+"count": 75,
 "jobs": [
+{
+"id": "mcf:MyCareersFuture:4a33b1a9061caf8d3e8b4e0af6fd0305",
+"company": "HYUNDAI MOTOR GROUP INNOVATION CENTER IN SINGAPORE PTE. LTD.",
+"title": "UI/UX Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-02",
+"url": "https://www.mycareersfuture.gov.sg/job/engineering/uiux-designer-hyundai-motor-group-innovation-center-singapore-4a33b1a9061caf8d3e8b4e0af6fd0305",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 4000-6000 /Monthly",
+"firstSeen": "2026-11-02"
+},
+{
+"id": "mcf:MyCareersFuture:b0595295ed685b70eea27937f5b73e74",
+"company": "TALENTSIS PTE. LTD.",
+"title": "UI/UX Engineer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-02",
+"url": "https://www.mycareersfuture.gov.sg/job/engineering/uiux-engineer-talentsis-b0595295ed685b70eea27937f5b73e74",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 4500-6500 /Monthly",
+"firstSeen": "2026-11-02"
+},
 {
 "id": "mcf:MyCareersFuture:0bf06bd76b6637d346306d103cb1279a",
 "company": "HELIUS TECHNOLOGIES PTE. LTD.",
@@ -121,32 +147,6 @@
 "firstSeen": "2026-10-29"
 },
 {
-"id": "mcf:MyCareersFuture:d6feaa86d59c549dc4da398126d78ece",
-"company": "USER EXPERIENCE RESEARCHERS PTE. LTD.",
-"title": "Senior Product Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-28",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-product-designer-user-experience-researchers-d6feaa86d59c549dc4da398126d78ece",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 7000-14000 /Monthly",
-"firstSeen": "2026-10-28"
-},
-{
-"id": "mcf:MyCareersFuture:9f522a4cdb0086d1527c2d558dce455e",
-"company": "WEBSPARKS PTE. LTD.",
-"title": "Senior Product Designer (Public Sector/Education)",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-28",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-product-designer-websparks-9f522a4cdb0086d1527c2d558dce455e",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 7000-10000 /Monthly",
-"firstSeen": "2026-10-28"
-},
-{
 "id": "workday:cba:/job/Sydney-CBD-Area/Principal-Product-Design---Talent-Community_REQ267815",
 "company": "Commonwealth Bank",
 "title": "Principal Product Design- Talent Community",
@@ -156,7 +156,7 @@
 "url": "https://cba.wd3.myworkdayjobs.com/CommBank_Careers/job/Sydney-CBD-Area/Principal-Product-Design---Talent-Community_REQ267815",
 "source": "workday",
 "region": "APAC",
-"postedText": "Posted 4 Days Ago",
+"postedText": "Posted 5 Days Ago",
 "firstSeen": "2026-10-28"
 },
 {
@@ -684,18 +684,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:zipcolimited:4716196006",
-"company": "Zip Co",
-"title": "Senior Product Designer",
-"location": "Sydney",
-"remote": null,
-"posted": "2026-10-12",
-"url": "https://job-boards.greenhouse.io/zipcolimited/jobs/4716196006",
-"source": "greenhouse",
-"region": "APAC",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "mcf:MyCareersFuture:d769880d71ec67607b51c3e02a49b22b",
 "company": "VINOVA PTE. LTD.",
 "title": "Senior UI/UX Designer",
@@ -761,19 +749,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "mcf:MyCareersFuture:91e2bfbba157f62fa1bb2aaca2156a06",
-"company": "HANWHA OCEAN GLOBAL PROJECT EXECUTION CENTER PTE. LTD.",
-"title": "Senior/I&C Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-09",
-"url": "https://www.mycareersfuture.gov.sg/job/design/senioric-designer-hanwha-ocean-global-project-execution-center-91e2bfbba157f62fa1bb2aaca2156a06",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 5700-7100 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "ashby:airwallex:5c2b3a16-52d3-4c3e-b3b1-c6deab07911f",
 "company": "Airwallex",
 "title": "Staff Product Designer, Design Systems",
@@ -796,19 +771,6 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 5500-8500 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:d383f6ee78ed90deb618ba38f8bd388e",
-"company": "BEATHCHAPMAN (PTE. LTD.)",
-"title": "Senior Product Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-08",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-product-designer-beathchapman-d383f6ee78ed90deb618ba38f8bd388e",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 7200-7200 /Monthly",
 "firstSeen": "2026-10-17"
 },
 {

@@ -1,8 +1,21 @@
 {
-"generated": "2026-11-01T18:57:42Z",
+"generated": "2026-11-02T09:33:25Z",
 "region": "Nordics",
-"count": 59,
+"count": 61,
 "jobs": [
+{
+"id": "workday:unitytech:/job/Singapore/XMLNAME--Req----Product-Designer--2D_JOBREQ-2616662",
+"company": "Unity",
+"title": "Product Designer, 2D",
+"location": "Singapore",
+"remote": null,
+"posted": null,
+"url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Singapore/XMLNAME--Req----Product-Designer--2D_JOBREQ-2616662",
+"source": "workday",
+"region": "Nordics",
+"postedText": "Posted Today",
+"firstSeen": "2026-11-02"
+},
 {
 "id": "platsbanken:Platsbanken:31669317",
 "company": "Hykmann Global Business Solutions AB",
@@ -374,6 +387,18 @@
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-19"
+},
+{
+"id": "greenhouse:oura:4452942009",
+"company": "Oura",
+"title": "Staff Antenna Design Engineer",
+"location": "On-site - Oulu, North Ostrobothnia",
+"remote": null,
+"posted": "2026-11-02",
+"url": "https://job-boards.greenhouse.io/oura/jobs/4452942009",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
 },
 {
 "id": "greenhouse:smartlyio:6208020004",

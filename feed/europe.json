@@ -1,8 +1,68 @@
 {
-"generated": "2026-11-01T18:57:42Z",
+"generated": "2026-11-02T09:33:25Z",
 "region": "Europe",
-"count": 95,
+"count": 99,
 "jobs": [
+{
+"id": "smartrecruiters:Wise:744000159026939",
+"company": "Wise",
+"title": "Principal Product Designer – LATAM",
+"location": "São Paulo, br",
+"remote": null,
+"posted": "2026-11-02",
+"url": "https://jobs.smartrecruiters.com/Wise/744000159026939",
+"source": "smartrecruiters",
+"region": "Europe",
+"firstSeen": "2026-11-02"
+},
+{
+"id": "arbeitnow:Arbeitnow:founding-ui-ux-artist-unannounced-game-london-52686",
+"company": "Supercell",
+"title": "Founding UI/UX Artist, Unannounced Game",
+"location": "London",
+"remote": null,
+"posted": "2026-11-02",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/supercell/founding-ui-ux-artist-unannounced-game-london-52686",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-02"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-ux-united-kingdom-360323",
+"company": "Airalo",
+"title": "Senior Product Designer, UX",
+"location": "United Kingdom",
+"remote": null,
+"posted": "2026-11-02",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/airalo/senior-product-designer-ux-united-kingdom-360323",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-02"
+},
+{
+"id": "arbeitnow:Arbeitnow:consultante-product-designer-paris-491667",
+"company": "Thiga",
+"title": "Consultant.e Product Designer",
+"location": "Paris",
+"remote": null,
+"posted": "2026-11-02",
+"url": "https://www.arbeitnow.fr/jobs/companies/thiga/consultante-product-designer-paris-491667",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-02"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-ux-designer-map-visualisation-amsterdam-the-netherlands-97864",
+"company": "Tomtom",
+"title": "Senior UX Designer - Map Visualisation",
+"location": "Amsterdam, The Netherlands",
+"remote": null,
+"posted": "2026-11-02",
+"url": "https://www.arbeitnow.nl/jobs/companies/tomtom/senior-ux-designer-map-visualisation-amsterdam-the-netherlands-97864",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-02"
+},
 {
 "id": "arbeitnow:Arbeitnow:microwave-design-engineer-munich-301625",
 "company": "Proxima Fusion GmbH",
@@ -155,18 +215,6 @@
 "remote": null,
 "posted": "2026-10-29",
 "url": "https://www.arbeitnow.nl/jobs/companies/polarsteps/senior-product-designer-amsterdam-292387",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-29"
-},
-{
-"id": "arbeitnow:Arbeitnow:ui-ux-designer-b2b-saas-80-zurich-309469",
-"company": "Smino",
-"title": "UI/UX Designer B2B SaaS - 80% (m/w/d)",
-"location": "Zürich",
-"remote": null,
-"posted": "2026-10-29",
-"url": "https://www.arbeitnow.ch/jobs/companies/smino/ui-ux-designer-b2b-saas-80-zurich-309469",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-10-29"
@@ -349,7 +397,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Business-Analysis--AVP-1_R-786883",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 13 Days Ago",
+"postedText": "Posted 14 Days Ago",
 "firstSeen": "2026-10-20"
 },
 {
@@ -362,8 +410,32 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Platform-Engineering---Dev-UX--Production-Website---Off_R-799791-1",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 13 Days Ago",
+"postedText": "Posted 14 Days Ago",
 "firstSeen": "2026-10-19"
+},
+{
+"id": "greenhouse:hellofresh:8242900",
+"company": "HelloFresh",
+"title": "Senior Service Designer, Food Systems & Fulfillment",
+"location": "Warszawa, Masovian Voivodeship, Poland",
+"remote": null,
+"posted": "2026-11-02",
+"url": "https://careers.hellofresh.com/global/en/job/8242900?gh_jid=8242900",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:hellofresh:8242893",
+"company": "HelloFresh",
+"title": "Senior Service Designer, Food Systems & Fulfillment (f/m/x)",
+"location": "Berlin, Berlin, Germany",
+"remote": null,
+"posted": "2026-11-02",
+"url": "https://careers.hellofresh.com/global/en/job/8242893?gh_jid=8242893",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
 },
 {
 "id": "greenhouse:deliveroo:8284786",
@@ -601,30 +673,6 @@
 "remote": null,
 "posted": "2026-10-29",
 "url": "https://stripe.com/jobs/search?gh_jid=8031782",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:hellofresh:8242900",
-"company": "HelloFresh",
-"title": "Senior Service Designer, Food Systems & Fulfillment",
-"location": "Warszawa, Masovian Voivodeship, Poland",
-"remote": null,
-"posted": "2026-10-27",
-"url": "https://careers.hellofresh.com/global/en/job/8242900?gh_jid=8242900",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:hellofresh:8242893",
-"company": "HelloFresh",
-"title": "Senior Service Designer, Food Systems & Fulfillment (f/m/x)",
-"location": "Berlin, Berlin, Germany",
-"remote": null,
-"posted": "2026-10-27",
-"url": "https://careers.hellofresh.com/global/en/job/8242893?gh_jid=8242893",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -966,18 +1014,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:tide:7731830003",
-"company": "Tide",
-"title": "Senior Product Designer",
-"location": "Bulgaria",
-"remote": null,
-"posted": "2026-09-23",
-"url": "https://job-boards.greenhouse.io/tide/jobs/7731830003",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:tide:7788378003",
 "company": "Tide",
 "title": "Senior Product Designer",
@@ -985,6 +1021,18 @@
 "remote": null,
 "posted": "2026-09-23",
 "url": "https://job-boards.greenhouse.io/tide/jobs/7788378003",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:tide:7731830003",
+"company": "Tide",
+"title": "Senior Product Designer",
+"location": "Bulgaria",
+"remote": null,
+"posted": "2026-09-23",
+"url": "https://job-boards.greenhouse.io/tide/jobs/7731830003",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -1074,18 +1122,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "ashby:taktile:72cf9577-c829-47d6-8768-39d041308c02",
-"company": "Taktile",
-"title": "Senior Product Designer",
-"location": "Berlin Office ; London Office",
-"remote": "Hybrid",
-"posted": "2026-08-26",
-"url": "https://jobs.ashbyhq.com/taktile/72cf9577-c829-47d6-8768-39d041308c02",
-"source": "ashby",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "smartrecruiters:Wise:744000142161034",
 "company": "Wise",
 "title": "Senior Product Designer, Verification",
@@ -1143,6 +1179,19 @@
 "url": "https://jobs.ashbyhq.com/perk/3f12cf23-47f1-4423-9256-eb998d80133e",
 "source": "ashby",
 "region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "workday:statestreet:/job/Bangalore-India/Instruction-Designer-Sr-Manager_R-798129-2",
+"company": "State Street",
+"title": "Instruction Designer Manager",
+"location": "3 Locations",
+"remote": null,
+"posted": null,
+"url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Instruction-Designer-Sr-Manager_R-798129-2",
+"source": "workday",
+"region": "Europe",
+"postedText": "Posted Today",
 "firstSeen": "2026-10-17"
 }
 ]

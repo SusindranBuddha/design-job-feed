@@ -1,8 +1,32 @@
 {
-"generated": "2026-11-01T18:57:42Z",
+"generated": "2026-11-02T09:33:25Z",
 "region": "Remote",
-"count": 197,
+"count": 198,
 "jobs": [
+{
+"id": "jobicy:Jobicy:158378",
+"company": "Fueled",
+"title": "UX Designer | EMEA | Contract",
+"location": "EMEA",
+"remote": "remote",
+"posted": "2026-11-01",
+"url": "https://jobicy.com/jobs/158378-ux-designer-emea-contract",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-02"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/sunotec-eood/jobs/senior-electrical-design-engineer-renewable-energy-systems-remote-hybrid-or",
+"company": "SUNOTEC EOOD",
+"title": "Senior Electrical Design Engineer - Renewable Energy Systems (Remote, Hybrid or",
+"location": "Bulgaria",
+"remote": "remote",
+"posted": "2026-11-01",
+"url": "https://himalayas.app/companies/sunotec-eood/jobs/senior-electrical-design-engineer-renewable-energy-systems-remote-hybrid-or?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-02"
+},
 {
 "id": "ashby:clera:fd445928-013c-43a4-9957-753e0b76d909",
 "company": "Clera",
@@ -592,18 +616,6 @@
 "firstSeen": "2026-10-26"
 },
 {
-"id": "jobicy:Jobicy:151644",
-"company": "Ashby",
-"title": "Staff Design Engineer - Americas",
-"location": "USA",
-"remote": "remote",
-"posted": "2026-10-26",
-"url": "https://jobicy.com/jobs/151644-staff-design-engineer-americas",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-10-26"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/seismic-squirrel/jobs/senior-videogame-designer-2334521818",
 "company": "Seismic Squirrel",
 "title": "Senior Videogame Designer",
@@ -1168,18 +1180,6 @@
 "firstSeen": "2026-10-18"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/covet/jobs/product-designer-ux-ui",
-"company": "CoVet",
-"title": "Product Designer (UX/UI)",
-"location": "Canada",
-"remote": "remote",
-"posted": "2026-10-15",
-"url": "https://himalayas.app/companies/covet/jobs/product-designer-ux-ui?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/imprint/jobs/staff-product-designer",
 "company": "Imprint",
 "title": "Staff Product Designer",
@@ -1499,6 +1499,18 @@
 "remote": "remote",
 "posted": "2026-11-01",
 "url": "https://himalayas.app/companies/highlevel/jobs/staff-product-designer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/monzo/jobs/staff-product-designer-business-banking",
+"company": "Monzo",
+"title": "Staff Product Designer, Business Banking",
+"location": "United Kingdom",
+"remote": "remote",
+"posted": "2026-11-01",
+"url": "https://himalayas.app/companies/monzo/jobs/staff-product-designer-business-banking?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-17"

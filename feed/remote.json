@@ -1,8 +1,32 @@
 {
-"generated": "2026-11-02T09:33:25Z",
+"generated": "2026-11-02T22:48:11Z",
 "region": "Remote",
-"count": 198,
+"count": 197,
 "jobs": [
+{
+"id": "ashby:n8n:fe05c209-8069-4a88-aeba-8da23488cd30",
+"company": "n8n",
+"title": "Senior/Staff Product Designer",
+"location": "Germany; Bosnia; Norway; Estonia; Slovenia; Italy; Netherlands; Hungary; Portugal; France; Poland; Serbia; Austria; Finland; Montenegro; Slovakia; Ireland; Denm",
+"remote": "Remote",
+"posted": "2026-11-02",
+"url": "https://jobs.ashbyhq.com/n8n/fe05c209-8069-4a88-aeba-8da23488cd30",
+"source": "ashby",
+"region": "Remote",
+"firstSeen": "2026-11-02"
+},
+{
+"id": "ashby:clera:00e3f650-ba42-48c0-8f31-e4590284ce2c",
+"company": "Clera",
+"title": "Senior Product Designer",
+"location": "remote",
+"remote": null,
+"posted": "2026-11-02",
+"url": "https://jobs.ashbyhq.com/clera/00e3f650-ba42-48c0-8f31-e4590284ce2c",
+"source": "ashby",
+"region": "Remote",
+"firstSeen": "2026-11-02"
+},
 {
 "id": "jobicy:Jobicy:158378",
 "company": "Fueled",
@@ -26,18 +50,6 @@
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-02"
-},
-{
-"id": "ashby:clera:fd445928-013c-43a4-9957-753e0b76d909",
-"company": "Clera",
-"title": "Founding Product Designer",
-"location": "remote",
-"remote": null,
-"posted": "2026-11-01",
-"url": "https://jobs.ashbyhq.com/clera/fd445928-013c-43a4-9957-753e0b76d909",
-"source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-11-01"
 },
 {
 "id": "himalayas:Himalayas:https://himalayas.app/companies/highlevel/jobs/lead-product-designer",
@@ -196,6 +208,18 @@
 "firstSeen": "2026-10-31"
 },
 {
+"id": "himalayas:Himalayas:https://himalayas.app/companies/consensys-io/jobs/lead-product-designer",
+"company": "Consensys",
+"title": "Lead Product Designer",
+"location": "Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antarctica, Antigua and Barbuda, Argentina, Armenia, Aruba, Austria, Azerbaijan, Bahamas, Bahrain, Bar",
+"remote": "remote",
+"posted": "2026-11-02",
+"url": "https://himalayas.app/companies/consensys-io/jobs/lead-product-designer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-30"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/warp/jobs/product-designer",
 "company": "Warp",
 "title": "Product Designer",
@@ -203,18 +227,6 @@
 "remote": "remote",
 "posted": "2026-11-01",
 "url": "https://himalayas.app/companies/warp/jobs/product-designer?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-30"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/consensys-io/jobs/lead-product-designer",
-"company": "Consensys",
-"title": "Lead Product Designer",
-"location": "Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antarctica, Antigua and Barbuda, Argentina, Armenia, Aruba, Austria, Azerbaijan, Bahamas, Bahrain, Bar",
-"remote": "remote",
-"posted": "2026-11-01",
-"url": "https://himalayas.app/companies/consensys-io/jobs/lead-product-designer?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-30"
@@ -364,18 +376,6 @@
 "firstSeen": "2026-10-29"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/servicenow/jobs/product-designer-6480688191",
-"company": "ServiceNow",
-"title": "Product Designer",
-"location": "India",
-"remote": "remote",
-"posted": "2026-10-29",
-"url": "https://himalayas.app/companies/servicenow/jobs/product-designer-6480688191?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-29"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/hatch-co/jobs/senior-product-designer",
 "company": "Hatch",
 "title": "Senior Product Designer",
@@ -441,7 +441,7 @@
 "title": "Senior UX Designer",
 "location": "Remote",
 "remote": null,
-"posted": "2026-10-30",
+"posted": "2026-11-02",
 "url": "https://job-boards.greenhouse.io/wikimedia/jobs/8319366",
 "source": "greenhouse",
 "region": "Remote",
@@ -552,18 +552,6 @@
 "posted": "2026-11-01",
 "url": "https://himalayas.app/companies/revizto/jobs/product-designer-design-system-8354912064?utm_source=api",
 "source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-27"
-},
-{
-"id": "ashby:clera:1a5a4d95-0d1b-47ad-b926-617d1441a899",
-"company": "Clera",
-"title": "Fractional Product Designer",
-"location": "remote",
-"remote": null,
-"posted": "2026-10-27",
-"url": "https://jobs.ashbyhq.com/clera/1a5a4d95-0d1b-47ad-b926-617d1441a899",
-"source": "ashby",
 "region": "Remote",
 "firstSeen": "2026-10-27"
 },
@@ -738,7 +726,7 @@
 {
 "id": "lever:contentsquare:af15ce6a-4685-47b8-9143-9b0d829bc053",
 "company": "Contentsquare (incl. Hotjar)",
-"title": "Staff Product Designer, AI",
+"title": "Staff Product Designer, AI (East Coast)",
 "location": "Pittsburgh, Pennsylvania",
 "remote": "remote",
 "posted": "2026-10-22",
@@ -902,6 +890,18 @@
 "source": "We Work Remotely",
 "region": "Remote",
 "firstSeen": "2026-10-19"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/virtualitics/jobs/sr-product-designer",
+"company": "Virtualitics",
+"title": "Sr Product Designer",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-11-02",
+"url": "https://himalayas.app/companies/virtualitics/jobs/sr-product-designer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
 },
 {
 "id": "himalayas:Himalayas:https://himalayas.app/companies/pavago/jobs/product-designer-ux-ui-design-systems-212687920",
@@ -1175,6 +1175,18 @@
 "remote": "remote",
 "posted": "2026-10-15",
 "url": "https://himalayas.app/companies/filevine/jobs/senior-product-designer-ai?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/covet/jobs/product-designer-ux-ui",
+"company": "CoVet",
+"title": "Product Designer (UX/UI)",
+"location": "Canada",
+"remote": "remote",
+"posted": "2026-10-15",
+"url": "https://himalayas.app/companies/covet/jobs/product-designer-ux-ui?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"
@@ -1456,28 +1468,16 @@
 "firstSeen": "2026-10-18"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/virtualitics/jobs/sr-product-designer",
-"company": "Virtualitics",
-"title": "Sr Product Designer",
-"location": "United States",
+"id": "himalayas:Himalayas:https://himalayas.app/companies/remedy-product-studio/jobs/product-designer-3743879344",
+"company": "Remedy Product Studio",
+"title": "Product Designer",
+"location": "Brazil, Colombia, Costa Rica, Georgia, Poland, Serbia",
 "remote": "remote",
-"posted": "2026-09-03",
-"url": "https://himalayas.app/companies/virtualitics/jobs/sr-product-designer?utm_source=api",
+"posted": "2026-11-02",
+"url": "https://himalayas.app/companies/remedy-product-studio/jobs/product-designer-3743879344?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/sapsol-technologies-inc/jobs/structural-and-systems-installation-design-engineer",
-"company": "SAPSOL Technologies Inc.",
-"title": "Structural and Systems Installation Design Engineer",
-"location": "Canada",
-"remote": "remote",
-"posted": "2026-09-03",
-"url": "https://himalayas.app/companies/sapsol-technologies-inc/jobs/structural-and-systems-installation-design-engineer?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-18"
+"firstSeen": "2026-10-17"
 },
 {
 "id": "himalayas:Himalayas:https://himalayas.app/companies/customer-io/jobs/staff-product-designer",
@@ -1902,7 +1902,7 @@
 {
 "id": "lever:contentsquare:5234af0a-e23e-4543-9f9f-a37b8d7e64d8",
 "company": "Contentsquare (incl. Hotjar)",
-"title": "Staff Product Designer, AI",
+"title": "Staff Product Designer, AI (East Coast)",
 "location": "Raleigh, North Carolina",
 "remote": "remote",
 "posted": "2026-10-01",
@@ -2207,18 +2207,6 @@
 "remote": "remote",
 "posted": "2026-09-07",
 "url": "https://himalayas.app/companies/tbd_14_10_2022_ludia/jobs/senior-system-designer?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/stripe/jobs/senior-staff-product-designer-risk",
-"company": "Stripe",
-"title": "Senior Staff Product Designer, Risk",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-09-03",
-"url": "https://himalayas.app/companies/stripe/jobs/senior-staff-product-designer-risk?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-17"

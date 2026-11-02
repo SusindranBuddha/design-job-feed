@@ -1,8 +1,44 @@
 {
-"generated": "2026-11-02T09:33:25Z",
+"generated": "2026-11-02T22:48:11Z",
 "region": "Nordics",
-"count": 61,
+"count": 64,
 "jobs": [
+{
+"id": "greenhouse:relex:8105403003",
+"company": "RELEX",
+"title": "Lead (Senior) Product Designer | Production",
+"location": "Helsinki, Finland; Lisbon, Portugal; Stockholm, Sweden",
+"remote": null,
+"posted": "2026-11-02",
+"url": "https://www.relexsolutions.com/careers/jobs/?gh_jid=8105403003",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-11-02"
+},
+{
+"id": "platsbanken:Platsbanken:31673283",
+"company": "Quest Consulting Sverige AB",
+"title": "UX Designer",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-02",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31673283",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-02"
+},
+{
+"id": "platsbanken:Platsbanken:31672772",
+"company": "Sway Sourcing Sweden Aktiebolag",
+"title": "Senior UX Designer – Komplexa digitala produkter | Malmö",
+"location": "Malmö",
+"remote": null,
+"posted": "2026-11-02",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31672772",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-02"
+},
 {
 "id": "workday:unitytech:/job/Singapore/XMLNAME--Req----Product-Designer--2D_JOBREQ-2616662",
 "company": "Unity",

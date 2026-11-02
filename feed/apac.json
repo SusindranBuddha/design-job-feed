@@ -1,8 +1,20 @@
 {
-"generated": "2026-11-02T09:33:25Z",
+"generated": "2026-11-02T22:48:11Z",
 "region": "APAC",
-"count": 75,
+"count": 80,
 "jobs": [
+{
+"id": "greenhouse:zipcolimited:4719148006",
+"company": "Zip Co",
+"title": "Senior Product Designer I",
+"location": "United States",
+"remote": null,
+"posted": "2026-11-02",
+"url": "https://job-boards.greenhouse.io/zipcolimited/jobs/4719148006",
+"source": "greenhouse",
+"region": "APAC",
+"firstSeen": "2026-11-02"
+},
 {
 "id": "mcf:MyCareersFuture:4a33b1a9061caf8d3e8b4e0af6fd0305",
 "company": "HYUNDAI MOTOR GROUP INNOVATION CENTER IN SINGAPORE PTE. LTD.",
@@ -27,6 +39,19 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 4500-6500 /Monthly",
+"firstSeen": "2026-11-02"
+},
+{
+"id": "workday:cba:/job/Sydney-CBD-Area/Senior-Product-Designer_REQ267734",
+"company": "Commonwealth Bank",
+"title": "Senior Product Designer",
+"location": "Sydney CBD Area",
+"remote": null,
+"posted": null,
+"url": "https://cba.wd3.myworkdayjobs.com/CommBank_Careers/job/Sydney-CBD-Area/Senior-Product-Designer_REQ267734",
+"source": "workday",
+"region": "APAC",
+"postedText": "Posted Today",
 "firstSeen": "2026-11-02"
 },
 {
@@ -749,6 +774,19 @@
 "firstSeen": "2026-10-17"
 },
 {
+"id": "mcf:MyCareersFuture:91e2bfbba157f62fa1bb2aaca2156a06",
+"company": "HANWHA OCEAN GLOBAL PROJECT EXECUTION CENTER PTE. LTD.",
+"title": "Senior/I&C Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-10-09",
+"url": "https://www.mycareersfuture.gov.sg/job/design/senioric-designer-hanwha-ocean-global-project-execution-center-91e2bfbba157f62fa1bb2aaca2156a06",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 5700-7100 /Monthly",
+"firstSeen": "2026-10-17"
+},
+{
 "id": "ashby:airwallex:5c2b3a16-52d3-4c3e-b3b1-c6deab07911f",
 "company": "Airwallex",
 "title": "Staff Product Designer, Design Systems",
@@ -774,6 +812,19 @@
 "firstSeen": "2026-10-17"
 },
 {
+"id": "mcf:MyCareersFuture:d383f6ee78ed90deb618ba38f8bd388e",
+"company": "BEATHCHAPMAN (PTE. LTD.)",
+"title": "Senior Product Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-10-08",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-product-designer-beathchapman-d383f6ee78ed90deb618ba38f8bd388e",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 7200-7200 /Monthly",
+"firstSeen": "2026-10-17"
+},
+{
 "id": "mcf:MyCareersFuture:b0c7eb3673b8dcf5b5484391012b8ce6",
 "company": "RAPSYS TECHNOLOGIES PTE. LTD.",
 "title": "User Experience (UX) Designer",
@@ -784,6 +835,19 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 6000-8000 /Monthly",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "mcf:MyCareersFuture:f3a0c4a475086d61c7952b23db86bd62",
+"company": "VERTIS DIGITAL PTE. LTD.",
+"title": "Experience Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-10-07",
+"url": "https://www.mycareersfuture.gov.sg/job/design/experience-designer-vertis-digital-f3a0c4a475086d61c7952b23db86bd62",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 4600-4800 /Monthly",
 "firstSeen": "2026-10-17"
 },
 {

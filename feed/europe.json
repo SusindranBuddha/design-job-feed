@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-02T09:33:25Z",
+"generated": "2026-11-02T22:48:11Z",
 "region": "Europe",
-"count": 99,
+"count": 97,
 "jobs": [
 {
 "id": "smartrecruiters:Wise:744000159026939",
@@ -12,6 +12,90 @@
 "posted": "2026-11-02",
 "url": "https://jobs.smartrecruiters.com/Wise/744000159026939",
 "source": "smartrecruiters",
+"region": "Europe",
+"firstSeen": "2026-11-02"
+},
+{
+"id": "workable:starling-bank:6E948EA5B4",
+"company": "Starling Bank",
+"title": "Senior Product Designer - Engine by Starling",
+"location": "London, United Kingdom",
+"remote": null,
+"posted": "2026-11-02",
+"url": "https://apply.workable.com/j/6E948EA5B4",
+"source": "workable",
+"region": "Europe",
+"firstSeen": "2026-11-02"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-principal-asic-design-engineer-21270",
+"company": "Asteralabs",
+"title": "Senior Principal ASIC Design Engineer",
+"location": "",
+"remote": null,
+"posted": "2026-11-02",
+"url": "https://www.arbeitnow.com/jobs/companies/asteralabs/senior-principal-asic-design-engineer-21270",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-02"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-419176",
+"company": "Nscaleoperationsukltd",
+"title": "Senior Product Designer",
+"location": "",
+"remote": null,
+"posted": "2026-11-02",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/nscaleoperationsukltd/senior-product-designer-419176",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-02"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-ux-designer-map-visualisation-amsterdam-the-netherlands-97864",
+"company": "Tomtom",
+"title": "Senior UX Designer - Map Visualisation",
+"location": "Amsterdam, The Netherlands",
+"remote": null,
+"posted": "2026-11-02",
+"url": "https://www.arbeitnow.nl/jobs/companies/tomtom/senior-ux-designer-map-visualisation-amsterdam-the-netherlands-97864",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-02"
+},
+{
+"id": "arbeitnow:Arbeitnow:praktikum-ui-ux-design-mit-fokus-barrierefreiheit-jena-250103",
+"company": "Preventicus GmbH",
+"title": "Praktikum - UI/UX Design mit Fokus Barrierefreiheit (m/w/d)",
+"location": "Jena",
+"remote": null,
+"posted": "2026-11-02",
+"url": "https://www.arbeitnow.com/jobs/companies/preventicus-gmbh/praktikum-ui-ux-design-mit-fokus-barrierefreiheit-jena-250103",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-02"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-freelance-product-designer-basingstoke-382922",
+"company": "Wearebeyondsports",
+"title": "Senior Freelance Product Designer",
+"location": "Basingstoke",
+"remote": null,
+"posted": "2026-11-02",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/wearebeyondsports/senior-freelance-product-designer-basingstoke-382922",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-02"
+},
+{
+"id": "arbeitnow:Arbeitnow:consultante-product-designer-paris-491667",
+"company": "Thiga",
+"title": "Consultant.e Product Designer",
+"location": "Paris",
+"remote": null,
+"posted": "2026-11-02",
+"url": "https://www.arbeitnow.fr/jobs/companies/thiga/consultante-product-designer-paris-491667",
+"source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-02"
 },
@@ -40,30 +124,6 @@
 "firstSeen": "2026-11-02"
 },
 {
-"id": "arbeitnow:Arbeitnow:consultante-product-designer-paris-491667",
-"company": "Thiga",
-"title": "Consultant.e Product Designer",
-"location": "Paris",
-"remote": null,
-"posted": "2026-11-02",
-"url": "https://www.arbeitnow.fr/jobs/companies/thiga/consultante-product-designer-paris-491667",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-02"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-ux-designer-map-visualisation-amsterdam-the-netherlands-97864",
-"company": "Tomtom",
-"title": "Senior UX Designer - Map Visualisation",
-"location": "Amsterdam, The Netherlands",
-"remote": null,
-"posted": "2026-11-02",
-"url": "https://www.arbeitnow.nl/jobs/companies/tomtom/senior-ux-designer-map-visualisation-amsterdam-the-netherlands-97864",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-02"
-},
-{
 "id": "arbeitnow:Arbeitnow:microwave-design-engineer-munich-301625",
 "company": "Proxima Fusion GmbH",
 "title": "Microwave Design Engineer",
@@ -71,18 +131,6 @@
 "remote": null,
 "posted": "2026-11-01",
 "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/microwave-design-engineer-munich-301625",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-01"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-electronics-design-engineer-gilching-7648",
-"company": "Quantum-Systems GmbH",
-"title": "Senior Electronics Design Engineer (m/f/d)",
-"location": "Gilching, Bayern, Germany",
-"remote": null,
-"posted": "2026-11-01",
-"url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-electronics-design-engineer-gilching-7648",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-01"
@@ -112,13 +160,13 @@
 "firstSeen": "2026-11-01"
 },
 {
-"id": "arbeitnow:Arbeitnow:remote-senior-product-designer-growth-54230",
-"company": "Trustedhousesitters.com",
-"title": "Senior Product Designer - Growth",
-"location": "Remote",
-"remote": "remote",
+"id": "arbeitnow:Arbeitnow:senior-electronics-design-engineer-gilching-7648",
+"company": "Quantum-Systems GmbH",
+"title": "Senior Electronics Design Engineer (m/f/d)",
+"location": "Gilching, Bayern, Germany",
+"remote": null,
 "posted": "2026-11-01",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/trustedhousesitterscom/remote-senior-product-designer-growth-54230",
+"url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-electronics-design-engineer-gilching-7648",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-01"
@@ -136,18 +184,6 @@
 "firstSeen": "2026-11-01"
 },
 {
-"id": "arbeitnow:Arbeitnow:ux-designer-norwich-63719",
-"company": "Zeal Network",
-"title": "UX Designer (f/m/d)",
-"location": "Norwich, United Kingdom",
-"remote": null,
-"posted": "2026-10-31",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/zeal-network/ux-designer-norwich-63719",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-01"
-},
-{
 "id": "arbeitnow:Arbeitnow:senior-product-designer-rotterdam-154118",
 "company": "AIHR",
 "title": "Senior Product Designer",
@@ -155,42 +191,6 @@
 "remote": null,
 "posted": "2026-10-30",
 "url": "https://www.arbeitnow.nl/jobs/companies/aihr/senior-product-designer-rotterdam-154118",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-30"
-},
-{
-"id": "arbeitnow:Arbeitnow:product-designer-berlin-371892",
-"company": "Knowunity GmbH",
-"title": "Product Designer",
-"location": "Berlin",
-"remote": null,
-"posted": "2026-10-30",
-"url": "https://www.arbeitnow.com/jobs/companies/knowunity-gmbh/product-designer-berlin-371892",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-30"
-},
-{
-"id": "arbeitnow:Arbeitnow:remote-senior-product-designer-germany-67984",
-"company": "Hilobyaktiia",
-"title": "Senior Product Designer (m/f/d)",
-"location": "Germany",
-"remote": "remote",
-"posted": "2026-10-30",
-"url": "https://www.arbeitnow.com/jobs/companies/hilobyaktiia/remote-senior-product-designer-germany-67984",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-10-30"
-},
-{
-"id": "arbeitnow:Arbeitnow:remote-lead-product-designer-germany-357802",
-"company": "Hilobyaktiia",
-"title": "Lead Product Designer (m/f/d)",
-"location": "Germany",
-"remote": "remote",
-"posted": "2026-10-30",
-"url": "https://www.arbeitnow.com/jobs/companies/hilobyaktiia/remote-lead-product-designer-germany-357802",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-10-30"
@@ -328,18 +328,6 @@
 "firstSeen": "2026-10-22"
 },
 {
-"id": "greenhouse:bitpanda:5009825101",
-"company": "Bitpanda",
-"title": "Senior Product Designer, Web3",
-"location": "Vienna, Vienna, Austria",
-"remote": null,
-"posted": "2026-10-27",
-"url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5009825101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-22"
-},
-{
 "id": "greenhouse:bitpanda:5013167101",
 "company": "Bitpanda",
 "title": "Senior Product Designer, Web3",
@@ -347,6 +335,18 @@
 "remote": null,
 "posted": "2026-10-27",
 "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5013167101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-22"
+},
+{
+"id": "greenhouse:bitpanda:5009825101",
+"company": "Bitpanda",
+"title": "Senior Product Designer, Web3",
+"location": "Vienna, Vienna, Austria",
+"remote": null,
+"posted": "2026-10-27",
+"url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5009825101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-22"
@@ -810,13 +810,13 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4988183101",
+"id": "greenhouse:moniepoint:4710853101",
 "company": "Moniepoint",
 "title": "Staff Product Designer",
-"location": "London, United Kingdom",
+"location": "Remote, Poland",
 "remote": null,
 "posted": "2026-10-16",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4988183101",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710853101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -834,13 +834,13 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4710853101",
+"id": "greenhouse:moniepoint:4988183101",
 "company": "Moniepoint",
 "title": "Staff Product Designer",
-"location": "Remote, Poland",
+"location": "London, United Kingdom",
 "remote": null,
 "posted": "2026-10-16",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710853101",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4988183101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -890,18 +890,6 @@
 "posted": "2026-10-13",
 "url": "https://job-boards.greenhouse.io/getyourguide/jobs/8278320",
 "source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "workable:allwynuk:CFD7DF1C50",
-"company": "Allwyn",
-"title": "Senior Product Designer - Design System",
-"location": "Watford, United Kingdom",
-"remote": null,
-"posted": "2026-10-13",
-"url": "https://apply.workable.com/j/CFD7DF1C50",
-"source": "workable",
 "region": "Europe",
 "firstSeen": "2026-10-17"
 },
@@ -1026,18 +1014,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:tide:7731830003",
-"company": "Tide",
-"title": "Senior Product Designer",
-"location": "Bulgaria",
-"remote": null,
-"posted": "2026-09-23",
-"url": "https://job-boards.greenhouse.io/tide/jobs/7731830003",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:tide:7779785003",
 "company": "Tide",
 "title": "Senior Product Designer",
@@ -1045,6 +1021,18 @@
 "remote": null,
 "posted": "2026-09-23",
 "url": "https://job-boards.greenhouse.io/tide/jobs/7779785003",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:tide:7731830003",
+"company": "Tide",
+"title": "Senior Product Designer",
+"location": "Bulgaria",
+"remote": null,
+"posted": "2026-09-23",
+"url": "https://job-boards.greenhouse.io/tide/jobs/7731830003",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -1166,18 +1154,6 @@
 "posted": "2026-06-02",
 "url": "https://jobs.smartrecruiters.com/Wise/744000129717894",
 "source": "smartrecruiters",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "ashby:perk:3f12cf23-47f1-4423-9256-eb998d80133e",
-"company": "Perk (TravelPerk)",
-"title": "Staff Product Designer - Events",
-"location": "Barcelona",
-"remote": "Hybrid",
-"posted": "2026-06-02",
-"url": "https://jobs.ashbyhq.com/perk/3f12cf23-47f1-4423-9256-eb998d80133e",
-"source": "ashby",
 "region": "Europe",
 "firstSeen": "2026-10-17"
 },

@@ -1,8 +1,32 @@
 {
-"generated": "2026-11-03T09:36:00Z",
+"generated": "2026-11-03T20:31:20Z",
 "region": "India",
-"count": 15,
+"count": 17,
 "jobs": [
+{
+"id": "lever:gohighlevel:84831da0-2dbf-4c92-bb9d-379bc20c61e5",
+"company": "HighLevel",
+"title": "Sr. Manager, Product Design",
+"location": "United Kingdom",
+"remote": "remote",
+"posted": "2026-11-03",
+"url": "https://jobs.lever.co/gohighlevel/84831da0-2dbf-4c92-bb9d-379bc20c61e5",
+"source": "lever",
+"region": "India",
+"firstSeen": "2026-11-03"
+},
+{
+"id": "lever:gohighlevel:280b7a9a-107e-4ac7-b5c5-c07648a7e02e",
+"company": "HighLevel",
+"title": "Staff Product Designer",
+"location": "United Kingdom",
+"remote": "remote",
+"posted": "2026-11-03",
+"url": "https://jobs.lever.co/gohighlevel/280b7a9a-107e-4ac7-b5c5-c07648a7e02e",
+"source": "lever",
+"region": "India",
+"firstSeen": "2026-11-03"
+},
 {
 "id": "lever:gohighlevel:51a46259-1107-4bab-883c-6767aad5f405",
 "company": "HighLevel",

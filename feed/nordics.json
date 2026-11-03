@@ -1,8 +1,44 @@
 {
-"generated": "2026-11-03T09:36:00Z",
+"generated": "2026-11-03T20:31:20Z",
 "region": "Nordics",
-"count": 63,
+"count": 64,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31680148",
+"company": "Sway Sourcing Sweden Aktiebolag",
+"title": "UX/UI Product Designer – Digital Innovation, Stockholm",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-03",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31680148",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-03"
+},
+{
+"id": "platsbanken:Platsbanken:31680020",
+"company": "SAAB Aktiebolag",
+"title": "UX Designer - Mission Support System",
+"location": "Arboga",
+"remote": null,
+"posted": "2026-11-03",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31680020",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-03"
+},
+{
+"id": "platsbanken:Platsbanken:31679949",
+"company": "SAAB Aktiebolag",
+"title": "UX Designer - Mission Support System",
+"location": "Arboga",
+"remote": null,
+"posted": "2026-11-03",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31679949",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-03"
+},
 {
 "id": "platsbanken:Platsbanken:31677135",
 "company": "Soros Consulting AB",
@@ -43,7 +79,7 @@
 "id": "platsbanken:Platsbanken:31673283",
 "company": "Quest Consulting Sverige AB",
 "title": "UX Designer",
-"location": "Stockholm",
+"location": "Malmö",
 "remote": null,
 "posted": "2026-11-02",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31673283",
@@ -144,30 +180,6 @@
 "remote": null,
 "posted": "2026-10-29",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31660485",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-29"
-},
-{
-"id": "platsbanken:Platsbanken:31661382",
-"company": "Velora Health AB",
-"title": "Design Engineer, Brand & Growth - HealthTech",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-10-29",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31661382",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-29"
-},
-{
-"id": "platsbanken:Platsbanken:31659401",
-"company": "AVL MTC Motortestcenter AB",
-"title": "Lead Design Engineer/Technical Lead Engineer - Fordonsindustrin",
-"location": "Göteborg",
-"remote": null,
-"posted": "2026-10-29",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31659401",
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-29"

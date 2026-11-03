@@ -1,8 +1,20 @@
 {
-"generated": "2026-11-03T09:36:00Z",
+"generated": "2026-11-03T20:31:20Z",
 "region": "Remote",
-"count": 198,
+"count": 190,
 "jobs": [
+{
+"id": "ashby:clera:1a13ebc5-7234-4824-b718-47f652830d09",
+"company": "Clera",
+"title": "Founding Product Designer",
+"location": "San Francisco Bay Area",
+"remote": "OnSite",
+"posted": "2026-11-03",
+"url": "https://jobs.ashbyhq.com/clera/1a13ebc5-7234-4824-b718-47f652830d09",
+"source": "ashby",
+"region": "Remote",
+"firstSeen": "2026-11-03"
+},
 {
 "id": "ashby:clera:9a8a23f6-f17d-497f-aa37-3a6c4b354d9e",
 "company": "Clera",
@@ -11,6 +23,18 @@
 "remote": "OnSite",
 "posted": "2026-11-03",
 "url": "https://jobs.ashbyhq.com/clera/9a8a23f6-f17d-497f-aa37-3a6c4b354d9e",
+"source": "ashby",
+"region": "Remote",
+"firstSeen": "2026-11-03"
+},
+{
+"id": "ashby:clera:6d6132a0-686d-4cd0-87e2-068e6d35def0",
+"company": "Clera",
+"title": "Product Designer, Freelance / Fractional",
+"location": "remote",
+"remote": null,
+"posted": "2026-11-03",
+"url": "https://jobs.ashbyhq.com/clera/6d6132a0-686d-4cd0-87e2-068e6d35def0",
 "source": "ashby",
 "region": "Remote",
 "firstSeen": "2026-11-03"
@@ -36,6 +60,18 @@
 "posted": "2026-11-03",
 "url": "https://jobicy.com/jobs/154455-staff-design-engineer-canada",
 "source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-03"
+},
+{
+"id": "remoteok:Remote OK:1135340",
+"company": "Flint",
+"title": "Product Designer",
+"location": "New York, New York, New York, United States",
+"remote": "remote",
+"posted": "2026-07-24",
+"url": "https://remoteOK.com/remote-jobs/remote-product-designer-flint-1135340",
+"source": "Remote OK",
 "region": "Remote",
 "firstSeen": "2026-11-03"
 },
@@ -340,66 +376,6 @@
 "firstSeen": "2026-10-29"
 },
 {
-"id": "jobicy:Jobicy:157854",
-"company": "Ashby",
-"title": "Staff Product Designer",
-"location": "Canada, USA",
-"remote": "remote",
-"posted": "2026-10-29",
-"url": "https://jobicy.com/jobs/157854-staff-product-designer-7",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-10-29"
-},
-{
-"id": "jobicy:Jobicy:143438",
-"company": "WSP",
-"title": "Overhead Line (OHL) Design engineer",
-"location": "Sweden",
-"remote": "remote",
-"posted": "2026-10-29",
-"url": "https://jobicy.com/jobs/143438-overhead-line-ohl-design-engineer",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-10-29"
-},
-{
-"id": "jobicy:Jobicy:154140",
-"company": "AlphaSense",
-"title": "Principal Design Engineer",
-"location": "UK",
-"remote": "remote",
-"posted": "2026-10-29",
-"url": "https://jobicy.com/jobs/154140-principal-design-engineer",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-10-29"
-},
-{
-"id": "jobicy:Jobicy:151929",
-"company": "Ashby",
-"title": "Staff Design Engineer - UK",
-"location": "UK",
-"remote": "remote",
-"posted": "2026-10-29",
-"url": "https://jobicy.com/jobs/151929-staff-design-engineer-uk",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-10-29"
-},
-{
-"id": "jobicy:Jobicy:151927",
-"company": "Ashby",
-"title": "Staff Design Engineer - EU",
-"location": "Croatia, Estonia, Germany, Ireland, Italy, Portugal, Romania, Spain, Sweden, Switzerland",
-"remote": "remote",
-"posted": "2026-10-29",
-"url": "https://jobicy.com/jobs/151927-staff-design-engineer-eu",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-10-29"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/codekeeper/jobs/digital-product-designer-7914820013",
 "company": "Codekeeper",
 "title": "Digital Product Designer",
@@ -484,66 +460,6 @@
 "firstSeen": "2026-10-28"
 },
 {
-"id": "ashby:clera:d7aa277a-a14b-4f59-810f-3cb33886e736",
-"company": "Clera",
-"title": "Founding Design Engineer",
-"location": "Palo Alto",
-"remote": "Remote",
-"posted": "2026-10-28",
-"url": "https://jobs.ashbyhq.com/clera/d7aa277a-a14b-4f59-810f-3cb33886e736",
-"source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-10-28"
-},
-{
-"id": "jobicy:Jobicy:157622",
-"company": "Lightspeed Commerce",
-"title": "Senior Product Designer, Capital Advances",
-"location": "Canada",
-"remote": "remote",
-"posted": "2026-10-28",
-"url": "https://jobicy.com/jobs/157622-senior-product-designer-capital-advances",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-10-28"
-},
-{
-"id": "jobicy:Jobicy:157502",
-"company": "Nebius",
-"title": "Senior Product Designer - Compute, Nebius Console",
-"location": "Europe",
-"remote": "remote",
-"posted": "2026-10-28",
-"url": "https://jobicy.com/jobs/157502-senior-product-designer-compute-nebius-console",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-10-28"
-},
-{
-"id": "jobicy:Jobicy:154105",
-"company": "Docplanner",
-"title": "Senior Product Designer - Feegow (100% remote friendly in Brazil)",
-"location": "Brazil",
-"remote": "remote",
-"posted": "2026-10-28",
-"url": "https://jobicy.com/jobs/154105-senior-product-designer-feegow-100-remote-friendly-in-brazil",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-10-28"
-},
-{
-"id": "jobicy:Jobicy:151797",
-"company": "Dispatch",
-"title": "Senior Product Designer",
-"location": "USA",
-"remote": "remote",
-"posted": "2026-10-28",
-"url": "https://jobicy.com/jobs/151797-senior-product-designer-8",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-10-28"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/step/jobs/lead-product-designer-banking",
 "company": "Step",
 "title": "Lead Product Designer, Banking",
@@ -552,18 +468,6 @@
 "posted": "2026-10-28",
 "url": "https://himalayas.app/companies/step/jobs/lead-product-designer-banking?utm_source=api",
 "source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-28"
-},
-{
-"id": "jobicy:Jobicy:157436",
-"company": "Mural",
-"title": "Manager, Product Design, Growth (Upper Funnel)",
-"location": "Canada, USA",
-"remote": "remote",
-"posted": "2026-10-27",
-"url": "https://jobicy.com/jobs/157436-manager-product-design-growth-upper-funnel",
-"source": "Jobicy",
 "region": "Remote",
 "firstSeen": "2026-10-28"
 },
@@ -588,18 +492,6 @@
 "posted": "2026-11-01",
 "url": "https://himalayas.app/companies/revizto/jobs/product-designer-design-system-8354912064?utm_source=api",
 "source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-27"
-},
-{
-"id": "ashby:clera:bf086645-44a7-4a7d-bc0b-55b83048cd81",
-"company": "Clera",
-"title": "Lead Product Designer",
-"location": "Vienna",
-"remote": "OnSite",
-"posted": "2026-10-27",
-"url": "https://jobs.ashbyhq.com/clera/bf086645-44a7-4a7d-bc0b-55b83048cd81",
-"source": "ashby",
 "region": "Remote",
 "firstSeen": "2026-10-27"
 },
@@ -902,6 +794,18 @@
 "source": "We Work Remotely",
 "region": "Remote",
 "firstSeen": "2026-10-19"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/sapsol-technologies-inc/jobs/structural-and-systems-installation-design-engineer",
+"company": "SAPSOL Technologies Inc.",
+"title": "Structural and Systems Installation Design Engineer",
+"location": "Canada",
+"remote": "remote",
+"posted": "2026-11-03",
+"url": "https://himalayas.app/companies/sapsol-technologies-inc/jobs/structural-and-systems-installation-design-engineer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
 },
 {
 "id": "himalayas:Himalayas:https://himalayas.app/companies/virtualitics/jobs/sr-product-designer",

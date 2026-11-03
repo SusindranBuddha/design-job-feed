@@ -1,5 +1,5 @@
 {
-"generated": "2026-11-03T09:36:00Z",
+"generated": "2026-11-03T20:31:20Z",
 "region": "APAC",
 "count": 81,
 "jobs": [
@@ -40,6 +40,19 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 4500-6500 /Monthly",
+"firstSeen": "2026-11-03"
+},
+{
+"id": "mcf:MyCareersFuture:5d2879faccd207928928621c49b4eccf",
+"company": "ROLLS-ROYCE SOLUTIONS ASIA PTE. LTD.",
+"title": "System Design Engineer, Electrical & Automation (Hybrid/ Shuttle Provided)",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-03",
+"url": "https://www.mycareersfuture.gov.sg/job/design/system-design-engineer-electrical-automation-rolls-royce-solutions-asia-5d2879faccd207928928621c49b4eccf",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 5000-7500 /Monthly",
 "firstSeen": "2026-11-03"
 },
 {
@@ -810,19 +823,6 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 2500-4000 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:91e2bfbba157f62fa1bb2aaca2156a06",
-"company": "HANWHA OCEAN GLOBAL PROJECT EXECUTION CENTER PTE. LTD.",
-"title": "Senior/I&C Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-09",
-"url": "https://www.mycareersfuture.gov.sg/job/design/senioric-designer-hanwha-ocean-global-project-execution-center-91e2bfbba157f62fa1bb2aaca2156a06",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 5700-7100 /Monthly",
 "firstSeen": "2026-10-17"
 },
 {

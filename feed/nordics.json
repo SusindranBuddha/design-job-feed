@@ -1,8 +1,32 @@
 {
-"generated": "2026-11-02T22:48:11Z",
+"generated": "2026-11-03T09:36:00Z",
 "region": "Nordics",
-"count": 64,
+"count": 63,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31677135",
+"company": "Soros Consulting AB",
+"title": "UX-designer - Malmö",
+"location": "Malmö",
+"remote": null,
+"posted": "2026-11-03",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31677135",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-03"
+},
+{
+"id": "platsbanken:Platsbanken:31676983",
+"company": "Axis Communications Aktiebolag",
+"title": "Mechanical Design Engineer - Production Machines, Lund",
+"location": "Lund",
+"remote": null,
+"posted": "2026-11-03",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31676983",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-03"
+},
 {
 "id": "greenhouse:relex:8105403003",
 "company": "RELEX",
@@ -49,7 +73,7 @@
 "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Singapore/XMLNAME--Req----Product-Designer--2D_JOBREQ-2616662",
 "source": "workday",
 "region": "Nordics",
-"postedText": "Posted Today",
+"postedText": "Posted Yesterday",
 "firstSeen": "2026-11-02"
 },
 {
@@ -63,18 +87,6 @@
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-11-01"
-},
-{
-"id": "platsbanken:Platsbanken:31666617",
-"company": "Agile Resources AB",
-"title": "Senior UX/UI Product Designer",
-"location": "Göteborg",
-"remote": null,
-"posted": "2026-10-30",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31666617",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-30"
 },
 {
 "id": "platsbanken:Platsbanken:31665534",
@@ -127,7 +139,7 @@
 {
 "id": "platsbanken:Platsbanken:31660485",
 "company": "Försäkringskassan",
-"title": "UX-designer till Försäkringskassans designsystem i Karlskrona",
+"title": "UX-designer till Försäkringskassans Webb- och apputveckling i Karlskrona",
 "location": "Karlskrona",
 "remote": null,
 "posted": "2026-10-29",
@@ -413,18 +425,6 @@
 "firstSeen": "2026-10-20"
 },
 {
-"id": "platsbanken:Platsbanken:31611609",
-"company": "SAAB Aktiebolag",
-"title": "UX Designer",
-"location": "Linköping",
-"remote": null,
-"posted": "2026-10-19",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31611609",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-19"
-},
-{
 "id": "greenhouse:oura:4452942009",
 "company": "Oura",
 "title": "Staff Antenna Design Engineer",
@@ -497,18 +497,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:alphasense:8531119002",
-"company": "AlphaSense",
-"title": "Senior/Staff Product Designer",
-"location": "Remote - United Kingdom",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:alphasense:8530664002",
 "company": "AlphaSense",
 "title": "Senior/Staff Product Designer",
@@ -516,6 +504,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:alphasense:8531119002",
+"company": "AlphaSense",
+"title": "Senior/Staff Product Designer",
+"location": "Remote - United Kingdom",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
@@ -673,18 +673,6 @@
 "posted": "2026-09-25",
 "url": "https://job-boards.greenhouse.io/oura/jobs/4203623009",
 "source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "platsbanken:Platsbanken:31512343",
-"company": "Knowit Aktiebolag (publ)",
-"title": "Senior UX Designer / Frontendutvecklare",
-"location": "Malmö",
-"remote": null,
-"posted": "2026-09-23",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31512343",
-"source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
 },

@@ -1,8 +1,73 @@
 {
-"generated": "2026-11-02T22:48:11Z",
+"generated": "2026-11-03T09:36:00Z",
 "region": "APAC",
-"count": 80,
+"count": 81,
 "jobs": [
+{
+"id": "mcf:MyCareersFuture:d7aec43648e8b4dcd518ad379e5345d1",
+"company": "ISLANDWIDE RECRUITMENT PTE. LTD.",
+"title": "Product Manager & Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-03",
+"url": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/product-manager-designer-empress-porridge-d7aec43648e8b4dcd518ad379e5345d1",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 2000-3000 /Monthly",
+"firstSeen": "2026-11-03"
+},
+{
+"id": "mcf:MyCareersFuture:1c17e501a9caa47d782fc5d13e8fdf65",
+"company": "AQUILA NOVA PRIVATE LIMITED",
+"title": "Product & Solutions Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-03",
+"url": "https://www.mycareersfuture.gov.sg/job/design/product-solutions-designer-aquila-nova-1c17e501a9caa47d782fc5d13e8fdf65",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 5600-8000 /Monthly",
+"firstSeen": "2026-11-03"
+},
+{
+"id": "mcf:MyCareersFuture:fa39ac257a237c79dd831077c5b04d22",
+"company": "WEBSPARKS PTE. LTD.",
+"title": "UX Designer with 5 years experience (Contract)",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-03",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/ux-designer-5-years-experience-websparks-fa39ac257a237c79dd831077c5b04d22",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 4500-6500 /Monthly",
+"firstSeen": "2026-11-03"
+},
+{
+"id": "mcf:MyCareersFuture:c038154291e4d4bf24001826bfc57591",
+"company": "RANDSTAD PTE. LIMITED",
+"title": "Opto Electrical Design Engineer (Vision Inspection System)",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-03",
+"url": "https://www.mycareersfuture.gov.sg/job/engineering/opto-electrical-design-engineer-randstad-c038154291e4d4bf24001826bfc57591",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 4000-6500 /Monthly",
+"firstSeen": "2026-11-03"
+},
+{
+"id": "mcf:MyCareersFuture:df5507e36850d888e086fe2406143c9d",
+"company": "NATIONAL UNIVERSITY OF SINGAPORE",
+"title": "Product Design Lead (NUS IT)",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-03",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/product-design-lead-national-university-singapore-df5507e36850d888e086fe2406143c9d",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 8000-16000 /Monthly",
+"firstSeen": "2026-11-03"
+},
 {
 "id": "greenhouse:zipcolimited:4719148006",
 "company": "Zip Co",
@@ -79,19 +144,6 @@
 "region": "APAC",
 "salary": "SGD 9000-12000 /Monthly",
 "firstSeen": "2026-10-30"
-},
-{
-"id": "mcf:MyCareersFuture:9162d899c706612df1fd887736dd095c",
-"company": "AIRWALLEX (SINGAPORE) PTE. LTD.",
-"title": "Staff Product Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-29",
-"url": "https://www.mycareersfuture.gov.sg/job/design/staff-product-designer-airwallex-9162d899c706612df1fd887736dd095c",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 15000-20000 /Monthly",
-"firstSeen": "2026-10-29"
 },
 {
 "id": "mcf:MyCareersFuture:49033166ba79edcd4caadb528f1b86a9",
@@ -181,7 +233,7 @@
 "url": "https://cba.wd3.myworkdayjobs.com/CommBank_Careers/job/Sydney-CBD-Area/Principal-Product-Design---Talent-Community_REQ267815",
 "source": "workday",
 "region": "APAC",
-"postedText": "Posted 5 Days Ago",
+"postedText": "Posted 6 Days Ago",
 "firstSeen": "2026-10-28"
 },
 {
@@ -748,19 +800,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "mcf:MyCareersFuture:7f9455bb00f2103ee7e13b2058fe1b2a",
-"company": "WEBSPARKS PTE. LTD.",
-"title": "UX Designer with 5 years experience (Contract)",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-10",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/ux-designer-5-years-experience-websparks-7f9455bb00f2103ee7e13b2058fe1b2a",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 4500-6500 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "mcf:MyCareersFuture:0f027e57f0313119d1f962d4ef9ba347",
 "company": "WE ARE WIREFRAME PRIVATE LIMITED",
 "title": "UI/UX Designer",
@@ -812,19 +851,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "mcf:MyCareersFuture:d383f6ee78ed90deb618ba38f8bd388e",
-"company": "BEATHCHAPMAN (PTE. LTD.)",
-"title": "Senior Product Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-08",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-product-designer-beathchapman-d383f6ee78ed90deb618ba38f8bd388e",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 7200-7200 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "mcf:MyCareersFuture:b0c7eb3673b8dcf5b5484391012b8ce6",
 "company": "RAPSYS TECHNOLOGIES PTE. LTD.",
 "title": "User Experience (UX) Designer",
@@ -835,19 +861,6 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 6000-8000 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:f3a0c4a475086d61c7952b23db86bd62",
-"company": "VERTIS DIGITAL PTE. LTD.",
-"title": "Experience Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-07",
-"url": "https://www.mycareersfuture.gov.sg/job/design/experience-designer-vertis-digital-f3a0c4a475086d61c7952b23db86bd62",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 4600-4800 /Monthly",
 "firstSeen": "2026-10-17"
 },
 {

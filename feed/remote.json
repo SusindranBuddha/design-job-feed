@@ -1,8 +1,44 @@
 {
-"generated": "2026-11-02T22:48:11Z",
+"generated": "2026-11-03T09:36:00Z",
 "region": "Remote",
-"count": 197,
+"count": 198,
 "jobs": [
+{
+"id": "ashby:clera:9a8a23f6-f17d-497f-aa37-3a6c4b354d9e",
+"company": "Clera",
+"title": "Founding Product Designer",
+"location": "San Francisco",
+"remote": "OnSite",
+"posted": "2026-11-03",
+"url": "https://jobs.ashbyhq.com/clera/9a8a23f6-f17d-497f-aa37-3a6c4b354d9e",
+"source": "ashby",
+"region": "Remote",
+"firstSeen": "2026-11-03"
+},
+{
+"id": "jobicy:Jobicy:158603",
+"company": "Docplanner",
+"title": "Lead Product Designer (100% Remote within Poland)",
+"location": "Poland",
+"remote": "remote",
+"posted": "2026-11-03",
+"url": "https://jobicy.com/jobs/158603-lead-product-designer-100-remote-within-poland",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-03"
+},
+{
+"id": "jobicy:Jobicy:154455",
+"company": "Ashby",
+"title": "Staff Design Engineer - Canada",
+"location": "Canada",
+"remote": "remote",
+"posted": "2026-11-03",
+"url": "https://jobicy.com/jobs/154455-staff-design-engineer-canada",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-03"
+},
 {
 "id": "ashby:n8n:fe05c209-8069-4a88-aeba-8da23488cd30",
 "company": "n8n",
@@ -564,30 +600,6 @@
 "posted": "2026-10-27",
 "url": "https://jobs.ashbyhq.com/clera/bf086645-44a7-4a7d-bc0b-55b83048cd81",
 "source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-10-27"
-},
-{
-"id": "jobicy:Jobicy:151771",
-"company": "TeamSnap",
-"title": "Senior Product Designer",
-"location": "USA",
-"remote": "remote",
-"posted": "2026-10-27",
-"url": "https://jobicy.com/jobs/151771-senior-product-designer-3",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-10-27"
-},
-{
-"id": "jobicy:Jobicy:151702",
-"company": "Future PLC",
-"title": "Senior Product Designer",
-"location": "USA",
-"remote": "remote",
-"posted": "2026-10-27",
-"url": "https://jobicy.com/jobs/151702-senior-product-designer-2",
-"source": "Jobicy",
 "region": "Remote",
 "firstSeen": "2026-10-27"
 },
@@ -1180,18 +1192,6 @@
 "firstSeen": "2026-10-18"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/covet/jobs/product-designer-ux-ui",
-"company": "CoVet",
-"title": "Product Designer (UX/UI)",
-"location": "Canada",
-"remote": "remote",
-"posted": "2026-10-15",
-"url": "https://himalayas.app/companies/covet/jobs/product-designer-ux-ui?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/imprint/jobs/staff-product-designer",
 "company": "Imprint",
 "title": "Staff Product Designer",
@@ -1475,6 +1475,18 @@
 "remote": "remote",
 "posted": "2026-11-02",
 "url": "https://himalayas.app/companies/remedy-product-studio/jobs/product-designer-3743879344?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/stripe/jobs/senior-staff-product-designer-risk",
+"company": "Stripe",
+"title": "Senior Staff Product Designer, Risk",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-11-02",
+"url": "https://himalayas.app/companies/stripe/jobs/senior-staff-product-designer-risk?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-17"

@@ -1,8 +1,20 @@
 {
-"generated": "2026-11-02T22:48:11Z",
+"generated": "2026-11-03T09:36:00Z",
 "region": "India",
-"count": 14,
+"count": 15,
 "jobs": [
+{
+"id": "lever:gohighlevel:51a46259-1107-4bab-883c-6767aad5f405",
+"company": "HighLevel",
+"title": "Lead Product Designer, Design Systems",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-10-29",
+"url": "https://jobs.lever.co/gohighlevel/51a46259-1107-4bab-883c-6767aad5f405",
+"source": "lever",
+"region": "India",
+"firstSeen": "2026-11-03"
+},
 {
 "id": "greenhouse:razorpaysoftwareprivatelimited:4745511005",
 "company": "Razorpay",

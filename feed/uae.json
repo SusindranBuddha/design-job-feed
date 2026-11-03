@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-02T22:48:11Z",
+"generated": "2026-11-03T09:36:00Z",
 "region": "UAE",
-"count": 15,
+"count": 13,
 "jobs": [
 {
 "id": "smartrecruiters:DeliveryHero:744000158792679",
@@ -88,18 +88,6 @@
 "firstSeen": "2026-10-23"
 },
 {
-"id": "smartrecruiters:EtihadAirways5:744000157397725",
-"company": "Etihad Airways",
-"title": "UX/UI Designer",
-"location": "Abu Dhabi, ae",
-"remote": null,
-"posted": "2026-10-23",
-"url": "https://jobs.smartrecruiters.com/EtihadAirways5/744000157397725",
-"source": "smartrecruiters",
-"region": "UAE",
-"firstSeen": "2026-10-23"
-},
-{
 "id": "smartrecruiters:DeliveryHero:744000151369084",
 "company": "talabat",
 "title": "Product Designer",
@@ -168,18 +156,6 @@
 "posted": "2026-05-07",
 "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000125118396",
 "source": "smartrecruiters",
-"region": "UAE",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "teamtailor:Qashio:https://careers.qashio.com/jobs/6907448-senior-product-designer",
-"company": "Qashio",
-"title": "Senior Product Designer",
-"location": "",
-"remote": null,
-"posted": "2025-12-10",
-"url": "https://careers.qashio.com/jobs/6907448-senior-product-designer",
-"source": "teamtailor",
 "region": "UAE",
 "firstSeen": "2026-10-17"
 }

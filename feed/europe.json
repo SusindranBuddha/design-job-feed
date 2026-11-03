@@ -1,8 +1,92 @@
 {
-"generated": "2026-11-02T22:48:11Z",
+"generated": "2026-11-03T09:36:00Z",
 "region": "Europe",
-"count": 97,
+"count": 104,
 "jobs": [
+{
+"id": "arbeitnow:Arbeitnow:lead-product-designer-customer-london-245215",
+"company": "Legal Counsel - 12 month FTC at Rightmove Greenhouse",
+"title": "Lead Product Designer - Customer",
+"location": "London",
+"remote": null,
+"posted": "2026-11-03",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/legal-counsel-12-month-ftc-at-rightmove-greenhouse/lead-product-designer-customer-london-245215",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-03"
+},
+{
+"id": "arbeitnow:Arbeitnow:photonics-design-engineer-oxford-332410",
+"company": "Salience Labs",
+"title": "Photonics Design Engineer",
+"location": "Oxford, United Kingdom",
+"remote": null,
+"posted": "2026-11-03",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/salience-labs/photonics-design-engineer-oxford-332410",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-03"
+},
+{
+"id": "arbeitnow:Arbeitnow:mixed-signal-ic-design-engineer-paris-92037",
+"company": "Arago",
+"title": "Mixed-signal IC Design Engineer",
+"location": "Paris Offices",
+"remote": null,
+"posted": "2026-11-03",
+"url": "https://www.arbeitnow.fr/jobs/companies/arago/mixed-signal-ic-design-engineer-paris-92037",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-03"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-hardware-design-engineer-paris-427153",
+"company": "Arago",
+"title": "Senior Hardware Design Engineer",
+"location": "Paris Offices",
+"remote": null,
+"posted": "2026-11-03",
+"url": "https://www.arbeitnow.fr/jobs/companies/arago/senior-hardware-design-engineer-paris-427153",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-03"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-analog-ic-design-engineer-paris-317955",
+"company": "Arago",
+"title": "Senior Analog IC Design Engineer",
+"location": "Paris Offices",
+"remote": null,
+"posted": "2026-11-03",
+"url": "https://www.arbeitnow.fr/jobs/companies/arago/senior-analog-ic-design-engineer-paris-317955",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-03"
+},
+{
+"id": "arbeitnow:Arbeitnow:product-manager-core-ux-paris-214533",
+"company": "Joko",
+"title": "Product Manager - Core UX",
+"location": "Paris",
+"remote": null,
+"posted": "2026-11-03",
+"url": "https://www.arbeitnow.fr/jobs/companies/joko/product-manager-core-ux-paris-214533",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-03"
+},
+{
+"id": "arbeitnow:Arbeitnow:graduate-mechanical-design-engineer-reading-249629",
+"company": "Neworbit",
+"title": "Graduate Mechanical Design Engineer",
+"location": "Reading, UK",
+"remote": null,
+"posted": "2026-11-03",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/neworbit/graduate-mechanical-design-engineer-reading-249629",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-03"
+},
 {
 "id": "smartrecruiters:Wise:744000159026939",
 "company": "Wise",
@@ -40,18 +124,6 @@
 "firstSeen": "2026-11-02"
 },
 {
-"id": "arbeitnow:Arbeitnow:senior-product-designer-419176",
-"company": "Nscaleoperationsukltd",
-"title": "Senior Product Designer",
-"location": "",
-"remote": null,
-"posted": "2026-11-02",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/nscaleoperationsukltd/senior-product-designer-419176",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-02"
-},
-{
 "id": "arbeitnow:Arbeitnow:senior-ux-designer-map-visualisation-amsterdam-the-netherlands-97864",
 "company": "Tomtom",
 "title": "Senior UX Designer - Map Visualisation",
@@ -59,6 +131,18 @@
 "remote": null,
 "posted": "2026-11-02",
 "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/senior-ux-designer-map-visualisation-amsterdam-the-netherlands-97864",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-02"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-419176",
+"company": "Nscaleoperationsukltd",
+"title": "Senior Product Designer",
+"location": "",
+"remote": null,
+"posted": "2026-11-02",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/nscaleoperationsukltd/senior-product-designer-419176",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-02"
@@ -136,13 +220,13 @@
 "firstSeen": "2026-11-01"
 },
 {
-"id": "arbeitnow:Arbeitnow:senior-product-designer-london-19194",
-"company": "Sahajsoftware",
-"title": "Senior Product Designer",
-"location": "London",
+"id": "arbeitnow:Arbeitnow:senior-electronics-design-engineer-gilching-7648",
+"company": "Quantum-Systems GmbH",
+"title": "Senior Electronics Design Engineer (m/f/d)",
+"location": "Gilching, Bayern, Germany",
 "remote": null,
 "posted": "2026-11-01",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/sahajsoftware/senior-product-designer-london-19194",
+"url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-electronics-design-engineer-gilching-7648",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-01"
@@ -160,13 +244,13 @@
 "firstSeen": "2026-11-01"
 },
 {
-"id": "arbeitnow:Arbeitnow:senior-electronics-design-engineer-gilching-7648",
-"company": "Quantum-Systems GmbH",
-"title": "Senior Electronics Design Engineer (m/f/d)",
-"location": "Gilching, Bayern, Germany",
+"id": "arbeitnow:Arbeitnow:senior-product-designer-london-19194",
+"company": "Sahajsoftware",
+"title": "Senior Product Designer",
+"location": "London",
 "remote": null,
 "posted": "2026-11-01",
-"url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-electronics-design-engineer-gilching-7648",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/sahajsoftware/senior-product-designer-london-19194",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-01"
@@ -397,7 +481,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Business-Analysis--AVP-1_R-786883",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 14 Days Ago",
+"postedText": "Posted 15 Days Ago",
 "firstSeen": "2026-10-20"
 },
 {
@@ -410,7 +494,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Platform-Engineering---Dev-UX--Production-Website---Off_R-799791-1",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 14 Days Ago",
+"postedText": "Posted 15 Days Ago",
 "firstSeen": "2026-10-19"
 },
 {
@@ -738,18 +822,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4987960101",
-"company": "Moniepoint",
-"title": "Product Design Manager - Design System",
-"location": "Remote, Spain",
-"remote": null,
-"posted": "2026-10-19",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987960101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:moniepoint:4987959101",
 "company": "Moniepoint",
 "title": "Product Design Manager - Design System",
@@ -769,6 +841,18 @@
 "remote": null,
 "posted": "2026-10-19",
 "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987958101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:moniepoint:4987960101",
+"company": "Moniepoint",
+"title": "Product Design Manager - Design System",
+"location": "Remote, Spain",
+"remote": null,
+"posted": "2026-10-19",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987960101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -810,18 +894,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4710853101",
-"company": "Moniepoint",
-"title": "Staff Product Designer",
-"location": "Remote, Poland",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710853101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:moniepoint:4710852101",
 "company": "Moniepoint",
 "title": "Staff Product Designer",
@@ -841,6 +913,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4988183101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:moniepoint:4710853101",
+"company": "Moniepoint",
+"title": "Staff Product Designer",
+"location": "Remote, Poland",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710853101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -1167,7 +1251,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Instruction-Designer-Sr-Manager_R-798129-2",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted Today",
+"postedText": "Posted Yesterday",
 "firstSeen": "2026-10-17"
 }
 ]

@@ -1,8 +1,21 @@
 {
-"generated": "2026-11-03T20:31:20Z",
+"generated": "2026-11-04T09:18:23Z",
 "region": "APAC",
 "count": 81,
 "jobs": [
+{
+"id": "mcf:MyCareersFuture:1675b182b37cdc3b13e789ca90a595b6",
+"company": "TALENTSIS PTE. LTD.",
+"title": "[T04] Junir/ Senior UI/UX Engineer - Permanent Role",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-04",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/t04-junir-senior-uiux-engineer-permanent-role-talentsis-1675b182b37cdc3b13e789ca90a595b6",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 5000-6800 /Monthly",
+"firstSeen": "2026-11-04"
+},
 {
 "id": "mcf:MyCareersFuture:d7aec43648e8b4dcd518ad379e5345d1",
 "company": "ISLANDWIDE RECRUITMENT PTE. LTD.",
@@ -129,7 +142,7 @@
 "url": "https://cba.wd3.myworkdayjobs.com/CommBank_Careers/job/Sydney-CBD-Area/Senior-Product-Designer_REQ267734",
 "source": "workday",
 "region": "APAC",
-"postedText": "Posted Today",
+"postedText": "Posted Yesterday",
 "firstSeen": "2026-11-02"
 },
 {
@@ -246,7 +259,7 @@
 "url": "https://cba.wd3.myworkdayjobs.com/CommBank_Careers/job/Sydney-CBD-Area/Principal-Product-Design---Talent-Community_REQ267815",
 "source": "workday",
 "region": "APAC",
-"postedText": "Posted 6 Days Ago",
+"postedText": "Posted 7 Days Ago",
 "firstSeen": "2026-10-28"
 },
 {
@@ -797,19 +810,6 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 4000-5500 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:6c0a08fd181ffadcf535e6e1d9495ee9",
-"company": "ADOMITA TECHNOLOGIES PTE. LTD.",
-"title": "Senior Product Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-12",
-"url": "https://www.mycareersfuture.gov.sg/job/engineering/senior-product-designer-adomita-technologies-6c0a08fd181ffadcf535e6e1d9495ee9",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 10000-14000 /Monthly",
 "firstSeen": "2026-10-17"
 },
 {

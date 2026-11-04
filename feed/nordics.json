@@ -1,8 +1,20 @@
 {
-"generated": "2026-11-03T20:31:20Z",
+"generated": "2026-11-04T09:18:23Z",
 "region": "Nordics",
-"count": 64,
+"count": 63,
 "jobs": [
+{
+"id": "greenhouse:oura:4476343009",
+"company": "Oura",
+"title": "Staff Antenna Design Engineer",
+"location": "Hybrid - San Francisco, California",
+"remote": null,
+"posted": "2026-11-03",
+"url": "https://job-boards.greenhouse.io/oura/jobs/4476343009",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-11-04"
+},
 {
 "id": "platsbanken:Platsbanken:31680148",
 "company": "Sway Sourcing Sweden Aktiebolag",
@@ -109,7 +121,7 @@
 "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Singapore/XMLNAME--Req----Product-Designer--2D_JOBREQ-2616662",
 "source": "workday",
 "region": "Nordics",
-"postedText": "Posted Yesterday",
+"postedText": "Posted 2 Days Ago",
 "firstSeen": "2026-11-02"
 },
 {
@@ -425,18 +437,6 @@
 "firstSeen": "2026-10-20"
 },
 {
-"id": "platsbanken:Platsbanken:31617221",
-"company": "Arbetsförmedlingen",
-"title": "Senior UX-designer med kompetens inom tjänstedesign",
-"location": "Solna",
-"remote": null,
-"posted": "2026-10-20",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31617221",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-20"
-},
-{
 "id": "greenhouse:oura:4452942009",
 "company": "Oura",
 "title": "Staff Antenna Design Engineer",
@@ -552,18 +552,6 @@
 "remote": null,
 "posted": "2026-10-13",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31592076",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "platsbanken:Platsbanken:31588655",
-"company": "Regeringskansliet",
-"title": "UX-designer – skapa användarvänliga digitala tjänster för Regeringskansliet",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-10-13",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31588655",
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-17"

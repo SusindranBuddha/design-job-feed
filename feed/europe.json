@@ -1,8 +1,129 @@
 {
-"generated": "2026-11-03T20:31:20Z",
+"generated": "2026-11-04T09:18:23Z",
 "region": "Europe",
-"count": 101,
+"count": 106,
 "jobs": [
+{
+"id": "arbeitnow:Arbeitnow:senior-ui-ux-engineer-quantum-computing-siegen-415090",
+"company": "eleQtron GmbH",
+"title": "Senior UI/UX Engineer- Quantum Computing (f/m/d)",
+"location": "Siegen, Nordrhein-Westfalen, Germany",
+"remote": null,
+"posted": "2026-11-04",
+"url": "https://www.arbeitnow.com/jobs/companies/eleqtron-gmbh/senior-ui-ux-engineer-quantum-computing-siegen-415090",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-04"
+},
+{
+"id": "arbeitnow:Arbeitnow:lead-ux-ui-designer-london-120903",
+"company": "Delta Capita",
+"title": "Lead UX/UI Designer",
+"location": "London, Greater London, United Kingdom",
+"remote": null,
+"posted": "2026-11-04",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/delta-capita/lead-ux-ui-designer-london-120903",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-04"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-service-designer-product-experience-5083",
+"company": "capco",
+"title": "Senior Service Designer - Product & Experience",
+"location": "",
+"remote": null,
+"posted": "2026-11-04",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/capco/senior-service-designer-product-experience-5083",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-04"
+},
+{
+"id": "arbeitnow:Arbeitnow:product-designer-manchester-171926",
+"company": "Anaplan",
+"title": "Product Designer",
+"location": "Manchester",
+"remote": null,
+"posted": "2026-11-04",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/product-designer-manchester-171926",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-04"
+},
+{
+"id": "arbeitnow:Arbeitnow:founding-design-engineer-codespeak-london-252489",
+"company": "Hirehire",
+"title": "Founding Design Engineer | CodeSpeak",
+"location": "London",
+"remote": null,
+"posted": "2026-11-04",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/hirehire/founding-design-engineer-codespeak-london-252489",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-04"
+},
+{
+"id": "arbeitnow:Arbeitnow:ux-ui-designer-ai-powered-cologne-30977",
+"company": "Digitale Leute School",
+"title": "UX/UI Designer (m/w/d) – AI-powered",
+"location": "Cologne",
+"remote": "remote",
+"posted": "2026-11-03",
+"url": "https://www.arbeitnow.com/jobs/companies/digitale-leute-school/ux-ui-designer-ai-powered-cologne-30977",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-04"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-staff-product-designer-germany-9309",
+"company": "N8N",
+"title": "Senior/Staff Product Designer",
+"location": "Germany",
+"remote": null,
+"posted": "2026-11-03",
+"url": "https://www.arbeitnow.com/jobs/companies/n8n/senior-staff-product-designer-germany-9309",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-04"
+},
+{
+"id": "arbeitnow:Arbeitnow:creative-designer-dortmund-33905",
+"company": "likeyaa GmbH",
+"title": "Creative Designer (m/w/d)",
+"location": "Dortmund",
+"remote": null,
+"posted": "2026-11-03",
+"url": "https://www.arbeitnow.com/jobs/companies/likeyaa-gmbh/creative-designer-dortmund-33905",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-04"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-match-3-designer-new-game-london-4511",
+"company": "Supercell",
+"title": "Senior Match-3 Designer, New Game",
+"location": "London",
+"remote": null,
+"posted": "2026-11-03",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/supercell/senior-match-3-designer-new-game-london-4511",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-04"
+},
+{
+"id": "workday:statestreet:/job/Burlington-Massachusetts/UX-Designer--Officer_R-795745",
+"company": "State Street",
+"title": "UX Designer, Officer",
+"location": "Burlington Massachusetts",
+"remote": null,
+"posted": null,
+"url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/UX-Designer--Officer_R-795745",
+"source": "workday",
+"region": "Europe",
+"postedText": "Posted Yesterday",
+"firstSeen": "2026-11-04"
+},
 {
 "id": "greenhouse:tide:8178946003",
 "company": "Tide",
@@ -52,18 +173,6 @@
 "firstSeen": "2026-11-03"
 },
 {
-"id": "arbeitnow:Arbeitnow:remote-performance-creative-designer-423203",
-"company": "Flipper",
-"title": "Performance Creative Designer",
-"location": "Remote",
-"remote": "remote",
-"posted": "2026-11-03",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/flipper/remote-performance-creative-designer-423203",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-03"
-},
-{
 "id": "arbeitnow:Arbeitnow:propulsion-design-engineer-all-genders-delft-217003",
 "company": "væridion",
 "title": "Propulsion Design Engineer (all genders)",
@@ -88,37 +197,13 @@
 "firstSeen": "2026-11-03"
 },
 {
-"id": "arbeitnow:Arbeitnow:lead-forward-deployed-designer-london-157541",
-"company": "Artificial Labs",
-"title": "Lead Forward Deployed Designer",
-"location": "London Office",
-"remote": null,
+"id": "arbeitnow:Arbeitnow:remote-performance-creative-designer-423203",
+"company": "Flipper",
+"title": "Performance Creative Designer",
+"location": "Remote",
+"remote": "remote",
 "posted": "2026-11-03",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/artificial-labs/lead-forward-deployed-designer-london-157541",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-03"
-},
-{
-"id": "arbeitnow:Arbeitnow:product-designer-london-232870",
-"company": "Scarlet",
-"title": "Product Designer",
-"location": "UK - London Office",
-"remote": null,
-"posted": "2026-11-03",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/scarlet/product-designer-london-232870",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-03"
-},
-{
-"id": "arbeitnow:Arbeitnow:lead-product-designer-customer-london-245215",
-"company": "Legal Counsel - 12 month FTC at Rightmove Greenhouse",
-"title": "Lead Product Designer - Customer",
-"location": "London",
-"remote": null,
-"posted": "2026-11-03",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/legal-counsel-12-month-ftc-at-rightmove-greenhouse/lead-product-designer-customer-london-245215",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/flipper/remote-performance-creative-designer-423203",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-03"
@@ -172,18 +257,6 @@
 "firstSeen": "2026-11-03"
 },
 {
-"id": "arbeitnow:Arbeitnow:photonics-design-engineer-oxford-332410",
-"company": "Salience Labs",
-"title": "Photonics Design Engineer",
-"location": "Oxford, United Kingdom",
-"remote": null,
-"posted": "2026-11-03",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/salience-labs/photonics-design-engineer-oxford-332410",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-03"
-},
-{
 "id": "smartrecruiters:Wise:744000159026939",
 "company": "Wise",
 "title": "Principal Product Designer – LATAM",
@@ -227,18 +300,6 @@
 "remote": null,
 "posted": "2026-11-02",
 "url": "https://www.arbeitnow.com/jobs/companies/asteralabs/senior-principal-asic-design-engineer-21270",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-02"
-},
-{
-"id": "arbeitnow:Arbeitnow:praktikum-ui-ux-design-mit-fokus-barrierefreiheit-jena-250103",
-"company": "Preventicus GmbH",
-"title": "Praktikum - UI/UX Design mit Fokus Barrierefreiheit (m/w/d)",
-"location": "Jena",
-"remote": null,
-"posted": "2026-11-02",
-"url": "https://www.arbeitnow.com/jobs/companies/preventicus-gmbh/praktikum-ui-ux-design-mit-fokus-barrierefreiheit-jena-250103",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-02"
@@ -445,7 +506,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Business-Analysis--AVP-1_R-786883",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 15 Days Ago",
+"postedText": "Posted 16 Days Ago",
 "firstSeen": "2026-10-20"
 },
 {
@@ -458,7 +519,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Platform-Engineering---Dev-UX--Production-Website---Off_R-799791-1",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 15 Days Ago",
+"postedText": "Posted 16 Days Ago",
 "firstSeen": "2026-10-19"
 },
 {
@@ -469,6 +530,18 @@
 "remote": null,
 "posted": "2026-11-03",
 "url": "https://job-boards.greenhouse.io/monzo/jobs/6758088",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:stripe:7202630",
+"company": "Stripe",
+"title": "Staff Product Designer, Link",
+"location": "NYC",
+"remote": null,
+"posted": "2026-11-03",
+"url": "https://stripe.com/jobs/search?gh_jid=7202630",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -714,18 +787,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:stripe:7202630",
-"company": "Stripe",
-"title": "Staff Product Designer, Link",
-"location": "NYC",
-"remote": null,
-"posted": "2026-10-29",
-"url": "https://stripe.com/jobs/search?gh_jid=7202630",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:stripe:8031782",
 "company": "Stripe",
 "title": "Staff Product Designer, Risk",
@@ -870,18 +931,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4988183101",
-"company": "Moniepoint",
-"title": "Staff Product Designer",
-"location": "London, United Kingdom",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4988183101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:moniepoint:4710853101",
 "company": "Moniepoint",
 "title": "Staff Product Designer",
@@ -889,6 +938,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710853101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:moniepoint:4988183101",
+"company": "Moniepoint",
+"title": "Staff Product Designer",
+"location": "London, United Kingdom",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4988183101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -1050,6 +1111,18 @@
 "firstSeen": "2026-10-17"
 },
 {
+"id": "greenhouse:tide:7779785003",
+"company": "Tide",
+"title": "Senior Product Designer",
+"location": "Serbia",
+"remote": null,
+"posted": "2026-09-23",
+"url": "https://job-boards.greenhouse.io/tide/jobs/7779785003",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
 "id": "greenhouse:tide:7731830003",
 "company": "Tide",
 "title": "Senior Product Designer",
@@ -1069,18 +1142,6 @@
 "remote": null,
 "posted": "2026-09-23",
 "url": "https://job-boards.greenhouse.io/tide/jobs/7788378003",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:tide:7779785003",
-"company": "Tide",
-"title": "Senior Product Designer",
-"location": "Serbia",
-"remote": null,
-"posted": "2026-09-23",
-"url": "https://job-boards.greenhouse.io/tide/jobs/7779785003",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -1110,18 +1171,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:intercom:7861866",
-"company": "Intercom",
-"title": "Senior Product Designer",
-"location": "London, England",
-"remote": null,
-"posted": "2026-09-16",
-"url": "https://job-boards.greenhouse.io/intercom/jobs/7861866",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:intercom:7862050",
 "company": "Intercom",
 "title": "Senior Product Designer",
@@ -1129,6 +1178,18 @@
 "remote": null,
 "posted": "2026-09-16",
 "url": "https://job-boards.greenhouse.io/intercom/jobs/7862050",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:intercom:7861866",
+"company": "Intercom",
+"title": "Senior Product Designer",
+"location": "London, England",
+"remote": null,
+"posted": "2026-09-16",
+"url": "https://job-boards.greenhouse.io/intercom/jobs/7861866",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -1215,7 +1276,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Instruction-Designer-Sr-Manager_R-798129-2",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted Yesterday",
+"postedText": "Posted 2 Days Ago",
 "firstSeen": "2026-10-17"
 }
 ]

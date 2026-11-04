@@ -1,8 +1,34 @@
 {
-"generated": "2026-11-04T09:18:23Z",
+"generated": "2026-11-04T20:50:10Z",
 "region": "APAC",
 "count": 81,
 "jobs": [
+{
+"id": "mcf:MyCareersFuture:27a7eb45365c6828b3e331d2c226f987",
+"company": "PERSOL SINGAPORE PTE. LTD.",
+"title": "UI/UX Designer (Banking, Central)",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-04",
+"url": "https://www.mycareersfuture.gov.sg/job/banking-finance/uiux-designer-persol-singapore-27a7eb45365c6828b3e331d2c226f987",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 6000-8000 /Monthly",
+"firstSeen": "2026-11-04"
+},
+{
+"id": "mcf:MyCareersFuture:3ba6968fb900552c327feaad0c8dc403",
+"company": "WEBSPARKS PTE. LTD.",
+"title": "UX/UI Designer for GDT (Contract)",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-04",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/uxui-designer-gdt-websparks-3ba6968fb900552c327feaad0c8dc403",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 4500-6500 /Monthly",
+"firstSeen": "2026-11-04"
+},
 {
 "id": "mcf:MyCareersFuture:1675b182b37cdc3b13e789ca90a595b6",
 "company": "TALENTSIS PTE. LTD.",
@@ -620,18 +646,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:agoda:7478051",
-"company": "Agoda",
-"title": "Senior Product Designer - Trip Marketing (Bangkok - Based, Relocation Provided)",
-"location": "Bangkok, Thailand",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/agoda/jobs/7478051",
-"source": "greenhouse",
-"region": "APAC",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "mcf:MyCareersFuture:37c892b6972cbb2f9bf61b2b97914aeb",
 "company": "ARYAN SOLUTIONS PTE. LTD.",
 "title": "UI/UX Designer",
@@ -887,19 +901,6 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 6500-9000 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:5d607581663f101625f332f8d73da1f8",
-"company": "SCIENTEC CONSULTING PTE. LTD.",
-"title": "UI/UX Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-05",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/uiux-designer-scientec-consulting-5d607581663f101625f332f8d73da1f8",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 6000-9000 /Monthly",
 "firstSeen": "2026-10-17"
 },
 {

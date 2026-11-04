@@ -1,8 +1,20 @@
 {
-"generated": "2026-11-04T09:18:23Z",
+"generated": "2026-11-04T20:50:10Z",
 "region": "Nordics",
-"count": 63,
+"count": 64,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31685055",
+"company": "Kapita Investment Group AB",
+"title": "UI/UX designer på praktik",
+"location": "Göteborg",
+"remote": null,
+"posted": "2026-11-04",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31685055",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-04"
+},
 {
 "id": "greenhouse:oura:4476343009",
 "company": "Oura",
@@ -13,6 +25,19 @@
 "url": "https://job-boards.greenhouse.io/oura/jobs/4476343009",
 "source": "greenhouse",
 "region": "Nordics",
+"firstSeen": "2026-11-04"
+},
+{
+"id": "workday:unitytech:/job/Brighton-United-Kingdom/Senior-Product-Designer_JOBREQ-2616581",
+"company": "Unity",
+"title": "Senior Product Designer",
+"location": "5 Locations",
+"remote": null,
+"posted": null,
+"url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Brighton-United-Kingdom/Senior-Product-Designer_JOBREQ-2616581",
+"source": "workday",
+"region": "Nordics",
+"postedText": "Posted Today",
 "firstSeen": "2026-11-04"
 },
 {
@@ -305,18 +330,6 @@
 "firstSeen": "2026-10-26"
 },
 {
-"id": "platsbanken:Platsbanken:31640061",
-"company": "Nexer AB",
-"title": "UX Designer (mobil) | Göteborg | Nexer Maverick",
-"location": "Göteborg",
-"remote": null,
-"posted": "2026-10-23",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31640061",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-23"
-},
-{
 "id": "platsbanken:Platsbanken:31636537",
 "company": "Curamet AB",
 "title": "Senior UX/UI Designer",
@@ -509,18 +522,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:alphasense:8530664002",
-"company": "AlphaSense",
-"title": "Senior/Staff Product Designer",
-"location": "New York, New York, United States; Remote - United States",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:alphasense:8531119002",
 "company": "AlphaSense",
 "title": "Senior/Staff Product Designer",
@@ -528,6 +529,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:alphasense:8530664002",
+"company": "AlphaSense",
+"title": "Senior/Staff Product Designer",
+"location": "New York, New York, United States; Remote - United States",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"

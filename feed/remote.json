@@ -1,8 +1,56 @@
 {
-"generated": "2026-11-04T20:50:10Z",
+"generated": "2026-11-05T09:32:40Z",
 "region": "Remote",
-"count": 193,
+"count": 188,
 "jobs": [
+{
+"id": "jobicy:Jobicy:159092",
+"company": "Mozilla",
+"title": "Creative Designer (Fixed Term Contract)",
+"location": "UK",
+"remote": "remote",
+"posted": "2026-11-05",
+"url": "https://jobicy.com/jobs/159092-creative-designer-fixed-term-contract",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-05"
+},
+{
+"id": "jobicy:Jobicy:159088",
+"company": "Stripe",
+"title": "Designer, Web Presence & Platform",
+"location": "USA",
+"remote": "remote",
+"posted": "2026-11-05",
+"url": "https://jobicy.com/jobs/159088-designer-web-presence-platform",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-05"
+},
+{
+"id": "jobicy:Jobicy:154654",
+"company": "RevenueCat",
+"title": "Senior CRO Designer, Paywalls and Funnels",
+"location": "APAC, EMEA, Canada, USA",
+"remote": "remote",
+"posted": "2026-11-05",
+"url": "https://jobicy.com/jobs/154654-senior-cro-designer-paywalls-and-funnels",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-05"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/velaio/jobs/senior-ui-ux-designer-figma-webflow-expert",
+"company": "VELAIO",
+"title": "Senior UI/UX Designer (Figma & Webflow Expert)",
+"location": "Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Falkland Islands (Malvinas), French Guiana, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela",
+"remote": "remote",
+"posted": "2026-11-01",
+"url": "https://himalayas.app/companies/velaio/jobs/senior-ui-ux-designer-figma-webflow-expert?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-05"
+},
 {
 "id": "ashby:clera:1fa12242-bace-487d-9ea6-1c453aa0ebd4",
 "company": "Clera",
@@ -76,18 +124,6 @@
 "firstSeen": "2026-11-04"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/mailerlite/jobs/product-designer",
-"company": "MailerLite",
-"title": "Product Designer",
-"location": "Armenia, Bulgaria, Croatia, Cyprus, Czechia, Estonia, France, Georgia, Greece, Hungary, Italy, Kyrgyzstan, Latvia, Lithuania, North Macedonia, Poland, Portugal,",
-"remote": "remote",
-"posted": "2026-10-29",
-"url": "https://himalayas.app/companies/mailerlite/jobs/product-designer?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-11-04"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/fluxon/jobs/senior-product-designer-6658565977",
 "company": "Fluxon",
 "title": "Senior Product Designer",
@@ -95,18 +131,6 @@
 "remote": "remote",
 "posted": "2026-10-28",
 "url": "https://himalayas.app/companies/fluxon/jobs/senior-product-designer-6658565977?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-11-04"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/ancestry-com/jobs/product-designer-dna-experience",
-"company": "Ancestry",
-"title": "Product Designer, DNA Experience",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-10-23",
-"url": "https://himalayas.app/companies/ancestry-com/jobs/product-designer-dna-experience?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-04"
@@ -124,18 +148,6 @@
 "firstSeen": "2026-11-04"
 },
 {
-"id": "ashby:clera:1a13ebc5-7234-4824-b718-47f652830d09",
-"company": "Clera",
-"title": "Founding Product Designer",
-"location": "San Francisco Bay Area",
-"remote": "OnSite",
-"posted": "2026-11-03",
-"url": "https://jobs.ashbyhq.com/clera/1a13ebc5-7234-4824-b718-47f652830d09",
-"source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-11-03"
-},
-{
 "id": "ashby:clera:9a8a23f6-f17d-497f-aa37-3a6c4b354d9e",
 "company": "Clera",
 "title": "Founding Product Designer",
@@ -143,18 +155,6 @@
 "remote": "OnSite",
 "posted": "2026-11-03",
 "url": "https://jobs.ashbyhq.com/clera/9a8a23f6-f17d-497f-aa37-3a6c4b354d9e",
-"source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-11-03"
-},
-{
-"id": "ashby:clera:6d6132a0-686d-4cd0-87e2-068e6d35def0",
-"company": "Clera",
-"title": "Product Designer, Freelance / Fractional",
-"location": "remote",
-"remote": null,
-"posted": "2026-11-03",
-"url": "https://jobs.ashbyhq.com/clera/6d6132a0-686d-4cd0-87e2-068e6d35def0",
 "source": "ashby",
 "region": "Remote",
 "firstSeen": "2026-11-03"
@@ -194,18 +194,6 @@
 "source": "Remote OK",
 "region": "Remote",
 "firstSeen": "2026-11-03"
-},
-{
-"id": "ashby:n8n:fe05c209-8069-4a88-aeba-8da23488cd30",
-"company": "n8n",
-"title": "Senior/Staff Product Designer",
-"location": "Germany; Bosnia; Norway; Estonia; Slovenia; Italy; Netherlands; Hungary; Portugal; France; Poland; Serbia; Austria; Finland; Montenegro; Slovakia; Ireland; Denm",
-"remote": "Remote",
-"posted": "2026-11-02",
-"url": "https://jobs.ashbyhq.com/n8n/fe05c209-8069-4a88-aeba-8da23488cd30",
-"source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-11-02"
 },
 {
 "id": "ashby:clera:00e3f650-ba42-48c0-8f31-e4590284ce2c",
@@ -360,30 +348,6 @@
 "posted": "2026-10-31",
 "url": "https://jobs.ashbyhq.com/clera/9c739a05-cc20-418a-8bac-77f7cb12b2aa",
 "source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-10-31"
-},
-{
-"id": "jobicy:Jobicy:158084",
-"company": "Fresh Prints",
-"title": "Technical Designer",
-"location": "Philippines",
-"remote": "remote",
-"posted": "2026-10-30",
-"url": "https://jobicy.com/jobs/158084-technical-designer",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-10-31"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/northrop-grumman/jobs/systems-sw-analyst-principal-systems-sw-analyst-ux-designer",
-"company": "Northrop Grumman",
-"title": "Systems SW Analyst / Principal Systems SW Analyst - (UX Designer)",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-10-30",
-"url": "https://himalayas.app/companies/northrop-grumman/jobs/systems-sw-analyst-principal-systems-sw-analyst-ux-designer?utm_source=api",
-"source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-31"
 },
@@ -652,18 +616,6 @@
 "firstSeen": "2026-10-24"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/raona/jobs/ux-ui-designer-jr",
-"company": "Raona",
-"title": "UX/UI Designer Jr",
-"location": "Argentina",
-"remote": "remote",
-"posted": "2026-10-24",
-"url": "https://himalayas.app/companies/raona/jobs/ux-ui-designer-jr?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-24"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/summit-k12/jobs/principal-ux-design",
 "company": "Summit K12",
 "title": "Principal, UX Design",
@@ -767,6 +719,18 @@
 "remote": "remote",
 "posted": "2026-11-01",
 "url": "https://himalayas.app/companies/ciena/jobs/senior-serdes-system-dsp-design-engineer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-21"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/autopilot-is/jobs/product-designer",
+"company": "Autopilot",
+"title": "Product Designer",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-10-29",
+"url": "https://himalayas.app/companies/autopilot-is/jobs/product-designer?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-21"
@@ -878,6 +842,18 @@
 "source": "We Work Remotely",
 "region": "Remote",
 "firstSeen": "2026-10-19"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/nearsource-technologies/jobs/ux-designer-retail-operational-systems",
+"company": "NearSource Technologies",
+"title": "UX Designer – Retail & Operational Systems",
+"location": "Canada",
+"remote": "remote",
+"posted": "2026-11-04",
+"url": "https://himalayas.app/companies/nearsource-technologies/jobs/ux-designer-retail-operational-systems?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
 },
 {
 "id": "himalayas:Himalayas:https://himalayas.app/companies/sapsol-technologies-inc/jobs/structural-and-systems-installation-design-engineer",
@@ -1636,18 +1612,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/growe-talents/jobs/ui-ux-designer-igaming",
-"company": "Growe Talents",
-"title": "UI/UX Designer (IGaming)",
-"location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germa",
-"remote": "remote",
-"posted": "2026-10-29",
-"url": "https://himalayas.app/companies/growe-talents/jobs/ui-ux-designer-igaming?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/canonical/jobs/ux-designer-design-systems",
 "company": "Canonical",
 "title": "UX Designer - Design systems",
@@ -1752,18 +1716,6 @@
 "posted": "2026-10-10",
 "url": "https://himalayas.app/companies/olxgroup/jobs/design-system-designer?utm_source=api",
 "source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "remoteok:Remote OK:1137474",
-"company": "Fuel50",
-"title": "Product Design Lead",
-"location": "",
-"remote": "remote",
-"posted": "2026-10-09",
-"url": "https://remoteOK.com/remote-jobs/remote-product-design-lead-fuel50-1137474",
-"source": "Remote OK",
 "region": "Remote",
 "firstSeen": "2026-10-17"
 },
@@ -2027,18 +1979,6 @@
 "remote": "remote",
 "posted": "2026-09-21",
 "url": "https://himalayas.app/companies/bjak/jobs/ux-designer-ai-app?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/workwave/jobs/product-designer-723662217",
-"company": "WorkWave",
-"title": "Product Designer",
-"location": "United Kingdom",
-"remote": "remote",
-"posted": "2026-09-18",
-"url": "https://himalayas.app/companies/workwave/jobs/product-designer-723662217?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-17"

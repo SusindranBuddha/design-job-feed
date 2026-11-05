@@ -1,19 +1,19 @@
 {
-"generated": "2026-11-04T20:50:10Z",
+"generated": "2026-11-05T09:32:40Z",
 "region": "Netherlands",
-"count": 12,
+"count": 13,
 "jobs": [
 {
-"id": "greenhouse:elastic:8319082",
-"company": "Elastic",
-"title": "Software Engineering Manager - Global UX - Applications - Platform",
-"location": "Greece",
+"id": "greenhouse:catawiki:8354353",
+"company": "Catawiki",
+"title": "UX Designer",
+"location": "Lisbon, Portugal",
 "remote": null,
-"posted": "2026-10-23",
-"url": "https://jobs.elastic.co/jobs?gh_jid=8319082&gh_jid=8319082",
+"posted": "2026-11-05",
+"url": "https://job-boards.greenhouse.io/catawiki/jobs/8354353",
 "source": "greenhouse",
 "region": "Netherlands",
-"firstSeen": "2026-10-24"
+"firstSeen": "2026-11-05"
 },
 {
 "id": "greenhouse:elastic:8301334",
@@ -35,6 +35,18 @@
 "remote": null,
 "posted": "2026-10-23",
 "url": "https://jobs.elastic.co/jobs?gh_jid=8319081&gh_jid=8319081",
+"source": "greenhouse",
+"region": "Netherlands",
+"firstSeen": "2026-10-24"
+},
+{
+"id": "greenhouse:elastic:8319082",
+"company": "Elastic",
+"title": "Software Engineering Manager - Global UX - Applications - Platform",
+"location": "Greece",
+"remote": null,
+"posted": "2026-10-23",
+"url": "https://jobs.elastic.co/jobs?gh_jid=8319082&gh_jid=8319082",
 "source": "greenhouse",
 "region": "Netherlands",
 "firstSeen": "2026-10-24"

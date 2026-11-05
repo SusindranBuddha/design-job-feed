@@ -1,8 +1,34 @@
 {
-"generated": "2026-11-04T20:50:10Z",
+"generated": "2026-11-05T09:32:40Z",
 "region": "APAC",
 "count": 81,
 "jobs": [
+{
+"id": "mcf:MyCareersFuture:9b9d7a7b21124d62dcb41f9ea2092e5d",
+"company": "PERSONNEL LINK JOBHUB PTE. LTD.",
+"title": "R&D Product Designer (Injection Molding/West)",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-05",
+"url": "https://www.mycareersfuture.gov.sg/job/engineering/rd-product-designer-personnel-link-jobhub-9b9d7a7b21124d62dcb41f9ea2092e5d",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 4000-7000 /Monthly",
+"firstSeen": "2026-11-05"
+},
+{
+"id": "mcf:MyCareersFuture:14063e0105a08af75e0ed996a6c1f62c",
+"company": "REAL ESTATE ANALYTICS PTE. LTD.",
+"title": "Product Design - UI / UX",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-05",
+"url": "https://www.mycareersfuture.gov.sg/job/design/product-design-ui-ux-real-estate-analytics-14063e0105a08af75e0ed996a6c1f62c",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 4000-5500 /Monthly",
+"firstSeen": "2026-11-05"
+},
 {
 "id": "mcf:MyCareersFuture:27a7eb45365c6828b3e331d2c226f987",
 "company": "PERSOL SINGAPORE PTE. LTD.",
@@ -168,7 +194,7 @@
 "url": "https://cba.wd3.myworkdayjobs.com/CommBank_Careers/job/Sydney-CBD-Area/Senior-Product-Designer_REQ267734",
 "source": "workday",
 "region": "APAC",
-"postedText": "Posted Yesterday",
+"postedText": "Posted 2 Days Ago",
 "firstSeen": "2026-11-02"
 },
 {
@@ -285,7 +311,7 @@
 "url": "https://cba.wd3.myworkdayjobs.com/CommBank_Careers/job/Sydney-CBD-Area/Principal-Product-Design---Talent-Community_REQ267815",
 "source": "workday",
 "region": "APAC",
-"postedText": "Posted 7 Days Ago",
+"postedText": "Posted 8 Days Ago",
 "firstSeen": "2026-10-28"
 },
 {
@@ -548,6 +574,18 @@
 "firstSeen": "2026-10-19"
 },
 {
+"id": "greenhouse:zipcolimited:4716196006",
+"company": "Zip Co",
+"title": "Senior Product Designer",
+"location": "Sydney",
+"remote": null,
+"posted": "2026-11-04",
+"url": "https://job-boards.greenhouse.io/zipcolimited/jobs/4716196006",
+"source": "greenhouse",
+"region": "APAC",
+"firstSeen": "2026-10-17"
+},
+{
 "id": "mcf:MyCareersFuture:b3435ce5839dbee7722d63e52b3dbe93",
 "company": "BOWEN LEARNING INTERNATIONAL PTE. LTD.",
 "title": "Senior UI/UX Designer",
@@ -583,18 +621,6 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 3000-4200 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:agoda:8248603",
-"company": "Agoda",
-"title": "Product Designer L2 - Accommodation (Bangkok-Based)",
-"location": "Bangkok, Thailand",
-"remote": null,
-"posted": "2026-10-21",
-"url": "https://job-boards.greenhouse.io/agoda/jobs/8248603",
-"source": "greenhouse",
-"region": "APAC",
 "firstSeen": "2026-10-17"
 },
 {
@@ -814,19 +840,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "mcf:MyCareersFuture:6bb6bec48c497fa859bd866f3810af0b",
-"company": "REAL ESTATE ANALYTICS PTE. LTD.",
-"title": "Product Design - UI / UX",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-12",
-"url": "https://www.mycareersfuture.gov.sg/job/design/product-design-ui-ux-real-estate-analytics-6bb6bec48c497fa859bd866f3810af0b",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 4000-5500 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "mcf:MyCareersFuture:0f027e57f0313119d1f962d4ef9ba347",
 "company": "WE ARE WIREFRAME PRIVATE LIMITED",
 "title": "UI/UX Designer",
@@ -875,19 +888,6 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 6000-8000 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:4d0c499e14083442fda0ae2f8ea31170",
-"company": "CAPGEMINI SINGAPORE  PTE. LTD.",
-"title": "UX Designer (AI Programme)",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-06",
-"url": "https://www.mycareersfuture.gov.sg/job/consulting/ux-designer-capgemini-singapore-4d0c499e14083442fda0ae2f8ea31170",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 6000-9000 /Monthly",
 "firstSeen": "2026-10-17"
 },
 {

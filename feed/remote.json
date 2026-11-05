@@ -1,8 +1,32 @@
 {
-"generated": "2026-11-05T09:32:40Z",
+"generated": "2026-11-05T21:06:33Z",
 "region": "Remote",
-"count": 188,
+"count": 189,
 "jobs": [
+{
+"id": "jobicy:Jobicy:159124",
+"company": "Grafana Labs",
+"title": "Senior Product Designer, Knowledge Graph | Ireland | Remote",
+"location": "Ireland",
+"remote": "remote",
+"posted": "2026-11-05",
+"url": "https://jobicy.com/jobs/159124-senior-product-designer-knowledge-graph-ireland-remote",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-05"
+},
+{
+"id": "jobicy:Jobicy:159116",
+"company": "Grafana Labs",
+"title": "Senior Product Designer, Knowledge Graph | Germany | Remote",
+"location": "Germany",
+"remote": "remote",
+"posted": "2026-11-05",
+"url": "https://jobicy.com/jobs/159116-senior-product-designer-knowledge-graph-germany-remote",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-05"
+},
 {
 "id": "jobicy:Jobicy:159092",
 "company": "Mozilla",
@@ -36,6 +60,18 @@
 "posted": "2026-11-05",
 "url": "https://jobicy.com/jobs/154654-senior-cro-designer-paywalls-and-funnels",
 "source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-05"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/olxgroup/jobs/senior-product-designer",
+"company": "OLX",
+"title": "Senior Product Designer",
+"location": "Spain",
+"remote": "remote",
+"posted": "2026-11-05",
+"url": "https://himalayas.app/companies/olxgroup/jobs/senior-product-designer?utm_source=api",
+"source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-05"
 },
@@ -112,30 +148,6 @@
 "firstSeen": "2026-11-04"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/elation-health/jobs/staff-product-designer-7554171075",
-"company": "Elation Health",
-"title": "Staff Product Designer",
-"location": "Canada, United States",
-"remote": "remote",
-"posted": "2026-11-03",
-"url": "https://himalayas.app/companies/elation-health/jobs/staff-product-designer-7554171075?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-11-04"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/fluxon/jobs/senior-product-designer-6658565977",
-"company": "Fluxon",
-"title": "Senior Product Designer",
-"location": "Romania",
-"remote": "remote",
-"posted": "2026-10-28",
-"url": "https://himalayas.app/companies/fluxon/jobs/senior-product-designer-6658565977?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-11-04"
-},
-{
 "id": "remoteok:Remote OK:1135360",
 "company": "Digitalilusion S.L.",
 "title": "Designer",
@@ -146,18 +158,6 @@
 "source": "Remote OK",
 "region": "Remote",
 "firstSeen": "2026-11-04"
-},
-{
-"id": "ashby:clera:9a8a23f6-f17d-497f-aa37-3a6c4b354d9e",
-"company": "Clera",
-"title": "Founding Product Designer",
-"location": "San Francisco",
-"remote": "OnSite",
-"posted": "2026-11-03",
-"url": "https://jobs.ashbyhq.com/clera/9a8a23f6-f17d-497f-aa37-3a6c4b354d9e",
-"source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-11-03"
 },
 {
 "id": "jobicy:Jobicy:158603",
@@ -1425,7 +1425,7 @@
 "title": "Senior Product Designer — Design Systems",
 "location": "Remote",
 "remote": null,
-"posted": "2026-11-04",
+"posted": "2026-11-05",
 "url": "https://job-boards.greenhouse.io/clearstreet/jobs/8241303",
 "source": "greenhouse",
 "region": "Remote",
@@ -1437,7 +1437,7 @@
 "title": "Senior Product Designer — Mobile",
 "location": "Remote",
 "remote": null,
-"posted": "2026-11-04",
+"posted": "2026-11-05",
 "url": "https://job-boards.greenhouse.io/clearstreet/jobs/8241353",
 "source": "greenhouse",
 "region": "Remote",
@@ -1449,9 +1449,21 @@
 "title": "Senior Product Designer — Trading",
 "location": "Remote",
 "remote": null,
-"posted": "2026-11-04",
+"posted": "2026-11-05",
 "url": "https://job-boards.greenhouse.io/clearstreet/jobs/8241344",
 "source": "greenhouse",
+"region": "Remote",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/remedy-product-studio/jobs/product-designer-3743879344",
+"company": "Remedy Product Studio",
+"title": "Product Designer",
+"location": "Brazil, Colombia, Costa Rica, Georgia, Poland, Serbia",
+"remote": "remote",
+"posted": "2026-11-05",
+"url": "https://himalayas.app/companies/remedy-product-studio/jobs/product-designer-3743879344?utm_source=api",
+"source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-17"
 },

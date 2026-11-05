@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-05T09:32:40Z",
+"generated": "2026-11-05T21:06:33Z",
 "region": "APAC",
-"count": 81,
+"count": 78,
 "jobs": [
 {
 "id": "mcf:MyCareersFuture:9b9d7a7b21124d62dcb41f9ea2092e5d",
@@ -27,6 +27,45 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 4000-5500 /Monthly",
+"firstSeen": "2026-11-05"
+},
+{
+"id": "mcf:MyCareersFuture:5eb6a82ef1ad944bada439f88d0b1499",
+"company": "SCIENTEC CONSULTING PTE. LTD.",
+"title": "UX Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-05",
+"url": "https://www.mycareersfuture.gov.sg/job/design/ux-designer-scientec-consulting-5eb6a82ef1ad944bada439f88d0b1499",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 6000-9000 /Monthly",
+"firstSeen": "2026-11-05"
+},
+{
+"id": "mcf:MyCareersFuture:cc3a889b91db06a9b9b94c481d7314fb",
+"company": "CAREERNEXUS PTE. LTD.",
+"title": "Electrical System Design Engineer (4-5yrs exp/Substation & HT/System Migration/Immediately/Short Notice)",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-05",
+"url": "https://www.mycareersfuture.gov.sg/job/architecture/electrical-system-design-engineer-careernexus-cc3a889b91db06a9b9b94c481d7314fb",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 5000-7000 /Monthly",
+"firstSeen": "2026-11-05"
+},
+{
+"id": "mcf:MyCareersFuture:04a867988f18cdbe99e3f56f2ec10be8",
+"company": "CAREERNEXUS PTE. LTD.",
+"title": "Electrical Power System Design Engineer (4-5yrs exp/Infrastructure/FC & Generator/Immediately/Short Notice)",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-05",
+"url": "https://www.mycareersfuture.gov.sg/job/architecture/electrical-power-system-design-engineer-careernexus-04a867988f18cdbe99e3f56f2ec10be8",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 5000-7000 /Monthly",
 "firstSeen": "2026-11-05"
 },
 {
@@ -237,19 +276,6 @@
 "firstSeen": "2026-10-29"
 },
 {
-"id": "mcf:MyCareersFuture:310a380a708d78b768a0f7ef9d915e5e",
-"company": "COMBUILDER PTE LTD",
-"title": "UI/UX Designer — AMK",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-29",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/uiux-designer-%E2%80%94-amk-combuilder-310a380a708d78b768a0f7ef9d915e5e",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 5000-6000 /Monthly",
-"firstSeen": "2026-10-29"
-},
-{
 "id": "mcf:MyCareersFuture:7b0ce0e0b344053af448fb61586a9d1d",
 "company": "ACTIVATE INTERACTIVE PTE LTD",
 "title": "Senior UI/UX Designer",
@@ -443,19 +469,6 @@
 "region": "APAC",
 "salary": "SGD 6500-9000 /Monthly",
 "firstSeen": "2026-10-23"
-},
-{
-"id": "mcf:MyCareersFuture:1987be794446563dfc4dc8613a523239",
-"company": "PERSOL SINGAPORE PTE. LTD.",
-"title": "UI/UX Designer (Banking, Central)",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-22",
-"url": "https://www.mycareersfuture.gov.sg/job/banking-finance/uiux-designer-persol-singapore-1987be794446563dfc4dc8613a523239",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 6000-8000 /Monthly",
-"firstSeen": "2026-10-22"
 },
 {
 "id": "mcf:MyCareersFuture:535bde1f15b4a66fd61fe97a10e51593",
@@ -737,45 +750,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "mcf:MyCareersFuture:2f3db7951142390d97d64169a10bc2d6",
-"company": "TALENTSIS PTE. LTD.",
-"title": "UIUX Senior/Designer [Figma]",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://www.mycareersfuture.gov.sg/job/engineering/uiux-seniordesigner-figma-talentsis-2f3db7951142390d97d64169a10bc2d6",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 5500-6500 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:96b75ea1051f1136da5e0c0d71bf06ca",
-"company": "TESTING INSPECTION & SOLUTION PTE. LTD.",
-"title": "SENIOR / DESIGN ENGINEER, INSTRUMENTATION",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://www.mycareersfuture.gov.sg/job/engineering/senior-design-engineer-instrumentation-testing-inspection-solution-96b75ea1051f1136da5e0c0d71bf06ca",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 3300-6600 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:33713d972566404aee64a8df2c407873",
-"company": "HOTLOTZ PTE. LTD.",
-"title": "Product Designer (UI/UX)",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-15",
-"url": "https://www.mycareersfuture.gov.sg/job/design/product-designer-hotlotz-33713d972566404aee64a8df2c407873",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 4500-6000 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "mcf:MyCareersFuture:c3429d202cd97f0d5657d14806301cc6",
 "company": "WEBSPARKS PTE. LTD.",
 "title": "UX/UI Designer for GDT (Contract)",
@@ -888,19 +862,6 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 6000-8000 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:932d80f2e7d2b2a4d68538244d0c56b2",
-"company": "SCIENTEC CONSULTING PTE. LTD.",
-"title": "*GOV* UIUX Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-06",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/gov-uiux-designer-scientec-consulting-932d80f2e7d2b2a4d68538244d0c56b2",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 6500-9000 /Monthly",
 "firstSeen": "2026-10-17"
 },
 {

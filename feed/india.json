@@ -1,8 +1,20 @@
 {
-"generated": "2026-11-05T09:32:40Z",
+"generated": "2026-11-05T21:06:33Z",
 "region": "India",
-"count": 17,
+"count": 18,
 "jobs": [
+{
+"id": "lever:meesho:500264fe-e851-499a-b825-2eb588752aa3",
+"company": "Meesho",
+"title": "Product Designer - II (Design System)",
+"location": "Bangalore, Karnataka",
+"remote": "onsite",
+"posted": "2026-08-31",
+"url": "https://jobs.lever.co/meesho/500264fe-e851-499a-b825-2eb588752aa3",
+"source": "lever",
+"region": "India",
+"firstSeen": "2026-11-05"
+},
 {
 "id": "lever:gohighlevel:84831da0-2dbf-4c92-bb9d-379bc20c61e5",
 "company": "HighLevel",

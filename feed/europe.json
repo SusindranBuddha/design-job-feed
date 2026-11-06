@@ -1,8 +1,116 @@
 {
-"generated": "2026-11-05T21:06:33Z",
+"generated": "2026-11-06T09:27:12Z",
 "region": "Europe",
-"count": 106,
+"count": 101,
 "jobs": [
+{
+"id": "arbeitnow:Arbeitnow:remote-endear-product-designer-79201",
+"company": "Eleve Talent",
+"title": "Endear - Product Designer",
+"location": "Remote",
+"remote": "remote",
+"posted": "2026-11-06",
+"url": "https://www.arbeitnow.com/jobs/companies/eleve-talent/remote-endear-product-designer-79201",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-06"
+},
+{
+"id": "arbeitnow:Arbeitnow:remote-product-designer-78930",
+"company": "360Learning",
+"title": "Product Designer",
+"location": "Paris, Remote",
+"remote": null,
+"posted": "2026-11-06",
+"url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-product-designer-78930",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-06"
+},
+{
+"id": "arbeitnow:Arbeitnow:pcb-design-engineer-80-100-ruthi-105235",
+"company": "Veratron AG",
+"title": "PCB DESIGN ENGINEER 80-100% (m/f/d)",
+"location": "Rüthi, Sankt Gallen, Schweiz",
+"remote": null,
+"posted": "2026-11-06",
+"url": "https://www.arbeitnow.ch/jobs/companies/veratron-ag/pcb-design-engineer-80-100-ruthi-105235",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-06"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-ux-designer-amsterdam-229420",
+"company": "SkinVision",
+"title": "Senior UX Designer",
+"location": "Amsterdam, Noord-Holland, Netherlands",
+"remote": null,
+"posted": "2026-11-06",
+"url": "https://www.arbeitnow.nl/jobs/companies/skinvision/senior-ux-designer-amsterdam-229420",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-06"
+},
+{
+"id": "arbeitnow:Arbeitnow:lead-product-designer-platform-experience-uk-remote-united-kingdom-261521",
+"company": "Immersivelabs",
+"title": "Lead Product Designer - Platform Experience - UK (Remote)",
+"location": "United Kingdom",
+"remote": null,
+"posted": "2026-11-06",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/immersivelabs/lead-product-designer-platform-experience-uk-remote-united-kingdom-261521",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-06"
+},
+{
+"id": "arbeitnow:Arbeitnow:lead-product-designer-ai-security-agentic-experiences-uk-remote-united-kingdom-241364",
+"company": "Immersivelabs",
+"title": "Lead Product Designer -AI Security & Agentic Experiences- UK (Remote)",
+"location": "United Kingdom",
+"remote": null,
+"posted": "2026-11-06",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/immersivelabs/lead-product-designer-ai-security-agentic-experiences-uk-remote-united-kingdom-241364",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-06"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-designer-rtw-kensington-office-london-305459",
+"company": "Mulberry",
+"title": "Senior Designer RTW",
+"location": "Kensington Office, London",
+"remote": null,
+"posted": "2026-11-06",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/mulberry/senior-designer-rtw-kensington-office-london-305459",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-06"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-london-238654",
+"company": "SumUp",
+"title": "Senior Product Designer",
+"location": "London, England, United Kingdom",
+"remote": null,
+"posted": "2026-11-05",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-product-designer-london-238654",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-06"
+},
+{
+"id": "arbeitnow:Arbeitnow:ai-phone-product-designer-london-68684",
+"company": "Bjak",
+"title": "AI Phone - Product Designer",
+"location": "United Kingdom",
+"remote": null,
+"posted": "2026-11-05",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/ai-phone-product-designer-london-68684",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-06"
+},
 {
 "id": "smartrecruiters:Wise:744000159932359",
 "company": "Wise",
@@ -40,18 +148,6 @@
 "firstSeen": "2026-11-05"
 },
 {
-"id": "arbeitnow:Arbeitnow:staff-product-designer-london-73687",
-"company": "Carwow",
-"title": "Staff Product Designer",
-"location": "London",
-"remote": null,
-"posted": "2026-11-05",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/carwow/staff-product-designer-london-73687",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-05"
-},
-{
 "id": "arbeitnow:Arbeitnow:bild-ad-designer-100-remote-freelancer-minijob-nordhorn-324691",
 "company": "4creatives GmbH",
 "title": "Bild-Ad Designer (m/w/d) – 100 % Remote | Freelancer & Minijob",
@@ -76,109 +172,13 @@
 "firstSeen": "2026-11-05"
 },
 {
-"id": "arbeitnow:Arbeitnow:senior-designer-uk-remote-leeds-london-446030",
-"company": "Fanaticsfbg",
-"title": "Senior Designer - UK (remote)",
-"location": "Leeds; London",
-"remote": null,
-"posted": "2026-11-05",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/senior-designer-uk-remote-leeds-london-446030",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-05"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-designer-performance-uk-remote-leeds-london-83203",
-"company": "Fanaticsfbg",
-"title": "Senior Designer, Performance - UK (remote)",
-"location": "Leeds; London",
-"remote": null,
-"posted": "2026-11-05",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/senior-designer-performance-uk-remote-leeds-london-83203",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-05"
-},
-{
-"id": "arbeitnow:Arbeitnow:product-designer-london-142892",
-"company": "Marshmallow",
-"title": "Product Designer",
+"id": "arbeitnow:Arbeitnow:staff-product-designer-london-73687",
+"company": "Carwow",
+"title": "Staff Product Designer",
 "location": "London",
 "remote": null,
 "posted": "2026-11-05",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/marshmallow/product-designer-london-142892",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-05"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-pcb-designer-ii-cambridge-united-kingdom-42107",
-"company": "CesiumAstro",
-"title": "Senior PCB Designer II",
-"location": "Cambridge, United Kingdom",
-"remote": null,
-"posted": "2026-11-05",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/cesiumastro/senior-pcb-designer-ii-cambridge-united-kingdom-42107",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-05"
-},
-{
-"id": "arbeitnow:Arbeitnow:staff-product-designer-united-kingdom-263345",
-"company": "HighLevel",
-"title": "Staff Product Designer",
-"location": "United Kingdom",
-"remote": null,
-"posted": "2026-11-05",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/highlevel/staff-product-designer-united-kingdom-263345",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-05"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-physical-design-engineer-edinburgh-scotland-205759",
-"company": "Cirrus",
-"title": "Senior Physical Design Engineer",
-"location": "Edinburgh, Scotland",
-"remote": null,
-"posted": "2026-11-05",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/cirrus/senior-physical-design-engineer-edinburgh-scotland-205759",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-05"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-analog-design-engineer-newbury-england-212106",
-"company": "Cirrus",
-"title": "Senior Analog Design Engineer",
-"location": "Newbury, England",
-"remote": null,
-"posted": "2026-11-05",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/cirrus/senior-analog-design-engineer-newbury-england-212106",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-05"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-staff-analog-design-engineer-pc-edinburgh-scotland-238587",
-"company": "Cirrus",
-"title": "Senior / Staff Analog Design Engineer (PC)",
-"location": "Edinburgh, Scotland",
-"remote": null,
-"posted": "2026-11-05",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/cirrus/senior-staff-analog-design-engineer-pc-edinburgh-scotland-238587",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-05"
-},
-{
-"id": "arbeitnow:Arbeitnow:founding-product-designer-london-281572",
-"company": "Goodmaven",
-"title": "Founding Product Designer",
-"location": "London, UK",
-"remote": null,
-"posted": "2026-11-05",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/goodmaven/founding-product-designer-london-281572",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/carwow/staff-product-designer-london-73687",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-05"
@@ -191,18 +191,6 @@
 "remote": null,
 "posted": "2026-11-04",
 "url": "https://www.arbeitnow.com/jobs/companies/bitpanda/senior-product-designer-web3-berlin-berlin-479106",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-05"
-},
-{
-"id": "arbeitnow:Arbeitnow:design-engineer-uk-london-276581",
-"company": "Writer",
-"title": "Design engineer (UK)",
-"location": "London, UK",
-"remote": null,
-"posted": "2026-11-04",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/writer/design-engineer-uk-london-276581",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-05"
@@ -268,54 +256,6 @@
 "firstSeen": "2026-11-04"
 },
 {
-"id": "arbeitnow:Arbeitnow:werkstudent-ux-ui-design-frankfurt-171503",
-"company": "ABRIO GmbH",
-"title": "Werkstudent UX/UI Design (m/w/d)",
-"location": "Frankfurt, Hessen, Deutschland",
-"remote": null,
-"posted": "2026-11-04",
-"url": "https://www.arbeitnow.com/jobs/companies/abrio-gmbh/werkstudent-ux-ui-design-frankfurt-171503",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-04"
-},
-{
-"id": "arbeitnow:Arbeitnow:werkstudent-ux-ui-design-frankfurt-114939",
-"company": "ABRIO GmbH",
-"title": "Werkstudent UX/UI Design (m/w/d)",
-"location": "Frankfurt",
-"remote": null,
-"posted": "2026-11-04",
-"url": "https://www.arbeitnow.com/jobs/companies/abrio-gmbh/werkstudent-ux-ui-design-frankfurt-114939",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-04"
-},
-{
-"id": "arbeitnow:Arbeitnow:werkstudent-ux-ui-design-frankfurt-160361",
-"company": "ABRIO GmbH",
-"title": "Werkstudent UX/UI Design (m/w/d)",
-"location": "Frankfurt",
-"remote": null,
-"posted": "2026-11-04",
-"url": "https://www.arbeitnow.com/jobs/companies/abrio-gmbh/werkstudent-ux-ui-design-frankfurt-160361",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-04"
-},
-{
-"id": "arbeitnow:Arbeitnow:game-designer-multiplayer-gameplay-modes-paperio-2-paris-252259",
-"company": "Voodoo",
-"title": "Game Designer (Multiplayer Gameplay Modes) - Paper.io 2",
-"location": "Paris",
-"remote": null,
-"posted": "2026-11-04",
-"url": "https://www.arbeitnow.fr/jobs/companies/voodoo/game-designer-multiplayer-gameplay-modes-paperio-2-paris-252259",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-04"
-},
-{
 "id": "workday:statestreet:/job/Burlington-Massachusetts/UX-Designer--Officer_R-795745",
 "company": "State Street",
 "title": "UX Designer, Officer",
@@ -325,7 +265,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/UX-Designer--Officer_R-795745",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 2 Days Ago",
+"postedText": "Posted 3 Days Ago",
 "firstSeen": "2026-11-04"
 },
 {
@@ -554,7 +494,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Business-Analysis--AVP-1_R-786883",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 17 Days Ago",
+"postedText": "Posted 18 Days Ago",
 "firstSeen": "2026-10-20"
 },
 {
@@ -567,7 +507,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Platform-Engineering---Dev-UX--Production-Website---Off_R-799791-1",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 17 Days Ago",
+"postedText": "Posted 18 Days Ago",
 "firstSeen": "2026-10-19"
 },
 {
@@ -931,18 +871,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4987958101",
-"company": "Moniepoint",
-"title": "Product Design Manager - Design System",
-"location": "London, United Kingdom",
-"remote": null,
-"posted": "2026-10-19",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987958101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:moniepoint:4987959101",
 "company": "Moniepoint",
 "title": "Product Design Manager - Design System",
@@ -967,6 +895,18 @@
 "firstSeen": "2026-10-17"
 },
 {
+"id": "greenhouse:moniepoint:4987958101",
+"company": "Moniepoint",
+"title": "Product Design Manager - Design System",
+"location": "London, United Kingdom",
+"remote": null,
+"posted": "2026-10-19",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987958101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
 "id": "greenhouse:moniepoint:4629880101",
 "company": "Moniepoint",
 "title": "Product Design Manager - UX",
@@ -979,18 +919,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4944264101",
-"company": "Moniepoint",
-"title": "Product Design Manager - UX",
-"location": "Remote, Poland",
-"remote": null,
-"posted": "2026-10-19",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4944264101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:moniepoint:4944263101",
 "company": "Moniepoint",
 "title": "Product Design Manager - UX",
@@ -998,6 +926,18 @@
 "remote": null,
 "posted": "2026-10-19",
 "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4944263101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:moniepoint:4944264101",
+"company": "Moniepoint",
+"title": "Product Design Manager - UX",
+"location": "Remote, Poland",
+"remote": null,
+"posted": "2026-10-19",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4944264101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"

@@ -1,8 +1,32 @@
 {
-"generated": "2026-11-05T21:06:33Z",
+"generated": "2026-11-06T09:27:12Z",
 "region": "Nordics",
 "count": 63,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31693766",
+"company": "Swedium Global Services AB",
+"title": "Senior Hardware Design Engineer",
+"location": "Solna",
+"remote": null,
+"posted": "2026-11-06",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31693766",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-06"
+},
+{
+"id": "platsbanken:Platsbanken:31693447",
+"company": "Tata Technologies Nordics AB",
+"title": "Design Engineer",
+"location": "Göteborg",
+"remote": null,
+"posted": "2026-11-05",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31693447",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-06"
+},
 {
 "id": "platsbanken:Platsbanken:31692149",
 "company": "Sway Sourcing Sweden Aktiebolag",
@@ -73,7 +97,7 @@
 "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Brighton-United-Kingdom/Senior-Product-Designer_JOBREQ-2616581",
 "source": "workday",
 "region": "Nordics",
-"postedText": "Posted Yesterday",
+"postedText": "Posted 2 Days Ago",
 "firstSeen": "2026-11-04"
 },
 {
@@ -130,7 +154,7 @@
 "title": "Lead (Senior) Product Designer | Production",
 "location": "Helsinki, Finland; Lisbon, Portugal; Stockholm, Sweden",
 "remote": null,
-"posted": "2026-11-02",
+"posted": "2026-11-06",
 "url": "https://www.relexsolutions.com/careers/jobs/?gh_jid=8105403003",
 "source": "greenhouse",
 "region": "Nordics",
@@ -158,7 +182,7 @@
 "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Singapore/XMLNAME--Req----Product-Designer--2D_JOBREQ-2616662",
 "source": "workday",
 "region": "Nordics",
-"postedText": "Posted 3 Days Ago",
+"postedText": "Posted 4 Days Ago",
 "firstSeen": "2026-11-02"
 },
 {
@@ -182,18 +206,6 @@
 "posted": "2026-10-29",
 "url": "https://job-boards.greenhouse.io/oura/jobs/4472112009",
 "source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-29"
-},
-{
-"id": "platsbanken:Platsbanken:31659408",
-"company": "Ericsson AB",
-"title": "System Designer 6G Technology Testbeds",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-10-29",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31659408",
-"source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-29"
 },
@@ -294,18 +306,6 @@
 "firstSeen": "2026-10-26"
 },
 {
-"id": "platsbanken:Platsbanken:31642986",
-"company": "REGION STOCKHOLM",
-"title": "UX-designer till ett innovativt utvecklingsprojekt om virtuella patienter",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-10-26",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31642986",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-26"
-},
-{
 "id": "platsbanken:Platsbanken:31646928",
 "company": "Specialpedagogiska Skolmyndigheten",
 "title": "Digital strateg med fokus på UX till SPSM, vikariat",
@@ -383,7 +383,7 @@
 "title": "Lead Product Designer | Platform Engineering",
 "location": "Helsinki, Finland",
 "remote": null,
-"posted": "2026-10-23",
+"posted": "2026-11-06",
 "url": "https://www.relexsolutions.com/careers/jobs/?gh_jid=8039875003",
 "source": "greenhouse",
 "region": "Nordics",

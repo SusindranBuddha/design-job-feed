@@ -1,8 +1,44 @@
 {
-"generated": "2026-11-05T21:06:33Z",
+"generated": "2026-11-06T09:27:12Z",
 "region": "Remote",
-"count": 189,
+"count": 188,
 "jobs": [
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/ondo-finance/jobs/senior-product-designer-design-systems",
+"company": "Ondo Finance",
+"title": "Senior Product Designer, Design Systems",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-11-06",
+"url": "https://himalayas.app/companies/ondo-finance/jobs/senior-product-designer-design-systems?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-06"
+},
+{
+"id": "jobicy:Jobicy:159175",
+"company": "Envato",
+"title": "Senior Product Designer - Visual Craft & AI",
+"location": "Australia, New Zealand",
+"remote": "remote",
+"posted": "2026-11-05",
+"url": "https://jobicy.com/jobs/159175-senior-product-designer-visual-craft-ai",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-06"
+},
+{
+"id": "wwr:We Work Remotely:https://weworkremotely.com/remote-jobs/breakthrough-design-group-senior-creative-web-designer",
+"company": "Breakthrough Design Group",
+"title": "Senior Creative & Web Designer",
+"location": "Anywhere in the World",
+"remote": "remote",
+"posted": "2026-11-05",
+"url": "https://weworkremotely.com/remote-jobs/breakthrough-design-group-senior-creative-web-designer",
+"source": "We Work Remotely",
+"region": "Remote",
+"firstSeen": "2026-11-06"
+},
 {
 "id": "jobicy:Jobicy:159124",
 "company": "Grafana Labs",
@@ -148,6 +184,18 @@
 "firstSeen": "2026-11-04"
 },
 {
+"id": "himalayas:Himalayas:https://himalayas.app/companies/elation-health/jobs/staff-product-designer-7554171075",
+"company": "Elation Health",
+"title": "Staff Product Designer",
+"location": "Canada, United States",
+"remote": "remote",
+"posted": "2026-11-03",
+"url": "https://himalayas.app/companies/elation-health/jobs/staff-product-designer-7554171075?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-04"
+},
+{
 "id": "remoteok:Remote OK:1135360",
 "company": "Digitalilusion S.L.",
 "title": "Designer",
@@ -194,30 +242,6 @@
 "source": "Remote OK",
 "region": "Remote",
 "firstSeen": "2026-11-03"
-},
-{
-"id": "ashby:clera:00e3f650-ba42-48c0-8f31-e4590284ce2c",
-"company": "Clera",
-"title": "Senior Product Designer",
-"location": "remote",
-"remote": null,
-"posted": "2026-11-02",
-"url": "https://jobs.ashbyhq.com/clera/00e3f650-ba42-48c0-8f31-e4590284ce2c",
-"source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-11-02"
-},
-{
-"id": "jobicy:Jobicy:158378",
-"company": "Fueled",
-"title": "UX Designer | EMEA | Contract",
-"location": "EMEA",
-"remote": "remote",
-"posted": "2026-11-01",
-"url": "https://jobicy.com/jobs/158378-ux-designer-emea-contract",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-11-02"
 },
 {
 "id": "himalayas:Himalayas:https://himalayas.app/companies/sunotec-eood/jobs/senior-electrical-design-engineer-renewable-energy-systems-remote-hybrid-or",
@@ -683,18 +707,6 @@
 "remote": "remote",
 "posted": "2026-10-22",
 "url": "https://himalayas.app/companies/lemon-io/jobs/senior-ui-ux-designer?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-22"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/mindera/jobs/senior-product-manager-design-system",
-"company": "Mindera",
-"title": "Senior Product Manager - Design System",
-"location": "Portugal",
-"remote": "remote",
-"posted": "2026-10-22",
-"url": "https://himalayas.app/companies/mindera/jobs/senior-product-manager-design-system?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-22"
@@ -1228,18 +1240,6 @@
 "firstSeen": "2026-10-18"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/panic-stations/jobs/system-designer-3-month-contract",
-"company": "Panic Stations",
-"title": "System Designer - 3 month contract",
-"location": "United Kingdom",
-"remote": "remote",
-"posted": "2026-10-07",
-"url": "https://himalayas.app/companies/panic-stations/jobs/system-designer-3-month-contract?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/draftkings-inc/jobs/lead-product-designer-platform-8232636326",
 "company": "DraftKings Inc.",
 "title": "Lead Product Designer, Platform",
@@ -1355,18 +1355,6 @@
 "remote": "remote",
 "posted": "2026-09-21",
 "url": "https://himalayas.app/companies/jobs-for-humanity/jobs/ux-ui-freelance-designer?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/huzzle/jobs/senior-ui-ux-designer",
-"company": "Huzzle",
-"title": "Senior UI/UX Designer",
-"location": "Bosnia and Herzegovina",
-"remote": "remote",
-"posted": "2026-09-20",
-"url": "https://himalayas.app/companies/huzzle/jobs/senior-ui-ux-designer?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"

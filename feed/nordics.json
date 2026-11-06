@@ -1,8 +1,32 @@
 {
-"generated": "2026-11-06T09:27:12Z",
+"generated": "2026-11-06T20:27:50Z",
 "region": "Nordics",
 "count": 63,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31696431",
+"company": "Tata Technologies Nordics AB",
+"title": "System Designer",
+"location": "Göteborg",
+"remote": null,
+"posted": "2026-11-06",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31696431",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-06"
+},
+{
+"id": "platsbanken:Platsbanken:31699469",
+"company": "Isar Aerospace Sweden AB",
+"title": "Propulsion Test Design Engineer (m/f/d)",
+"location": "Kiruna",
+"remote": null,
+"posted": "2026-11-06",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31699469",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-06"
+},
 {
 "id": "platsbanken:Platsbanken:31693766",
 "company": "Swedium Global Services AB",
@@ -137,18 +161,6 @@
 "firstSeen": "2026-11-03"
 },
 {
-"id": "platsbanken:Platsbanken:31676983",
-"company": "Axis Communications Aktiebolag",
-"title": "Mechanical Design Engineer - Production Machines, Lund",
-"location": "Lund",
-"remote": null,
-"posted": "2026-11-03",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31676983",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-03"
-},
-{
 "id": "greenhouse:relex:8105403003",
 "company": "RELEX",
 "title": "Lead (Senior) Product Designer | Production",
@@ -229,18 +241,6 @@
 "remote": null,
 "posted": "2026-10-28",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31657908",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-28"
-},
-{
-"id": "platsbanken:Platsbanken:31655524",
-"company": "Sway Sourcing Sweden Aktiebolag",
-"title": "Senior Product Designer – TV & Digital Experiences | Stockholm",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-10-28",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31655524",
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-28"

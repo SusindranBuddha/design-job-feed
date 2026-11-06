@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-06T09:27:12Z",
+"generated": "2026-11-06T20:27:50Z",
 "region": "APAC",
-"count": 80,
+"count": 78,
 "jobs": [
 {
 "id": "mcf:MyCareersFuture:1e00fe765e173140d7692857c9b48ffd",
@@ -484,19 +484,6 @@
 "firstSeen": "2026-10-23"
 },
 {
-"id": "mcf:MyCareersFuture:25e88a7ec52c5c62a0849460df40984f",
-"company": "NSEARCH GLOBAL PTE. LTD.",
-"title": "Senior Product Designer (UI/UX)",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-23",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-product-designer-nsearch-global-25e88a7ec52c5c62a0849460df40984f",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 9000-12000 /Monthly",
-"firstSeen": "2026-10-23"
-},
-{
 "id": "mcf:MyCareersFuture:7d80a99fbca0ebfd2c04b35e81914c89",
 "company": "OPTIMUM SOLUTIONS (SINGAPORE) PTE LTD",
 "title": "UI/UX Product Designer",
@@ -875,19 +862,6 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 5500-8500 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:b0c7eb3673b8dcf5b5484391012b8ce6",
-"company": "RAPSYS TECHNOLOGIES PTE. LTD.",
-"title": "User Experience (UX) Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-07",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/user-experience-designer-rapsys-technologies-b0c7eb3673b8dcf5b5484391012b8ce6",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 6000-8000 /Monthly",
 "firstSeen": "2026-10-17"
 },
 {

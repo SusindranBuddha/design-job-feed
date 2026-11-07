@@ -1,8 +1,56 @@
 {
-"generated": "2026-11-06T20:27:50Z",
+"generated": "2026-11-07T08:49:53Z",
 "region": "Europe",
-"count": 99,
+"count": 97,
 "jobs": [
+{
+"id": "arbeitnow:Arbeitnow:remote-senior-design-engineer-deel-395604",
+"company": "Hirehire",
+"title": "Senior Design Engineer | Deel",
+"location": "Remote",
+"remote": "remote",
+"posted": "2026-11-07",
+"url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-senior-design-engineer-deel-395604",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-07"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-emea-frankfurt-342999",
+"company": "Wundergraph",
+"title": "Senior Product Designer EMEA",
+"location": "EMEA",
+"remote": null,
+"posted": "2026-11-07",
+"url": "https://www.arbeitnow.com/jobs/companies/wundergraph/senior-product-designer-emea-frankfurt-342999",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-07"
+},
+{
+"id": "arbeitnow:Arbeitnow:founding-ui-ux-artist-unannounced-game-london-403393",
+"company": "Supercell",
+"title": "Founding UI/UX Artist, Unannounced Game",
+"location": "London",
+"remote": null,
+"posted": "2026-11-07",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/supercell/founding-ui-ux-artist-unannounced-game-london-403393",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-07"
+},
+{
+"id": "arbeitnow:Arbeitnow:product-designer-global-public-sector-london-364353",
+"company": "scaleai",
+"title": "Product Designer, Global Public Sector",
+"location": "London",
+"remote": null,
+"posted": "2026-11-07",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/product-designer-global-public-sector-london-364353",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-07"
+},
 {
 "id": "arbeitnow:Arbeitnow:senior-structures-design-engineer-launch-vehicle-structures-parsdorf-bavaria-195818",
 "company": "isaraerospace",
@@ -64,6 +112,18 @@
 "firstSeen": "2026-11-06"
 },
 {
+"id": "arbeitnow:Arbeitnow:senior-product-designer-berlin-336426",
+"company": "1KOMMA5˚",
+"title": "(Senior) Product Designer (m/f/d)",
+"location": "Berlin",
+"remote": "remote",
+"posted": "2026-11-06",
+"url": "https://www.arbeitnow.com/jobs/companies/1komma50/senior-product-designer-berlin-336426",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-06"
+},
+{
 "id": "arbeitnow:Arbeitnow:senior-product-designer-london-uk-287117",
 "company": "eucalyptus",
 "title": "Senior Product Designer, London, UK",
@@ -71,6 +131,30 @@
 "remote": null,
 "posted": "2026-11-06",
 "url": "https://www.arbeitnow.co.uk/jobs/companies/eucalyptus/senior-product-designer-london-uk-287117",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-06"
+},
+{
+"id": "arbeitnow:Arbeitnow:product-design-engineer-berlin-303738",
+"company": "Agent F GmbH",
+"title": "Product Design Engineer",
+"location": "Berlin",
+"remote": null,
+"posted": "2026-11-06",
+"url": "https://www.arbeitnow.com/jobs/companies/agent-f-gmbh/product-design-engineer-berlin-303738",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-06"
+},
+{
+"id": "arbeitnow:Arbeitnow:remote-endear-product-designer-79201",
+"company": "Eleve Talent",
+"title": "Endear - Product Designer",
+"location": "Remote",
+"remote": "remote",
+"posted": "2026-11-06",
+"url": "https://www.arbeitnow.com/jobs/companies/eleve-talent/remote-endear-product-designer-79201",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-06"
@@ -100,42 +184,6 @@
 "firstSeen": "2026-11-06"
 },
 {
-"id": "arbeitnow:Arbeitnow:senior-product-designer-berlin-336426",
-"company": "1KOMMA5˚",
-"title": "(Senior) Product Designer (m/f/d)",
-"location": "Berlin",
-"remote": "remote",
-"posted": "2026-11-06",
-"url": "https://www.arbeitnow.com/jobs/companies/1komma50/senior-product-designer-berlin-336426",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-06"
-},
-{
-"id": "arbeitnow:Arbeitnow:product-design-engineer-berlin-303738",
-"company": "Agent F GmbH",
-"title": "Product Design Engineer",
-"location": "Berlin",
-"remote": null,
-"posted": "2026-11-06",
-"url": "https://www.arbeitnow.com/jobs/companies/agent-f-gmbh/product-design-engineer-berlin-303738",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-06"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-product-designer-london-475921",
-"company": "sumup",
-"title": "Senior Product Designer",
-"location": "London",
-"remote": null,
-"posted": "2026-11-06",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-product-designer-london-475921",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-06"
-},
-{
 "id": "arbeitnow:Arbeitnow:remote-product-designer-78930",
 "company": "360Learning",
 "title": "Product Designer",
@@ -143,18 +191,6 @@
 "remote": null,
 "posted": "2026-11-06",
 "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-product-designer-78930",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-06"
-},
-{
-"id": "arbeitnow:Arbeitnow:remote-endear-product-designer-79201",
-"company": "Eleve Talent",
-"title": "Endear - Product Designer",
-"location": "Remote",
-"remote": "remote",
-"posted": "2026-11-06",
-"url": "https://www.arbeitnow.com/jobs/companies/eleve-talent/remote-endear-product-designer-79201",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-06"
@@ -180,18 +216,6 @@
 "posted": "2026-11-05",
 "url": "https://jobs.smartrecruiters.com/Wise/744000159887999",
 "source": "smartrecruiters",
-"region": "Europe",
-"firstSeen": "2026-11-05"
-},
-{
-"id": "arbeitnow:Arbeitnow:performance-video-editor-designer-all-genders-berlin-447347",
-"company": "mammaly",
-"title": "Performance Video Editor & Designer (all genders)",
-"location": "Berlin",
-"remote": null,
-"posted": "2026-11-05",
-"url": "https://www.arbeitnow.com/jobs/companies/mammaly/performance-video-editor-designer-all-genders-berlin-447347",
-"source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-05"
 },
@@ -253,7 +277,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/UX-Designer--Officer_R-795745",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 3 Days Ago",
+"postedText": "Posted 4 Days Ago",
 "firstSeen": "2026-11-04"
 },
 {
@@ -325,18 +349,6 @@
 "posted": "2026-11-02",
 "url": "https://apply.workable.com/j/6E948EA5B4",
 "source": "workable",
-"region": "Europe",
-"firstSeen": "2026-11-02"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-ux-designer-map-visualisation-amsterdam-the-netherlands-97864",
-"company": "Tomtom",
-"title": "Senior UX Designer - Map Visualisation",
-"location": "Amsterdam, The Netherlands",
-"remote": null,
-"posted": "2026-11-02",
-"url": "https://www.arbeitnow.nl/jobs/companies/tomtom/senior-ux-designer-map-visualisation-amsterdam-the-netherlands-97864",
-"source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-02"
 },
@@ -470,7 +482,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Business-Analysis--AVP-1_R-786883",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 18 Days Ago",
+"postedText": "Posted 19 Days Ago",
 "firstSeen": "2026-10-20"
 },
 {
@@ -483,7 +495,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Platform-Engineering---Dev-UX--Production-Website---Off_R-799791-1",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 18 Days Ago",
+"postedText": "Posted 19 Days Ago",
 "firstSeen": "2026-10-19"
 },
 {
@@ -638,18 +650,6 @@
 "remote": null,
 "posted": "2026-11-03",
 "url": "https://stripe.com/jobs/search?gh_jid=7202630",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:getyourguide:8278560",
-"company": "GetYourGuide",
-"title": "Senior Design Systems Manager",
-"location": "Zurich",
-"remote": null,
-"posted": "2026-10-30",
-"url": "https://job-boards.greenhouse.io/getyourguide/jobs/8278560",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -847,13 +847,13 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4987960101",
+"id": "greenhouse:moniepoint:4987958101",
 "company": "Moniepoint",
 "title": "Product Design Manager - Design System",
-"location": "Remote, Spain",
+"location": "London, United Kingdom",
 "remote": null,
 "posted": "2026-10-19",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987960101",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987958101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -871,13 +871,13 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4987958101",
+"id": "greenhouse:moniepoint:4987960101",
 "company": "Moniepoint",
 "title": "Product Design Manager - Design System",
-"location": "London, United Kingdom",
+"location": "Remote, Spain",
 "remote": null,
 "posted": "2026-10-19",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987958101",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987960101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -919,18 +919,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4988183101",
-"company": "Moniepoint",
-"title": "Staff Product Designer",
-"location": "London, United Kingdom",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4988183101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:moniepoint:4710853101",
 "company": "Moniepoint",
 "title": "Staff Product Designer",
@@ -938,6 +926,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710853101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:moniepoint:4988183101",
+"company": "Moniepoint",
+"title": "Staff Product Designer",
+"location": "London, United Kingdom",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4988183101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -986,30 +986,6 @@
 "remote": null,
 "posted": "2026-10-15",
 "url": "https://www.okta.com/company/careers/opportunity/8281894?gh_jid=8281894",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:getyourguide:8278320",
-"company": "GetYourGuide",
-"title": "Senior Design Systems Manager",
-"location": "Berlin",
-"remote": null,
-"posted": "2026-10-13",
-"url": "https://job-boards.greenhouse.io/getyourguide/jobs/8278320",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:getyourguide:7860461",
-"company": "GetYourGuide",
-"title": "Senior Product Designer (B2C)",
-"location": "Berlin",
-"remote": null,
-"posted": "2026-10-12",
-"url": "https://job-boards.greenhouse.io/getyourguide/jobs/7860461",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -1099,18 +1075,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:intercom:7862050",
-"company": "Intercom",
-"title": "Senior Product Designer",
-"location": "Dublin, Ireland",
-"remote": null,
-"posted": "2026-09-16",
-"url": "https://job-boards.greenhouse.io/intercom/jobs/7862050",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:intercom:7861866",
 "company": "Intercom",
 "title": "Senior Product Designer",
@@ -1118,6 +1082,18 @@
 "remote": null,
 "posted": "2026-09-16",
 "url": "https://job-boards.greenhouse.io/intercom/jobs/7861866",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:intercom:7862050",
+"company": "Intercom",
+"title": "Senior Product Designer",
+"location": "Dublin, Ireland",
+"remote": null,
+"posted": "2026-09-16",
+"url": "https://job-boards.greenhouse.io/intercom/jobs/7862050",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"

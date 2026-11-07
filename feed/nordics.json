@@ -1,8 +1,20 @@
 {
-"generated": "2026-11-06T20:27:50Z",
+"generated": "2026-11-07T08:49:53Z",
 "region": "Nordics",
-"count": 63,
+"count": 60,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31699733",
+"company": "Vibrant World AB",
+"title": "UX/UI-Designer",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-06",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31699733",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-07"
+},
 {
 "id": "platsbanken:Platsbanken:31696431",
 "company": "Tata Technologies Nordics AB",
@@ -64,18 +76,6 @@
 "firstSeen": "2026-11-05"
 },
 {
-"id": "platsbanken:Platsbanken:31690033",
-"company": "Soros Consulting AB",
-"title": "Product Designer, Stockholm",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-11-05",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31690033",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-05"
-},
-{
 "id": "platsbanken:Platsbanken:31692408",
 "company": "Ericsson AB",
 "title": "HW accelerator IP system designer",
@@ -121,7 +121,7 @@
 "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Brighton-United-Kingdom/Senior-Product-Designer_JOBREQ-2616581",
 "source": "workday",
 "region": "Nordics",
-"postedText": "Posted 2 Days Ago",
+"postedText": "Posted 3 Days Ago",
 "firstSeen": "2026-11-04"
 },
 {
@@ -144,18 +144,6 @@
 "remote": null,
 "posted": "2026-11-03",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31679949",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-03"
-},
-{
-"id": "platsbanken:Platsbanken:31677135",
-"company": "Soros Consulting AB",
-"title": "UX-designer - Malmö",
-"location": "Malmö",
-"remote": null,
-"posted": "2026-11-03",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31677135",
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-11-03"
@@ -194,7 +182,7 @@
 "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Singapore/XMLNAME--Req----Product-Designer--2D_JOBREQ-2616662",
 "source": "workday",
 "region": "Nordics",
-"postedText": "Posted 4 Days Ago",
+"postedText": "Posted 5 Days Ago",
 "firstSeen": "2026-11-02"
 },
 {
@@ -438,18 +426,6 @@
 "firstSeen": "2026-10-20"
 },
 {
-"id": "greenhouse:oura:4452942009",
-"company": "Oura",
-"title": "Staff Antenna Design Engineer",
-"location": "On-site - Oulu, North Ostrobothnia",
-"remote": null,
-"posted": "2026-11-02",
-"url": "https://job-boards.greenhouse.io/oura/jobs/4452942009",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:smartlyio:6208020004",
 "company": "Smartly",
 "title": "Lead Product Designer",
@@ -510,18 +486,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:alphasense:8531119002",
-"company": "AlphaSense",
-"title": "Senior/Staff Product Designer",
-"location": "Remote - United Kingdom",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:alphasense:8530664002",
 "company": "AlphaSense",
 "title": "Senior/Staff Product Designer",
@@ -529,6 +493,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:alphasense:8531119002",
+"company": "AlphaSense",
+"title": "Senior/Staff Product Designer",
+"location": "Remote - United Kingdom",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
@@ -614,18 +590,6 @@
 "posted": "2026-10-07",
 "url": "https://job-boards.greenhouse.io/oura/jobs/4434504009",
 "source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "platsbanken:Platsbanken:31565483",
-"company": "Cubane Solutions AB",
-"title": "UX Designer",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-10-07",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31565483",
-"source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
 },

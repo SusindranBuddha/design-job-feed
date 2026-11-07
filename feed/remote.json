@@ -1,8 +1,68 @@
 {
-"generated": "2026-11-07T08:49:53Z",
+"generated": "2026-11-07T18:49:10Z",
 "region": "Remote",
-"count": 192,
+"count": 197,
 "jobs": [
+{
+"id": "ashby:clera:0e1e4d9e-16aa-4197-8a8e-efcb777f6253",
+"company": "Clera",
+"title": "Senior Product Designer",
+"location": "Berlin",
+"remote": "OnSite",
+"posted": "2026-11-07",
+"url": "https://jobs.ashbyhq.com/Clera/0e1e4d9e-16aa-4197-8a8e-efcb777f6253",
+"source": "ashby",
+"region": "Remote",
+"firstSeen": "2026-11-07"
+},
+{
+"id": "jobicy:Jobicy:159605",
+"company": "Canonical",
+"title": "Visual Designer",
+"location": "EMEA",
+"remote": "remote",
+"posted": "2026-11-07",
+"url": "https://jobicy.com/jobs/159605-visual-designer",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-07"
+},
+{
+"id": "jobicy:Jobicy:159604",
+"company": "Canonical",
+"title": "UX Designer - Infrastructure",
+"location": "EMEA",
+"remote": "remote",
+"posted": "2026-11-07",
+"url": "https://jobicy.com/jobs/159604-ux-designer-infrastructure",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-07"
+},
+{
+"id": "jobicy:Jobicy:159602",
+"company": "Canonical",
+"title": "UX Designer - Design systems",
+"location": "EMEA",
+"remote": "remote",
+"posted": "2026-11-07",
+"url": "https://jobicy.com/jobs/159602-ux-designer-design-systems",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-07"
+},
+{
+"id": "jobicy:Jobicy:159592",
+"company": "Canonical",
+"title": "Staff Design Engineer - Cloud Networking UX",
+"location": "EMEA",
+"remote": "remote",
+"posted": "2026-11-07",
+"url": "https://jobicy.com/jobs/159592-staff-design-engineer-cloud-networking-ux",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-07"
+},
 {
 "id": "jobicy:Jobicy:154773",
 "company": "DuckDuckGo",
@@ -23,6 +83,102 @@
 "remote": "remote",
 "posted": "2026-11-06",
 "url": "https://himalayas.app/companies/highlevel/jobs/staff-product-designer-6800743082?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-07"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/pavago/jobs/ux-ui-designer-7453639504",
+"company": "Pavago",
+"title": "UX/UI Designer",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-11-01",
+"url": "https://himalayas.app/companies/pavago/jobs/ux-ui-designer-7453639504?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-07"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/cloudcure/jobs/ui-ux-designer-part-time-contractor-4008913315",
+"company": "CloudCure",
+"title": "UI/UX Designer (Part-Time Contractor)",
+"location": "Canada",
+"remote": "remote",
+"posted": "2026-10-31",
+"url": "https://himalayas.app/companies/cloudcure/jobs/ui-ux-designer-part-time-contractor-4008913315?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-07"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/pavago/jobs/ux-ui-designer-2370830894",
+"company": "Pavago",
+"title": "UX/UI Designer",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-10-30",
+"url": "https://himalayas.app/companies/pavago/jobs/ux-ui-designer-2370830894?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-07"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/pavago/jobs/ux-ui-designer-8092600539",
+"company": "Pavago",
+"title": "UX/UI Designer",
+"location": "South Africa",
+"remote": "remote",
+"posted": "2026-10-17",
+"url": "https://himalayas.app/companies/pavago/jobs/ux-ui-designer-8092600539?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-07"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/userwise-services/jobs/lead-ui-ux-designer-mobile-casual-f2p-games",
+"company": "UserWise Services",
+"title": "Lead UI/UX Designer - Mobile Casual F2P Games",
+"location": "Serbia",
+"remote": "remote",
+"posted": "2026-10-05",
+"url": "https://himalayas.app/companies/userwise-services/jobs/lead-ui-ux-designer-mobile-casual-f2p-games?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-07"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/pavago/jobs/ux-ui-designer-6863424311",
+"company": "Pavago",
+"title": "UX/UI Designer",
+"location": "Philippines",
+"remote": "remote",
+"posted": "2026-10-02",
+"url": "https://himalayas.app/companies/pavago/jobs/ux-ui-designer-6863424311?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-07"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/gravity-global/jobs/ux-designer",
+"company": "Gravity Global",
+"title": "UX Designer",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-10-02",
+"url": "https://himalayas.app/companies/gravity-global/jobs/ux-designer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-07"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/cricut/jobs/visual-design-lead-ux-8339940428",
+"company": "Cricut",
+"title": "Visual Design Lead, UX",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-09-15",
+"url": "https://himalayas.app/companies/cricut/jobs/visual-design-lead-ux-8339940428?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-07"
@@ -292,14 +448,26 @@
 "firstSeen": "2026-11-04"
 },
 {
-"id": "jobicy:Jobicy:158871",
-"company": "Tremendous",
-"title": "Senior Product Designer, Foundations",
-"location": "LATAM, Canada, USA",
+"id": "himalayas:Himalayas:https://himalayas.app/companies/elation-health/jobs/staff-product-designer-7554171075",
+"company": "Elation Health",
+"title": "Staff Product Designer",
+"location": "Canada, United States",
 "remote": "remote",
-"posted": "2026-11-04",
-"url": "https://jobicy.com/jobs/158871-senior-product-designer-foundations",
-"source": "Jobicy",
+"posted": "2026-11-03",
+"url": "https://himalayas.app/companies/elation-health/jobs/staff-product-designer-7554171075?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-04"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/fluxon/jobs/senior-product-designer-6658565977",
+"company": "Fluxon",
+"title": "Senior Product Designer",
+"location": "Romania",
+"remote": "remote",
+"posted": "2026-10-28",
+"url": "https://himalayas.app/companies/fluxon/jobs/senior-product-designer-6658565977?utm_source=api",
+"source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-04"
 },
@@ -446,18 +614,6 @@
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-01"
-},
-{
-"id": "ashby:clera:9c739a05-cc20-418a-8bac-77f7cb12b2aa",
-"company": "Clera",
-"title": "Founding Product Designer",
-"location": "San Francisco",
-"remote": "OnSite",
-"posted": "2026-10-31",
-"url": "https://jobs.ashbyhq.com/Clera/9c739a05-cc20-418a-8bac-77f7cb12b2aa",
-"source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-10-31"
 },
 {
 "id": "himalayas:Himalayas:https://himalayas.app/companies/consensys-io/jobs/lead-product-designer",
@@ -1000,18 +1156,6 @@
 "firstSeen": "2026-10-18"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/codepath/jobs/senior-product-designer-1565625775",
-"company": "CodePath",
-"title": "Senior Product Designer",
-"location": "Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antarctica, Antigua and Barbuda, Argentina, Armenia, Aruba, Austria, Azerbaijan, Bahamas, Bahrain, Bar",
-"remote": "remote",
-"posted": "2026-11-01",
-"url": "https://himalayas.app/companies/codepath/jobs/senior-product-designer-1565625775?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/medium/jobs/staff-product-designer",
 "company": "Medium",
 "title": "Staff Product Designer",
@@ -1019,6 +1163,18 @@
 "remote": "remote",
 "posted": "2026-11-01",
 "url": "https://himalayas.app/companies/medium/jobs/staff-product-designer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/codepath/jobs/senior-product-designer-1565625775",
+"company": "CodePath",
+"title": "Senior Product Designer",
+"location": "Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antarctica, Antigua and Barbuda, Argentina, Armenia, Aruba, Austria, Azerbaijan, Bahamas, Bahrain, Bar",
+"remote": "remote",
+"posted": "2026-11-01",
+"url": "https://himalayas.app/companies/codepath/jobs/senior-product-designer-1565625775?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"
@@ -1043,18 +1199,6 @@
 "remote": "remote",
 "posted": "2026-11-01",
 "url": "https://himalayas.app/companies/bunny-net/jobs/ux-product-design-lead?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/pavago/jobs/product-designer-ux-ui-design-systems-4218924047",
-"company": "Pavago",
-"title": "Product Designer - UX/UI & Design Systems",
-"location": "Argentina, Brazil, Colombia, Mexico",
-"remote": "remote",
-"posted": "2026-11-01",
-"url": "https://himalayas.app/companies/pavago/jobs/product-designer-ux-ui-design-systems-4218924047?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"
@@ -1204,18 +1348,6 @@
 "firstSeen": "2026-10-18"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/freebird/jobs/senior-ux-ui-designer",
-"company": "Freebird",
-"title": "Senior UX/UI Designer",
-"location": "United Kingdom",
-"remote": "remote",
-"posted": "2026-10-18",
-"url": "https://himalayas.app/companies/freebird/jobs/senior-ux-ui-designer?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/filevine/jobs/senior-product-designer-ai",
 "company": "Filevine",
 "title": "Senior Product Designer - AI",
@@ -1247,18 +1379,6 @@
 "remote": "remote",
 "posted": "2026-10-14",
 "url": "https://himalayas.app/companies/imprint/jobs/staff-product-designer?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/codekeeper/jobs/ui-ux-designer-6967633760",
-"company": "Codekeeper",
-"title": "UI/UX Designer",
-"location": "Philippines",
-"remote": "remote",
-"posted": "2026-10-14",
-"url": "https://himalayas.app/companies/codekeeper/jobs/ui-ux-designer-6967633760?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"
@@ -1547,18 +1667,6 @@
 "remote": "remote",
 "posted": "2026-11-01",
 "url": "https://himalayas.app/companies/customer-io/jobs/staff-product-designer?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/highlevel/jobs/staff-product-designer",
-"company": "HighLevel",
-"title": "Staff Product Designer",
-"location": "India, United States",
-"remote": "remote",
-"posted": "2026-11-01",
-"url": "https://himalayas.app/companies/highlevel/jobs/staff-product-designer?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-17"
@@ -2092,30 +2200,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/ux-woman/jobs/healthcare-to-ux-design-career-changer-apprenticeship",
-"company": "UX Woman",
-"title": "Healthcare to UX Design Career Changer Apprenticeship",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-09-08",
-"url": "https://himalayas.app/companies/ux-woman/jobs/healthcare-to-ux-design-career-changer-apprenticeship?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/ux-woman/jobs/entry-level-ux-design-apprenticeship-8120143837",
-"company": "UX Woman",
-"title": "Entry Level UX Design Apprenticeship",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-09-08",
-"url": "https://himalayas.app/companies/ux-woman/jobs/entry-level-ux-design-apprenticeship-8120143837?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/ux-woman/jobs/education-to-ux-design-career-changer-apprenticeship",
 "company": "UX Woman",
 "title": "Education to UX Design Career Changer Apprenticeship",
@@ -2123,30 +2207,6 @@
 "remote": "remote",
 "posted": "2026-09-08",
 "url": "https://himalayas.app/companies/ux-woman/jobs/education-to-ux-design-career-changer-apprenticeship?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/ux-woman/jobs/sales-to-ux-design-career-changer-apprenticeship",
-"company": "UX Woman",
-"title": "Sales to UX Design Career Changer Apprenticeship",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-09-08",
-"url": "https://himalayas.app/companies/ux-woman/jobs/sales-to-ux-design-career-changer-apprenticeship?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/ux-woman/jobs/marketing-to-ux-design-career-changer-apprenticeship",
-"company": "UX Woman",
-"title": "Marketing to UX Design Career Changer Apprenticeship",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-09-08",
-"url": "https://himalayas.app/companies/ux-woman/jobs/marketing-to-ux-design-career-changer-apprenticeship?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-17"

@@ -1,8 +1,20 @@
 {
-"generated": "2026-11-07T08:49:53Z",
+"generated": "2026-11-07T18:49:10Z",
 "region": "Nordics",
-"count": 60,
+"count": 61,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31700109",
+"company": "Hykmann Global Business Solutions AB",
+"title": "Mechanical Design Engineer BEV Chassis Integration",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-07",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31700109",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-07"
+},
 {
 "id": "platsbanken:Platsbanken:31699733",
 "company": "Vibrant World AB",
@@ -486,18 +498,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:alphasense:8530664002",
-"company": "AlphaSense",
-"title": "Senior/Staff Product Designer",
-"location": "New York, New York, United States; Remote - United States",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:alphasense:8531119002",
 "company": "AlphaSense",
 "title": "Senior/Staff Product Designer",
@@ -505,6 +505,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:alphasense:8530664002",
+"company": "AlphaSense",
+"title": "Senior/Staff Product Designer",
+"location": "New York, New York, United States; Remote - United States",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"

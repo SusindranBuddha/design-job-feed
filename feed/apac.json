@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-07T08:49:53Z",
+"generated": "2026-11-07T18:49:10Z",
 "region": "APAC",
-"count": 78,
+"count": 74,
 "jobs": [
 {
 "id": "mcf:MyCareersFuture:1e00fe765e173140d7692857c9b48ffd",
@@ -160,32 +160,6 @@
 "firstSeen": "2026-11-04"
 },
 {
-"id": "mcf:MyCareersFuture:d7aec43648e8b4dcd518ad379e5345d1",
-"company": "ISLANDWIDE RECRUITMENT PTE. LTD.",
-"title": "Product Manager & Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-11-03",
-"url": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/product-manager-designer-empress-porridge-d7aec43648e8b4dcd518ad379e5345d1",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 2000-3000 /Monthly",
-"firstSeen": "2026-11-03"
-},
-{
-"id": "mcf:MyCareersFuture:1c17e501a9caa47d782fc5d13e8fdf65",
-"company": "AQUILA NOVA PRIVATE LIMITED",
-"title": "Product & Solutions Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-11-03",
-"url": "https://www.mycareersfuture.gov.sg/job/design/product-solutions-designer-aquila-nova-1c17e501a9caa47d782fc5d13e8fdf65",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 5600-8000 /Monthly",
-"firstSeen": "2026-11-03"
-},
-{
 "id": "mcf:MyCareersFuture:fa39ac257a237c79dd831077c5b04d22",
 "company": "WEBSPARKS PTE. LTD.",
 "title": "UX Designer with 5 years experience (Contract)",
@@ -235,6 +209,19 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 8000-16000 /Monthly",
+"firstSeen": "2026-11-03"
+},
+{
+"id": "mcf:MyCareersFuture:1c17e501a9caa47d782fc5d13e8fdf65",
+"company": "AQUILA NOVA PRIVATE LIMITED",
+"title": "Product & Solutions Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-03",
+"url": "https://www.mycareersfuture.gov.sg/job/design/product-solutions-designer-aquila-nova-1c17e501a9caa47d782fc5d13e8fdf65",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 5600-8000 /Monthly",
 "firstSeen": "2026-11-03"
 },
 {
@@ -380,19 +367,6 @@
 "firstSeen": "2026-10-29"
 },
 {
-"id": "workday:cba:/job/Sydney-CBD-Area/Principal-Product-Design---Talent-Community_REQ267815",
-"company": "Commonwealth Bank",
-"title": "Principal Product Design- Talent Community",
-"location": "2 Locations",
-"remote": null,
-"posted": null,
-"url": "https://cba.wd3.myworkdayjobs.com/CommBank_Careers/job/Sydney-CBD-Area/Principal-Product-Design---Talent-Community_REQ267815",
-"source": "workday",
-"region": "APAC",
-"postedText": "Posted 10 Days Ago",
-"firstSeen": "2026-10-28"
-},
-{
 "id": "mcf:MyCareersFuture:64f9ef5973d3b7f825ec247db512d455",
 "company": "CYBERBOT (S) PTE. LTD.",
 "title": "UI/UX Designer (Mobile Applications)",
@@ -456,19 +430,6 @@
 "region": "APAC",
 "salary": "SGD 5000-6800 /Monthly",
 "firstSeen": "2026-10-26"
-},
-{
-"id": "mcf:MyCareersFuture:30e240fe43348379dcac1fdf6396f183",
-"company": "ISERIOUS PTE. LTD.",
-"title": "UI/UX Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-24",
-"url": "https://www.mycareersfuture.gov.sg/job/design/uiux-designer-iserious-30e240fe43348379dcac1fdf6396f183",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 3000-4800 /Monthly",
-"firstSeen": "2026-10-24"
 },
 {
 "id": "mcf:MyCareersFuture:ebdb5be4273dfe68a50ebc1ee26c41b4",
@@ -849,19 +810,6 @@
 "url": "https://jobs.ashbyhq.com/airwallex/5c2b3a16-52d3-4c3e-b3b1-c6deab07911f",
 "source": "ashby",
 "region": "APAC",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:de353a2319ccb0914210881b886bd9d0",
-"company": "SCIENTEC CONSULTING PTE. LTD.",
-"title": "UX Designer (service design) - SPVL",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-08",
-"url": "https://www.mycareersfuture.gov.sg/job/design/ux-designer-spvl-scientec-consulting-de353a2319ccb0914210881b886bd9d0",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 5500-8500 /Monthly",
 "firstSeen": "2026-10-17"
 },
 {

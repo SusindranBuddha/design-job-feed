@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-07T08:49:53Z",
+"generated": "2026-11-07T18:49:10Z",
 "region": "Europe",
-"count": 97,
+"count": 92,
 "jobs": [
 {
 "id": "arbeitnow:Arbeitnow:remote-senior-design-engineer-deel-395604",
@@ -23,6 +23,30 @@
 "remote": null,
 "posted": "2026-11-07",
 "url": "https://www.arbeitnow.com/jobs/companies/wundergraph/senior-product-designer-emea-frankfurt-342999",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-07"
+},
+{
+"id": "arbeitnow:Arbeitnow:staff-product-designer-london-227941",
+"company": "Carwow",
+"title": "Staff Product Designer",
+"location": "London",
+"remote": null,
+"posted": "2026-11-07",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/carwow/staff-product-designer-london-227941",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-07"
+},
+{
+"id": "arbeitnow:Arbeitnow:ux-ui-designer-saint-denis-468063",
+"company": "Veepee",
+"title": "UX/UI Designer M/W/X",
+"location": "Saint-Denis",
+"remote": null,
+"posted": "2026-11-07",
+"url": "https://www.arbeitnow.fr/jobs/companies/veepee/ux-ui-designer-saint-denis-468063",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-07"
@@ -64,18 +88,6 @@
 "firstSeen": "2026-11-06"
 },
 {
-"id": "arbeitnow:Arbeitnow:designer-freelance-berlin-98277",
-"company": "L1VE GmbH",
-"title": "Designer (Freelance, m/f/d)",
-"location": "Berlin",
-"remote": null,
-"posted": "2026-11-06",
-"url": "https://www.arbeitnow.com/jobs/companies/l1ve-gmbh/designer-freelance-berlin-98277",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-06"
-},
-{
 "id": "arbeitnow:Arbeitnow:pcb-design-engineer-80-100-ruthi-105235",
 "company": "Veratron AG",
 "title": "PCB DESIGN ENGINEER 80-100% (m/f/d)",
@@ -100,6 +112,18 @@
 "firstSeen": "2026-11-06"
 },
 {
+"id": "arbeitnow:Arbeitnow:designer-freelance-berlin-98277",
+"company": "L1VE GmbH",
+"title": "Designer (Freelance, m/f/d)",
+"location": "Berlin",
+"remote": null,
+"posted": "2026-11-06",
+"url": "https://www.arbeitnow.com/jobs/companies/l1ve-gmbh/designer-freelance-berlin-98277",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-06"
+},
+{
 "id": "arbeitnow:Arbeitnow:senior-product-designer-knowledge-graph-germany-remote-123829",
 "company": "grafanalabs",
 "title": "Senior Product Designer, Knowledge Graph | Germany | Remote",
@@ -107,90 +131,6 @@
 "remote": null,
 "posted": "2026-11-06",
 "url": "https://www.arbeitnow.com/jobs/companies/grafanalabs/senior-product-designer-knowledge-graph-germany-remote-123829",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-06"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-product-designer-berlin-336426",
-"company": "1KOMMA5˚",
-"title": "(Senior) Product Designer (m/f/d)",
-"location": "Berlin",
-"remote": "remote",
-"posted": "2026-11-06",
-"url": "https://www.arbeitnow.com/jobs/companies/1komma50/senior-product-designer-berlin-336426",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-06"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-product-designer-london-uk-287117",
-"company": "eucalyptus",
-"title": "Senior Product Designer, London, UK",
-"location": "",
-"remote": null,
-"posted": "2026-11-06",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/eucalyptus/senior-product-designer-london-uk-287117",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-06"
-},
-{
-"id": "arbeitnow:Arbeitnow:product-design-engineer-berlin-303738",
-"company": "Agent F GmbH",
-"title": "Product Design Engineer",
-"location": "Berlin",
-"remote": null,
-"posted": "2026-11-06",
-"url": "https://www.arbeitnow.com/jobs/companies/agent-f-gmbh/product-design-engineer-berlin-303738",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-06"
-},
-{
-"id": "arbeitnow:Arbeitnow:remote-endear-product-designer-79201",
-"company": "Eleve Talent",
-"title": "Endear - Product Designer",
-"location": "Remote",
-"remote": "remote",
-"posted": "2026-11-06",
-"url": "https://www.arbeitnow.com/jobs/companies/eleve-talent/remote-endear-product-designer-79201",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-06"
-},
-{
-"id": "arbeitnow:Arbeitnow:staff-product-designer-washington-414536",
-"company": "Samsara",
-"title": "Staff Product Designer",
-"location": "Washington, England, United Kingdom",
-"remote": null,
-"posted": "2026-11-06",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/samsara/staff-product-designer-washington-414536",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-06"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-product-designer-knowledge-graph-united-kingdom-remote-74648",
-"company": "grafanalabs",
-"title": "Senior Product Designer, Knowledge Graph | United Kingdom | Remote",
-"location": "",
-"remote": null,
-"posted": "2026-11-06",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/senior-product-designer-knowledge-graph-united-kingdom-remote-74648",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-06"
-},
-{
-"id": "arbeitnow:Arbeitnow:remote-product-designer-78930",
-"company": "360Learning",
-"title": "Product Designer",
-"location": "Paris, Remote",
-"remote": null,
-"posted": "2026-11-06",
-"url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-product-designer-78930",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-06"
@@ -847,13 +787,13 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4987958101",
+"id": "greenhouse:moniepoint:4987960101",
 "company": "Moniepoint",
 "title": "Product Design Manager - Design System",
-"location": "London, United Kingdom",
+"location": "Remote, Spain",
 "remote": null,
 "posted": "2026-10-19",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987958101",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987960101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -871,13 +811,13 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4987960101",
+"id": "greenhouse:moniepoint:4987958101",
 "company": "Moniepoint",
 "title": "Product Design Manager - Design System",
-"location": "Remote, Spain",
+"location": "London, United Kingdom",
 "remote": null,
 "posted": "2026-10-19",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987960101",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987958101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -919,18 +859,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4710853101",
-"company": "Moniepoint",
-"title": "Staff Product Designer",
-"location": "Remote, Poland",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710853101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:moniepoint:4988183101",
 "company": "Moniepoint",
 "title": "Staff Product Designer",
@@ -938,6 +866,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4988183101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:moniepoint:4710853101",
+"company": "Moniepoint",
+"title": "Staff Product Designer",
+"location": "Remote, Poland",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710853101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -1075,18 +1015,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:intercom:7861866",
-"company": "Intercom",
-"title": "Senior Product Designer",
-"location": "London, England",
-"remote": null,
-"posted": "2026-09-16",
-"url": "https://job-boards.greenhouse.io/intercom/jobs/7861866",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:intercom:7862050",
 "company": "Intercom",
 "title": "Senior Product Designer",
@@ -1094,6 +1022,18 @@
 "remote": null,
 "posted": "2026-09-16",
 "url": "https://job-boards.greenhouse.io/intercom/jobs/7862050",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:intercom:7861866",
+"company": "Intercom",
+"title": "Senior Product Designer",
+"location": "London, England",
+"remote": null,
+"posted": "2026-09-16",
+"url": "https://job-boards.greenhouse.io/intercom/jobs/7861866",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"

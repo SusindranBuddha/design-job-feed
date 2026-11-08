@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-08T09:02:12Z",
+"generated": "2026-11-08T18:51:25Z",
 "region": "APAC",
-"count": 74,
+"count": 73,
 "jobs": [
 {
 "id": "mcf:MyCareersFuture:1e00fe765e173140d7692857c9b48ffd",
@@ -785,19 +785,6 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 5000-7000 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:0f027e57f0313119d1f962d4ef9ba347",
-"company": "WE ARE WIREFRAME PRIVATE LIMITED",
-"title": "UI/UX Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-09",
-"url": "https://www.mycareersfuture.gov.sg/job/design/uiux-designer-wireframe-0f027e57f0313119d1f962d4ef9ba347",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 2500-4000 /Monthly",
 "firstSeen": "2026-10-17"
 },
 {

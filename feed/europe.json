@@ -1,5 +1,5 @@
 {
-"generated": "2026-11-08T09:02:12Z",
+"generated": "2026-11-08T18:51:25Z",
 "region": "Europe",
 "count": 94,
 "jobs": [
@@ -11,6 +11,18 @@
 "remote": null,
 "posted": "2026-11-08",
 "url": "https://www.arbeitnow.com/jobs/companies/aios-yc-w20s21/web-designer-at-aios-remote-75k-150k-yr-including-equity-berlin-388201",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-08"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-paris-464090",
+"company": "Deliverect",
+"title": "Senior Product Designer",
+"location": "Paris",
+"remote": null,
+"posted": "2026-11-08",
+"url": "https://www.arbeitnow.fr/jobs/companies/deliverect/senior-product-designer-paris-464090",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-08"
@@ -112,18 +124,6 @@
 "firstSeen": "2026-11-07"
 },
 {
-"id": "arbeitnow:Arbeitnow:pcb-design-engineer-80-100-ruthi-105235",
-"company": "Veratron AG",
-"title": "PCB DESIGN ENGINEER 80-100% (m/f/d)",
-"location": "Rüthi, Sankt Gallen, Schweiz",
-"remote": null,
-"posted": "2026-11-06",
-"url": "https://www.arbeitnow.ch/jobs/companies/veratron-ag/pcb-design-engineer-80-100-ruthi-105235",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-06"
-},
-{
 "id": "arbeitnow:Arbeitnow:senior-ux-designer-amsterdam-229420",
 "company": "SkinVision",
 "title": "Senior UX Designer",
@@ -136,6 +136,18 @@
 "firstSeen": "2026-11-06"
 },
 {
+"id": "arbeitnow:Arbeitnow:pcb-design-engineer-80-100-ruthi-105235",
+"company": "Veratron AG",
+"title": "PCB DESIGN ENGINEER 80-100% (m/f/d)",
+"location": "Rüthi, Sankt Gallen, Schweiz",
+"remote": null,
+"posted": "2026-11-06",
+"url": "https://www.arbeitnow.ch/jobs/companies/veratron-ag/pcb-design-engineer-80-100-ruthi-105235",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-06"
+},
+{
 "id": "arbeitnow:Arbeitnow:senior-structures-design-engineer-launch-vehicle-structures-parsdorf-bavaria-195818",
 "company": "isaraerospace",
 "title": "Senior Structures Design Engineer, Launch Vehicle Structures (m/f/d)",
@@ -143,18 +155,6 @@
 "remote": null,
 "posted": "2026-11-06",
 "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-structures-design-engineer-launch-vehicle-structures-parsdorf-bavaria-195818",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-06"
-},
-{
-"id": "arbeitnow:Arbeitnow:designer-freelance-berlin-98277",
-"company": "L1VE GmbH",
-"title": "Designer (Freelance, m/f/d)",
-"location": "Berlin",
-"remote": null,
-"posted": "2026-11-06",
-"url": "https://www.arbeitnow.com/jobs/companies/l1ve-gmbh/designer-freelance-berlin-98277",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-06"

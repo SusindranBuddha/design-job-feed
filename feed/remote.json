@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-07T18:49:10Z",
+"generated": "2026-11-08T09:02:12Z",
 "region": "Remote",
-"count": 197,
+"count": 192,
 "jobs": [
 {
 "id": "ashby:clera:0e1e4d9e-16aa-4197-8a8e-efcb777f6253",
@@ -340,42 +340,6 @@
 "firstSeen": "2026-11-05"
 },
 {
-"id": "jobicy:Jobicy:159092",
-"company": "Mozilla",
-"title": "Creative Designer (Fixed Term Contract)",
-"location": "UK",
-"remote": "remote",
-"posted": "2026-11-05",
-"url": "https://jobicy.com/jobs/159092-creative-designer-fixed-term-contract",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-11-05"
-},
-{
-"id": "jobicy:Jobicy:159088",
-"company": "Stripe",
-"title": "Designer, Web Presence & Platform",
-"location": "USA",
-"remote": "remote",
-"posted": "2026-11-05",
-"url": "https://jobicy.com/jobs/159088-designer-web-presence-platform",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-11-05"
-},
-{
-"id": "jobicy:Jobicy:154654",
-"company": "RevenueCat",
-"title": "Senior CRO Designer, Paywalls and Funnels",
-"location": "APAC, EMEA, Canada, USA",
-"remote": "remote",
-"posted": "2026-11-05",
-"url": "https://jobicy.com/jobs/154654-senior-cro-designer-paywalls-and-funnels",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-11-05"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/olxgroup/jobs/senior-product-designer",
 "company": "OLX",
 "title": "Senior Product Designer",
@@ -420,30 +384,6 @@
 "posted": "2026-11-04",
 "url": "https://jobs.ashbyhq.com/Clera/357df520-2ec9-48b8-9065-390188ccc04e",
 "source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-11-04"
-},
-{
-"id": "jobicy:Jobicy:159016",
-"company": "NetBox Labs",
-"title": "Senior Product Designer",
-"location": "USA",
-"remote": "remote",
-"posted": "2026-11-04",
-"url": "https://jobicy.com/jobs/159016-senior-product-designer-17",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-11-04"
-},
-{
-"id": "jobicy:Jobicy:158968",
-"company": "Customer.io",
-"title": "Principal Product Designer",
-"location": "LATAM, Canada, USA",
-"remote": "remote",
-"posted": "2026-11-04",
-"url": "https://jobicy.com/jobs/158968-principal-product-designer-2",
-"source": "Jobicy",
 "region": "Remote",
 "firstSeen": "2026-11-04"
 },

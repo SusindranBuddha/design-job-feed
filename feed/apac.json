@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-09T09:53:26Z",
+"generated": "2026-11-09T23:27:28Z",
 "region": "APAC",
-"count": 73,
+"count": 75,
 "jobs": [
 {
 "id": "mcf:MyCareersFuture:1e00fe765e173140d7692857c9b48ffd",
@@ -263,19 +263,6 @@
 "firstSeen": "2026-11-02"
 },
 {
-"id": "workday:cba:/job/Sydney-CBD-Area/Senior-Product-Designer_REQ267734",
-"company": "Commonwealth Bank",
-"title": "Senior Product Designer",
-"location": "Sydney CBD Area",
-"remote": null,
-"posted": null,
-"url": "https://cba.wd3.myworkdayjobs.com/CommBank_Careers/job/Sydney-CBD-Area/Senior-Product-Designer_REQ267734",
-"source": "workday",
-"region": "APAC",
-"postedText": "Posted 6 Days Ago",
-"firstSeen": "2026-11-02"
-},
-{
 "id": "mcf:MyCareersFuture:0bf06bd76b6637d346306d103cb1279a",
 "company": "HELIUS TECHNOLOGIES PTE. LTD.",
 "title": "UX/UI Product Designer",
@@ -403,19 +390,6 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 10000-11500 /Monthly",
-"firstSeen": "2026-10-26"
-},
-{
-"id": "mcf:MyCareersFuture:3b6242a98ba499fa48ab8c8f08d582b2",
-"company": "GRABTAXI HOLDINGS PTE. LTD.",
-"title": "Senior Product Designer, Fulfilment",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-26",
-"url": "https://www.mycareersfuture.gov.sg/job/design/senior-product-designer-fulfilment-grabtaxi-holdings-3b6242a98ba499fa48ab8c8f08d582b2",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 8600-12500 /Monthly",
 "firstSeen": "2026-10-26"
 },
 {
@@ -722,6 +696,58 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 6000-9000 /Monthly",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "mcf:MyCareersFuture:f09afe983590df9f06e69df537c9a464",
+"company": "ACTIVATE INTERACTIVE PTE LTD",
+"title": "Experience & Interface Designer - A26398",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://www.mycareersfuture.gov.sg/job/design/experience-interface-designer-a26398-activate-interactive-f09afe983590df9f06e69df537c9a464",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 7000-8000 /Monthly",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "mcf:MyCareersFuture:6a8d34ed4cd68d7f91d9aea61d55bd56",
+"company": "TALENTSIS PTE. LTD.",
+"title": "UIUX/Product Senior/Designer [Figma]",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://www.mycareersfuture.gov.sg/job/engineering/uiuxproduct-seniordesigner-figma-talentsis-6a8d34ed4cd68d7f91d9aea61d55bd56",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 6000-6500 /Monthly",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "mcf:MyCareersFuture:2f3db7951142390d97d64169a10bc2d6",
+"company": "TALENTSIS PTE. LTD.",
+"title": "UIUX Senior/Designer [Figma]",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://www.mycareersfuture.gov.sg/job/engineering/uiux-seniordesigner-figma-talentsis-2f3db7951142390d97d64169a10bc2d6",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 5500-6500 /Monthly",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "mcf:MyCareersFuture:96b75ea1051f1136da5e0c0d71bf06ca",
+"company": "TESTING INSPECTION & SOLUTION PTE. LTD.",
+"title": "SENIOR / DESIGN ENGINEER, INSTRUMENTATION",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://www.mycareersfuture.gov.sg/job/engineering/senior-design-engineer-instrumentation-testing-inspection-solution-96b75ea1051f1136da5e0c0d71bf06ca",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 3300-6600 /Monthly",
 "firstSeen": "2026-10-17"
 },
 {

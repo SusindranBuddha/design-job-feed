@@ -1,8 +1,56 @@
 {
-"generated": "2026-11-09T09:53:26Z",
+"generated": "2026-11-09T23:27:28Z",
 "region": "Nordics",
-"count": 59,
+"count": 62,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31703838",
+"company": "ABB AB",
+"title": "Innovative User Experience Designer",
+"location": "Västerås",
+"remote": null,
+"posted": "2026-11-09",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31703838",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-09"
+},
+{
+"id": "platsbanken:Platsbanken:31707175",
+"company": "Plejd AB",
+"title": "Senior Mechanical Design Engineer",
+"location": "Mölndal",
+"remote": null,
+"posted": "2026-11-09",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31707175",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-09"
+},
+{
+"id": "platsbanken:Platsbanken:31706603",
+"company": "Volvo Business Services Aktiebolag",
+"title": "Senior System Design Engineer",
+"location": "Göteborg",
+"remote": null,
+"posted": "2026-11-09",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31706603",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-09"
+},
+{
+"id": "platsbanken:Platsbanken:31705961",
+"company": "Husqvarna AB",
+"title": "Design Engineer Power Supply Units & Electrical Components",
+"location": "Jönköping",
+"remote": null,
+"posted": "2026-11-09",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31705961",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-09"
+},
 {
 "id": "platsbanken:Platsbanken:31700109",
 "company": "Hykmann Global Business Solutions AB",
@@ -474,18 +522,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:alphasense:8531119002",
-"company": "AlphaSense",
-"title": "Senior/Staff Product Designer",
-"location": "Remote - United Kingdom",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:alphasense:8530664002",
 "company": "AlphaSense",
 "title": "Senior/Staff Product Designer",
@@ -498,14 +534,14 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "platsbanken:Platsbanken:31608544",
-"company": "Försvarsmakten",
-"title": "Designer (vikariat) till Flygvapnets Experimentkontor",
-"location": "Uppsala",
+"id": "greenhouse:alphasense:8531119002",
+"company": "AlphaSense",
+"title": "Senior/Staff Product Designer",
+"location": "Remote - United Kingdom",
 "remote": null,
 "posted": "2026-10-16",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31608544",
-"source": "Platsbanken",
+"url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
+"source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
 },

@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-09T09:53:26Z",
+"generated": "2026-11-09T23:27:28Z",
 "region": "Remote",
-"count": 187,
+"count": 182,
 "jobs": [
 {
 "id": "ashby:clera:27f3a6c6-fdda-4912-ba33-5bc30c67280d",
@@ -88,18 +88,6 @@
 "firstSeen": "2026-11-07"
 },
 {
-"id": "jobicy:Jobicy:154773",
-"company": "DuckDuckGo",
-"title": "Senior Product Designer, Design Systems",
-"location": "Anywhere",
-"remote": "remote",
-"posted": "2026-11-07",
-"url": "https://jobicy.com/jobs/154773-senior-product-designer-design-systems",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-11-07"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/highlevel/jobs/staff-product-designer-6800743082",
 "company": "HighLevel",
 "title": "Staff Product Designer",
@@ -156,42 +144,6 @@
 "posted": "2026-11-06",
 "url": "https://jobs.ashbyhq.com/Clera/48bdb45d-0901-483e-ba74-f50e0edeeb33",
 "source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-11-06"
-},
-{
-"id": "jobicy:Jobicy:159345",
-"company": "CodePath",
-"title": "Senior Product Designer",
-"location": "LATAM, Canada, Europe, USA",
-"remote": "remote",
-"posted": "2026-11-06",
-"url": "https://jobicy.com/jobs/159345-senior-product-designer-18",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-11-06"
-},
-{
-"id": "jobicy:Jobicy:159336",
-"company": "A Place For Mom",
-"title": "Staff Product Designer, Family Experience",
-"location": "USA",
-"remote": "remote",
-"posted": "2026-11-06",
-"url": "https://jobicy.com/jobs/159336-staff-product-designer-family-experience",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-11-06"
-},
-{
-"id": "jobicy:Jobicy:159303",
-"company": "Grafana Labs",
-"title": "Senior Product Designer, Knowledge Graph | United Kingdom | Remote",
-"location": "UK",
-"remote": "remote",
-"posted": "2026-11-06",
-"url": "https://jobicy.com/jobs/159303-senior-product-designer-knowledge-graph-united-kingdom-remote",
-"source": "Jobicy",
 "region": "Remote",
 "firstSeen": "2026-11-06"
 },
@@ -340,6 +292,18 @@
 "firstSeen": "2026-11-03"
 },
 {
+"id": "ashby:n8n:fe05c209-8069-4a88-aeba-8da23488cd30",
+"company": "n8n",
+"title": "Senior/Staff Product Designer",
+"location": "Germany; Bosnia; Norway; Estonia; Slovenia; Italy; Netherlands; Hungary; Portugal; France; Poland; Serbia; Austria; Finland; Montenegro; Slovakia; Ireland; Denm",
+"remote": "Remote",
+"posted": "2026-11-09",
+"url": "https://jobs.ashbyhq.com/n8n/fe05c209-8069-4a88-aeba-8da23488cd30",
+"source": "ashby",
+"region": "Remote",
+"firstSeen": "2026-11-02"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/sunotec-eood/jobs/senior-electrical-design-engineer-renewable-energy-systems-remote-hybrid-or",
 "company": "SUNOTEC EOOD",
 "title": "Senior Electrical Design Engineer - Renewable Energy Systems (Remote, Hybrid or",
@@ -458,18 +422,6 @@
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-01"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/consensys-io/jobs/lead-product-designer",
-"company": "Consensys",
-"title": "Lead Product Designer",
-"location": "Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antarctica, Antigua and Barbuda, Argentina, Armenia, Aruba, Austria, Azerbaijan, Bahamas, Bahrain, Bar",
-"remote": "remote",
-"posted": "2026-11-02",
-"url": "https://himalayas.app/companies/consensys-io/jobs/lead-product-designer?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-30"
 },
 {
 "id": "himalayas:Himalayas:https://himalayas.app/companies/warp/jobs/product-designer",
@@ -902,6 +854,18 @@
 "source": "We Work Remotely",
 "region": "Remote",
 "firstSeen": "2026-10-19"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/mercor/jobs/design-systems-specialist-fully-remote-upto-80-hr-5591764381",
+"company": "mercor",
+"title": "Design Systems Specialist - Fully Remote | Upto $80/hr",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-11-09",
+"url": "https://himalayas.app/companies/mercor/jobs/design-systems-specialist-fully-remote-upto-80-hr-5591764381?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
 },
 {
 "id": "himalayas:Himalayas:https://himalayas.app/companies/nearsource-technologies/jobs/ux-designer-retail-operational-systems",
@@ -1403,18 +1367,6 @@
 "remote": "remote",
 "posted": "2026-09-16",
 "url": "https://himalayas.app/companies/rockstar/jobs/product-designer-2495373180?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/mercor/jobs/design-systems-specialist-fully-remote-upto-80-hr-5591764381",
-"company": "mercor",
-"title": "Design Systems Specialist - Fully Remote | Upto $80/hr",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-09-10",
-"url": "https://himalayas.app/companies/mercor/jobs/design-systems-specialist-fully-remote-upto-80-hr-5591764381?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"
@@ -1980,18 +1932,6 @@
 "posted": "2026-09-27",
 "url": "https://himalayas.app/companies/dealeron/jobs/ux-designer?utm_source=api",
 "source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:consensys:8202750",
-"company": "Consensys",
-"title": "Lead Product Designer",
-"location": "UNITED STATES - Remote, EMEA - Remote, CANADA - Remote, LATAM - Remote",
-"remote": null,
-"posted": "2026-09-24",
-"url": "https://job-boards.greenhouse.io/consensys/jobs/8202750",
-"source": "greenhouse",
 "region": "Remote",
 "firstSeen": "2026-10-17"
 },

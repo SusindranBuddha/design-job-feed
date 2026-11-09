@@ -1,5 +1,5 @@
 {
-"generated": "2026-11-08T18:51:25Z",
+"generated": "2026-11-09T09:53:26Z",
 "region": "APAC",
 "count": 73,
 "jobs": [
@@ -272,7 +272,7 @@
 "url": "https://cba.wd3.myworkdayjobs.com/CommBank_Careers/job/Sydney-CBD-Area/Senior-Product-Designer_REQ267734",
 "source": "workday",
 "region": "APAC",
-"postedText": "Posted 5 Days Ago",
+"postedText": "Posted 6 Days Ago",
 "firstSeen": "2026-11-02"
 },
 {
@@ -432,6 +432,19 @@
 "firstSeen": "2026-10-26"
 },
 {
+"id": "mcf:MyCareersFuture:30e240fe43348379dcac1fdf6396f183",
+"company": "ISERIOUS PTE. LTD.",
+"title": "UI/UX Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-09",
+"url": "https://www.mycareersfuture.gov.sg/job/design/uiux-designer-iserious-30e240fe43348379dcac1fdf6396f183",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 3000-4800 /Monthly",
+"firstSeen": "2026-10-24"
+},
+{
 "id": "mcf:MyCareersFuture:ebdb5be4273dfe68a50ebc1ee26c41b4",
 "company": "ES RECRUITMENT PTE. LTD.",
 "title": "UX/UI Designer",
@@ -585,18 +598,6 @@
 "region": "APAC",
 "salary": "SGD 5000-10000 /Monthly",
 "firstSeen": "2026-10-19"
-},
-{
-"id": "greenhouse:zipcolimited:4716196006",
-"company": "Zip Co",
-"title": "Senior Product Designer",
-"location": "Sydney",
-"remote": null,
-"posted": "2026-11-04",
-"url": "https://job-boards.greenhouse.io/zipcolimited/jobs/4716196006",
-"source": "greenhouse",
-"region": "APAC",
-"firstSeen": "2026-10-17"
 },
 {
 "id": "mcf:MyCareersFuture:b3435ce5839dbee7722d63e52b3dbe93",

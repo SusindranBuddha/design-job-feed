@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-08T18:51:25Z",
+"generated": "2026-11-09T09:53:26Z",
 "region": "UAE",
-"count": 13,
+"count": 12,
 "jobs": [
 {
 "id": "smartrecruiters:DeliveryHero:744000158792679",
@@ -23,18 +23,6 @@
 "remote": null,
 "posted": "2026-10-28",
 "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000158236671",
-"source": "smartrecruiters",
-"region": "UAE",
-"firstSeen": "2026-10-28"
-},
-{
-"id": "smartrecruiters:EtihadAirways5:744000157802101",
-"company": "Etihad Airways",
-"title": "Senior UX Service Designer - Guest 360",
-"location": "Abu Dhabi, ae",
-"remote": null,
-"posted": "2026-10-26",
-"url": "https://jobs.smartrecruiters.com/EtihadAirways5/744000157802101",
 "source": "smartrecruiters",
 "region": "UAE",
 "firstSeen": "2026-10-28"

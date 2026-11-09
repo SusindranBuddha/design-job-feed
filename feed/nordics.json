@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-08T18:51:25Z",
+"generated": "2026-11-09T09:53:26Z",
 "region": "Nordics",
-"count": 60,
+"count": 59,
 "jobs": [
 {
 "id": "platsbanken:Platsbanken:31700109",
@@ -133,7 +133,7 @@
 "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Brighton-United-Kingdom/Senior-Product-Designer_JOBREQ-2616581",
 "source": "workday",
 "region": "Nordics",
-"postedText": "Posted 4 Days Ago",
+"postedText": "Posted 5 Days Ago",
 "firstSeen": "2026-11-04"
 },
 {
@@ -194,7 +194,7 @@
 "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Singapore/XMLNAME--Req----Product-Designer--2D_JOBREQ-2616662",
 "source": "workday",
 "region": "Nordics",
-"postedText": "Posted 6 Days Ago",
+"postedText": "Posted 7 Days Ago",
 "firstSeen": "2026-11-02"
 },
 {
@@ -268,18 +268,6 @@
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-28"
-},
-{
-"id": "teamtailor:DFDS:https://jobs.dfds.com/jobs/8613115-product-designer-in-ferry-commercial",
-"company": "DFDS",
-"title": "Product Designer in Ferry Commercial",
-"location": "",
-"remote": null,
-"posted": "2026-10-26",
-"url": "https://jobs.dfds.com/jobs/8613115-product-designer-in-ferry-commercial",
-"source": "teamtailor",
-"region": "Nordics",
-"firstSeen": "2026-10-27"
 },
 {
 "id": "platsbanken:Platsbanken:31643632",
@@ -486,18 +474,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:alphasense:8530664002",
-"company": "AlphaSense",
-"title": "Senior/Staff Product Designer",
-"location": "New York, New York, United States; Remote - United States",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:alphasense:8531119002",
 "company": "AlphaSense",
 "title": "Senior/Staff Product Designer",
@@ -505,6 +481,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:alphasense:8530664002",
+"company": "AlphaSense",
+"title": "Senior/Staff Product Designer",
+"location": "New York, New York, United States; Remote - United States",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"

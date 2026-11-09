@@ -1,42 +1,54 @@
 {
-"generated": "2026-11-08T18:51:25Z",
-"count": 3,
+"generated": "2026-11-09T09:53:26Z",
+"count": 4,
 "jobs": [
 {
-"id": "arbeitnow:Arbeitnow:senior-product-designer-paris-464090",
-"company": "Deliverect",
-"title": "Senior Product Designer",
-"location": "Paris",
+"id": "arbeitnow:Arbeitnow:front-end-design-engineer-london-255575",
+"company": "Seamflow",
+"title": "Front End Design Engineer",
+"location": "London",
 "remote": null,
-"posted": "2026-11-08",
-"url": "https://www.arbeitnow.fr/jobs/companies/deliverect/senior-product-designer-paris-464090",
+"posted": "2026-11-09",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/seamflow/front-end-design-engineer-london-255575",
 "source": "Arbeitnow",
 "region": "Europe",
-"firstSeen": "2026-11-08"
+"firstSeen": "2026-11-09"
 },
 {
-"id": "ashby:clera:27f3a6c6-fdda-4912-ba33-5bc30c67280d",
-"company": "Clera",
-"title": "Founding Product Designer",
-"location": "San Francisco",
-"remote": "OnSite",
+"id": "arbeitnow:Arbeitnow:senior-match-3-designer-new-game-london-219645",
+"company": "Supercell",
+"title": "Senior Match-3 Designer, New Game",
+"location": "London",
+"remote": null,
 "posted": "2026-11-08",
-"url": "https://jobs.ashbyhq.com/Clera/27f3a6c6-fdda-4912-ba33-5bc30c67280d",
-"source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-11-08"
+"url": "https://www.arbeitnow.co.uk/jobs/companies/supercell/senior-match-3-designer-new-game-london-219645",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-09"
 },
 {
-"id": "jobicy:Jobicy:159806",
-"company": "Reddit",
-"title": "Principal UX Engineer, Ads",
-"location": "USA",
-"remote": "remote",
+"id": "arbeitnow:Arbeitnow:design-system-manager-consultante-paris-20426",
+"company": "Thiga",
+"title": "Design System Manager - Consultant.e",
+"location": "Paris",
+"remote": null,
+"posted": "2026-11-09",
+"url": "https://www.arbeitnow.fr/jobs/companies/thiga/design-system-manager-consultante-paris-20426",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-09"
+},
+{
+"id": "arbeitnow:Arbeitnow:user-research-ux-apprentice-bordeaux-187824",
+"company": "Backmarket",
+"title": "User Research UX Apprentice",
+"location": "Bordeaux",
+"remote": null,
 "posted": "2026-11-08",
-"url": "https://jobicy.com/jobs/159806-principal-ux-engineer-ads",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-11-08"
+"url": "https://www.arbeitnow.fr/jobs/companies/backmarket/user-research-ux-apprentice-bordeaux-187824",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-09"
 }
 ]
 }

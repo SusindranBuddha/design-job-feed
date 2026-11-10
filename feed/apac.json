@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-10T09:53:53Z",
+"generated": "2026-11-10T20:50:50Z",
 "region": "APAC",
-"count": 75,
+"count": 77,
 "jobs": [
 {
 "id": "mcf:MyCareersFuture:cf28241e6732e1db04c7822deed083e1",
@@ -749,6 +749,32 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 7000-8000 /Monthly",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "mcf:MyCareersFuture:6a8d34ed4cd68d7f91d9aea61d55bd56",
+"company": "TALENTSIS PTE. LTD.",
+"title": "UIUX/Product Senior/Designer [Figma]",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://www.mycareersfuture.gov.sg/job/engineering/uiuxproduct-seniordesigner-figma-talentsis-6a8d34ed4cd68d7f91d9aea61d55bd56",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 6000-6500 /Monthly",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "mcf:MyCareersFuture:2f3db7951142390d97d64169a10bc2d6",
+"company": "TALENTSIS PTE. LTD.",
+"title": "UIUX Senior/Designer [Figma]",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://www.mycareersfuture.gov.sg/job/engineering/uiux-seniordesigner-figma-talentsis-2f3db7951142390d97d64169a10bc2d6",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 5500-6500 /Monthly",
 "firstSeen": "2026-10-17"
 },
 {

@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-10T09:53:53Z",
+"generated": "2026-11-10T20:50:50Z",
 "region": "India",
-"count": 17,
+"count": 15,
 "jobs": [
 {
 "id": "lever:gohighlevel:84831da0-2dbf-4c92-bb9d-379bc20c61e5",
@@ -28,18 +28,6 @@
 "firstSeen": "2026-11-03"
 },
 {
-"id": "lever:gohighlevel:51a46259-1107-4bab-883c-6767aad5f405",
-"company": "HighLevel",
-"title": "Lead Product Designer, Design Systems",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-10-29",
-"url": "https://jobs.lever.co/gohighlevel/51a46259-1107-4bab-883c-6767aad5f405",
-"source": "lever",
-"region": "India",
-"firstSeen": "2026-11-03"
-},
-{
 "id": "greenhouse:razorpaysoftwareprivatelimited:4745511005",
 "company": "Razorpay",
 "title": "AI Builder (Senior Product Designer)",
@@ -50,18 +38,6 @@
 "source": "greenhouse",
 "region": "India",
 "firstSeen": "2026-10-22"
-},
-{
-"id": "greenhouse:workatbackbase:8194709",
-"company": "Backbase (India)",
-"title": "Senior UX Designer",
-"location": "Hyderabad",
-"remote": null,
-"posted": "2026-10-27",
-"url": "https://job-boards.greenhouse.io/workatbackbase/jobs/8194709",
-"source": "greenhouse",
-"region": "India",
-"firstSeen": "2026-10-17"
 },
 {
 "id": "greenhouse:razorpaysoftwareprivatelimited:4741222005",

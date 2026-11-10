@@ -1,17 +1,17 @@
 {
-"generated": "2026-11-10T09:53:53Z",
+"generated": "2026-11-10T20:50:50Z",
 "region": "Europe",
-"count": 93,
+"count": 92,
 "jobs": [
 {
-"id": "arbeitnow:Arbeitnow:senior-product-designer-hamburg-hamburg-372138",
-"company": "appinio",
-"title": "(Senior) Product Designer (m/f/d)",
-"location": "Hamburg, Hamburg",
+"id": "smartrecruiters:ScalableGmbH:744000160847599",
+"company": "Scalable Capital",
+"title": "Digital Product Designer (m/f/x)",
+"location": "München, de",
 "remote": null,
 "posted": "2026-11-10",
-"url": "https://www.arbeitnow.com/jobs/companies/appinio/senior-product-designer-hamburg-hamburg-372138",
-"source": "Arbeitnow",
+"url": "https://jobs.smartrecruiters.com/ScalableGmbH/744000160847599",
+"source": "smartrecruiters",
 "region": "Europe",
 "firstSeen": "2026-11-10"
 },
@@ -23,6 +23,90 @@
 "remote": null,
 "posted": "2026-11-10",
 "url": "https://www.arbeitnow.ch/jobs/companies/climeworks/principal-design-engineer-mechanical-equipment-80-100-zurich-483998",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-10"
+},
+{
+"id": "arbeitnow:Arbeitnow:junior-quantum-design-engineer-delft-146275",
+"company": "Quantware",
+"title": "Junior Quantum Design Engineer",
+"location": "Delft",
+"remote": null,
+"posted": "2026-11-10",
+"url": "https://www.arbeitnow.nl/jobs/companies/quantware/junior-quantum-design-engineer-delft-146275",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-10"
+},
+{
+"id": "arbeitnow:Arbeitnow:werkstudent-ui-ux-design-berlin-395445",
+"company": "Nulegal GmbH",
+"title": "Werkstudent UI/UX Design (m/w/d)",
+"location": "Potsdam",
+"remote": null,
+"posted": "2026-11-10",
+"url": "https://www.arbeitnow.com/jobs/companies/nulegal-gmbh/werkstudent-ui-ux-design-berlin-395445",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-10"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-staff-product-designer-germany-376745",
+"company": "N8N",
+"title": "Senior/Staff Product Designer",
+"location": "Germany",
+"remote": null,
+"posted": "2026-11-10",
+"url": "https://www.arbeitnow.com/jobs/companies/n8n/senior-staff-product-designer-germany-376745",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-10"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-london-51875",
+"company": "Spruce",
+"title": "Senior Product Designer",
+"location": "London",
+"remote": null,
+"posted": "2026-11-10",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/spruce/senior-product-designer-london-51875",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-10"
+},
+{
+"id": "arbeitnow:Arbeitnow:lead-product-designer-london-330368",
+"company": "Spruce",
+"title": "Lead Product Designer",
+"location": "London",
+"remote": null,
+"posted": "2026-11-10",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/spruce/lead-product-designer-london-330368",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-10"
+},
+{
+"id": "arbeitnow:Arbeitnow:produktentwickler-designer-socken-footwear-berlin-410221",
+"company": "GC Footwear GmbH",
+"title": "Produktentwickler & Designer (M/W/D) - Socken & Footwear",
+"location": "Berlin",
+"remote": null,
+"posted": "2026-11-10",
+"url": "https://www.arbeitnow.com/jobs/companies/gc-footwear-gmbh/produktentwickler-designer-socken-footwear-berlin-410221",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-10"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-hamburg-hamburg-372138",
+"company": "appinio",
+"title": "(Senior) Product Designer (m/f/d)",
+"location": "Hamburg, Hamburg",
+"remote": null,
+"posted": "2026-11-10",
+"url": "https://www.arbeitnow.com/jobs/companies/appinio/senior-product-designer-hamburg-hamburg-372138",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-10"
@@ -40,18 +124,6 @@
 "firstSeen": "2026-11-10"
 },
 {
-"id": "arbeitnow:Arbeitnow:ux-ui-designer-gilching-326429",
-"company": "Quantum-Systems GmbH",
-"title": "UX/UI Designer (m/f/d)",
-"location": "Gilching, Bayern, Germany",
-"remote": null,
-"posted": "2026-11-09",
-"url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/ux-ui-designer-gilching-326429",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-09"
-},
-{
 "id": "arbeitnow:Arbeitnow:vacature-stagiair-illustrator-designer-eindhoven-10206",
 "company": "Bigfish.nl",
 "title": "Vacature: Stagiair Illustrator / Designer",
@@ -59,6 +131,18 @@
 "remote": null,
 "posted": "2026-11-09",
 "url": "https://www.arbeitnow.nl/jobs/companies/bigfishnl/vacature-stagiair-illustrator-designer-eindhoven-10206",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-09"
+},
+{
+"id": "arbeitnow:Arbeitnow:ux-ui-designer-gilching-326429",
+"company": "Quantum-Systems GmbH",
+"title": "UX/UI Designer (m/f/d)",
+"location": "Gilching, Bayern, Germany",
+"remote": null,
+"posted": "2026-11-09",
+"url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/ux-ui-designer-gilching-326429",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-09"
@@ -100,18 +184,6 @@
 "firstSeen": "2026-11-09"
 },
 {
-"id": "arbeitnow:Arbeitnow:front-end-design-engineer-london-255575",
-"company": "Seamflow",
-"title": "Front End Design Engineer",
-"location": "London",
-"remote": null,
-"posted": "2026-11-09",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/seamflow/front-end-design-engineer-london-255575",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-09"
-},
-{
 "id": "arbeitnow:Arbeitnow:user-research-ux-apprentice-bordeaux-187824",
 "company": "Backmarket",
 "title": "User Research UX Apprentice",
@@ -122,42 +194,6 @@
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-09"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-match-3-designer-new-game-london-219645",
-"company": "Supercell",
-"title": "Senior Match-3 Designer, New Game",
-"location": "London",
-"remote": null,
-"posted": "2026-11-08",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/supercell/senior-match-3-designer-new-game-london-219645",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-09"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-product-designer-paris-464090",
-"company": "Deliverect",
-"title": "Senior Product Designer",
-"location": "Paris",
-"remote": null,
-"posted": "2026-11-08",
-"url": "https://www.arbeitnow.fr/jobs/companies/deliverect/senior-product-designer-paris-464090",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-08"
-},
-{
-"id": "arbeitnow:Arbeitnow:web-designer-at-aios-remote-75k-150k-yr-including-equity-berlin-388201",
-"company": "AIOS (YC W20/S21)",
-"title": "Web Designer at AIOS — Remote, $75k-$150k/yr (including equity)",
-"location": "Remote (EU)",
-"remote": null,
-"posted": "2026-11-08",
-"url": "https://www.arbeitnow.com/jobs/companies/aios-yc-w20s21/web-designer-at-aios-remote-75k-150k-yr-including-equity-berlin-388201",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-08"
 },
 {
 "id": "arbeitnow:Arbeitnow:pcb-design-engineer-80-100-ruthi-105235",
@@ -499,6 +535,30 @@
 "firstSeen": "2026-10-17"
 },
 {
+"id": "greenhouse:moniepoint:4710852101",
+"company": "Moniepoint",
+"title": "Staff Product Designer",
+"location": "Remote, Spain",
+"remote": null,
+"posted": "2026-11-10",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710852101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:moniepoint:4988183101",
+"company": "Moniepoint",
+"title": "Staff Product Designer",
+"location": "London, United Kingdom",
+"remote": null,
+"posted": "2026-11-10",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4988183101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
 "id": "greenhouse:okta:8247059",
 "company": "Okta (Spain)",
 "title": "Staff Product Designer - Okta Identity Governance",
@@ -799,42 +859,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4987960101",
-"company": "Moniepoint",
-"title": "Product Design Manager - Design System",
-"location": "Remote, Spain",
-"remote": null,
-"posted": "2026-10-19",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987960101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:moniepoint:4987959101",
-"company": "Moniepoint",
-"title": "Product Design Manager - Design System",
-"location": "Remote, Nigeria",
-"remote": null,
-"posted": "2026-10-19",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987959101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:moniepoint:4987958101",
-"company": "Moniepoint",
-"title": "Product Design Manager - Design System",
-"location": "London, United Kingdom",
-"remote": null,
-"posted": "2026-10-19",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987958101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:moniepoint:4629880101",
 "company": "Moniepoint",
 "title": "Product Design Manager - UX",
@@ -866,42 +890,6 @@
 "remote": null,
 "posted": "2026-10-19",
 "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4944264101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:moniepoint:4988183101",
-"company": "Moniepoint",
-"title": "Staff Product Designer",
-"location": "London, United Kingdom",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4988183101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:moniepoint:4710853101",
-"company": "Moniepoint",
-"title": "Staff Product Designer",
-"location": "Remote, Poland",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710853101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:moniepoint:4710852101",
-"company": "Moniepoint",
-"title": "Staff Product Designer",
-"location": "Remote, Spain",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710852101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"

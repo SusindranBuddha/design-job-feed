@@ -1,8 +1,44 @@
 {
-"generated": "2026-11-10T09:53:53Z",
+"generated": "2026-11-10T20:50:50Z",
 "region": "Nordics",
 "count": 62,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31709189",
+"company": "H & M Hennes & Mauritz GBC AB",
+"title": "Senior Digital Product Designer",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-10",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31709189",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-10"
+},
+{
+"id": "platsbanken:Platsbanken:31712055",
+"company": "Axis Communications Aktiebolag",
+"title": "Senior UX Designer - Stockholm",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-10",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31712055",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-10"
+},
+{
+"id": "platsbanken:Platsbanken:31712562",
+"company": "Integro Consulting AB",
+"title": "Electronics Design Engineer – MedTech",
+"location": "Göteborg",
+"remote": null,
+"posted": "2026-11-10",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31712562",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-10"
+},
 {
 "id": "platsbanken:Platsbanken:31703838",
 "company": "ABB AB",
@@ -100,30 +136,6 @@
 "firstSeen": "2026-11-06"
 },
 {
-"id": "platsbanken:Platsbanken:31693766",
-"company": "Swedium Global Services AB",
-"title": "Senior Hardware Design Engineer",
-"location": "Solna",
-"remote": null,
-"posted": "2026-11-06",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31693766",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-06"
-},
-{
-"id": "platsbanken:Platsbanken:31693447",
-"company": "Tata Technologies Nordics AB",
-"title": "Design Engineer",
-"location": "Göteborg",
-"remote": null,
-"posted": "2026-11-05",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31693447",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-06"
-},
-{
 "id": "platsbanken:Platsbanken:31692149",
 "company": "Sway Sourcing Sweden Aktiebolag",
 "title": "Product Designer (UX/UI) inom iGaming – Stockholm",
@@ -131,18 +143,6 @@
 "remote": null,
 "posted": "2026-11-05",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31692149",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-05"
-},
-{
-"id": "platsbanken:Platsbanken:31692408",
-"company": "Ericsson AB",
-"title": "HW accelerator IP system designer",
-"location": "Lund",
-"remote": null,
-"posted": "2026-11-05",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31692408",
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-11-05"
@@ -430,7 +430,7 @@
 "company": "Spotify",
 "title": "Staff Product Designer - Platform Design",
 "location": "London",
-"remote": "remote",
+"remote": "hybrid",
 "posted": "2026-10-21",
 "url": "https://jobs.lever.co/spotify/f02fb195-ba10-40bd-a926-0318a34a7fae",
 "source": "lever",

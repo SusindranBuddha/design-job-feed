@@ -1,8 +1,32 @@
 {
-"generated": "2026-11-10T09:53:53Z",
+"generated": "2026-11-10T20:50:50Z",
 "region": "Remote",
-"count": 181,
+"count": 177,
 "jobs": [
+{
+"id": "jobicy:Jobicy:161163",
+"company": "Medium",
+"title": "Senior Product Designer",
+"location": "USA",
+"remote": "remote",
+"posted": "2026-11-10",
+"url": "https://jobicy.com/jobs/161163-senior-product-designer-19",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-10"
+},
+{
+"id": "jobicy:Jobicy:161090",
+"company": "HyperHug",
+"title": "Technical UI Designer",
+"location": "Cyprus",
+"remote": "remote",
+"posted": "2026-11-10",
+"url": "https://jobicy.com/jobs/161090-technical-ui-designer",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-10"
+},
 {
 "id": "jobicy:Jobicy:160790",
 "company": "CRAFTSMAN+",
@@ -48,30 +72,6 @@
 "posted": "2026-11-07",
 "url": "https://jobs.ashbyhq.com/Clera/0e1e4d9e-16aa-4197-8a8e-efcb777f6253",
 "source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-11-07"
-},
-{
-"id": "jobicy:Jobicy:159605",
-"company": "Canonical",
-"title": "Visual Designer",
-"location": "EMEA",
-"remote": "remote",
-"posted": "2026-11-07",
-"url": "https://jobicy.com/jobs/159605-visual-designer",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-11-07"
-},
-{
-"id": "jobicy:Jobicy:159604",
-"company": "Canonical",
-"title": "UX Designer - Infrastructure",
-"location": "EMEA",
-"remote": "remote",
-"posted": "2026-11-07",
-"url": "https://jobicy.com/jobs/159604-ux-designer-infrastructure",
-"source": "Jobicy",
 "region": "Remote",
 "firstSeen": "2026-11-07"
 },
@@ -208,30 +208,6 @@
 "firstSeen": "2026-11-05"
 },
 {
-"id": "ashby:clera:1fa12242-bace-487d-9ea6-1c453aa0ebd4",
-"company": "Clera",
-"title": "Lead Product Designer",
-"location": "Vienna",
-"remote": "OnSite",
-"posted": "2026-11-04",
-"url": "https://jobs.ashbyhq.com/Clera/1fa12242-bace-487d-9ea6-1c453aa0ebd4",
-"source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-11-04"
-},
-{
-"id": "ashby:clera:357df520-2ec9-48b8-9065-390188ccc04e",
-"company": "Clera",
-"title": "Founding Design Engineer",
-"location": "Palo Alto",
-"remote": "Remote",
-"posted": "2026-11-04",
-"url": "https://jobs.ashbyhq.com/Clera/357df520-2ec9-48b8-9065-390188ccc04e",
-"source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-11-04"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/elation-health/jobs/staff-product-designer-7554171075",
 "company": "Elation Health",
 "title": "Staff Product Designer",
@@ -251,6 +227,18 @@
 "remote": "remote",
 "posted": "2026-10-28",
 "url": "https://himalayas.app/companies/fluxon/jobs/senior-product-designer-6658565977?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-04"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/ancestry-com/jobs/product-designer-dna-experience",
+"company": "Ancestry",
+"title": "Product Designer, DNA Experience",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-10-23",
+"url": "https://himalayas.app/companies/ancestry-com/jobs/product-designer-dna-experience?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-04"
@@ -995,18 +983,6 @@
 "remote": "remote",
 "posted": "2026-10-29",
 "url": "https://himalayas.app/companies/upwardly-global/jobs/digital-product-designer?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/rootstocklabs/jobs/senior-product-designer-3865616323",
-"company": "RootstockLabs",
-"title": "Senior Product Designer",
-"location": "Albania, Andorra, Argentina, Austria, Belarus, Belgium, Bolivia, Bosnia and Herzegovina, Brazil, Bulgaria, Chile, Colombia, Croatia, Cyprus, Czechia, Denmark, E",
-"remote": "remote",
-"posted": "2026-10-29",
-"url": "https://himalayas.app/companies/rootstocklabs/jobs/senior-product-designer-3865616323?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"
@@ -1836,30 +1812,6 @@
 "posted": "2026-10-01",
 "url": "https://jobs.lever.co/contentsquare/5234af0a-e23e-4543-9f9f-a37b8d7e64d8",
 "source": "lever",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/moniepoint/jobs/product-design-lead-design-system-6337009732",
-"company": "Moniepoint",
-"title": "Product Design Lead - Design System",
-"location": "United Kingdom",
-"remote": "remote",
-"posted": "2026-10-01",
-"url": "https://himalayas.app/companies/moniepoint/jobs/product-design-lead-design-system-6337009732?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/moniepoint/jobs/product-design-lead-design-system",
-"company": "Moniepoint",
-"title": "Product Design Lead - Design System",
-"location": "Spain",
-"remote": "remote",
-"posted": "2026-10-01",
-"url": "https://himalayas.app/companies/moniepoint/jobs/product-design-lead-design-system?utm_source=api",
-"source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-17"
 },

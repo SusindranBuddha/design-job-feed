@@ -1,8 +1,44 @@
 {
-"generated": "2026-11-09T23:27:28Z",
+"generated": "2026-11-10T09:53:53Z",
 "region": "Europe",
-"count": 94,
+"count": 93,
 "jobs": [
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-hamburg-hamburg-372138",
+"company": "appinio",
+"title": "(Senior) Product Designer (m/f/d)",
+"location": "Hamburg, Hamburg",
+"remote": null,
+"posted": "2026-11-10",
+"url": "https://www.arbeitnow.com/jobs/companies/appinio/senior-product-designer-hamburg-hamburg-372138",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-10"
+},
+{
+"id": "arbeitnow:Arbeitnow:principal-design-engineer-mechanical-equipment-80-100-zurich-483998",
+"company": "Climeworks",
+"title": "Principal Design Engineer - Mechanical Equipment (80-100%)",
+"location": "Zurich, Zürich, Switzerland",
+"remote": null,
+"posted": "2026-11-10",
+"url": "https://www.arbeitnow.ch/jobs/companies/climeworks/principal-design-engineer-mechanical-equipment-80-100-zurich-483998",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-10"
+},
+{
+"id": "arbeitnow:Arbeitnow:staff-product-designer-london-250836",
+"company": "Deliveroo",
+"title": "Staff Product Designer",
+"location": "London",
+"remote": null,
+"posted": "2026-11-10",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/staff-product-designer-london-250836",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-10"
+},
 {
 "id": "arbeitnow:Arbeitnow:ux-ui-designer-gilching-326429",
 "company": "Quantum-Systems GmbH",
@@ -11,6 +47,18 @@
 "remote": null,
 "posted": "2026-11-09",
 "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/ux-ui-designer-gilching-326429",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-09"
+},
+{
+"id": "arbeitnow:Arbeitnow:vacature-stagiair-illustrator-designer-eindhoven-10206",
+"company": "Bigfish.nl",
+"title": "Vacature: Stagiair Illustrator / Designer",
+"location": "Eindhoven",
+"remote": null,
+"posted": "2026-11-09",
+"url": "https://www.arbeitnow.nl/jobs/companies/bigfishnl/vacature-stagiair-illustrator-designer-eindhoven-10206",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-09"
@@ -40,13 +88,13 @@
 "firstSeen": "2026-11-09"
 },
 {
-"id": "arbeitnow:Arbeitnow:vacature-stagiair-illustrator-designer-eindhoven-10206",
-"company": "Bigfish.nl",
-"title": "Vacature: Stagiair Illustrator / Designer",
-"location": "Eindhoven",
+"id": "arbeitnow:Arbeitnow:design-system-manager-consultante-paris-20426",
+"company": "Thiga",
+"title": "Design System Manager - Consultant.e",
+"location": "Paris",
 "remote": null,
 "posted": "2026-11-09",
-"url": "https://www.arbeitnow.nl/jobs/companies/bigfishnl/vacature-stagiair-illustrator-designer-eindhoven-10206",
+"url": "https://www.arbeitnow.fr/jobs/companies/thiga/design-system-manager-consultante-paris-20426",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-09"
@@ -59,18 +107,6 @@
 "remote": null,
 "posted": "2026-11-09",
 "url": "https://www.arbeitnow.co.uk/jobs/companies/seamflow/front-end-design-engineer-london-255575",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-09"
-},
-{
-"id": "arbeitnow:Arbeitnow:design-system-manager-consultante-paris-20426",
-"company": "Thiga",
-"title": "Design System Manager - Consultant.e",
-"location": "Paris",
-"remote": null,
-"posted": "2026-11-09",
-"url": "https://www.arbeitnow.fr/jobs/companies/thiga/design-system-manager-consultante-paris-20426",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-09"
@@ -122,54 +158,6 @@
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-08"
-},
-{
-"id": "arbeitnow:Arbeitnow:design-engineer-uk-london-378368",
-"company": "Writer",
-"title": "Design engineer (UK)",
-"location": "London, UK",
-"remote": null,
-"posted": "2026-11-08",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/writer/design-engineer-uk-london-378368",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-08"
-},
-{
-"id": "arbeitnow:Arbeitnow:graduate-mechanical-design-engineer-reading-211730",
-"company": "Neworbit",
-"title": "Graduate Mechanical Design Engineer",
-"location": "Reading, UK",
-"remote": null,
-"posted": "2026-11-08",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/neworbit/graduate-mechanical-design-engineer-reading-211730",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-08"
-},
-{
-"id": "arbeitnow:Arbeitnow:satellite-mechanical-design-engineer-reading-326999",
-"company": "Neworbit",
-"title": "Satellite Mechanical Design Engineer",
-"location": "Reading, UK",
-"remote": null,
-"posted": "2026-11-08",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/neworbit/satellite-mechanical-design-engineer-reading-326999",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-08"
-},
-{
-"id": "arbeitnow:Arbeitnow:ux-ui-designer-saint-denis-468063",
-"company": "Veepee",
-"title": "UX/UI Designer M/W/X",
-"location": "Saint-Denis",
-"remote": null,
-"posted": "2026-11-07",
-"url": "https://www.arbeitnow.fr/jobs/companies/veepee/ux-ui-designer-saint-denis-468063",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-07"
 },
 {
 "id": "arbeitnow:Arbeitnow:pcb-design-engineer-80-100-ruthi-105235",
@@ -265,7 +253,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/UX-Designer--Officer_R-795745",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 6 Days Ago",
+"postedText": "Posted 7 Days Ago",
 "firstSeen": "2026-11-04"
 },
 {
@@ -458,7 +446,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Business-Analysis--AVP-1_R-786883",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 21 Days Ago",
+"postedText": "Posted 22 Days Ago",
 "firstSeen": "2026-10-20"
 },
 {
@@ -471,8 +459,44 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Platform-Engineering---Dev-UX--Production-Website---Off_R-799791-1",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 21 Days Ago",
+"postedText": "Posted 22 Days Ago",
 "firstSeen": "2026-10-19"
+},
+{
+"id": "greenhouse:ebury:4975330101",
+"company": "Ebury",
+"title": "Product Designer - Channels",
+"location": "Valencia",
+"remote": null,
+"posted": "2026-11-10",
+"url": "https://job-boards.eu.greenhouse.io/ebury/jobs/4975330101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:ebury:5006123101",
+"company": "Ebury",
+"title": "Senior Product Designer - Mobile",
+"location": "Valencia",
+"remote": null,
+"posted": "2026-11-10",
+"url": "https://job-boards.eu.greenhouse.io/ebury/jobs/5006123101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:ebury:5006120101",
+"company": "Ebury",
+"title": "Senior Product Designer - Onboarding & Activation",
+"location": "Valencia",
+"remote": null,
+"posted": "2026-11-10",
+"url": "https://job-boards.eu.greenhouse.io/ebury/jobs/5006120101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
 },
 {
 "id": "greenhouse:okta:8247059",
@@ -775,37 +799,13 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:ebury:5006123101",
-"company": "Ebury",
-"title": "Senior Product Designer - Mobile",
-"location": "Valencia",
-"remote": null,
-"posted": "2026-10-20",
-"url": "https://job-boards.eu.greenhouse.io/ebury/jobs/5006123101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:ebury:5006120101",
-"company": "Ebury",
-"title": "Senior Product Designer - Onboarding & Activation",
-"location": "Valencia",
-"remote": null,
-"posted": "2026-10-20",
-"url": "https://job-boards.eu.greenhouse.io/ebury/jobs/5006120101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:ebury:4975330101",
-"company": "Ebury",
-"title": "Product Designer - Channels",
-"location": "Valencia",
+"id": "greenhouse:moniepoint:4987960101",
+"company": "Moniepoint",
+"title": "Product Design Manager - Design System",
+"location": "Remote, Spain",
 "remote": null,
 "posted": "2026-10-19",
-"url": "https://job-boards.eu.greenhouse.io/ebury/jobs/4975330101",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987960101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -835,18 +835,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4987960101",
-"company": "Moniepoint",
-"title": "Product Design Manager - Design System",
-"location": "Remote, Spain",
-"remote": null,
-"posted": "2026-10-19",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4987960101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:moniepoint:4629880101",
 "company": "Moniepoint",
 "title": "Product Design Manager - UX",
@@ -854,18 +842,6 @@
 "remote": null,
 "posted": "2026-10-19",
 "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4629880101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:moniepoint:4944264101",
-"company": "Moniepoint",
-"title": "Product Design Manager - UX",
-"location": "Remote, Poland",
-"remote": null,
-"posted": "2026-10-19",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4944264101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -883,13 +859,13 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4710853101",
+"id": "greenhouse:moniepoint:4944264101",
 "company": "Moniepoint",
-"title": "Staff Product Designer",
+"title": "Product Design Manager - UX",
 "location": "Remote, Poland",
 "remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710853101",
+"posted": "2026-10-19",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4944264101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -902,6 +878,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4988183101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:moniepoint:4710853101",
+"company": "Moniepoint",
+"title": "Staff Product Designer",
+"location": "Remote, Poland",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710853101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -1039,18 +1027,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:intercom:7862050",
-"company": "Intercom",
-"title": "Senior Product Designer",
-"location": "Dublin, Ireland",
-"remote": null,
-"posted": "2026-09-16",
-"url": "https://job-boards.greenhouse.io/intercom/jobs/7862050",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:intercom:7861866",
 "company": "Intercom",
 "title": "Senior Product Designer",
@@ -1058,6 +1034,18 @@
 "remote": null,
 "posted": "2026-09-16",
 "url": "https://job-boards.greenhouse.io/intercom/jobs/7861866",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:intercom:7862050",
+"company": "Intercom",
+"title": "Senior Product Designer",
+"location": "Dublin, Ireland",
+"remote": null,
+"posted": "2026-09-16",
+"url": "https://job-boards.greenhouse.io/intercom/jobs/7862050",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"

@@ -1,8 +1,20 @@
 {
-"generated": "2026-11-09T23:27:28Z",
+"generated": "2026-11-10T09:53:53Z",
 "region": "Remote",
-"count": 182,
+"count": 181,
 "jobs": [
+{
+"id": "jobicy:Jobicy:160790",
+"company": "CRAFTSMAN+",
+"title": "Rich Media Designer",
+"location": "Argentina",
+"remote": "remote",
+"posted": "2026-11-10",
+"url": "https://jobicy.com/jobs/160790-rich-media-designer",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-10"
+},
 {
 "id": "ashby:clera:27f3a6c6-fdda-4912-ba33-5bc30c67280d",
 "company": "Clera",
@@ -59,30 +71,6 @@
 "remote": "remote",
 "posted": "2026-11-07",
 "url": "https://jobicy.com/jobs/159604-ux-designer-infrastructure",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-11-07"
-},
-{
-"id": "jobicy:Jobicy:159602",
-"company": "Canonical",
-"title": "UX Designer - Design systems",
-"location": "EMEA",
-"remote": "remote",
-"posted": "2026-11-07",
-"url": "https://jobicy.com/jobs/159602-ux-designer-design-systems",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-11-07"
-},
-{
-"id": "jobicy:Jobicy:159592",
-"company": "Canonical",
-"title": "Staff Design Engineer - Cloud Networking UX",
-"location": "EMEA",
-"remote": "remote",
-"posted": "2026-11-07",
-"url": "https://jobicy.com/jobs/159592-staff-design-engineer-cloud-networking-ux",
 "source": "Jobicy",
 "region": "Remote",
 "firstSeen": "2026-11-07"

@@ -1,8 +1,60 @@
 {
-"generated": "2026-11-09T23:27:28Z",
+"generated": "2026-11-10T09:53:53Z",
 "region": "APAC",
 "count": 75,
 "jobs": [
+{
+"id": "mcf:MyCareersFuture:cf28241e6732e1db04c7822deed083e1",
+"company": "GPAY NETWORK (S) PTE. LTD.",
+"title": "Senior Product Designer, Payments",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-10",
+"url": "https://www.mycareersfuture.gov.sg/job/design/senior-product-designer-payments-gpay-network-cf28241e6732e1db04c7822deed083e1",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 8600-12500 /Monthly",
+"firstSeen": "2026-11-10"
+},
+{
+"id": "mcf:MyCareersFuture:79d6b1e1c307bd234f6bc9233a7f6951",
+"company": "SEMEC ENTERPRISE PTE LTD",
+"title": "Product Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-10",
+"url": "https://www.mycareersfuture.gov.sg/job/architecture/product-designer-semec-enterprise-79d6b1e1c307bd234f6bc9233a7f6951",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 2800-4800 /Monthly",
+"firstSeen": "2026-11-10"
+},
+{
+"id": "mcf:MyCareersFuture:1ce12fdd005fc159630666cd28e73de5",
+"company": "K.P.P. PACKAGING PTE LTD",
+"title": "Structural Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-10",
+"url": "https://www.mycareersfuture.gov.sg/job/design/structural-designer-kpp-packaging-1ce12fdd005fc159630666cd28e73de5",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 3000-4000 /Monthly",
+"firstSeen": "2026-11-10"
+},
+{
+"id": "mcf:MyCareersFuture:7789c22660cb9f442a49b661f04fe8cb",
+"company": "COMBUILDER PTE LTD",
+"title": "UI/UX Designer — AMK",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-10",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/uiux-designer-%E2%80%94-amk-combuilder-7789c22660cb9f442a49b661f04fe8cb",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 5000-6000 /Monthly",
+"firstSeen": "2026-11-10"
+},
 {
 "id": "mcf:MyCareersFuture:1e00fe765e173140d7692857c9b48ffd",
 "company": "DOCTOR WORLD PTE. LTD.",
@@ -648,18 +700,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:agoda:8173395",
-"company": "Agoda",
-"title": "Senior Product Designer - CEG (Bangkok - Based, Relocation Provided)",
-"location": "Bangkok, Thailand",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/agoda/jobs/8173395",
-"source": "greenhouse",
-"region": "APAC",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "mcf:MyCareersFuture:37c892b6972cbb2f9bf61b2b97914aeb",
 "company": "ARYAN SOLUTIONS PTE. LTD.",
 "title": "UI/UX Designer",
@@ -709,45 +749,6 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 7000-8000 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:6a8d34ed4cd68d7f91d9aea61d55bd56",
-"company": "TALENTSIS PTE. LTD.",
-"title": "UIUX/Product Senior/Designer [Figma]",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://www.mycareersfuture.gov.sg/job/engineering/uiuxproduct-seniordesigner-figma-talentsis-6a8d34ed4cd68d7f91d9aea61d55bd56",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 6000-6500 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:2f3db7951142390d97d64169a10bc2d6",
-"company": "TALENTSIS PTE. LTD.",
-"title": "UIUX Senior/Designer [Figma]",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://www.mycareersfuture.gov.sg/job/engineering/uiux-seniordesigner-figma-talentsis-2f3db7951142390d97d64169a10bc2d6",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 5500-6500 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:96b75ea1051f1136da5e0c0d71bf06ca",
-"company": "TESTING INSPECTION & SOLUTION PTE. LTD.",
-"title": "SENIOR / DESIGN ENGINEER, INSTRUMENTATION",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://www.mycareersfuture.gov.sg/job/engineering/senior-design-engineer-instrumentation-testing-inspection-solution-96b75ea1051f1136da5e0c0d71bf06ca",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 3300-6600 /Monthly",
 "firstSeen": "2026-10-17"
 },
 {

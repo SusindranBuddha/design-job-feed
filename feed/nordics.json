@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-10T20:50:50Z",
+"generated": "2026-11-11T09:28:46Z",
 "region": "Nordics",
-"count": 62,
+"count": 63,
 "jobs": [
 {
 "id": "platsbanken:Platsbanken:31709189",
@@ -181,7 +181,7 @@
 "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Brighton-United-Kingdom/Senior-Product-Designer_JOBREQ-2616581",
 "source": "workday",
 "region": "Nordics",
-"postedText": "Posted 6 Days Ago",
+"postedText": "Posted 7 Days Ago",
 "firstSeen": "2026-11-04"
 },
 {
@@ -242,7 +242,7 @@
 "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Singapore/XMLNAME--Req----Product-Designer--2D_JOBREQ-2616662",
 "source": "workday",
 "region": "Nordics",
-"postedText": "Posted 8 Days Ago",
+"postedText": "Posted 9 Days Ago",
 "firstSeen": "2026-11-02"
 },
 {
@@ -460,6 +460,18 @@
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-20"
+},
+{
+"id": "greenhouse:oura:4452942009",
+"company": "Oura",
+"title": "Staff Antenna Design Engineer",
+"location": "On-site - Oulu, North Ostrobothnia",
+"remote": null,
+"posted": "2026-11-11",
+"url": "https://job-boards.greenhouse.io/oura/jobs/4452942009",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
 },
 {
 "id": "greenhouse:smartlyio:6208020004",

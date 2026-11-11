@@ -1,8 +1,56 @@
 {
-"generated": "2026-11-11T09:28:46Z",
+"generated": "2026-11-11T21:28:12Z",
 "region": "Nordics",
-"count": 63,
+"count": 65,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31718437",
+"company": "Sway Sourcing Sweden Aktiebolag",
+"title": "Senior Product Designer – 50%, Remote Sweden",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-11",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31718437",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-11"
+},
+{
+"id": "platsbanken:Platsbanken:31716215",
+"company": "Soros Consulting AB",
+"title": "Component Designer (Gothenburg)",
+"location": "Göteborg",
+"remote": null,
+"posted": "2026-11-11",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31716215",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-11"
+},
+{
+"id": "platsbanken:Platsbanken:31718713",
+"company": "Sway Sourcing Sweden Aktiebolag",
+"title": "Senior UX-konsult inom AI-driven design – Kiruna/Gällivare/Luleå",
+"location": "Luleå",
+"remote": null,
+"posted": "2026-11-11",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31718713",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-11"
+},
+{
+"id": "lever:spotify:a9d581f9-1361-4227-b230-94a0d6ffdef4",
+"company": "Spotify",
+"title": "Product Designer",
+"location": "Stockholm",
+"remote": "hybrid",
+"posted": "2026-11-04",
+"url": "https://jobs.lever.co/spotify/a9d581f9-1361-4227-b230-94a0d6ffdef4",
+"source": "lever",
+"region": "Nordics",
+"firstSeen": "2026-11-11"
+},
 {
 "id": "platsbanken:Platsbanken:31709189",
 "company": "H & M Hennes & Mauritz GBC AB",
@@ -214,7 +262,7 @@
 "title": "Lead (Senior) Product Designer | Production",
 "location": "Helsinki, Finland; Lisbon, Portugal; Stockholm, Sweden",
 "remote": null,
-"posted": "2026-11-06",
+"posted": "2026-11-11",
 "url": "https://www.relexsolutions.com/careers/jobs/?gh_jid=8105403003",
 "source": "greenhouse",
 "region": "Nordics",
@@ -407,21 +455,9 @@
 "title": "Lead Product Designer | Platform Engineering",
 "location": "Helsinki, Finland",
 "remote": null,
-"posted": "2026-11-06",
+"posted": "2026-11-11",
 "url": "https://www.relexsolutions.com/careers/jobs/?gh_jid=8039875003",
 "source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-22"
-},
-{
-"id": "platsbanken:Platsbanken:31632814",
-"company": "Knightec Group Hardware and Design AB",
-"title": "UX/UI-designer med fokus på UI och visuell design",
-"location": "Göteborg",
-"remote": null,
-"posted": "2026-10-22",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31632814",
-"source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-22"
 },
@@ -462,6 +498,18 @@
 "firstSeen": "2026-10-20"
 },
 {
+"id": "greenhouse:smartlyio:6126661004",
+"company": "Smartly",
+"title": "Production Designer",
+"location": "Philippines",
+"remote": null,
+"posted": "2026-11-11",
+"url": "https://job-boards.greenhouse.io/smartlyio/jobs/6126661004",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
 "id": "greenhouse:oura:4452942009",
 "company": "Oura",
 "title": "Staff Antenna Design Engineer",
@@ -481,18 +529,6 @@
 "remote": null,
 "posted": "2026-10-30",
 "url": "https://job-boards.greenhouse.io/smartlyio/jobs/6208020004",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:smartlyio:6126661004",
-"company": "Smartly",
-"title": "Production Designer",
-"location": "Philippines",
-"remote": null,
-"posted": "2026-10-30",
-"url": "https://job-boards.greenhouse.io/smartlyio/jobs/6126661004",
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
@@ -534,18 +570,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:alphasense:8531119002",
-"company": "AlphaSense",
-"title": "Senior/Staff Product Designer",
-"location": "Remote - United Kingdom",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:alphasense:8530664002",
 "company": "AlphaSense",
 "title": "Senior/Staff Product Designer",
@@ -558,14 +582,14 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "platsbanken:Platsbanken:31592076",
-"company": "PrimeComp AB",
-"title": "Elkonstruktör / Electrical Design Engineer – Västerås",
-"location": "Västerås",
+"id": "greenhouse:alphasense:8531119002",
+"company": "AlphaSense",
+"title": "Senior/Staff Product Designer",
+"location": "Remote - United Kingdom",
 "remote": null,
-"posted": "2026-10-13",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31592076",
-"source": "Platsbanken",
+"posted": "2026-10-16",
+"url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
+"source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
 },

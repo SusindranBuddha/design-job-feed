@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-11T09:28:46Z",
+"generated": "2026-11-11T21:28:12Z",
 "region": "Netherlands",
-"count": 13,
+"count": 11,
 "jobs": [
 {
 "id": "greenhouse:catawiki:8354353",
@@ -14,6 +14,18 @@
 "source": "greenhouse",
 "region": "Netherlands",
 "firstSeen": "2026-11-05"
+},
+{
+"id": "greenhouse:elastic:8319082",
+"company": "Elastic",
+"title": "Software Engineering Manager - Global UX - Applications - Platform",
+"location": "Greece",
+"remote": null,
+"posted": "2026-10-23",
+"url": "https://jobs.elastic.co/jobs?gh_jid=8319082&gh_jid=8319082",
+"source": "greenhouse",
+"region": "Netherlands",
+"firstSeen": "2026-10-24"
 },
 {
 "id": "greenhouse:elastic:8301334",
@@ -40,18 +52,6 @@
 "firstSeen": "2026-10-24"
 },
 {
-"id": "greenhouse:elastic:8319082",
-"company": "Elastic",
-"title": "Software Engineering Manager - Global UX - Applications - Platform",
-"location": "Greece",
-"remote": null,
-"posted": "2026-10-23",
-"url": "https://jobs.elastic.co/jobs?gh_jid=8319082&gh_jid=8319082",
-"source": "greenhouse",
-"region": "Netherlands",
-"firstSeen": "2026-10-24"
-},
-{
 "id": "greenhouse:housinganywhere:8042994003",
 "company": "HousingAnywhere",
 "title": "Senior Product Designer - Post Booking experience",
@@ -71,18 +71,6 @@
 "remote": null,
 "posted": "2026-11-02",
 "url": "https://job-boards.greenhouse.io/adyen/jobs/8242349",
-"source": "greenhouse",
-"region": "Netherlands",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:adyen:8045285",
-"company": "Adyen",
-"title": "Senior Product Experience Designer",
-"location": "Chicago",
-"remote": null,
-"posted": "2026-11-02",
-"url": "https://job-boards.greenhouse.io/adyen/jobs/8045285",
 "source": "greenhouse",
 "region": "Netherlands",
 "firstSeen": "2026-10-17"
@@ -119,18 +107,6 @@
 "remote": "Hybrid",
 "posted": "2026-10-05",
 "url": "https://jobs.ashbyhq.com/lightspeedhq/cb4d8050-0a90-4fa0-92ea-1a94a4e7fa7d",
-"source": "ashby",
-"region": "Netherlands",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "ashby:lightspeedhq:7dd6da89-d74c-4283-a0ab-d7474217d616",
-"company": "Lightspeed",
-"title": "Senior Product Designer, Capital Advances",
-"location": "Toronto",
-"remote": "Remote",
-"posted": "2026-09-21",
-"url": "https://jobs.ashbyhq.com/lightspeedhq/7dd6da89-d74c-4283-a0ab-d7474217d616",
 "source": "ashby",
 "region": "Netherlands",
 "firstSeen": "2026-10-17"

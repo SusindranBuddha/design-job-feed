@@ -1,8 +1,140 @@
 {
-"generated": "2026-11-11T09:28:46Z",
+"generated": "2026-11-11T21:28:12Z",
 "region": "Europe",
-"count": 98,
+"count": 104,
 "jobs": [
+{
+"id": "ashby:9fin:fbfb0578-11c7-46bd-b935-33fd1e6db7d0",
+"company": "9fin",
+"title": "Senior Product Designer",
+"location": "London",
+"remote": "Hybrid",
+"posted": "2026-11-11",
+"url": "https://jobs.ashbyhq.com/9fin/fbfb0578-11c7-46bd-b935-33fd1e6db7d0",
+"source": "ashby",
+"region": "Europe",
+"firstSeen": "2026-11-11"
+},
+{
+"id": "greenhouse:tide:8201236003",
+"company": "Tide",
+"title": "Senior Staff Product Designer",
+"location": "United Kingdom",
+"remote": null,
+"posted": "2026-11-11",
+"url": "https://job-boards.greenhouse.io/tide/jobs/8201236003",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-11-11"
+},
+{
+"id": "greenhouse:stripe:8205126",
+"company": "Stripe",
+"title": "Product Designer, Treasury",
+"location": "US / Canada",
+"remote": null,
+"posted": "2026-11-11",
+"url": "https://stripe.com/jobs/search?gh_jid=8205126",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-11-11"
+},
+{
+"id": "arbeitnow:Arbeitnow:ux-ui-designer-eschborn-315153",
+"company": "Market Cloud",
+"title": "UX/UI Designer",
+"location": "Eschborn",
+"remote": null,
+"posted": "2026-11-11",
+"url": "https://www.arbeitnow.com/jobs/companies/market-cloud/ux-ui-designer-eschborn-315153",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-11"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-ux-digital-product-designer-mensch-schwerpunkt-fintech-berlin-264337",
+"company": "Taikonauten GmbH",
+"title": "Senior UX / Digital Product Designer (Mensch), Schwerpunkt FinTech",
+"location": "Berlin",
+"remote": null,
+"posted": "2026-11-11",
+"url": "https://www.arbeitnow.com/jobs/companies/taikonauten-gmbh/senior-ux-digital-product-designer-mensch-schwerpunkt-fintech-berlin-264337",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-11"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-ux-digital-product-designer-mensch-berlin-465632",
+"company": "Taikonauten GmbH",
+"title": "Senior UX / Digital Product Designer (Mensch)",
+"location": "Berlin",
+"remote": null,
+"posted": "2026-11-11",
+"url": "https://www.arbeitnow.com/jobs/companies/taikonauten-gmbh/senior-ux-digital-product-designer-mensch-berlin-465632",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-11"
+},
+{
+"id": "arbeitnow:Arbeitnow:product-design-london-17340",
+"company": "Axle Careers",
+"title": "Product Design",
+"location": "London",
+"remote": null,
+"posted": "2026-11-11",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/axle-careers/product-design-london-17340",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-11"
+},
+{
+"id": "arbeitnow:Arbeitnow:technical-support-mit-ux-design-background-zurich-363158",
+"company": "PrivaSphere AG",
+"title": "Technical support mit UX Design Background",
+"location": "Zürich",
+"remote": null,
+"posted": "2026-11-11",
+"url": "https://www.arbeitnow.ch/jobs/companies/privasphere-ag/technical-support-mit-ux-design-background-zurich-363158",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-11"
+},
+{
+"id": "arbeitnow:Arbeitnow:web-designer-at-aios-remote-100k-200k-yr-including-equity-berlin-314963",
+"company": "AIOS (YC W20/S21)",
+"title": "Web Designer at AIOS — Remote, $100k-$200k/yr (including equity)",
+"location": "Remote (EU)",
+"remote": null,
+"posted": "2026-11-11",
+"url": "https://www.arbeitnow.com/jobs/companies/aios-yc-w20s21/web-designer-at-aios-remote-100k-200k-yr-including-equity-berlin-314963",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-11"
+},
+{
+"id": "arbeitnow:Arbeitnow:principal-designer-london-51605",
+"company": "Faculty",
+"title": "Principal Designer",
+"location": "London",
+"remote": null,
+"posted": "2026-11-11",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/principal-designer-london-51605",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-11"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-security-amsterdam-461272",
+"company": "Vinteden",
+"title": "Senior Product Designer, Security",
+"location": "Amsterdam",
+"remote": null,
+"posted": "2026-11-11",
+"url": "https://www.arbeitnow.nl/jobs/companies/vinteden/senior-product-designer-security-amsterdam-461272",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-11"
+},
 {
 "id": "arbeitnow:Arbeitnow:remote-product-designer-amsterdam-294295",
 "company": "SkyCell AG",
@@ -11,6 +143,66 @@
 "remote": "remote",
 "posted": "2026-11-11",
 "url": "https://www.arbeitnow.nl/jobs/companies/skycell-ag/remote-product-designer-amsterdam-294295",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-11"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-security-berlin-146098",
+"company": "Vinteden",
+"title": "Senior Product Designer, Security",
+"location": "Berlin",
+"remote": null,
+"posted": "2026-11-11",
+"url": "https://www.arbeitnow.com/jobs/companies/vinteden/senior-product-designer-security-berlin-146098",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-11"
+},
+{
+"id": "arbeitnow:Arbeitnow:ui-ux-designer-teambox-hamburg-86752",
+"company": "everii Group GmbH",
+"title": "UI / UX Designer TEAMBOX (m/w/d)",
+"location": "Hamburg",
+"remote": null,
+"posted": "2026-11-11",
+"url": "https://www.arbeitnow.com/jobs/companies/everii-group-gmbh/ui-ux-designer-teambox-hamburg-86752",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-11"
+},
+{
+"id": "arbeitnow:Arbeitnow:ui-designer-ai-neobank-app-zurich-93467",
+"company": "Bjak",
+"title": "UI Designer - AI Neobank App",
+"location": "Switzerland",
+"remote": null,
+"posted": "2026-11-10",
+"url": "https://www.arbeitnow.ch/jobs/companies/bjak/ui-designer-ai-neobank-app-zurich-93467",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-11"
+},
+{
+"id": "arbeitnow:Arbeitnow:mobile-ui-designer-netherlands-347031",
+"company": "Bjak",
+"title": "Mobile UI Designer",
+"location": "Netherlands",
+"remote": null,
+"posted": "2026-11-10",
+"url": "https://www.arbeitnow.nl/jobs/companies/bjak/mobile-ui-designer-netherlands-347031",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-11"
+},
+{
+"id": "arbeitnow:Arbeitnow:product-designer-ui-ux-netherlands-163979",
+"company": "Bjak",
+"title": "Product Designer (UI/UX)",
+"location": "Netherlands",
+"remote": null,
+"posted": "2026-11-10",
+"url": "https://www.arbeitnow.nl/jobs/companies/bjak/product-designer-ui-ux-netherlands-163979",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-11"
@@ -64,42 +256,6 @@
 "firstSeen": "2026-11-11"
 },
 {
-"id": "arbeitnow:Arbeitnow:ui-designer-ai-neobank-app-zurich-93467",
-"company": "Bjak",
-"title": "UI Designer - AI Neobank App",
-"location": "Switzerland",
-"remote": null,
-"posted": "2026-11-10",
-"url": "https://www.arbeitnow.ch/jobs/companies/bjak/ui-designer-ai-neobank-app-zurich-93467",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-11"
-},
-{
-"id": "arbeitnow:Arbeitnow:mobile-ui-designer-netherlands-347031",
-"company": "Bjak",
-"title": "Mobile UI Designer",
-"location": "Netherlands",
-"remote": null,
-"posted": "2026-11-10",
-"url": "https://www.arbeitnow.nl/jobs/companies/bjak/mobile-ui-designer-netherlands-347031",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-11"
-},
-{
-"id": "arbeitnow:Arbeitnow:product-designer-ui-ux-netherlands-163979",
-"company": "Bjak",
-"title": "Product Designer (UI/UX)",
-"location": "Netherlands",
-"remote": null,
-"posted": "2026-11-10",
-"url": "https://www.arbeitnow.nl/jobs/companies/bjak/product-designer-ui-ux-netherlands-163979",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-11"
-},
-{
 "id": "arbeitnow:Arbeitnow:mobile-ui-designer-london-442426",
 "company": "Bjak",
 "title": "Mobile UI Designer",
@@ -124,18 +280,6 @@
 "firstSeen": "2026-11-10"
 },
 {
-"id": "arbeitnow:Arbeitnow:junior-quantum-design-engineer-delft-146275",
-"company": "Quantware",
-"title": "Junior Quantum Design Engineer",
-"location": "Delft",
-"remote": null,
-"posted": "2026-11-10",
-"url": "https://www.arbeitnow.nl/jobs/companies/quantware/junior-quantum-design-engineer-delft-146275",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-10"
-},
-{
 "id": "arbeitnow:Arbeitnow:principal-design-engineer-mechanical-equipment-80-100-zurich-483998",
 "company": "Climeworks",
 "title": "Principal Design Engineer - Mechanical Equipment (80-100%)",
@@ -143,6 +287,18 @@
 "remote": null,
 "posted": "2026-11-10",
 "url": "https://www.arbeitnow.ch/jobs/companies/climeworks/principal-design-engineer-mechanical-equipment-80-100-zurich-483998",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-10"
+},
+{
+"id": "arbeitnow:Arbeitnow:junior-quantum-design-engineer-delft-146275",
+"company": "Quantware",
+"title": "Junior Quantum Design Engineer",
+"location": "Delft",
+"remote": null,
+"posted": "2026-11-10",
+"url": "https://www.arbeitnow.nl/jobs/companies/quantware/junior-quantum-design-engineer-delft-146275",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-10"
@@ -172,54 +328,6 @@
 "firstSeen": "2026-11-10"
 },
 {
-"id": "arbeitnow:Arbeitnow:produktentwickler-designer-socken-footwear-berlin-410221",
-"company": "GC Footwear GmbH",
-"title": "Produktentwickler & Designer (M/W/D) - Socken & Footwear",
-"location": "Berlin",
-"remote": null,
-"posted": "2026-11-10",
-"url": "https://www.arbeitnow.com/jobs/companies/gc-footwear-gmbh/produktentwickler-designer-socken-footwear-berlin-410221",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-10"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-product-designer-london-51875",
-"company": "Spruce",
-"title": "Senior Product Designer",
-"location": "London",
-"remote": null,
-"posted": "2026-11-10",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/spruce/senior-product-designer-london-51875",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-10"
-},
-{
-"id": "arbeitnow:Arbeitnow:lead-product-designer-london-330368",
-"company": "Spruce",
-"title": "Lead Product Designer",
-"location": "London",
-"remote": null,
-"posted": "2026-11-10",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/spruce/lead-product-designer-london-330368",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-10"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-product-designer-hamburg-hamburg-372138",
-"company": "appinio",
-"title": "(Senior) Product Designer (m/f/d)",
-"location": "Hamburg, Hamburg",
-"remote": null,
-"posted": "2026-11-10",
-"url": "https://www.arbeitnow.com/jobs/companies/appinio/senior-product-designer-hamburg-hamburg-372138",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-10"
-},
-{
 "id": "arbeitnow:Arbeitnow:vacature-stagiair-illustrator-designer-eindhoven-10206",
 "company": "Bigfish.nl",
 "title": "Vacature: Stagiair Illustrator / Designer",
@@ -227,42 +335,6 @@
 "remote": null,
 "posted": "2026-11-09",
 "url": "https://www.arbeitnow.nl/jobs/companies/bigfishnl/vacature-stagiair-illustrator-designer-eindhoven-10206",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-09"
-},
-{
-"id": "arbeitnow:Arbeitnow:concepteur-cabine-cabin-designer-h-f-mulhouse-142107",
-"company": "Sogeclair",
-"title": "Concepteur cabine / Cabin Designer (H/F)",
-"location": "Mulhouse, France",
-"remote": null,
-"posted": "2026-11-09",
-"url": "https://www.arbeitnow.fr/jobs/companies/sogeclair/concepteur-cabine-cabin-designer-h-f-mulhouse-142107",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-09"
-},
-{
-"id": "arbeitnow:Arbeitnow:concepteur-cabine-cabin-designer-h-f-toulouse-150723",
-"company": "Sogeclair",
-"title": "Concepteur cabine / Cabin Designer (H/F)",
-"location": "Toulouse, France",
-"remote": null,
-"posted": "2026-11-09",
-"url": "https://www.arbeitnow.fr/jobs/companies/sogeclair/concepteur-cabine-cabin-designer-h-f-toulouse-150723",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-09"
-},
-{
-"id": "arbeitnow:Arbeitnow:design-system-manager-consultante-paris-20426",
-"company": "Thiga",
-"title": "Design System Manager - Consultant.e",
-"location": "Paris",
-"remote": null,
-"posted": "2026-11-09",
-"url": "https://www.arbeitnow.fr/jobs/companies/thiga/design-system-manager-consultante-paris-20426",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-09"
@@ -336,18 +408,6 @@
 "posted": "2026-11-04",
 "url": "https://www.okta.com/company/careers/opportunity/8232605?gh_jid=8232605",
 "source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-11-04"
-},
-{
-"id": "arbeitnow:Arbeitnow:sr-product-designer-amsterdam-292883",
-"company": "databricks",
-"title": "Sr. Product Designer",
-"location": "Amsterdam",
-"remote": null,
-"posted": "2026-11-04",
-"url": "https://www.arbeitnow.nl/jobs/companies/databricks/sr-product-designer-amsterdam-292883",
-"source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-04"
 },
@@ -485,6 +545,18 @@
 "firstSeen": "2026-10-23"
 },
 {
+"id": "greenhouse:n26:8211088",
+"company": "N26",
+"title": "Product Designer",
+"location": "Barcelona",
+"remote": null,
+"posted": "2026-11-11",
+"url": "https://n26.com/en-eu/careers/positions/8211088?gh_jid=8211088",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-22"
+},
+{
 "id": "greenhouse:bitpanda:5009825101",
 "company": "Bitpanda",
 "title": "Senior Product Designer, Web3",
@@ -569,6 +641,30 @@
 "region": "Europe",
 "postedText": "Posted 23 Days Ago",
 "firstSeen": "2026-10-19"
+},
+{
+"id": "greenhouse:hellofresh:8242900",
+"company": "HelloFresh",
+"title": "Senior Service Designer, Food Systems & Fulfillment",
+"location": "Warszawa, Masovian Voivodeship, Poland",
+"remote": null,
+"posted": "2026-11-11",
+"url": "https://careers.hellofresh.com/global/en/job/8242900?gh_jid=8242900",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:hellofresh:8242893",
+"company": "HelloFresh",
+"title": "Senior Service Designer, Food Systems & Fulfillment (f/m/x)",
+"location": "Berlin, Berlin, Germany",
+"remote": null,
+"posted": "2026-11-11",
+"url": "https://careers.hellofresh.com/global/en/job/8242893?gh_jid=8242893",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
 },
 {
 "id": "greenhouse:ebury:4975330101",
@@ -722,30 +818,6 @@
 "remote": null,
 "posted": "2026-11-05",
 "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8284768",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:hellofresh:8242900",
-"company": "HelloFresh",
-"title": "Senior Service Designer, Food Systems & Fulfillment",
-"location": "Warszawa, Masovian Voivodeship, Poland",
-"remote": null,
-"posted": "2026-11-05",
-"url": "https://careers.hellofresh.com/global/en/job/8242900?gh_jid=8242900",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:hellofresh:8242893",
-"company": "HelloFresh",
-"title": "Senior Service Designer, Food Systems & Fulfillment (f/m/x)",
-"location": "Berlin, Berlin, Germany",
-"remote": null,
-"posted": "2026-11-05",
-"url": "https://careers.hellofresh.com/global/en/job/8242893?gh_jid=8242893",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -943,18 +1015,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:moniepoint:4944264101",
-"company": "Moniepoint",
-"title": "Product Design Manager - UX",
-"location": "Remote, Poland",
-"remote": null,
-"posted": "2026-10-19",
-"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4944264101",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:moniepoint:4944263101",
 "company": "Moniepoint",
 "title": "Product Design Manager - UX",
@@ -962,6 +1022,18 @@
 "remote": null,
 "posted": "2026-10-19",
 "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4944263101",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:moniepoint:4944264101",
+"company": "Moniepoint",
+"title": "Product Design Manager - UX",
+"location": "Remote, Poland",
+"remote": null,
+"posted": "2026-10-19",
+"url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4944264101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"

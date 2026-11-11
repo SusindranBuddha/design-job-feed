@@ -1,8 +1,32 @@
 {
-"generated": "2026-11-11T09:28:46Z",
+"generated": "2026-11-11T21:28:12Z",
 "region": "Remote",
-"count": 177,
+"count": 179,
 "jobs": [
+{
+"id": "ashby:clera:f1f92c51-0b8f-4a46-96d9-da2d4b4066a3",
+"company": "Clera",
+"title": "Founding Design Engineer",
+"location": "Palo Alto",
+"remote": "Remote",
+"posted": "2026-11-11",
+"url": "https://jobs.ashbyhq.com/Clera/f1f92c51-0b8f-4a46-96d9-da2d4b4066a3",
+"source": "ashby",
+"region": "Remote",
+"firstSeen": "2026-11-11"
+},
+{
+"id": "jobicy:Jobicy:161363",
+"company": "HyperHug",
+"title": "Live Ops Game Designer",
+"location": "Cyprus",
+"remote": "remote",
+"posted": "2026-11-11",
+"url": "https://jobicy.com/jobs/161363-live-ops-game-designer",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-11"
+},
 {
 "id": "jobicy:Jobicy:152864",
 "company": "Tremendous",

@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-12T09:53:14Z",
+"generated": "2026-11-12T21:29:13Z",
 "region": "APAC",
-"count": 78,
+"count": 76,
 "jobs": [
 {
 "id": "mcf:MyCareersFuture:5f6f7b1e3c5a3ea37008910c1c2c4f76",
@@ -804,19 +804,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "mcf:MyCareersFuture:c3429d202cd97f0d5657d14806301cc6",
-"company": "WEBSPARKS PTE. LTD.",
-"title": "UX/UI Designer for GDT (Contract)",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-15",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/uxui-designer-gdt-websparks-c3429d202cd97f0d5657d14806301cc6",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 4500-6500 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "smartrecruiters:Grab:744000155428469",
 "company": "Grab",
 "title": "Senior Product Designer, Driver Experience and Fulfilment",
@@ -839,19 +826,6 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 6000-10000 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:b8373f70ae0ff23771a3b2913e0943b2",
-"company": "SCIENTEC CONSULTING PTE. LTD.",
-"title": "Senior UX Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-13",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-ux-designer-scientec-consulting-b8373f70ae0ff23771a3b2913e0943b2",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 5000-9000 /Monthly",
 "firstSeen": "2026-10-17"
 },
 {

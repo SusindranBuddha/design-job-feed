@@ -1,8 +1,20 @@
 {
-"generated": "2026-11-12T09:53:14Z",
+"generated": "2026-11-12T21:29:13Z",
 "region": "Nordics",
-"count": 63,
+"count": 67,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31724406",
+"company": "Nordic Investin Group Aktiebolag",
+"title": "Senior Product Designer Financial Tools",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-12",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31724406",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-12"
+},
 {
 "id": "platsbanken:Platsbanken:31720359",
 "company": "H & M Hennes & Mauritz GBC AB",
@@ -11,6 +23,90 @@
 "remote": null,
 "posted": "2026-11-12",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31720359",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-12"
+},
+{
+"id": "platsbanken:Platsbanken:31724428",
+"company": "Nordic Investin Group Aktiebolag",
+"title": "UX Content Specialist Regulated Services",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-12",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31724428",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-12"
+},
+{
+"id": "platsbanken:Platsbanken:31724404",
+"company": "Nordic Investin Group Aktiebolag",
+"title": "Service Designer Mobility Services",
+"location": "Göteborg",
+"remote": null,
+"posted": "2026-11-12",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31724404",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-12"
+},
+{
+"id": "platsbanken:Platsbanken:31724385",
+"company": "Nordic Investin Group Aktiebolag",
+"title": "UX Research Specialist Healthcare",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-12",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31724385",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-12"
+},
+{
+"id": "platsbanken:Platsbanken:31724307",
+"company": "Nordic Investin Group Aktiebolag",
+"title": "UX Engineer Design Systems",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-12",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31724307",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-12"
+},
+{
+"id": "platsbanken:Platsbanken:31723084",
+"company": "Sway Sourcing Sweden Aktiebolag",
+"title": "Senior UX/UI Designer – Mobilappar & digitala kundupplevelser",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-12",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31723084",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-12"
+},
+{
+"id": "platsbanken:Platsbanken:31722016",
+"company": "SAAB Aktiebolag",
+"title": "Konstruktör/designer - Saab Barracuda, Gamleby",
+"location": "Västervik",
+"remote": null,
+"posted": "2026-11-12",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31722016",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-12"
+},
+{
+"id": "platsbanken:Platsbanken:31721847",
+"company": "Veritaz AB",
+"title": "Electrical Harness & Hardware Design Engineer Automotive - 20791",
+"location": "Södertälje",
+"remote": null,
+"posted": "2026-11-12",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31721847",
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-11-12"
@@ -100,18 +196,6 @@
 "firstSeen": "2026-11-10"
 },
 {
-"id": "platsbanken:Platsbanken:31712562",
-"company": "Integro Consulting AB",
-"title": "Electronics Design Engineer – MedTech",
-"location": "Göteborg",
-"remote": null,
-"posted": "2026-11-10",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31712562",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-10"
-},
-{
 "id": "platsbanken:Platsbanken:31703838",
 "company": "ABB AB",
 "title": "Innovative User Experience Designer",
@@ -119,42 +203,6 @@
 "remote": null,
 "posted": "2026-11-09",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31703838",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-09"
-},
-{
-"id": "platsbanken:Platsbanken:31707175",
-"company": "Plejd AB",
-"title": "Senior Mechanical Design Engineer",
-"location": "Mölndal",
-"remote": null,
-"posted": "2026-11-09",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31707175",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-09"
-},
-{
-"id": "platsbanken:Platsbanken:31706603",
-"company": "Volvo Business Services Aktiebolag",
-"title": "Senior System Design Engineer",
-"location": "Göteborg",
-"remote": null,
-"posted": "2026-11-09",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31706603",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-09"
-},
-{
-"id": "platsbanken:Platsbanken:31705961",
-"company": "Husqvarna AB",
-"title": "Design Engineer Power Supply Units & Electrical Components",
-"location": "Jönköping",
-"remote": null,
-"posted": "2026-11-09",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31705961",
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-11-09"

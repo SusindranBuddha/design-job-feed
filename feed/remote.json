@@ -1,8 +1,44 @@
 {
-"generated": "2026-11-12T09:53:14Z",
+"generated": "2026-11-12T21:29:13Z",
 "region": "Remote",
-"count": 181,
+"count": 180,
 "jobs": [
+{
+"id": "jobicy:Jobicy:161536",
+"company": "Truelogic",
+"title": "Senior Product Designer - Travel & Hospitality",
+"location": "Mexico",
+"remote": "remote",
+"posted": "2026-11-12",
+"url": "https://jobicy.com/jobs/161536-senior-product-designer-travel-hospitality",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-12"
+},
+{
+"id": "jobicy:Jobicy:161508",
+"company": "dscout",
+"title": "Senior Product Designer",
+"location": "USA",
+"remote": "remote",
+"posted": "2026-11-12",
+"url": "https://jobicy.com/jobs/161508-senior-product-designer-20",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-12"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/codekeeper/jobs/digital-product-designer-7980129206",
+"company": "Codekeeper",
+"title": "Digital Product Designer",
+"location": "Argentina",
+"remote": "remote",
+"posted": "2026-11-12",
+"url": "https://himalayas.app/companies/codekeeper/jobs/digital-product-designer-7980129206?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-12"
+},
 {
 "id": "jobicy:Jobicy:161385",
 "company": "Deepgram",
@@ -112,18 +148,6 @@
 "firstSeen": "2026-11-10"
 },
 {
-"id": "jobicy:Jobicy:160790",
-"company": "CRAFTSMAN+",
-"title": "Rich Media Designer",
-"location": "Argentina",
-"remote": "remote",
-"posted": "2026-11-10",
-"url": "https://jobicy.com/jobs/160790-rich-media-designer",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-11-10"
-},
-{
 "id": "ashby:clera:27f3a6c6-fdda-4912-ba33-5bc30c67280d",
 "company": "Clera",
 "title": "Founding Product Designer",
@@ -218,18 +242,6 @@
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-07"
-},
-{
-"id": "ashby:clera:48bdb45d-0901-483e-ba74-f50e0edeeb33",
-"company": "Clera",
-"title": "Full-Stack Design Engineer",
-"location": "San Francisco",
-"remote": "OnSite",
-"posted": "2026-11-06",
-"url": "https://jobs.ashbyhq.com/Clera/48bdb45d-0901-483e-ba74-f50e0edeeb33",
-"source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-11-06"
 },
 {
 "id": "himalayas:Himalayas:https://himalayas.app/companies/ondo-finance/jobs/senior-product-designer-design-systems",
@@ -755,18 +767,6 @@
 "remote": "remote",
 "posted": "2026-10-22",
 "url": "https://himalayas.app/companies/lemon-io/jobs/senior-ui-ux-designer?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-22"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/wellio/jobs/senior-product-designer",
-"company": "Wellio",
-"title": "Senior Product Designer",
-"location": "United Kingdom",
-"remote": "remote",
-"posted": "2026-10-22",
-"url": "https://himalayas.app/companies/wellio/jobs/senior-product-designer?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-22"
@@ -2003,18 +2003,6 @@
 "remote": "remote",
 "posted": "2026-09-14",
 "url": "https://himalayas.app/companies/quest-defense-systems-solutions-inc/jobs/senior-mechanical-design-engineer-structures-systems?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/padsplit/jobs/senior-product-designer-fully-remote",
-"company": "PadSplit",
-"title": "Senior Product Designer (Fully Remote)",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-09-13",
-"url": "https://himalayas.app/companies/padsplit/jobs/senior-product-designer-fully-remote?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-17"

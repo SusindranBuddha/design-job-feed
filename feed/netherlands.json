@@ -1,8 +1,32 @@
 {
-"generated": "2026-11-12T09:53:14Z",
+"generated": "2026-11-12T21:29:13Z",
 "region": "Netherlands",
 "count": 11,
 "jobs": [
+{
+"id": "greenhouse:housinganywhere:8202585003",
+"company": "HousingAnywhere",
+"title": "Senior Product Designer - Listing & Finding experience",
+"location": "Rotterdam, Zuid-Holland, Netherlands",
+"remote": null,
+"posted": "2026-11-12",
+"url": "https://job-boards.greenhouse.io/housinganywhere/jobs/8202585003",
+"source": "greenhouse",
+"region": "Netherlands",
+"firstSeen": "2026-11-12"
+},
+{
+"id": "greenhouse:housinganywhere:8202587003",
+"company": "HousingAnywhere",
+"title": "Senior Product Designer - Post Booking experience",
+"location": "Rotterdam, Zuid-Holland, Netherlands",
+"remote": null,
+"posted": "2026-11-12",
+"url": "https://job-boards.greenhouse.io/housinganywhere/jobs/8202587003",
+"source": "greenhouse",
+"region": "Netherlands",
+"firstSeen": "2026-11-12"
+},
 {
 "id": "greenhouse:catawiki:8354353",
 "company": "Catawiki",
@@ -14,6 +38,18 @@
 "source": "greenhouse",
 "region": "Netherlands",
 "firstSeen": "2026-11-05"
+},
+{
+"id": "greenhouse:elastic:8319081",
+"company": "Elastic",
+"title": "Software Engineering Manager - Global UX - Applications - Platform",
+"location": "Portugal",
+"remote": null,
+"posted": "2026-10-23",
+"url": "https://jobs.elastic.co/jobs?gh_jid=8319081&gh_jid=8319081",
+"source": "greenhouse",
+"region": "Netherlands",
+"firstSeen": "2026-10-24"
 },
 {
 "id": "greenhouse:elastic:8319082",
@@ -40,30 +76,6 @@
 "firstSeen": "2026-10-24"
 },
 {
-"id": "greenhouse:elastic:8319081",
-"company": "Elastic",
-"title": "Software Engineering Manager - Global UX - Applications - Platform",
-"location": "Portugal",
-"remote": null,
-"posted": "2026-10-23",
-"url": "https://jobs.elastic.co/jobs?gh_jid=8319081&gh_jid=8319081",
-"source": "greenhouse",
-"region": "Netherlands",
-"firstSeen": "2026-10-24"
-},
-{
-"id": "greenhouse:housinganywhere:8042994003",
-"company": "HousingAnywhere",
-"title": "Senior Product Designer - Post Booking experience",
-"location": "Rotterdam, Zuid-Holland, Netherlands",
-"remote": null,
-"posted": "2026-10-26",
-"url": "https://job-boards.greenhouse.io/housinganywhere/jobs/8042994003",
-"source": "greenhouse",
-"region": "Netherlands",
-"firstSeen": "2026-10-23"
-},
-{
 "id": "greenhouse:adyen:8242349",
 "company": "Adyen",
 "title": "Senior Digital Designer",
@@ -71,18 +83,6 @@
 "remote": null,
 "posted": "2026-11-02",
 "url": "https://job-boards.greenhouse.io/adyen/jobs/8242349",
-"source": "greenhouse",
-"region": "Netherlands",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:housinganywhere:8015483003",
-"company": "HousingAnywhere",
-"title": "Senior Product Designer - Listing & Finding experience",
-"location": "Rotterdam, Zuid-Holland, Netherlands",
-"remote": null,
-"posted": "2026-10-26",
-"url": "https://job-boards.greenhouse.io/housinganywhere/jobs/8015483003",
 "source": "greenhouse",
 "region": "Netherlands",
 "firstSeen": "2026-10-17"

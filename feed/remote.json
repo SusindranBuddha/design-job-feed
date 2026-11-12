@@ -1,8 +1,44 @@
 {
-"generated": "2026-11-11T21:28:12Z",
+"generated": "2026-11-12T09:53:14Z",
 "region": "Remote",
-"count": 179,
+"count": 181,
 "jobs": [
+{
+"id": "jobicy:Jobicy:161385",
+"company": "Deepgram",
+"title": "Product Designer II",
+"location": "USA",
+"remote": "remote",
+"posted": "2026-11-11",
+"url": "https://jobicy.com/jobs/161385-product-designer-ii-2",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-12"
+},
+{
+"id": "jobicy:Jobicy:161382",
+"company": "Deepgram",
+"title": "Staff Conversational Designer",
+"location": "USA",
+"remote": "remote",
+"posted": "2026-11-11",
+"url": "https://jobicy.com/jobs/161382-staff-conversational-designer",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-12"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/360-privacy/jobs/senior-product-designer-design-systems",
+"company": "360 Privacy",
+"title": "Senior Product Designer, Design Systems",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-11-11",
+"url": "https://himalayas.app/companies/360-privacy/jobs/senior-product-designer-design-systems?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-12"
+},
 {
 "id": "ashby:clera:f1f92c51-0b8f-4a46-96d9-da2d4b4066a3",
 "company": "Clera",
@@ -96,18 +132,6 @@
 "posted": "2026-11-08",
 "url": "https://jobs.ashbyhq.com/Clera/27f3a6c6-fdda-4912-ba33-5bc30c67280d",
 "source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-11-08"
-},
-{
-"id": "jobicy:Jobicy:159806",
-"company": "Reddit",
-"title": "Principal UX Engineer, Ads",
-"location": "USA",
-"remote": "remote",
-"posted": "2026-11-08",
-"url": "https://jobicy.com/jobs/159806-principal-ux-engineer-ads",
-"source": "Jobicy",
 "region": "Remote",
 "firstSeen": "2026-11-08"
 },
@@ -736,6 +760,18 @@
 "firstSeen": "2026-10-22"
 },
 {
+"id": "himalayas:Himalayas:https://himalayas.app/companies/wellio/jobs/senior-product-designer",
+"company": "Wellio",
+"title": "Senior Product Designer",
+"location": "United Kingdom",
+"remote": "remote",
+"posted": "2026-10-22",
+"url": "https://himalayas.app/companies/wellio/jobs/senior-product-designer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-22"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/granum/jobs/senior-product-designer",
 "company": "Granum",
 "title": "Senior Product Designer",
@@ -1103,18 +1139,6 @@
 "remote": "remote",
 "posted": "2026-10-29",
 "url": "https://himalayas.app/companies/mercor/jobs/design-systems-specialist-fully-remote-upto-80-hr-5948947017?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/softgames/jobs/senior-game-designer-systems-economy-fully-remote",
-"company": "SOFTGAMES",
-"title": "Senior Game Designer - Systems & Economy - Fully Remote",
-"location": "Germany",
-"remote": "remote",
-"posted": "2026-10-29",
-"url": "https://himalayas.app/companies/softgames/jobs/senior-game-designer-systems-economy-fully-remote?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"

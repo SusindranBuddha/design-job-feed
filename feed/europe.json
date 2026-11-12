@@ -1,8 +1,104 @@
 {
-"generated": "2026-11-11T21:28:12Z",
+"generated": "2026-11-12T09:53:14Z",
 "region": "Europe",
-"count": 104,
+"count": 109,
 "jobs": [
+{
+"id": "arbeitnow:Arbeitnow:principal-product-designer-hospitality-london-396449",
+"company": "opentable",
+"title": "Principal Product Designer - Hospitality",
+"location": "London",
+"remote": null,
+"posted": "2026-11-12",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/opentable/principal-product-designer-hospitality-london-396449",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-12"
+},
+{
+"id": "arbeitnow:Arbeitnow:principal-product-designer-diner-platform-london-396545",
+"company": "opentable",
+"title": "Principal Product Designer - Diner Platform",
+"location": "London",
+"remote": null,
+"posted": "2026-11-12",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/opentable/principal-product-designer-diner-platform-london-396545",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-12"
+},
+{
+"id": "arbeitnow:Arbeitnow:founding-ui-ux-artist-unannounced-game-london-23562",
+"company": "Supercell",
+"title": "Founding UI/UX Artist, Unannounced Game",
+"location": "London",
+"remote": null,
+"posted": "2026-11-12",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/supercell/founding-ui-ux-artist-unannounced-game-london-23562",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-12"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-parisfrance-353020",
+"company": "Didomi",
+"title": "Senior Product Designer",
+"location": "Paris,France",
+"remote": null,
+"posted": "2026-11-12",
+"url": "https://www.arbeitnow.fr/jobs/companies/didomi/senior-product-designer-parisfrance-353020",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-12"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-london-489396",
+"company": "Healthtech 1",
+"title": "Senior Product Designer",
+"location": "Stratford, East London",
+"remote": null,
+"posted": "2026-11-12",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/healthtech-1/senior-product-designer-london-489396",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-12"
+},
+{
+"id": "arbeitnow:Arbeitnow:product-designer-london-118406",
+"company": "Letly",
+"title": "Product Designer",
+"location": "London",
+"remote": null,
+"posted": "2026-11-12",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/letly/product-designer-london-118406",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-12"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-staff-product-designer-73196",
+"company": "tide",
+"title": "Senior Staff Product Designer",
+"location": "",
+"remote": null,
+"posted": "2026-11-12",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/tide/senior-staff-product-designer-73196",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-12"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-berlin-34719",
+"company": "Resident Advisor",
+"title": "Senior Product Designer - Berlin",
+"location": "Berlin, Germany",
+"remote": null,
+"posted": "2026-11-11",
+"url": "https://www.arbeitnow.com/jobs/companies/resident-advisor/senior-product-designer-berlin-34719",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-12"
+},
 {
 "id": "ashby:9fin:fbfb0578-11c7-46bd-b935-33fd1e6db7d0",
 "company": "9fin",
@@ -36,6 +132,42 @@
 "posted": "2026-11-11",
 "url": "https://stripe.com/jobs/search?gh_jid=8205126",
 "source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-11-11"
+},
+{
+"id": "arbeitnow:Arbeitnow:technical-support-mit-ux-design-background-zurich-363158",
+"company": "PrivaSphere AG",
+"title": "Technical support mit UX Design Background",
+"location": "Zürich",
+"remote": null,
+"posted": "2026-11-11",
+"url": "https://www.arbeitnow.ch/jobs/companies/privasphere-ag/technical-support-mit-ux-design-background-zurich-363158",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-11"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-security-amsterdam-461272",
+"company": "Vinteden",
+"title": "Senior Product Designer, Security",
+"location": "Amsterdam",
+"remote": null,
+"posted": "2026-11-11",
+"url": "https://www.arbeitnow.nl/jobs/companies/vinteden/senior-product-designer-security-amsterdam-461272",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-11"
+},
+{
+"id": "arbeitnow:Arbeitnow:remote-product-designer-amsterdam-294295",
+"company": "SkyCell AG",
+"title": "Product Designer",
+"location": "Remote job",
+"remote": "remote",
+"posted": "2026-11-11",
+"url": "https://www.arbeitnow.nl/jobs/companies/skycell-ag/remote-product-designer-amsterdam-294295",
+"source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-11"
 },
@@ -88,18 +220,6 @@
 "firstSeen": "2026-11-11"
 },
 {
-"id": "arbeitnow:Arbeitnow:technical-support-mit-ux-design-background-zurich-363158",
-"company": "PrivaSphere AG",
-"title": "Technical support mit UX Design Background",
-"location": "Zürich",
-"remote": null,
-"posted": "2026-11-11",
-"url": "https://www.arbeitnow.ch/jobs/companies/privasphere-ag/technical-support-mit-ux-design-background-zurich-363158",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-11"
-},
-{
 "id": "arbeitnow:Arbeitnow:web-designer-at-aios-remote-100k-200k-yr-including-equity-berlin-314963",
 "company": "AIOS (YC W20/S21)",
 "title": "Web Designer at AIOS — Remote, $100k-$200k/yr (including equity)",
@@ -107,42 +227,6 @@
 "remote": null,
 "posted": "2026-11-11",
 "url": "https://www.arbeitnow.com/jobs/companies/aios-yc-w20s21/web-designer-at-aios-remote-100k-200k-yr-including-equity-berlin-314963",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-11"
-},
-{
-"id": "arbeitnow:Arbeitnow:principal-designer-london-51605",
-"company": "Faculty",
-"title": "Principal Designer",
-"location": "London",
-"remote": null,
-"posted": "2026-11-11",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/principal-designer-london-51605",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-11"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-product-designer-security-amsterdam-461272",
-"company": "Vinteden",
-"title": "Senior Product Designer, Security",
-"location": "Amsterdam",
-"remote": null,
-"posted": "2026-11-11",
-"url": "https://www.arbeitnow.nl/jobs/companies/vinteden/senior-product-designer-security-amsterdam-461272",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-11"
-},
-{
-"id": "arbeitnow:Arbeitnow:remote-product-designer-amsterdam-294295",
-"company": "SkyCell AG",
-"title": "Product Designer",
-"location": "Remote job",
-"remote": "remote",
-"posted": "2026-11-11",
-"url": "https://www.arbeitnow.nl/jobs/companies/skycell-ag/remote-product-designer-amsterdam-294295",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-11"
@@ -167,6 +251,18 @@
 "remote": null,
 "posted": "2026-11-11",
 "url": "https://www.arbeitnow.com/jobs/companies/everii-group-gmbh/ui-ux-designer-teambox-hamburg-86752",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-11"
+},
+{
+"id": "arbeitnow:Arbeitnow:principal-designer-london-51605",
+"company": "Faculty",
+"title": "Principal Designer",
+"location": "London",
+"remote": null,
+"posted": "2026-11-11",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/principal-designer-london-51605",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-11"
@@ -256,18 +352,6 @@
 "firstSeen": "2026-11-11"
 },
 {
-"id": "arbeitnow:Arbeitnow:mobile-ui-designer-london-442426",
-"company": "Bjak",
-"title": "Mobile UI Designer",
-"location": "United Kingdom",
-"remote": null,
-"posted": "2026-11-10",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/mobile-ui-designer-london-442426",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-11"
-},
-{
 "id": "smartrecruiters:ScalableGmbH:744000160847599",
 "company": "Scalable Capital",
 "title": "Digital Product Designer (m/f/x)",
@@ -276,18 +360,6 @@
 "posted": "2026-11-10",
 "url": "https://jobs.smartrecruiters.com/ScalableGmbH/744000160847599",
 "source": "smartrecruiters",
-"region": "Europe",
-"firstSeen": "2026-11-10"
-},
-{
-"id": "arbeitnow:Arbeitnow:principal-design-engineer-mechanical-equipment-80-100-zurich-483998",
-"company": "Climeworks",
-"title": "Principal Design Engineer - Mechanical Equipment (80-100%)",
-"location": "Zurich, Zürich, Switzerland",
-"remote": null,
-"posted": "2026-11-10",
-"url": "https://www.arbeitnow.ch/jobs/companies/climeworks/principal-design-engineer-mechanical-equipment-80-100-zurich-483998",
-"source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-10"
 },
@@ -304,25 +376,13 @@
 "firstSeen": "2026-11-10"
 },
 {
-"id": "arbeitnow:Arbeitnow:werkstudent-ui-ux-design-berlin-395445",
-"company": "Nulegal GmbH",
-"title": "Werkstudent UI/UX Design (m/w/d)",
-"location": "Potsdam",
+"id": "arbeitnow:Arbeitnow:principal-design-engineer-mechanical-equipment-80-100-zurich-483998",
+"company": "Climeworks",
+"title": "Principal Design Engineer - Mechanical Equipment (80-100%)",
+"location": "Zurich, Zürich, Switzerland",
 "remote": null,
 "posted": "2026-11-10",
-"url": "https://www.arbeitnow.com/jobs/companies/nulegal-gmbh/werkstudent-ui-ux-design-berlin-395445",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-10"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-staff-product-designer-germany-376745",
-"company": "N8N",
-"title": "Senior/Staff Product Designer",
-"location": "Germany",
-"remote": null,
-"posted": "2026-11-10",
-"url": "https://www.arbeitnow.com/jobs/companies/n8n/senior-staff-product-designer-germany-376745",
+"url": "https://www.arbeitnow.ch/jobs/companies/climeworks/principal-design-engineer-mechanical-equipment-80-100-zurich-483998",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-10"
@@ -421,7 +481,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/UX-Designer--Officer_R-795745",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 8 Days Ago",
+"postedText": "Posted 9 Days Ago",
 "firstSeen": "2026-11-04"
 },
 {
@@ -626,7 +686,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Business-Analysis--AVP-1_R-786883",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 23 Days Ago",
+"postedText": "Posted 24 Days Ago",
 "firstSeen": "2026-10-20"
 },
 {
@@ -639,7 +699,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Platform-Engineering---Dev-UX--Production-Website---Off_R-799791-1",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 23 Days Ago",
+"postedText": "Posted 24 Days Ago",
 "firstSeen": "2026-10-19"
 },
 {

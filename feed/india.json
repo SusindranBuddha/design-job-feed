@@ -1,5 +1,5 @@
 {
-"generated": "2026-11-11T21:28:12Z",
+"generated": "2026-11-12T09:53:14Z",
 "region": "India",
 "count": 15,
 "jobs": [
@@ -23,6 +23,18 @@
 "remote": "remote",
 "posted": "2026-11-03",
 "url": "https://jobs.lever.co/gohighlevel/280b7a9a-107e-4ac7-b5c5-c07648a7e02e",
+"source": "lever",
+"region": "India",
+"firstSeen": "2026-11-03"
+},
+{
+"id": "lever:gohighlevel:51a46259-1107-4bab-883c-6767aad5f405",
+"company": "HighLevel",
+"title": "Lead Product Designer, Design Systems",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-10-29",
+"url": "https://jobs.lever.co/gohighlevel/51a46259-1107-4bab-883c-6767aad5f405",
 "source": "lever",
 "region": "India",
 "firstSeen": "2026-11-03"
@@ -169,19 +181,6 @@
 "url": "https://jobs.lever.co/mindtickle/a2bc1371-eade-465a-a017-46c746742baa",
 "source": "lever",
 "region": "India",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "workday:sprinklr:/job/India---Haryana---Gurgaon/Lead-Product-Designer_113299-JOB",
-"company": "Sprinklr",
-"title": "Lead Product Designer",
-"location": "India - Haryana - Gurgaon",
-"remote": null,
-"posted": null,
-"url": "https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Lead-Product-Designer_113299-JOB",
-"source": "workday",
-"region": "India",
-"postedText": "Posted 30+ Days Ago",
 "firstSeen": "2026-10-17"
 }
 ]

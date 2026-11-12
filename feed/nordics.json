@@ -1,8 +1,32 @@
 {
-"generated": "2026-11-11T21:28:12Z",
+"generated": "2026-11-12T09:53:14Z",
 "region": "Nordics",
-"count": 65,
+"count": 63,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31720359",
+"company": "H & M Hennes & Mauritz GBC AB",
+"title": "Digital Product Designer - Retail Tech",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-12",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31720359",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-12"
+},
+{
+"id": "platsbanken:Platsbanken:31720382",
+"company": "Alten Sverige Aktiebolag",
+"title": "Electrical & Electronics System Design Engineer",
+"location": "Göteborg",
+"remote": null,
+"posted": "2026-11-12",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31720382",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-12"
+},
 {
 "id": "platsbanken:Platsbanken:31718437",
 "company": "Sway Sourcing Sweden Aktiebolag",
@@ -136,18 +160,6 @@
 "firstSeen": "2026-11-09"
 },
 {
-"id": "platsbanken:Platsbanken:31700109",
-"company": "Hykmann Global Business Solutions AB",
-"title": "Mechanical Design Engineer BEV Chassis Integration",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-11-07",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31700109",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-07"
-},
-{
 "id": "platsbanken:Platsbanken:31699733",
 "company": "Vibrant World AB",
 "title": "UX/UI-Designer",
@@ -167,18 +179,6 @@
 "remote": null,
 "posted": "2026-11-06",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31696431",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-06"
-},
-{
-"id": "platsbanken:Platsbanken:31699469",
-"company": "Isar Aerospace Sweden AB",
-"title": "Propulsion Test Design Engineer (m/f/d)",
-"location": "Kiruna",
-"remote": null,
-"posted": "2026-11-06",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31699469",
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-11-06"
@@ -229,7 +229,7 @@
 "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Brighton-United-Kingdom/Senior-Product-Designer_JOBREQ-2616581",
 "source": "workday",
 "region": "Nordics",
-"postedText": "Posted 7 Days Ago",
+"postedText": "Posted 8 Days Ago",
 "firstSeen": "2026-11-04"
 },
 {
@@ -290,7 +290,7 @@
 "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Singapore/XMLNAME--Req----Product-Designer--2D_JOBREQ-2616662",
 "source": "workday",
 "region": "Nordics",
-"postedText": "Posted 9 Days Ago",
+"postedText": "Posted 10 Days Ago",
 "firstSeen": "2026-11-02"
 },
 {
@@ -510,6 +510,18 @@
 "firstSeen": "2026-10-17"
 },
 {
+"id": "greenhouse:oura:4434504009",
+"company": "Oura",
+"title": "Senior Manufacturing Designer, Mechanics",
+"location": "Hybrid - San Francisco, California",
+"remote": null,
+"posted": "2026-11-11",
+"url": "https://job-boards.greenhouse.io/oura/jobs/4434504009",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
 "id": "greenhouse:oura:4452942009",
 "company": "Oura",
 "title": "Staff Antenna Design Engineer",
@@ -642,18 +654,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:oura:4434504009",
-"company": "Oura",
-"title": "Senior Manufacturing Designer, Mechanics",
-"location": "Hybrid - San Francisco, California",
-"remote": null,
-"posted": "2026-10-07",
-"url": "https://job-boards.greenhouse.io/oura/jobs/4434504009",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "platsbanken:Platsbanken:31535442",
 "company": "Nordic Air Defence AB",
 "title": "Senior Digital Designer",
@@ -661,18 +661,6 @@
 "remote": null,
 "posted": "2026-09-30",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31535442",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "platsbanken:Platsbanken:31535871",
-"company": "Aurora Engineering AB",
-"title": "UX Designer",
-"location": "",
-"remote": null,
-"posted": "2026-09-30",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31535871",
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
@@ -746,18 +734,6 @@
 "posted": "2026-09-17",
 "url": "https://jobs.ashbyhq.com/legora/89073502-e8e3-49d9-ba4b-5642ef1a933d",
 "source": "ashby",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "platsbanken:Platsbanken:31457771",
-"company": "Volumental AB",
-"title": "Lead Service Designer",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-09-09",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31457771",
-"source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
 },

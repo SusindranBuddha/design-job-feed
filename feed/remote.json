@@ -1,8 +1,20 @@
 {
-"generated": "2026-11-13T09:34:26Z",
+"generated": "2026-11-13T20:54:45Z",
 "region": "Remote",
-"count": 180,
+"count": 177,
 "jobs": [
+{
+"id": "jobicy:Jobicy:162056",
+"company": "Gather AI",
+"title": "Product Designer",
+"location": "USA",
+"remote": "remote",
+"posted": "2026-11-13",
+"url": "https://jobicy.com/jobs/162056-product-designer-3",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-13"
+},
 {
 "id": "jobicy:Jobicy:153063",
 "company": "Kinsta",
@@ -160,30 +172,6 @@
 "firstSeen": "2026-11-11"
 },
 {
-"id": "ashby:clera:27f3a6c6-fdda-4912-ba33-5bc30c67280d",
-"company": "Clera",
-"title": "Founding Product Designer",
-"location": "San Francisco",
-"remote": "OnSite",
-"posted": "2026-11-08",
-"url": "https://jobs.ashbyhq.com/Clera/27f3a6c6-fdda-4912-ba33-5bc30c67280d",
-"source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-11-08"
-},
-{
-"id": "ashby:clera:0e1e4d9e-16aa-4197-8a8e-efcb777f6253",
-"company": "Clera",
-"title": "Senior Product Designer",
-"location": "Berlin",
-"remote": "OnSite",
-"posted": "2026-11-07",
-"url": "https://jobs.ashbyhq.com/Clera/0e1e4d9e-16aa-4197-8a8e-efcb777f6253",
-"source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-11-07"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/highlevel/jobs/staff-product-designer-6800743082",
 "company": "HighLevel",
 "title": "Staff Product Designer",
@@ -203,18 +191,6 @@
 "remote": "remote",
 "posted": "2026-11-01",
 "url": "https://himalayas.app/companies/pavago/jobs/ux-ui-designer-7453639504?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-11-07"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/cloudcure/jobs/ui-ux-designer-part-time-contractor-4008913315",
-"company": "CloudCure",
-"title": "UI/UX Designer (Part-Time Contractor)",
-"location": "Canada",
-"remote": "remote",
-"posted": "2026-10-31",
-"url": "https://himalayas.app/companies/cloudcure/jobs/ui-ux-designer-part-time-contractor-4008913315?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-07"
@@ -266,6 +242,18 @@
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-07"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/highlevel/jobs/lead-product-designer-design-systems",
+"company": "HighLevel",
+"title": "Lead Product Designer, Design Systems",
+"location": "India, United Kingdom, United States",
+"remote": "remote",
+"posted": "2026-11-13",
+"url": "https://himalayas.app/companies/highlevel/jobs/lead-product-designer-design-systems?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-06"
 },
 {
 "id": "himalayas:Himalayas:https://himalayas.app/companies/ondo-finance/jobs/senior-product-designer-design-systems",
@@ -664,30 +652,6 @@
 "firstSeen": "2026-10-27"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/revizto/jobs/product-designer-design-system-8354912064",
-"company": "Revizto",
-"title": "Product Designer (Design System)",
-"location": "Armenia, France, Germany, United Kingdom",
-"remote": "remote",
-"posted": "2026-11-01",
-"url": "https://himalayas.app/companies/revizto/jobs/product-designer-design-system-8354912064?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-27"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/revizto/jobs/product-designer-design-system",
-"company": "Revizto",
-"title": "Product Designer (Design System)",
-"location": "Armenia, France, Germany, United Kingdom",
-"remote": "remote",
-"posted": "2026-11-01",
-"url": "https://himalayas.app/companies/revizto/jobs/product-designer-design-system?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-26"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/simulmedia/jobs/product-designer-ai-native-b2b",
 "company": "Simulmedia",
 "title": "Product Designer (AI-Native, B2B)",
@@ -818,18 +782,6 @@
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-22"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/ciena/jobs/senior-serdes-system-dsp-design-engineer",
-"company": "Ciena",
-"title": "Senior SerDes System/DSP Design Engineer",
-"location": "Canada, Germany",
-"remote": "remote",
-"posted": "2026-11-01",
-"url": "https://himalayas.app/companies/ciena/jobs/senior-serdes-system-dsp-design-engineer?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-21"
 },
 {
 "id": "himalayas:Himalayas:https://himalayas.app/companies/code-and-theory/jobs/senior-designer-us",
@@ -1420,6 +1372,78 @@
 "firstSeen": "2026-10-18"
 },
 {
+"id": "greenhouse:clearstreet:8241303",
+"company": "Clear Street",
+"title": "Senior Product Designer — Design Systems",
+"location": "Remote",
+"remote": null,
+"posted": "2026-11-13",
+"url": "https://job-boards.greenhouse.io/clearstreet/jobs/8241303",
+"source": "greenhouse",
+"region": "Remote",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:clearstreet:8241353",
+"company": "Clear Street",
+"title": "Senior Product Designer — Mobile",
+"location": "Remote",
+"remote": null,
+"posted": "2026-11-13",
+"url": "https://job-boards.greenhouse.io/clearstreet/jobs/8241353",
+"source": "greenhouse",
+"region": "Remote",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:clearstreet:8241344",
+"company": "Clear Street",
+"title": "Senior Product Designer — Trading",
+"location": "Remote",
+"remote": null,
+"posted": "2026-11-13",
+"url": "https://job-boards.greenhouse.io/clearstreet/jobs/8241344",
+"source": "greenhouse",
+"region": "Remote",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:vercel:6128387004",
+"company": "Vercel",
+"title": "Presentation Designer",
+"location": "Hybrid - San Francisco, New York City",
+"remote": null,
+"posted": "2026-11-13",
+"url": "https://job-boards.greenhouse.io/vercel/jobs/6128387004",
+"source": "greenhouse",
+"region": "Remote",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/intermedia-intelligent-communications/jobs/senior-ui-ux-designer",
+"company": "Intermedia Intelligent Communications",
+"title": "Senior UI/UX Designer",
+"location": "Portugal",
+"remote": "remote",
+"posted": "2026-11-13",
+"url": "https://himalayas.app/companies/intermedia-intelligent-communications/jobs/senior-ui-ux-designer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/quest-defense-systems-solutions-inc/jobs/senior-mechanical-design-engineer-structures-systems",
+"company": "Quest Defense Systems & Solutions Inc.",
+"title": "Senior Mechanical Design Engineer - Structures & Systems",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-11-13",
+"url": "https://himalayas.app/companies/quest-defense-systems-solutions-inc/jobs/senior-mechanical-design-engineer-structures-systems?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-17"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/ux-woman/jobs/education-to-ux-design-career-changer-apprenticeship",
 "company": "UX Woman",
 "title": "Education to UX Design Career Changer Apprenticeship",
@@ -1500,42 +1524,6 @@
 "posted": "2026-11-06",
 "url": "https://himalayas.app/companies/tbd_14_10_2022_ludia/jobs/senior-system-designer?utm_source=api",
 "source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:clearstreet:8241303",
-"company": "Clear Street",
-"title": "Senior Product Designer — Design Systems",
-"location": "Remote",
-"remote": null,
-"posted": "2026-11-05",
-"url": "https://job-boards.greenhouse.io/clearstreet/jobs/8241303",
-"source": "greenhouse",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:clearstreet:8241353",
-"company": "Clear Street",
-"title": "Senior Product Designer — Mobile",
-"location": "Remote",
-"remote": null,
-"posted": "2026-11-05",
-"url": "https://job-boards.greenhouse.io/clearstreet/jobs/8241353",
-"source": "greenhouse",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:clearstreet:8241344",
-"company": "Clear Street",
-"title": "Senior Product Designer — Trading",
-"location": "Remote",
-"remote": null,
-"posted": "2026-11-05",
-"url": "https://job-boards.greenhouse.io/clearstreet/jobs/8241344",
-"source": "greenhouse",
 "region": "Remote",
 "firstSeen": "2026-10-17"
 },
@@ -1644,18 +1632,6 @@
 "posted": "2026-11-01",
 "url": "https://himalayas.app/companies/pavago/jobs/product-designer-ux-ui-design-systems-4068753111?utm_source=api",
 "source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:vercel:6128387004",
-"company": "Vercel",
-"title": "Presentation Designer",
-"location": "Hybrid - San Francisco, New York City",
-"remote": null,
-"posted": "2026-10-30",
-"url": "https://job-boards.greenhouse.io/vercel/jobs/6128387004",
-"source": "greenhouse",
 "region": "Remote",
 "firstSeen": "2026-10-17"
 },
@@ -2004,18 +1980,6 @@
 "posted": "2026-09-18",
 "url": "https://himalayas.app/companies/blink-interactive-inc/jobs/senior-ux-designer-general-opportunity-8508150358?utm_source=api",
 "source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "recruitee:tether:2719128",
-"company": "Tether",
-"title": "Senior Product Designer (Wallets) - 100% Remote Worldwide",
-"location": "Remote job",
-"remote": "remote",
-"posted": "2026-08-21",
-"url": "https://tether.recruitee.com/o/senior-product-designer-wallets-100-remote-worldwide",
-"source": "recruitee",
 "region": "Remote",
 "firstSeen": "2026-10-17"
 },

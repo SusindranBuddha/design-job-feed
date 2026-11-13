@@ -1,8 +1,20 @@
 {
-"generated": "2026-11-13T09:34:26Z",
+"generated": "2026-11-13T20:54:45Z",
 "region": "Netherlands",
-"count": 11,
+"count": 12,
 "jobs": [
+{
+"id": "teamtailor:Sendcloud:https://jobs.sendcloud.com/jobs/8743153-senior-product-designer",
+"company": "Sendcloud",
+"title": "Senior Product Designer",
+"location": "",
+"remote": null,
+"posted": "2026-11-13",
+"url": "https://jobs.sendcloud.com/jobs/8743153-senior-product-designer",
+"source": "teamtailor",
+"region": "Netherlands",
+"firstSeen": "2026-11-13"
+},
 {
 "id": "greenhouse:housinganywhere:8202585003",
 "company": "HousingAnywhere",
@@ -40,18 +52,6 @@
 "firstSeen": "2026-11-05"
 },
 {
-"id": "greenhouse:elastic:8319081",
-"company": "Elastic",
-"title": "Software Engineering Manager - Global UX - Applications - Platform",
-"location": "Portugal",
-"remote": null,
-"posted": "2026-10-23",
-"url": "https://jobs.elastic.co/jobs?gh_jid=8319081&gh_jid=8319081",
-"source": "greenhouse",
-"region": "Netherlands",
-"firstSeen": "2026-10-24"
-},
-{
 "id": "greenhouse:elastic:8319082",
 "company": "Elastic",
 "title": "Software Engineering Manager - Global UX - Applications - Platform",
@@ -59,6 +59,18 @@
 "remote": null,
 "posted": "2026-10-23",
 "url": "https://jobs.elastic.co/jobs?gh_jid=8319082&gh_jid=8319082",
+"source": "greenhouse",
+"region": "Netherlands",
+"firstSeen": "2026-10-24"
+},
+{
+"id": "greenhouse:elastic:8319081",
+"company": "Elastic",
+"title": "Software Engineering Manager - Global UX - Applications - Platform",
+"location": "Portugal",
+"remote": null,
+"posted": "2026-10-23",
+"url": "https://jobs.elastic.co/jobs?gh_jid=8319081&gh_jid=8319081",
 "source": "greenhouse",
 "region": "Netherlands",
 "firstSeen": "2026-10-24"

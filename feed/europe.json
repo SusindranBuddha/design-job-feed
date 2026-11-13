@@ -1,8 +1,80 @@
 {
-"generated": "2026-11-13T09:34:26Z",
+"generated": "2026-11-13T20:54:45Z",
 "region": "Europe",
-"count": 104,
+"count": 102,
 "jobs": [
+{
+"id": "greenhouse:tide:8203048003",
+"company": "Tide",
+"title": "Lead Product Designer",
+"location": "India, Bengaluru; India, Delhi NCR; India, Hyderabad",
+"remote": null,
+"posted": "2026-11-13",
+"url": "https://job-boards.greenhouse.io/tide/jobs/8203048003",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-11-13"
+},
+{
+"id": "arbeitnow:Arbeitnow:grafikdesigner-creative-designer-e-commerce-100-remote-berlin-341041",
+"company": "Just Hiring",
+"title": "Grafikdesigner / Creative Designer E-Commerce (m/w/d) | 100 % Remote",
+"location": "Berlin",
+"remote": "remote",
+"posted": "2026-11-13",
+"url": "https://www.arbeitnow.com/jobs/companies/just-hiring/grafikdesigner-creative-designer-e-commerce-100-remote-berlin-341041",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-13"
+},
+{
+"id": "arbeitnow:Arbeitnow:ux-ui-designer-paris-157658",
+"company": "O'CD",
+"title": "UX/UI Designer",
+"location": "Paris",
+"remote": null,
+"posted": "2026-11-13",
+"url": "https://www.arbeitnow.fr/jobs/companies/ocd/ux-ui-designer-paris-157658",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-13"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-visual-designer-the-hague-107055",
+"company": "Dyflexis",
+"title": "Senior Visual Designer",
+"location": "The Hague, Zuid-Holland, Netherlands",
+"remote": null,
+"posted": "2026-11-13",
+"url": "https://www.arbeitnow.nl/jobs/companies/dyflexis/senior-visual-designer-the-hague-107055",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-13"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-designer-munich-443460",
+"company": "Se3",
+"title": "Senior Designer",
+"location": "Munich",
+"remote": null,
+"posted": "2026-11-13",
+"url": "https://www.arbeitnow.com/jobs/companies/se3/senior-designer-munich-443460",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-13"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-london-10701",
+"company": "Trading212",
+"title": "Senior Product Designer",
+"location": "London",
+"remote": null,
+"posted": "2026-11-13",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/trading212/senior-product-designer-london-10701",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-13"
+},
 {
 "id": "arbeitnow:Arbeitnow:ui-ux-artist-castle-busters-paris-432586",
 "company": "Voodoo",
@@ -11,6 +83,30 @@
 "remote": null,
 "posted": "2026-11-13",
 "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/ui-ux-artist-castle-busters-paris-432586",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-13"
+},
+{
+"id": "arbeitnow:Arbeitnow:lead-designer-design-system-owner-in-tech-data-team-berlin-407190",
+"company": "Thomann.io",
+"title": "Lead Designer / Design System Owner (f/x/m) in Tech & Data Team",
+"location": "Berlin",
+"remote": null,
+"posted": "2026-11-13",
+"url": "https://www.arbeitnow.com/jobs/companies/thomannio/lead-designer-design-system-owner-in-tech-data-team-berlin-407190",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-13"
+},
+{
+"id": "arbeitnow:Arbeitnow:product-designer-berlin-295450",
+"company": "UP42 GmbH",
+"title": "Product Designer (m/f/x)",
+"location": "Berlin, Berlin, Germany",
+"remote": null,
+"posted": "2026-11-13",
+"url": "https://www.arbeitnow.com/jobs/companies/up42-gmbh/product-designer-berlin-295450",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-13"
@@ -64,30 +160,6 @@
 "firstSeen": "2026-11-13"
 },
 {
-"id": "arbeitnow:Arbeitnow:engineering-manager-design-system-levallois-perret-187551",
-"company": "Doctolib",
-"title": "Engineering Manager - Design System (x/f/m)",
-"location": "Paris",
-"remote": null,
-"posted": "2026-11-12",
-"url": "https://www.arbeitnow.fr/jobs/companies/doctolib/engineering-manager-design-system-levallois-perret-187551",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-12"
-},
-{
-"id": "arbeitnow:Arbeitnow:engineering-manager-design-system-nantes-277178",
-"company": "Doctolib",
-"title": "Engineering Manager - Design System (x/f/m)",
-"location": "Nantes",
-"remote": null,
-"posted": "2026-11-12",
-"url": "https://www.arbeitnow.fr/jobs/companies/doctolib/engineering-manager-design-system-nantes-277178",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-12"
-},
-{
 "id": "arbeitnow:Arbeitnow:mechanical-design-engineer-zurich-92406",
 "company": "Coopers Group AG",
 "title": "Mechanical Design Engineer",
@@ -124,13 +196,25 @@
 "firstSeen": "2026-11-12"
 },
 {
-"id": "arbeitnow:Arbeitnow:lead-ux-designer-germany-277082",
-"company": "Bjak",
-"title": "Lead UX Designer",
-"location": "Germany",
+"id": "arbeitnow:Arbeitnow:engineering-manager-design-system-levallois-perret-187551",
+"company": "Doctolib",
+"title": "Engineering Manager - Design System (x/f/m)",
+"location": "Paris",
 "remote": null,
 "posted": "2026-11-12",
-"url": "https://www.arbeitnow.com/jobs/companies/bjak/lead-ux-designer-germany-277082",
+"url": "https://www.arbeitnow.fr/jobs/companies/doctolib/engineering-manager-design-system-levallois-perret-187551",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-12"
+},
+{
+"id": "arbeitnow:Arbeitnow:engineering-manager-design-system-nantes-277178",
+"company": "Doctolib",
+"title": "Engineering Manager - Design System (x/f/m)",
+"location": "Nantes",
+"remote": null,
+"posted": "2026-11-12",
+"url": "https://www.arbeitnow.fr/jobs/companies/doctolib/engineering-manager-design-system-nantes-277178",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-12"
@@ -148,30 +232,6 @@
 "firstSeen": "2026-11-12"
 },
 {
-"id": "arbeitnow:Arbeitnow:engineering-manager-design-system-berlin-432188",
-"company": "Doctolib",
-"title": "Engineering Manager - Design System (x/f/m)",
-"location": "Berlin",
-"remote": null,
-"posted": "2026-11-12",
-"url": "https://www.arbeitnow.com/jobs/companies/doctolib/engineering-manager-design-system-berlin-432188",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-12"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-game-designer-systems-economy-fully-remote-berlin-162601",
-"company": "SOFTGAMES",
-"title": "Senior Game Designer - Systems & Economy - Fully Remote",
-"location": "Berlin",
-"remote": null,
-"posted": "2026-11-12",
-"url": "https://www.arbeitnow.com/jobs/companies/softgames/senior-game-designer-systems-economy-fully-remote-berlin-162601",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-12"
-},
-{
 "id": "arbeitnow:Arbeitnow:senior-product-designer-parisfrance-353020",
 "company": "Didomi",
 "title": "Senior Product Designer",
@@ -184,85 +244,25 @@
 "firstSeen": "2026-11-12"
 },
 {
-"id": "arbeitnow:Arbeitnow:senior-staff-product-designer-211225",
-"company": "Alphasense",
-"title": "Senior/Staff Product Designer",
-"location": "",
-"remote": null,
-"posted": "2026-11-12",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/senior-staff-product-designer-211225",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-12"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-staff-design-engineer-london-greater-london-111587",
-"company": "Alphasense",
-"title": "Senior/Staff Design Engineer",
-"location": "London, Greater London",
-"remote": null,
-"posted": "2026-11-12",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/senior-staff-design-engineer-london-greater-london-111587",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-12"
-},
-{
-"id": "arbeitnow:Arbeitnow:principal-design-engineer-300328",
-"company": "Alphasense",
-"title": "Principal Design Engineer",
-"location": "",
-"remote": null,
-"posted": "2026-11-12",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/principal-design-engineer-300328",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-12"
-},
-{
-"id": "arbeitnow:Arbeitnow:remote-design-engineer-301204",
-"company": "Triggerdev",
-"title": "Design Engineer",
-"location": "Remote or Hybrid UK",
-"remote": null,
-"posted": "2026-11-12",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/triggerdev/remote-design-engineer-301204",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-12"
-},
-{
-"id": "arbeitnow:Arbeitnow:ux-designer-ai-app-london-162744",
+"id": "arbeitnow:Arbeitnow:lead-ux-designer-germany-277082",
 "company": "Bjak",
-"title": "UX Designer, AI App",
-"location": "United Kingdom",
+"title": "Lead UX Designer",
+"location": "Germany",
 "remote": null,
 "posted": "2026-11-12",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/ux-designer-ai-app-london-162744",
+"url": "https://www.arbeitnow.com/jobs/companies/bjak/lead-ux-designer-germany-277082",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-12"
 },
 {
-"id": "arbeitnow:Arbeitnow:ux-designer-london-478760",
-"company": "Bjak",
-"title": "UX Designer",
-"location": "United Kingdom",
+"id": "arbeitnow:Arbeitnow:engineering-manager-design-system-berlin-432188",
+"company": "Doctolib",
+"title": "Engineering Manager - Design System (x/f/m)",
+"location": "Berlin",
 "remote": null,
 "posted": "2026-11-12",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/ux-designer-london-478760",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-12"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-product-designer-berlin-34719",
-"company": "Resident Advisor",
-"title": "Senior Product Designer - Berlin",
-"location": "Berlin, Germany",
-"remote": null,
-"posted": "2026-11-11",
-"url": "https://www.arbeitnow.com/jobs/companies/resident-advisor/senior-product-designer-berlin-34719",
+"url": "https://www.arbeitnow.com/jobs/companies/doctolib/engineering-manager-design-system-berlin-432188",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-12"
@@ -410,18 +410,6 @@
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-10"
-},
-{
-"id": "arbeitnow:Arbeitnow:vacature-stagiair-illustrator-designer-eindhoven-10206",
-"company": "Bigfish.nl",
-"title": "Vacature: Stagiair Illustrator / Designer",
-"location": "Eindhoven",
-"remote": null,
-"posted": "2026-11-09",
-"url": "https://www.arbeitnow.nl/jobs/companies/bigfishnl/vacature-stagiair-illustrator-designer-eindhoven-10206",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-09"
 },
 {
 "id": "smartrecruiters:Wise:744000159932359",
@@ -1063,18 +1051,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:okta:8281894",
-"company": "Okta (Spain)",
-"title": "Event & Experiences Designer",
-"location": "Bellevue, Washington; New York, New York",
-"remote": null,
-"posted": "2026-10-15",
-"url": "https://www.okta.com/company/careers/opportunity/8281894?gh_jid=8281894",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:blacklane:8754730002",
 "company": "Blacklane",
 "title": "Senior Product Designer",
@@ -1183,18 +1159,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:intercom:7862038",
-"company": "Intercom",
-"title": "Staff/Principal Product Designer",
-"location": "Dublin, Ireland",
-"remote": null,
-"posted": "2026-09-16",
-"url": "https://job-boards.greenhouse.io/intercom/jobs/7862038",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:intercom:7862042",
 "company": "Intercom",
 "title": "Staff/Principal Product Designer",
@@ -1202,6 +1166,18 @@
 "remote": null,
 "posted": "2026-09-16",
 "url": "https://job-boards.greenhouse.io/intercom/jobs/7862042",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:intercom:7862038",
+"company": "Intercom",
+"title": "Staff/Principal Product Designer",
+"location": "Dublin, Ireland",
+"remote": null,
+"posted": "2026-09-16",
+"url": "https://job-boards.greenhouse.io/intercom/jobs/7862038",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"

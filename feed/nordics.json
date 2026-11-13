@@ -1,8 +1,32 @@
 {
-"generated": "2026-11-13T09:34:26Z",
+"generated": "2026-11-13T20:54:45Z",
 "region": "Nordics",
 "count": 66,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31726811",
+"company": "The Place AB",
+"title": "Senior UX/UI Designer",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-13",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31726811",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-13"
+},
+{
+"id": "platsbanken:Platsbanken:31726360",
+"company": "Quest Consulting Sverige AB",
+"title": "Senior UX/UI Designer",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-13",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31726360",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-13"
+},
 {
 "id": "platsbanken:Platsbanken:31724584",
 "company": "Kriminalvården",
@@ -143,18 +167,6 @@
 "remote": null,
 "posted": "2026-11-12",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31723084",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-12"
-},
-{
-"id": "platsbanken:Platsbanken:31722016",
-"company": "SAAB Aktiebolag",
-"title": "Konstruktör/designer - Saab Barracuda, Gamleby",
-"location": "Västervik",
-"remote": null,
-"posted": "2026-11-12",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31722016",
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-11-12"
@@ -618,18 +630,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:alphasense:8531119002",
-"company": "AlphaSense",
-"title": "Senior/Staff Product Designer",
-"location": "Remote - United Kingdom",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:alphasense:8530664002",
 "company": "AlphaSense",
 "title": "Senior/Staff Product Designer",
@@ -637,6 +637,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:alphasense:8531119002",
+"company": "AlphaSense",
+"title": "Senior/Staff Product Designer",
+"location": "Remote - United Kingdom",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
@@ -758,18 +770,6 @@
 "posted": "2026-09-18",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31491824",
 "source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "ashby:legora:89073502-e8e3-49d9-ba4b-5642ef1a933d",
-"company": "Legora",
-"title": "Senior Product Designer",
-"location": "Stockholm HQ",
-"remote": "OnSite",
-"posted": "2026-09-17",
-"url": "https://jobs.ashbyhq.com/legora/89073502-e8e3-49d9-ba4b-5642ef1a933d",
-"source": "ashby",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
 },

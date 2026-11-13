@@ -1,8 +1,68 @@
 {
-"generated": "2026-11-12T21:29:13Z",
+"generated": "2026-11-13T09:34:26Z",
 "region": "Nordics",
-"count": 67,
+"count": 66,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31724584",
+"company": "Kriminalvården",
+"title": "UX Lead",
+"location": "Malmö",
+"remote": null,
+"posted": "2026-11-13",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31724584",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-13"
+},
+{
+"id": "platsbanken:Platsbanken:31724613",
+"company": "Kriminalvården",
+"title": "UX Lead",
+"location": "Örebro",
+"remote": null,
+"posted": "2026-11-13",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31724613",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-13"
+},
+{
+"id": "platsbanken:Platsbanken:31724611",
+"company": "Kriminalvården",
+"title": "UX Lead",
+"location": "Norrköping",
+"remote": null,
+"posted": "2026-11-13",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31724611",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-13"
+},
+{
+"id": "platsbanken:Platsbanken:31724445",
+"company": "Nordic Investin Group Aktiebolag",
+"title": "Interaction Designer Connected Products",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-12",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31724445",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-13"
+},
+{
+"id": "platsbanken:Platsbanken:31724413",
+"company": "Nordic Investin Group Aktiebolag",
+"title": "Senior Customer Journey Designer",
+"location": "Göteborg",
+"remote": null,
+"posted": "2026-11-12",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31724413",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-13"
+},
 {
 "id": "platsbanken:Platsbanken:31724406",
 "company": "Nordic Investin Group Aktiebolag",
@@ -95,30 +155,6 @@
 "remote": null,
 "posted": "2026-11-12",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31722016",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-12"
-},
-{
-"id": "platsbanken:Platsbanken:31721847",
-"company": "Veritaz AB",
-"title": "Electrical Harness & Hardware Design Engineer Automotive - 20791",
-"location": "Södertälje",
-"remote": null,
-"posted": "2026-11-12",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31721847",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-12"
-},
-{
-"id": "platsbanken:Platsbanken:31720382",
-"company": "Alten Sverige Aktiebolag",
-"title": "Electrical & Electronics System Design Engineer",
-"location": "Göteborg",
-"remote": null,
-"posted": "2026-11-12",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31720382",
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-11-12"
@@ -232,30 +268,6 @@
 "firstSeen": "2026-11-06"
 },
 {
-"id": "platsbanken:Platsbanken:31692149",
-"company": "Sway Sourcing Sweden Aktiebolag",
-"title": "Product Designer (UX/UI) inom iGaming – Stockholm",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-11-05",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31692149",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-05"
-},
-{
-"id": "platsbanken:Platsbanken:31685055",
-"company": "Kapita Investment Group AB",
-"title": "UI/UX designer på praktik",
-"location": "Göteborg",
-"remote": null,
-"posted": "2026-11-04",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31685055",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-04"
-},
-{
 "id": "greenhouse:oura:4476343009",
 "company": "Oura",
 "title": "Staff Antenna Design Engineer",
@@ -277,7 +289,7 @@
 "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Brighton-United-Kingdom/Senior-Product-Designer_JOBREQ-2616581",
 "source": "workday",
 "region": "Nordics",
-"postedText": "Posted 8 Days Ago",
+"postedText": "Posted 9 Days Ago",
 "firstSeen": "2026-11-04"
 },
 {
@@ -338,7 +350,7 @@
 "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Singapore/XMLNAME--Req----Product-Designer--2D_JOBREQ-2616662",
 "source": "workday",
 "region": "Nordics",
-"postedText": "Posted 10 Days Ago",
+"postedText": "Posted 11 Days Ago",
 "firstSeen": "2026-11-02"
 },
 {
@@ -469,30 +481,6 @@
 "remote": null,
 "posted": "2026-10-23",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31636518",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-23"
-},
-{
-"id": "platsbanken:Platsbanken:31634241",
-"company": "SAAB Aktiebolag",
-"title": "Systemingenjör inom UX-Design",
-"location": "Solna",
-"remote": null,
-"posted": "2026-10-22",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31634241",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-23"
-},
-{
-"id": "platsbanken:Platsbanken:31634239",
-"company": "SAAB Aktiebolag",
-"title": "Systemingenjör inom UX-Design",
-"location": "Solna",
-"remote": null,
-"posted": "2026-10-22",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31634239",
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-23"
@@ -630,18 +618,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:alphasense:8530664002",
-"company": "AlphaSense",
-"title": "Senior/Staff Product Designer",
-"location": "New York, New York, United States; Remote - United States",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:alphasense:8531119002",
 "company": "AlphaSense",
 "title": "Senior/Staff Product Designer",
@@ -649,6 +625,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:alphasense:8530664002",
+"company": "AlphaSense",
+"title": "Senior/Staff Product Designer",
+"location": "New York, New York, United States; Remote - United States",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"

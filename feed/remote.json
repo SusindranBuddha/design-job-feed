@@ -1,8 +1,20 @@
 {
-"generated": "2026-11-13T20:54:45Z",
+"generated": "2026-11-14T09:00:13Z",
 "region": "Remote",
 "count": 177,
 "jobs": [
+{
+"id": "jobicy:Jobicy:149110",
+"company": "Fieldguide",
+"title": "Staff Product Designer",
+"location": "USA",
+"remote": "remote",
+"posted": "2026-11-14",
+"url": "https://jobicy.com/jobs/149110-staff-product-designer",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-14"
+},
 {
 "id": "jobicy:Jobicy:162056",
 "company": "Gather AI",
@@ -88,42 +100,6 @@
 "firstSeen": "2026-11-12"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/codekeeper/jobs/digital-product-designer-7980129206",
-"company": "Codekeeper",
-"title": "Digital Product Designer",
-"location": "Argentina",
-"remote": "remote",
-"posted": "2026-11-12",
-"url": "https://himalayas.app/companies/codekeeper/jobs/digital-product-designer-7980129206?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-11-12"
-},
-{
-"id": "jobicy:Jobicy:161385",
-"company": "Deepgram",
-"title": "Product Designer II",
-"location": "USA",
-"remote": "remote",
-"posted": "2026-11-11",
-"url": "https://jobicy.com/jobs/161385-product-designer-ii-2",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-11-12"
-},
-{
-"id": "jobicy:Jobicy:161382",
-"company": "Deepgram",
-"title": "Staff Conversational Designer",
-"location": "USA",
-"remote": "remote",
-"posted": "2026-11-11",
-"url": "https://jobicy.com/jobs/161382-staff-conversational-designer",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-11-12"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/360-privacy/jobs/senior-product-designer-design-systems",
 "company": "360 Privacy",
 "title": "Senior Product Designer, Design Systems",
@@ -144,18 +120,6 @@
 "posted": "2026-11-11",
 "url": "https://jobs.ashbyhq.com/Clera/f1f92c51-0b8f-4a46-96d9-da2d4b4066a3",
 "source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-11-11"
-},
-{
-"id": "jobicy:Jobicy:161363",
-"company": "HyperHug",
-"title": "Live Ops Game Designer",
-"location": "Cyprus",
-"remote": "remote",
-"posted": "2026-11-11",
-"url": "https://jobicy.com/jobs/161363-live-ops-game-designer",
-"source": "Jobicy",
 "region": "Remote",
 "firstSeen": "2026-11-11"
 },
@@ -335,18 +299,6 @@
 "remote": "remote",
 "posted": "2026-10-28",
 "url": "https://himalayas.app/companies/fluxon/jobs/senior-product-designer-6658565977?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-11-04"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/ancestry-com/jobs/product-designer-dna-experience",
-"company": "Ancestry",
-"title": "Product Designer, DNA Experience",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-10-23",
-"url": "https://himalayas.app/companies/ancestry-com/jobs/product-designer-dna-experience?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-04"
@@ -916,6 +868,42 @@
 "firstSeen": "2026-10-19"
 },
 {
+"id": "jobicy:Jobicy:155335",
+"company": "MaintainX",
+"title": "Senior Product Designer, AI",
+"location": "Canada",
+"remote": "remote",
+"posted": "2026-11-14",
+"url": "https://jobicy.com/jobs/155335-senior-product-designer-ai",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "jobicy:Jobicy:155321",
+"company": "Flex",
+"title": "Staff Product Designer (Contract)",
+"location": "USA",
+"remote": "remote",
+"posted": "2026-11-14",
+"url": "https://jobicy.com/jobs/155321-staff-product-designer-contract",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "jobicy:Jobicy:155255",
+"company": "MaintainX",
+"title": "Product Design Manager",
+"location": "Canada",
+"remote": "remote",
+"posted": "2026-11-14",
+"url": "https://jobicy.com/jobs/155255-product-design-manager",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
 "id": "jobicy:Jobicy:155177",
 "company": "Cresta",
 "title": "Conversational Designer, APAC",
@@ -1416,6 +1404,18 @@
 "posted": "2026-11-13",
 "url": "https://job-boards.greenhouse.io/vercel/jobs/6128387004",
 "source": "greenhouse",
+"region": "Remote",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/padsplit/jobs/senior-product-designer-fully-remote",
+"company": "PadSplit",
+"title": "Senior Product Designer (Fully Remote)",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-11-13",
+"url": "https://himalayas.app/companies/padsplit/jobs/senior-product-designer-fully-remote?utm_source=api",
+"source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-17"
 },

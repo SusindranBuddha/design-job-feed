@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-14T09:00:13Z",
+"generated": "2026-11-14T19:11:37Z",
 "region": "Nordics",
-"count": 64,
+"count": 66,
 "jobs": [
 {
 "id": "platsbanken:Platsbanken:31726811",
@@ -292,6 +292,19 @@
 "firstSeen": "2026-11-04"
 },
 {
+"id": "workday:unitytech:/job/Brighton-United-Kingdom/Senior-Product-Designer_JOBREQ-2616581",
+"company": "Unity",
+"title": "Senior Product Designer",
+"location": "5 Locations",
+"remote": null,
+"posted": null,
+"url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Brighton-United-Kingdom/Senior-Product-Designer_JOBREQ-2616581",
+"source": "workday",
+"region": "Nordics",
+"postedText": "Posted 10 Days Ago",
+"firstSeen": "2026-11-04"
+},
+{
 "id": "platsbanken:Platsbanken:31680020",
 "company": "SAAB Aktiebolag",
 "title": "UX Designer - Mission Support System",
@@ -337,6 +350,19 @@
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31673283",
 "source": "Platsbanken",
 "region": "Nordics",
+"firstSeen": "2026-11-02"
+},
+{
+"id": "workday:unitytech:/job/Singapore/XMLNAME--Req----Product-Designer--2D_JOBREQ-2616662",
+"company": "Unity",
+"title": "Product Designer, 2D",
+"location": "Singapore",
+"remote": null,
+"posted": null,
+"url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Singapore/XMLNAME--Req----Product-Designer--2D_JOBREQ-2616662",
+"source": "workday",
+"region": "Nordics",
+"postedText": "Posted 12 Days Ago",
 "firstSeen": "2026-11-02"
 },
 {
@@ -604,18 +630,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:alphasense:8530664002",
-"company": "AlphaSense",
-"title": "Senior/Staff Product Designer",
-"location": "New York, New York, United States; Remote - United States",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:alphasense:8531119002",
 "company": "AlphaSense",
 "title": "Senior/Staff Product Designer",
@@ -623,6 +637,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:alphasense:8530664002",
+"company": "AlphaSense",
+"title": "Senior/Staff Product Designer",
+"location": "New York, New York, United States; Remote - United States",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"

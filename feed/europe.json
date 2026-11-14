@@ -1,8 +1,20 @@
 {
-"generated": "2026-11-14T09:00:13Z",
+"generated": "2026-11-14T19:11:37Z",
 "region": "Europe",
-"count": 103,
+"count": 108,
 "jobs": [
+{
+"id": "arbeitnow:Arbeitnow:mechanical-design-engineer-munich-174564",
+"company": "Proxima Fusion GmbH",
+"title": "Mechanical Design Engineer",
+"location": "Munich",
+"remote": null,
+"posted": "2026-11-14",
+"url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/mechanical-design-engineer-munich-174564",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-14"
+},
 {
 "id": "arbeitnow:Arbeitnow:remote-senior-ai-product-designer-berlin-84714",
 "company": "Recare Deutschland GmbH",
@@ -11,6 +23,30 @@
 "remote": "remote",
 "posted": "2026-11-14",
 "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-senior-ai-product-designer-berlin-84714",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-14"
+},
+{
+"id": "arbeitnow:Arbeitnow:product-designer-london-183427",
+"company": "Globalwebindex",
+"title": "Product Designer",
+"location": "London",
+"remote": null,
+"posted": "2026-11-14",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/globalwebindex/product-designer-london-183427",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-14"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-london-194752",
+"company": "Transfergo",
+"title": "Senior Product Designer",
+"location": "London",
+"remote": null,
+"posted": "2026-11-14",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/transfergo/senior-product-designer-london-194752",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-14"
@@ -35,6 +71,18 @@
 "remote": null,
 "posted": "2026-11-14",
 "url": "https://www.arbeitnow.nl/jobs/companies/housinganywhere/senior-product-designer-listing-finding-experience-rotterdam-187841",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-14"
+},
+{
+"id": "arbeitnow:Arbeitnow:staff-product-designer-london-419345",
+"company": "Deliveroo ",
+"title": "Staff Product Designer",
+"location": "London, England, United Kingdom",
+"remote": null,
+"posted": "2026-11-14",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/staff-product-designer-london-419345",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-14"
@@ -220,18 +268,6 @@
 "firstSeen": "2026-11-13"
 },
 {
-"id": "arbeitnow:Arbeitnow:senior-product-designer-london-10701",
-"company": "Trading212",
-"title": "Senior Product Designer",
-"location": "London",
-"remote": null,
-"posted": "2026-11-13",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/trading212/senior-product-designer-london-10701",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-13"
-},
-{
 "id": "arbeitnow:Arbeitnow:mechanical-design-engineer-zurich-92406",
 "company": "Coopers Group AG",
 "title": "Mechanical Design Engineer",
@@ -299,18 +335,6 @@
 "remote": null,
 "posted": "2026-11-12",
 "url": "https://www.arbeitnow.fr/jobs/companies/kaluza/lead-designer-paris-13051",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-12"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-product-designer-parisfrance-353020",
-"company": "Didomi",
-"title": "Senior Product Designer",
-"location": "Paris,France",
-"remote": null,
-"posted": "2026-11-12",
-"url": "https://www.arbeitnow.fr/jobs/companies/didomi/senior-product-designer-parisfrance-353020",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-12"
@@ -436,18 +460,6 @@
 "firstSeen": "2026-11-10"
 },
 {
-"id": "arbeitnow:Arbeitnow:principal-design-engineer-mechanical-equipment-80-100-zurich-483998",
-"company": "Climeworks",
-"title": "Principal Design Engineer - Mechanical Equipment (80-100%)",
-"location": "Zurich, Zürich, Switzerland",
-"remote": null,
-"posted": "2026-11-10",
-"url": "https://www.arbeitnow.ch/jobs/companies/climeworks/principal-design-engineer-mechanical-equipment-80-100-zurich-483998",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-10"
-},
-{
 "id": "arbeitnow:Arbeitnow:junior-quantum-design-engineer-delft-146275",
 "company": "Quantware",
 "title": "Junior Quantum Design Engineer",
@@ -455,6 +467,18 @@
 "remote": null,
 "posted": "2026-11-10",
 "url": "https://www.arbeitnow.nl/jobs/companies/quantware/junior-quantum-design-engineer-delft-146275",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-10"
+},
+{
+"id": "arbeitnow:Arbeitnow:principal-design-engineer-mechanical-equipment-80-100-zurich-483998",
+"company": "Climeworks",
+"title": "Principal Design Engineer - Mechanical Equipment (80-100%)",
+"location": "Zurich, Zürich, Switzerland",
+"remote": null,
+"posted": "2026-11-10",
+"url": "https://www.arbeitnow.ch/jobs/companies/climeworks/principal-design-engineer-mechanical-equipment-80-100-zurich-483998",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-10"
@@ -493,6 +517,19 @@
 "url": "https://www.okta.com/company/careers/opportunity/8232605?gh_jid=8232605",
 "source": "greenhouse",
 "region": "Europe",
+"firstSeen": "2026-11-04"
+},
+{
+"id": "workday:statestreet:/job/Burlington-Massachusetts/UX-Designer--Officer_R-795745",
+"company": "State Street",
+"title": "UX Designer, Officer",
+"location": "Burlington Massachusetts",
+"remote": null,
+"posted": null,
+"url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/UX-Designer--Officer_R-795745",
+"source": "workday",
+"region": "Europe",
+"postedText": "Posted 11 Days Ago",
 "firstSeen": "2026-11-04"
 },
 {
@@ -662,6 +699,32 @@
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-20"
+},
+{
+"id": "workday:statestreet:/job/Burlington-Massachusetts/Business-Analysis--AVP-1_R-786883",
+"company": "State Street",
+"title": "Product Designer, AVP",
+"location": "2 Locations",
+"remote": null,
+"posted": null,
+"url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Business-Analysis--AVP-1_R-786883",
+"source": "workday",
+"region": "Europe",
+"postedText": "Posted 26 Days Ago",
+"firstSeen": "2026-10-20"
+},
+{
+"id": "workday:statestreet:/job/Hangzhou-China/Platform-Engineering---Dev-UX--Production-Website---Off_R-799791-1",
+"company": "State Street",
+"title": "Platform Engineering - Dev/UX (Production Website), Off",
+"location": "Hangzhou, China",
+"remote": null,
+"posted": null,
+"url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Platform-Engineering---Dev-UX--Production-Website---Off_R-799791-1",
+"source": "workday",
+"region": "Europe",
+"postedText": "Posted 26 Days Ago",
+"firstSeen": "2026-10-19"
 },
 {
 "id": "greenhouse:okta:8137889",
@@ -1168,18 +1231,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:intercom:7862038",
-"company": "Intercom",
-"title": "Staff/Principal Product Designer",
-"location": "Dublin, Ireland",
-"remote": null,
-"posted": "2026-09-16",
-"url": "https://job-boards.greenhouse.io/intercom/jobs/7862038",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:intercom:7862042",
 "company": "Intercom",
 "title": "Staff/Principal Product Designer",
@@ -1187,6 +1238,18 @@
 "remote": null,
 "posted": "2026-09-16",
 "url": "https://job-boards.greenhouse.io/intercom/jobs/7862042",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:intercom:7862038",
+"company": "Intercom",
+"title": "Staff/Principal Product Designer",
+"location": "Dublin, Ireland",
+"remote": null,
+"posted": "2026-09-16",
+"url": "https://job-boards.greenhouse.io/intercom/jobs/7862038",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"

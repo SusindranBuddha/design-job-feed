@@ -1,8 +1,56 @@
 {
-"generated": "2026-11-14T09:00:13Z",
+"generated": "2026-11-14T19:11:37Z",
 "region": "Remote",
-"count": 177,
+"count": 181,
 "jobs": [
+{
+"id": "ashby:clera:b99ef082-a3ec-416a-9b14-b36e962f0adc",
+"company": "Clera",
+"title": "Senior Product Designer",
+"location": "Berlin",
+"remote": "OnSite",
+"posted": "2026-11-14",
+"url": "https://jobs.ashbyhq.com/Clera/b99ef082-a3ec-416a-9b14-b36e962f0adc",
+"source": "ashby",
+"region": "Remote",
+"firstSeen": "2026-11-14"
+},
+{
+"id": "ashby:clera:c36ede05-7696-456b-9547-ecd5f33b02d9",
+"company": "Clera",
+"title": "Founding Product Designer",
+"location": "San Francisco",
+"remote": "OnSite",
+"posted": "2026-11-14",
+"url": "https://jobs.ashbyhq.com/Clera/c36ede05-7696-456b-9547-ecd5f33b02d9",
+"source": "ashby",
+"region": "Remote",
+"firstSeen": "2026-11-14"
+},
+{
+"id": "jobicy:Jobicy:162205",
+"company": "NerdWallet",
+"title": "Senior Product Designer (Engagement)",
+"location": "USA",
+"remote": "remote",
+"posted": "2026-11-14",
+"url": "https://jobicy.com/jobs/162205-senior-product-designer-engagement",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-14"
+},
+{
+"id": "jobicy:Jobicy:162196",
+"company": "Wayflyer",
+"title": "Senior Product Designer",
+"location": "Europe",
+"remote": "remote",
+"posted": "2026-11-14",
+"url": "https://jobicy.com/jobs/162196-senior-product-designer-21",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-14"
+},
 {
 "id": "jobicy:Jobicy:149110",
 "company": "Fieldguide",
@@ -12,6 +60,18 @@
 "posted": "2026-11-14",
 "url": "https://jobicy.com/jobs/149110-staff-product-designer",
 "source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-14"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/neon/jobs/principal-product-designer",
+"company": "Neon",
+"title": "Principal Product Designer",
+"location": "Brazil",
+"remote": "remote",
+"posted": "2026-09-19",
+"url": "https://himalayas.app/companies/neon/jobs/principal-product-designer?utm_source=api",
+"source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-14"
 },
@@ -136,6 +196,18 @@
 "firstSeen": "2026-11-11"
 },
 {
+"id": "himalayas:Himalayas:https://himalayas.app/companies/cricut/jobs/visual-design-lead-ux-8339940428",
+"company": "Cricut",
+"title": "Visual Design Lead, UX",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-11-14",
+"url": "https://himalayas.app/companies/cricut/jobs/visual-design-lead-ux-8339940428?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-07"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/highlevel/jobs/staff-product-designer-6800743082",
 "company": "HighLevel",
 "title": "Staff Product Designer",
@@ -191,18 +263,6 @@
 "remote": "remote",
 "posted": "2026-10-02",
 "url": "https://himalayas.app/companies/pavago/jobs/ux-ui-designer-6863424311?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-11-07"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/cricut/jobs/visual-design-lead-ux-8339940428",
-"company": "Cricut",
-"title": "Visual Design Lead, UX",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-09-15",
-"url": "https://himalayas.app/companies/cricut/jobs/visual-design-lead-ux-8339940428?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-07"
@@ -383,18 +443,6 @@
 "remote": "remote",
 "posted": "2026-11-01",
 "url": "https://himalayas.app/companies/genz-talent/jobs/ui-ux-designer?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-11-01"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/cd-projekt-red/jobs/senior-technical-designer-1861562587",
-"company": "CD PROJEKT RED",
-"title": "Senior Technical Designer",
-"location": "Canada, United States",
-"remote": "remote",
-"posted": "2026-11-01",
-"url": "https://himalayas.app/companies/cd-projekt-red/jobs/senior-technical-designer-1861562587?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-01"

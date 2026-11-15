@@ -1,8 +1,32 @@
 {
-"generated": "2026-11-15T09:29:43Z",
+"generated": "2026-11-15T19:47:51Z",
 "region": "Europe",
-"count": 105,
+"count": 104,
 "jobs": [
+{
+"id": "arbeitnow:Arbeitnow:senior-photonics-design-engineer-oxford-203176",
+"company": "Salience Labs",
+"title": "Senior Photonics Design Engineer",
+"location": "Oxford, United Kingdom",
+"remote": null,
+"posted": "2026-11-15",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/salience-labs/senior-photonics-design-engineer-oxford-203176",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-15"
+},
+{
+"id": "arbeitnow:Arbeitnow:photonics-design-engineer-iii-v-components-oxford-208669",
+"company": "Salience Labs",
+"title": "Photonics Design Engineer - III/V Components",
+"location": "Oxford, United Kingdom",
+"remote": null,
+"posted": "2026-11-15",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/salience-labs/photonics-design-engineer-iii-v-components-oxford-208669",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-15"
+},
 {
 "id": "arbeitnow:Arbeitnow:senior-digital-design-engineer-edinburgh-scotland-84743",
 "company": "Cirrus",
@@ -196,18 +220,6 @@
 "firstSeen": "2026-11-13"
 },
 {
-"id": "arbeitnow:Arbeitnow:senior-designer-munich-443460",
-"company": "Se3",
-"title": "Senior Designer",
-"location": "Munich",
-"remote": null,
-"posted": "2026-11-13",
-"url": "https://www.arbeitnow.com/jobs/companies/se3/senior-designer-munich-443460",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-13"
-},
-{
 "id": "arbeitnow:Arbeitnow:ux-ui-designer-paris-157658",
 "company": "O'CD",
 "title": "UX/UI Designer",
@@ -220,13 +232,13 @@
 "firstSeen": "2026-11-13"
 },
 {
-"id": "arbeitnow:Arbeitnow:lead-designer-design-system-owner-in-tech-data-team-berlin-407190",
-"company": "Thomann.io",
-"title": "Lead Designer / Design System Owner (f/x/m) in Tech & Data Team",
-"location": "Berlin",
+"id": "arbeitnow:Arbeitnow:senior-designer-munich-443460",
+"company": "Se3",
+"title": "Senior Designer",
+"location": "Munich",
 "remote": null,
 "posted": "2026-11-13",
-"url": "https://www.arbeitnow.com/jobs/companies/thomannio/lead-designer-design-system-owner-in-tech-data-team-berlin-407190",
+"url": "https://www.arbeitnow.com/jobs/companies/se3/senior-designer-munich-443460",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-13"
@@ -275,30 +287,6 @@
 "remote": null,
 "posted": "2026-11-12",
 "url": "https://www.arbeitnow.nl/jobs/companies/housinganywhere-group/senior-product-designer-listing-finding-experience-rotterdam-3581",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-12"
-},
-{
-"id": "arbeitnow:Arbeitnow:engineering-manager-design-system-levallois-perret-187551",
-"company": "Doctolib",
-"title": "Engineering Manager - Design System (x/f/m)",
-"location": "Paris",
-"remote": null,
-"posted": "2026-11-12",
-"url": "https://www.arbeitnow.fr/jobs/companies/doctolib/engineering-manager-design-system-levallois-perret-187551",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-12"
-},
-{
-"id": "arbeitnow:Arbeitnow:engineering-manager-design-system-nantes-277178",
-"company": "Doctolib",
-"title": "Engineering Manager - Design System (x/f/m)",
-"location": "Nantes",
-"remote": null,
-"posted": "2026-11-12",
-"url": "https://www.arbeitnow.fr/jobs/companies/doctolib/engineering-manager-design-system-nantes-277178",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-12"

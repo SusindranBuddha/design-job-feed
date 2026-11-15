@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-15T09:29:43Z",
+"generated": "2026-11-15T19:47:51Z",
 "region": "APAC",
-"count": 74,
+"count": 70,
 "jobs": [
 {
 "id": "mcf:MyCareersFuture:9524d36963a235acf32e50f09f31262d",
@@ -736,58 +736,6 @@
 "url": "https://job-boards.greenhouse.io/agoda/jobs/8263604",
 "source": "greenhouse",
 "region": "APAC",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:37c892b6972cbb2f9bf61b2b97914aeb",
-"company": "ARYAN SOLUTIONS PTE. LTD.",
-"title": "UI/UX Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/uiux-designer-aryan-solutions-37c892b6972cbb2f9bf61b2b97914aeb",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 5000-7500 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:99ddaaeba04061cc1b1abc0e600606c9",
-"company": "OPTIMUM SOLUTIONS (SINGAPORE) PTE LTD",
-"title": "UI/UX Designer (Location: North East)",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://www.mycareersfuture.gov.sg/job/design/uiux-designer-optimum-solutions-99ddaaeba04061cc1b1abc0e600606c9",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 8000-9000 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:c4915789a8e2fed962463cc10ae76776",
-"company": "ITCAN PTE. LIMITED",
-"title": "Onshore UX Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://www.mycareersfuture.gov.sg/job/professional-services/onshore-ux-designer-itcan-c4915789a8e2fed962463cc10ae76776",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 6000-9000 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:f09afe983590df9f06e69df537c9a464",
-"company": "ACTIVATE INTERACTIVE PTE LTD",
-"title": "Experience & Interface Designer - A26398",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://www.mycareersfuture.gov.sg/job/design/experience-interface-designer-a26398-activate-interactive-f09afe983590df9f06e69df537c9a464",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 7000-8000 /Monthly",
 "firstSeen": "2026-10-17"
 },
 {

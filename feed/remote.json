@@ -1,8 +1,32 @@
 {
-"generated": "2026-11-14T19:11:37Z",
+"generated": "2026-11-15T09:29:43Z",
 "region": "Remote",
-"count": 181,
+"count": 182,
 "jobs": [
+{
+"id": "jobicy:Jobicy:162237",
+"company": "Quest Defense Systems &#038; Solutions, Inc.",
+"title": "Senior Mechanical Design Engineer - Structures & Systems",
+"location": "USA",
+"remote": "remote",
+"posted": "2026-11-14",
+"url": "https://jobicy.com/jobs/162237-senior-mechanical-design-engineer-structures-systems",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-15"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/powerprozesse/jobs/software-architect-system-designer-100-remote-2957526236",
+"company": "Powerprozesse",
+"title": "Software-Architect / System-Designer (100% Remote)",
+"location": "Bulgaria, Croatia, Czechia, Egypt, Estonia, Hungary, Latvia, Lithuania, Morocco, Romania, Serbia, Slovakia, Slovenia, Tunisia",
+"remote": "remote",
+"posted": "2026-10-29",
+"url": "https://himalayas.app/companies/powerprozesse/jobs/software-architect-system-designer-100-remote-2957526236?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-15"
+},
 {
 "id": "ashby:clera:b99ef082-a3ec-416a-9b14-b36e962f0adc",
 "company": "Clera",
@@ -160,6 +184,18 @@
 "firstSeen": "2026-11-12"
 },
 {
+"id": "himalayas:Himalayas:https://himalayas.app/companies/codekeeper/jobs/digital-product-designer-7980129206",
+"company": "Codekeeper",
+"title": "Digital Product Designer",
+"location": "Argentina",
+"remote": "remote",
+"posted": "2026-11-12",
+"url": "https://himalayas.app/companies/codekeeper/jobs/digital-product-designer-7980129206?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-12"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/360-privacy/jobs/senior-product-designer-design-systems",
 "company": "360 Privacy",
 "title": "Senior Product Designer, Design Systems",
@@ -232,6 +268,18 @@
 "firstSeen": "2026-11-07"
 },
 {
+"id": "himalayas:Himalayas:https://himalayas.app/companies/cloudcure/jobs/ui-ux-designer-part-time-contractor-4008913315",
+"company": "CloudCure",
+"title": "UI/UX Designer (Part-Time Contractor)",
+"location": "Canada",
+"remote": "remote",
+"posted": "2026-10-31",
+"url": "https://himalayas.app/companies/cloudcure/jobs/ui-ux-designer-part-time-contractor-4008913315?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-07"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/pavago/jobs/ux-ui-designer-2370830894",
 "company": "Pavago",
 "title": "UX/UI Designer",
@@ -256,18 +304,6 @@
 "firstSeen": "2026-11-07"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/pavago/jobs/ux-ui-designer-6863424311",
-"company": "Pavago",
-"title": "UX/UI Designer",
-"location": "Philippines",
-"remote": "remote",
-"posted": "2026-10-02",
-"url": "https://himalayas.app/companies/pavago/jobs/ux-ui-designer-6863424311?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-11-07"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/highlevel/jobs/lead-product-designer-design-systems",
 "company": "HighLevel",
 "title": "Lead Product Designer, Design Systems",
@@ -287,18 +323,6 @@
 "remote": "remote",
 "posted": "2026-11-06",
 "url": "https://himalayas.app/companies/ondo-finance/jobs/senior-product-designer-design-systems?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-11-06"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/caju/jobs/especialista-frontend-design-system",
-"company": "Caju",
-"title": "Especialista FrontEnd – Design System",
-"location": "Brazil",
-"remote": "remote",
-"posted": "2026-11-06",
-"url": "https://himalayas.app/companies/caju/jobs/especialista-frontend-design-system?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-06"
@@ -1583,18 +1607,6 @@
 "remote": "remote",
 "posted": "2026-11-02",
 "url": "https://himalayas.app/companies/stripe/jobs/senior-staff-product-designer-risk?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/customer-io/jobs/staff-product-designer",
-"company": "Customer.io",
-"title": "Staff Product Designer",
-"location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Canada, Cayman Islands, ",
-"remote": "remote",
-"posted": "2026-11-01",
-"url": "https://himalayas.app/companies/customer-io/jobs/staff-product-designer?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-17"

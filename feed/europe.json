@@ -1,8 +1,80 @@
 {
-"generated": "2026-11-14T19:11:37Z",
+"generated": "2026-11-15T09:29:43Z",
 "region": "Europe",
-"count": 108,
+"count": 105,
 "jobs": [
+{
+"id": "arbeitnow:Arbeitnow:senior-digital-design-engineer-edinburgh-scotland-84743",
+"company": "Cirrus",
+"title": "Senior Digital Design Engineer",
+"location": "Edinburgh, Scotland",
+"remote": null,
+"posted": "2026-11-15",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/cirrus/senior-digital-design-engineer-edinburgh-scotland-84743",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-15"
+},
+{
+"id": "arbeitnow:Arbeitnow:product-designer-mobile-united-kingdom-45884",
+"company": "Kpler",
+"title": "Product Designer - Mobile",
+"location": "United Kingdom",
+"remote": null,
+"posted": "2026-11-15",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/product-designer-mobile-united-kingdom-45884",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-15"
+},
+{
+"id": "arbeitnow:Arbeitnow:staff-product-designer-london-12332",
+"company": "Faculty",
+"title": "Staff Product Designer",
+"location": "London",
+"remote": null,
+"posted": "2026-11-14",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/staff-product-designer-london-12332",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-15"
+},
+{
+"id": "arbeitnow:Arbeitnow:staff-product-designer-london-229930",
+"company": "Coreweaveu",
+"title": "Staff Product Designer",
+"location": "London",
+"remote": null,
+"posted": "2026-11-14",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/staff-product-designer-london-229930",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-15"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-post-booking-experience-rotterdam-243060",
+"company": "housinganywhere",
+"title": "Senior Product Designer - Post Booking experience",
+"location": "Rotterdam",
+"remote": null,
+"posted": "2026-11-14",
+"url": "https://www.arbeitnow.nl/jobs/companies/housinganywhere/senior-product-designer-post-booking-experience-rotterdam-243060",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-14"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-listing-finding-experience-rotterdam-187841",
+"company": "housinganywhere",
+"title": "Senior Product Designer - Listing & Finding experience",
+"location": "Rotterdam",
+"remote": null,
+"posted": "2026-11-14",
+"url": "https://www.arbeitnow.nl/jobs/companies/housinganywhere/senior-product-designer-listing-finding-experience-rotterdam-187841",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-14"
+},
 {
 "id": "arbeitnow:Arbeitnow:mechanical-design-engineer-munich-174564",
 "company": "Proxima Fusion GmbH",
@@ -52,30 +124,6 @@
 "firstSeen": "2026-11-14"
 },
 {
-"id": "arbeitnow:Arbeitnow:senior-product-designer-post-booking-experience-rotterdam-243060",
-"company": "housinganywhere",
-"title": "Senior Product Designer - Post Booking experience",
-"location": "Rotterdam",
-"remote": null,
-"posted": "2026-11-14",
-"url": "https://www.arbeitnow.nl/jobs/companies/housinganywhere/senior-product-designer-post-booking-experience-rotterdam-243060",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-14"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-product-designer-listing-finding-experience-rotterdam-187841",
-"company": "housinganywhere",
-"title": "Senior Product Designer - Listing & Finding experience",
-"location": "Rotterdam",
-"remote": null,
-"posted": "2026-11-14",
-"url": "https://www.arbeitnow.nl/jobs/companies/housinganywhere/senior-product-designer-listing-finding-experience-rotterdam-187841",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-14"
-},
-{
 "id": "arbeitnow:Arbeitnow:staff-product-designer-london-419345",
 "company": "Deliveroo ",
 "title": "Staff Product Designer",
@@ -83,30 +131,6 @@
 "remote": null,
 "posted": "2026-11-14",
 "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/staff-product-designer-london-419345",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-14"
-},
-{
-"id": "arbeitnow:Arbeitnow:design-engineer-london-72513",
-"company": "Spruce",
-"title": "Design Engineer",
-"location": "London",
-"remote": null,
-"posted": "2026-11-14",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/spruce/design-engineer-london-72513",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-14"
-},
-{
-"id": "arbeitnow:Arbeitnow:staff-product-designer-london-91833",
-"company": "Carwow",
-"title": "Staff Product Designer",
-"location": "London",
-"remote": null,
-"posted": "2026-11-14",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/carwow/staff-product-designer-london-91833",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-14"
@@ -131,42 +155,6 @@
 "remote": null,
 "posted": "2026-11-13",
 "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/senior-jet-engine-design-engineer-interceptor-drones-blagnac-262136",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-14"
-},
-{
-"id": "arbeitnow:Arbeitnow:principal-designer-cdm-129640",
-"company": "Bakerhicks",
-"title": "Principal Designer - CDM",
-"location": "",
-"remote": null,
-"posted": "2026-11-13",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/bakerhicks/principal-designer-cdm-129640",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-14"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-manager-product-design-london-225816",
-"company": "contentful",
-"title": "Senior Manager, Product Design (f/m/d)",
-"location": "London",
-"remote": null,
-"posted": "2026-11-13",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/contentful/senior-manager-product-design-london-225816",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-14"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-match-3-designer-new-game-london-25645",
-"company": "Supercell",
-"title": "Senior Match-3 Designer, New Game",
-"location": "London",
-"remote": null,
-"posted": "2026-11-13",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/supercell/senior-match-3-designer-new-game-london-25645",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-14"
@@ -208,18 +196,6 @@
 "firstSeen": "2026-11-13"
 },
 {
-"id": "arbeitnow:Arbeitnow:ux-ui-designer-paris-157658",
-"company": "O'CD",
-"title": "UX/UI Designer",
-"location": "Paris",
-"remote": null,
-"posted": "2026-11-13",
-"url": "https://www.arbeitnow.fr/jobs/companies/ocd/ux-ui-designer-paris-157658",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-13"
-},
-{
 "id": "arbeitnow:Arbeitnow:senior-designer-munich-443460",
 "company": "Se3",
 "title": "Senior Designer",
@@ -232,13 +208,13 @@
 "firstSeen": "2026-11-13"
 },
 {
-"id": "arbeitnow:Arbeitnow:ui-ux-artist-castle-busters-paris-432586",
-"company": "Voodoo",
-"title": "UI/UX Artist - Castle Busters",
+"id": "arbeitnow:Arbeitnow:ux-ui-designer-paris-157658",
+"company": "O'CD",
+"title": "UX/UI Designer",
 "location": "Paris",
 "remote": null,
 "posted": "2026-11-13",
-"url": "https://www.arbeitnow.fr/jobs/companies/voodoo/ui-ux-artist-castle-busters-paris-432586",
+"url": "https://www.arbeitnow.fr/jobs/companies/ocd/ux-ui-designer-paris-157658",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-13"
@@ -256,13 +232,13 @@
 "firstSeen": "2026-11-13"
 },
 {
-"id": "arbeitnow:Arbeitnow:product-designer-berlin-295450",
-"company": "UP42 GmbH",
-"title": "Product Designer (m/f/x)",
-"location": "Berlin, Berlin, Germany",
+"id": "arbeitnow:Arbeitnow:ui-ux-artist-castle-busters-paris-432586",
+"company": "Voodoo",
+"title": "UI/UX Artist - Castle Busters",
+"location": "Paris",
 "remote": null,
 "posted": "2026-11-13",
-"url": "https://www.arbeitnow.com/jobs/companies/up42-gmbh/product-designer-berlin-295450",
+"url": "https://www.arbeitnow.fr/jobs/companies/voodoo/ui-ux-artist-castle-busters-paris-432586",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-13"
@@ -323,18 +299,6 @@
 "remote": null,
 "posted": "2026-11-12",
 "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/engineering-manager-design-system-nantes-277178",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-12"
-},
-{
-"id": "arbeitnow:Arbeitnow:lead-designer-paris-13051",
-"company": "Kaluza",
-"title": "Lead Designer",
-"location": "Paris, France",
-"remote": null,
-"posted": "2026-11-12",
-"url": "https://www.arbeitnow.fr/jobs/companies/kaluza/lead-designer-paris-13051",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-12"
@@ -529,7 +493,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/UX-Designer--Officer_R-795745",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 11 Days Ago",
+"postedText": "Posted 12 Days Ago",
 "firstSeen": "2026-11-04"
 },
 {
@@ -710,7 +674,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Business-Analysis--AVP-1_R-786883",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 26 Days Ago",
+"postedText": "Posted 27 Days Ago",
 "firstSeen": "2026-10-20"
 },
 {
@@ -723,7 +687,7 @@
 "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Platform-Engineering---Dev-UX--Production-Website---Off_R-799791-1",
 "source": "workday",
 "region": "Europe",
-"postedText": "Posted 26 Days Ago",
+"postedText": "Posted 27 Days Ago",
 "firstSeen": "2026-10-19"
 },
 {

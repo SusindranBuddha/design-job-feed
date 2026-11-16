@@ -1,8 +1,32 @@
 {
-"generated": "2026-11-15T19:47:51Z",
+"generated": "2026-11-16T09:48:19Z",
 "region": "Remote",
 "count": 180,
 "jobs": [
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/pavago/jobs/ux-ui-designer",
+"company": "Pavago",
+"title": "UX/UI Designer",
+"location": "Philippines",
+"remote": "remote",
+"posted": "2026-11-15",
+"url": "https://himalayas.app/companies/pavago/jobs/ux-ui-designer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-16"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/bold-plus/jobs/design-system-manager",
+"company": "Bold +",
+"title": "Design System Manager",
+"location": "Colombia",
+"remote": "remote",
+"posted": "2026-11-15",
+"url": "https://himalayas.app/companies/bold-plus/jobs/design-system-manager?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-16"
+},
 {
 "id": "jobicy:Jobicy:162305",
 "company": "Reedsy",
@@ -84,18 +108,6 @@
 "posted": "2026-11-14",
 "url": "https://jobicy.com/jobs/149110-staff-product-designer",
 "source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-11-14"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/neon/jobs/principal-product-designer",
-"company": "Neon",
-"title": "Principal Product Designer",
-"location": "Brazil",
-"remote": "remote",
-"posted": "2026-09-19",
-"url": "https://himalayas.app/companies/neon/jobs/principal-product-designer?utm_source=api",
-"source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-14"
 },
@@ -251,6 +263,18 @@
 "remote": "remote",
 "posted": "2026-10-30",
 "url": "https://himalayas.app/companies/pavago/jobs/ux-ui-designer-2370830894?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-07"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/pavago/jobs/ux-ui-designer-8092600539",
+"company": "Pavago",
+"title": "UX/UI Designer",
+"location": "South Africa",
+"remote": "remote",
+"posted": "2026-10-17",
+"url": "https://himalayas.app/companies/pavago/jobs/ux-ui-designer-8092600539?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-07"
@@ -916,6 +940,18 @@
 "firstSeen": "2026-10-19"
 },
 {
+"id": "himalayas:Himalayas:https://himalayas.app/companies/rockstar/jobs/product-designer-2495373180",
+"company": "Rockstar",
+"title": "Product Designer",
+"location": "Canada",
+"remote": "remote",
+"posted": "2026-11-15",
+"url": "https://himalayas.app/companies/rockstar/jobs/product-designer-2495373180?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
 "id": "jobicy:Jobicy:155335",
 "company": "MaintainX",
 "title": "Senior Product Designer, AI",
@@ -1079,18 +1115,6 @@
 "remote": "remote",
 "posted": "2026-11-01",
 "url": "https://himalayas.app/companies/pavago/jobs/ux-ui-designer-9173479940?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/bunny-net/jobs/ux-product-design-lead",
-"company": "bunny.net",
-"title": "UX & Product Design Lead",
-"location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germa",
-"remote": "remote",
-"posted": "2026-11-01",
-"url": "https://himalayas.app/companies/bunny-net/jobs/ux-product-design-lead?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"
@@ -1391,18 +1415,6 @@
 "remote": "remote",
 "posted": "2026-09-18",
 "url": "https://himalayas.app/companies/questronix-corporation/jobs/ui-ux-designer?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/rockstar/jobs/product-designer-2495373180",
-"company": "Rockstar",
-"title": "Product Designer",
-"location": "Canada",
-"remote": "remote",
-"posted": "2026-09-16",
-"url": "https://himalayas.app/companies/rockstar/jobs/product-designer-2495373180?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"
@@ -1763,18 +1775,6 @@
 "remote": "remote",
 "posted": "2026-10-11",
 "url": "https://himalayas.app/companies/olxgroup/jobs/senior-design-system-designer-822039435?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/mercor/jobs/ui-ux-design-expert-evaluator",
-"company": "mercor",
-"title": "UI/UX Design Expert - Evaluator",
-"location": "Germany",
-"remote": "remote",
-"posted": "2026-10-10",
-"url": "https://himalayas.app/companies/mercor/jobs/ui-ux-design-expert-evaluator?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-17"

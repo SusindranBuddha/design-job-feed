@@ -1,8 +1,20 @@
 {
-"generated": "2026-11-15T19:47:51Z",
+"generated": "2026-11-16T09:48:19Z",
 "region": "Nordics",
-"count": 66,
+"count": 65,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31733846",
+"company": "Mero Rekrytering AB",
+"title": "UX/UI-designer till internationellt teknikbolag i Lund",
+"location": "Lund",
+"remote": null,
+"posted": "2026-11-16",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31733846",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-16"
+},
 {
 "id": "platsbanken:Platsbanken:31726811",
 "company": "The Place AB",
@@ -301,7 +313,7 @@
 "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Brighton-United-Kingdom/Senior-Product-Designer_JOBREQ-2616581",
 "source": "workday",
 "region": "Nordics",
-"postedText": "Posted 11 Days Ago",
+"postedText": "Posted 12 Days Ago",
 "firstSeen": "2026-11-04"
 },
 {
@@ -362,7 +374,7 @@
 "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Singapore/XMLNAME--Req----Product-Designer--2D_JOBREQ-2616662",
 "source": "workday",
 "region": "Nordics",
-"postedText": "Posted 13 Days Ago",
+"postedText": "Posted 14 Days Ago",
 "firstSeen": "2026-11-02"
 },
 {
@@ -486,18 +498,6 @@
 "firstSeen": "2026-10-23"
 },
 {
-"id": "platsbanken:Platsbanken:31636518",
-"company": "Kriminalvården",
-"title": "UX designer inriktning designsystem",
-"location": "Norrköping",
-"remote": null,
-"posted": "2026-10-23",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31636518",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-23"
-},
-{
 "id": "greenhouse:relex:8039875003",
 "company": "RELEX",
 "title": "Lead Product Designer | Platform Engineering",
@@ -518,18 +518,6 @@
 "posted": "2026-10-21",
 "url": "https://jobs.lever.co/spotify/f02fb195-ba10-40bd-a926-0318a34a7fae",
 "source": "lever",
-"region": "Nordics",
-"firstSeen": "2026-10-21"
-},
-{
-"id": "platsbanken:Platsbanken:31626858",
-"company": "Kongsberg Maritime Sweden AB",
-"title": "Propeller Blade Designer / Hydrodynamicist",
-"location": "Kristinehamn",
-"remote": null,
-"posted": "2026-10-21",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31626858",
-"source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-21"
 },
@@ -630,18 +618,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:alphasense:8530664002",
-"company": "AlphaSense",
-"title": "Senior/Staff Product Designer",
-"location": "New York, New York, United States; Remote - United States",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:alphasense:8531119002",
 "company": "AlphaSense",
 "title": "Senior/Staff Product Designer",
@@ -649,6 +625,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:alphasense:8530664002",
+"company": "AlphaSense",
+"title": "Senior/Staff Product Designer",
+"location": "New York, New York, United States; Remote - United States",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"

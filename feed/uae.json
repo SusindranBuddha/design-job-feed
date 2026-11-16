@@ -1,8 +1,20 @@
 {
-"generated": "2026-11-15T19:47:51Z",
+"generated": "2026-11-16T09:48:19Z",
 "region": "UAE",
-"count": 14,
+"count": 13,
 "jobs": [
+{
+"id": "smartrecruiters:DeliveryHero:744000161755797",
+"company": "talabat",
+"title": "Staff Product Designer - (Logistics, Customer)",
+"location": "Berlin, de",
+"remote": null,
+"posted": "2026-11-16",
+"url": "https://jobs.smartrecruiters.com/DeliveryHero/744000161755797",
+"source": "smartrecruiters",
+"region": "UAE",
+"firstSeen": "2026-11-16"
+},
 {
 "id": "smartrecruiters:DeliveryHero:744000160830109",
 "company": "talabat",
@@ -26,18 +38,6 @@
 "source": "smartrecruiters",
 "region": "UAE",
 "firstSeen": "2026-11-09"
-},
-{
-"id": "smartrecruiters:DeliveryHero:744000158792679",
-"company": "talabat",
-"title": "Staff Product Designer - (Logistics, Customer)",
-"location": "Berlin, de",
-"remote": null,
-"posted": "2026-10-30",
-"url": "https://jobs.smartrecruiters.com/DeliveryHero/744000158792679",
-"source": "smartrecruiters",
-"region": "UAE",
-"firstSeen": "2026-10-30"
 },
 {
 "id": "smartrecruiters:DeliveryHero:744000158236671",
@@ -120,18 +120,6 @@
 "posted": "2026-09-09",
 "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000148421069",
 "source": "smartrecruiters",
-"region": "UAE",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "teamtailor:Property Finder:https://propertyfinder.teamtailor.com/jobs/8165389-digital-designer",
-"company": "Property Finder",
-"title": "Digital Designer",
-"location": "",
-"remote": null,
-"posted": "2026-08-04",
-"url": "https://propertyfinder.teamtailor.com/jobs/8165389-digital-designer",
-"source": "teamtailor",
 "region": "UAE",
 "firstSeen": "2026-10-17"
 },

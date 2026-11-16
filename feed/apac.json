@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-16T09:48:19Z",
+"generated": "2026-11-16T23:25:01Z",
 "region": "APAC",
-"count": 72,
+"count": 69,
 "jobs": [
 {
 "id": "mcf:MyCareersFuture:5e8e08ef8e7447f8142a136dab3371ee",
@@ -14,6 +14,19 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 7000-9500 /Monthly",
+"firstSeen": "2026-11-16"
+},
+{
+"id": "mcf:MyCareersFuture:796d2096bb95fb71fa61d46ecd1d5fe1",
+"company": "HELIUS TECHNOLOGIES PTE. LTD.",
+"title": "Business Analyst UI-UX Tech Lead Product Manager",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-16",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/business-analyst-ui-ux-tech-lead-product-manager-helius-technologies-796d2096bb95fb71fa61d46ecd1d5fe1",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 9000-9500 /Monthly",
 "firstSeen": "2026-11-16"
 },
 {
@@ -66,19 +79,6 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 5000-6800 /Monthly",
-"firstSeen": "2026-11-16"
-},
-{
-"id": "workday:dbs:/job/Singapore---Central/Senior-Associate--Product-Designer-for-IBG-Employee-Experience--Group-Design--Consumer-Banking-Group_WD90681",
-"company": "DBS",
-"title": "Senior Associate, Product Designer for IBG Employee Experience, Group Design, Consumer Banking Group",
-"location": "Singapore - Central",
-"remote": null,
-"posted": null,
-"url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/Senior-Associate--Product-Designer-for-IBG-Employee-Experience--Group-Design--Consumer-Banking-Group_WD90681",
-"source": "workday",
-"region": "APAC",
-"postedText": "Posted Today",
 "firstSeen": "2026-11-16"
 },
 {
@@ -390,19 +390,6 @@
 "url": "https://job-boards.greenhouse.io/zipcolimited/jobs/4719148006",
 "source": "greenhouse",
 "region": "APAC",
-"firstSeen": "2026-11-02"
-},
-{
-"id": "mcf:MyCareersFuture:4a33b1a9061caf8d3e8b4e0af6fd0305",
-"company": "HYUNDAI MOTOR GROUP INNOVATION CENTER IN SINGAPORE PTE. LTD.",
-"title": "UI/UX Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-11-02",
-"url": "https://www.mycareersfuture.gov.sg/job/engineering/uiux-designer-hyundai-motor-group-innovation-center-singapore-4a33b1a9061caf8d3e8b4e0af6fd0305",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 4000-6000 /Monthly",
 "firstSeen": "2026-11-02"
 },
 {
@@ -895,32 +882,6 @@
 "url": "https://jobs.ashbyhq.com/padlet/50cdf712-daba-4925-b344-d0b3530b5c1c",
 "source": "ashby",
 "region": "APAC",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "workday:dbs:/job/Singapore---Central/VP--Team-Lead--Product-Designer--Group-Design--Consumer-Banking-Group_WD83058-1",
-"company": "DBS",
-"title": "Senior Associate, Product Designer for IBG Employee Experience, Group Design, Consumer Banking Group",
-"location": "Singapore - Central",
-"remote": null,
-"posted": null,
-"url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/VP--Team-Lead--Product-Designer--Group-Design--Consumer-Banking-Group_WD83058-1",
-"source": "workday",
-"region": "APAC",
-"postedText": "Posted 30+ Days Ago",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "workday:dbs:/job/Singapore---Central/AVP--Product-Designer--Group-Design--Consumer-Banking-Group_WD88415",
-"company": "DBS",
-"title": "AVP, Product Designer, Group Design, Consumer Banking Group",
-"location": "Singapore - Central",
-"remote": null,
-"posted": null,
-"url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/AVP--Product-Designer--Group-Design--Consumer-Banking-Group_WD88415",
-"source": "workday",
-"region": "APAC",
-"postedText": "Posted 30+ Days Ago",
 "firstSeen": "2026-10-17"
 }
 ]

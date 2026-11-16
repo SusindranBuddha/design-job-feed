@@ -1,8 +1,56 @@
 {
-"generated": "2026-11-16T09:48:19Z",
+"generated": "2026-11-16T23:25:01Z",
 "region": "Nordics",
-"count": 65,
+"count": 64,
 "jobs": [
+{
+"id": "greenhouse:oura:4488086009",
+"company": "Oura",
+"title": "Senior Product Designer, International Commerce",
+"location": "Hybrid - London, England",
+"remote": null,
+"posted": "2026-11-16",
+"url": "https://job-boards.greenhouse.io/oura/jobs/4488086009",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-11-16"
+},
+{
+"id": "platsbanken:Platsbanken:31738379",
+"company": "Deploja AB",
+"title": "UX Design Lead",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-16",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31738379",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-16"
+},
+{
+"id": "platsbanken:Platsbanken:31738195",
+"company": "Quest Consulting Sverige AB",
+"title": "UX Design Lead till Quest Consulting",
+"location": "Sundbyberg",
+"remote": null,
+"posted": "2026-11-16",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31738195",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-16"
+},
+{
+"id": "platsbanken:Platsbanken:31737204",
+"company": "Knightec Group Hardware and Design AB",
+"title": "UX Designer",
+"location": "Solna",
+"remote": null,
+"posted": "2026-11-16",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31737204",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-16"
+},
 {
 "id": "platsbanken:Platsbanken:31733846",
 "company": "Mero Rekrytering AB",
@@ -304,19 +352,6 @@
 "firstSeen": "2026-11-04"
 },
 {
-"id": "workday:unitytech:/job/Brighton-United-Kingdom/Senior-Product-Designer_JOBREQ-2616581",
-"company": "Unity",
-"title": "Senior Product Designer",
-"location": "5 Locations",
-"remote": null,
-"posted": null,
-"url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Brighton-United-Kingdom/Senior-Product-Designer_JOBREQ-2616581",
-"source": "workday",
-"region": "Nordics",
-"postedText": "Posted 12 Days Ago",
-"firstSeen": "2026-11-04"
-},
-{
 "id": "platsbanken:Platsbanken:31680020",
 "company": "SAAB Aktiebolag",
 "title": "UX Designer - Mission Support System",
@@ -362,19 +397,6 @@
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31673283",
 "source": "Platsbanken",
 "region": "Nordics",
-"firstSeen": "2026-11-02"
-},
-{
-"id": "workday:unitytech:/job/Singapore/XMLNAME--Req----Product-Designer--2D_JOBREQ-2616662",
-"company": "Unity",
-"title": "Product Designer, 2D",
-"location": "Singapore",
-"remote": null,
-"posted": null,
-"url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Singapore/XMLNAME--Req----Product-Designer--2D_JOBREQ-2616662",
-"source": "workday",
-"region": "Nordics",
-"postedText": "Posted 14 Days Ago",
 "firstSeen": "2026-11-02"
 },
 {
@@ -426,30 +448,6 @@
 "firstSeen": "2026-10-28"
 },
 {
-"id": "platsbanken:Platsbanken:31656498",
-"company": "Specialpedagogiska Skolmyndigheten",
-"title": "Digital strateg med fokus på UX till SPSM, vikariat",
-"location": "Härnösand",
-"remote": null,
-"posted": "2026-10-28",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31656498",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-28"
-},
-{
-"id": "platsbanken:Platsbanken:31656390",
-"company": "Specialpedagogiska Skolmyndigheten",
-"title": "Digital strateg med fokus på UX till SPSM, vikariat",
-"location": "Örebro",
-"remote": null,
-"posted": "2026-10-28",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31656390",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-28"
-},
-{
 "id": "platsbanken:Platsbanken:31643632",
 "company": "ALSTOM Transport AB",
 "title": "Program V&V Test Designer - 530990",
@@ -457,18 +455,6 @@
 "remote": null,
 "posted": "2026-10-26",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31643632",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-26"
-},
-{
-"id": "platsbanken:Platsbanken:31646928",
-"company": "Specialpedagogiska Skolmyndigheten",
-"title": "Digital strateg med fokus på UX till SPSM, vikariat",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-10-26",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31646928",
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-26"
@@ -618,18 +604,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:alphasense:8531119002",
-"company": "AlphaSense",
-"title": "Senior/Staff Product Designer",
-"location": "Remote - United Kingdom",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:alphasense:8530664002",
 "company": "AlphaSense",
 "title": "Senior/Staff Product Designer",
@@ -637,6 +611,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:alphasense:8531119002",
+"company": "AlphaSense",
+"title": "Senior/Staff Product Designer",
+"location": "Remote - United Kingdom",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"

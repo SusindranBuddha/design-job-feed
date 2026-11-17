@@ -1,8 +1,68 @@
 {
-"generated": "2026-11-17T10:46:56Z",
+"generated": "2026-11-17T22:26:31Z",
 "region": "Nordics",
-"count": 61,
+"count": 63,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31741302",
+"company": "Soros Consulting AB",
+"title": "Senior UX Design Lead",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-17",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31741302",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-17"
+},
+{
+"id": "platsbanken:Platsbanken:31744647",
+"company": "Hykmann Global Business Solutions AB",
+"title": "System Design Engineer Thermal Management | Automotive & Embedded Systems",
+"location": "Göteborg",
+"remote": null,
+"posted": "2026-11-17",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31744647",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-17"
+},
+{
+"id": "platsbanken:Platsbanken:31743953",
+"company": "Integro Consulting AB",
+"title": "Electronics Design Engineer – MedTech",
+"location": "Göteborg",
+"remote": null,
+"posted": "2026-11-17",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31743953",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-17"
+},
+{
+"id": "platsbanken:Platsbanken:31743905",
+"company": "Agile Resources AB",
+"title": "EE System Design Engineer – Thermal Management",
+"location": "Göteborg",
+"remote": null,
+"posted": "2026-11-17",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31743905",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-17"
+},
+{
+"id": "platsbanken:Platsbanken:31743795",
+"company": "Veritaz AB",
+"title": "Electrical Harness & Hardware Design Engineer -20790-Stockholm",
+"location": "Södertälje",
+"remote": null,
+"posted": "2026-11-17",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31743795",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-17"
+},
 {
 "id": "greenhouse:oura:4488086009",
 "company": "Oura",
@@ -50,18 +110,6 @@
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-11-16"
-},
-{
-"id": "platsbanken:Platsbanken:31726811",
-"company": "The Place AB",
-"title": "Senior UX/UI Designer",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-11-13",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31726811",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-13"
 },
 {
 "id": "platsbanken:Platsbanken:31726360",
@@ -208,30 +256,6 @@
 "firstSeen": "2026-11-12"
 },
 {
-"id": "platsbanken:Platsbanken:31723084",
-"company": "Sway Sourcing Sweden Aktiebolag",
-"title": "Senior UX/UI Designer – Mobilappar & digitala kundupplevelser",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-11-12",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31723084",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-12"
-},
-{
-"id": "platsbanken:Platsbanken:31718437",
-"company": "Sway Sourcing Sweden Aktiebolag",
-"title": "Senior Product Designer – 50%, Remote Sweden",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-11-11",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31718437",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-11"
-},
-{
 "id": "platsbanken:Platsbanken:31716215",
 "company": "Soros Consulting AB",
 "title": "Component Designer (Gothenburg)",
@@ -252,6 +276,18 @@
 "posted": "2026-11-11",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31718713",
 "source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-11"
+},
+{
+"id": "lever:spotify:a9d581f9-1361-4227-b230-94a0d6ffdef4",
+"company": "Spotify",
+"title": "Product Designer",
+"location": "Stockholm",
+"remote": "hybrid",
+"posted": "2026-11-04",
+"url": "https://jobs.lever.co/spotify/a9d581f9-1361-4227-b230-94a0d6ffdef4",
+"source": "lever",
 "region": "Nordics",
 "firstSeen": "2026-11-11"
 },
@@ -470,6 +506,18 @@
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-22"
+},
+{
+"id": "lever:spotify:f02fb195-ba10-40bd-a926-0318a34a7fae",
+"company": "Spotify",
+"title": "Staff Product Designer - Platform Design",
+"location": "London",
+"remote": "hybrid",
+"posted": "2026-10-21",
+"url": "https://jobs.lever.co/spotify/f02fb195-ba10-40bd-a926-0318a34a7fae",
+"source": "lever",
+"region": "Nordics",
+"firstSeen": "2026-10-21"
 },
 {
 "id": "platsbanken:Platsbanken:31621230",
@@ -700,18 +748,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "platsbanken:Platsbanken:31491824",
-"company": "Doktorse Nordic AB",
-"title": "Product Designer",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-09-18",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31491824",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "ashby:legora:92db5fb3-581b-4dcd-b6c1-84c8ba39bb9e",
 "company": "Legora",
 "title": "Staff Product Designer",
@@ -720,18 +756,6 @@
 "posted": "2026-08-20",
 "url": "https://jobs.ashbyhq.com/legora/92db5fb3-581b-4dcd-b6c1-84c8ba39bb9e",
 "source": "ashby",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "platsbanken:Platsbanken:31139898",
-"company": "Nextory AB",
-"title": "Product Designer",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-06-04",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31139898",
-"source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
 }

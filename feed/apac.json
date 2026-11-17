@@ -1,5 +1,5 @@
 {
-"generated": "2026-11-17T10:46:56Z",
+"generated": "2026-11-17T22:26:31Z",
 "region": "APAC",
 "count": 73,
 "jobs": [
@@ -429,19 +429,6 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 4000-6500 /Monthly",
-"firstSeen": "2026-11-03"
-},
-{
-"id": "mcf:MyCareersFuture:df5507e36850d888e086fe2406143c9d",
-"company": "NATIONAL UNIVERSITY OF SINGAPORE",
-"title": "Product Design Lead (NUS IT)",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-11-03",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/product-design-lead-national-university-singapore-df5507e36850d888e086fe2406143c9d",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 8000-16000 /Monthly",
 "firstSeen": "2026-11-03"
 },
 {
@@ -885,6 +872,18 @@
 "posted": "2026-07-31",
 "url": "https://jobs.smartrecruiters.com/Grab/744000140956539",
 "source": "smartrecruiters",
+"region": "APAC",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "lever:blinq:5907ed9d-5642-42af-aea7-a7aa528680b6",
+"company": "Blinq",
+"title": "Staff Product Designer",
+"location": "Melbourne, Victoria",
+"remote": "hybrid",
+"posted": "2026-04-20",
+"url": "https://jobs.lever.co/blinq/5907ed9d-5642-42af-aea7-a7aa528680b6",
+"source": "lever",
 "region": "APAC",
 "firstSeen": "2026-10-17"
 },

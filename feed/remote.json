@@ -1,17 +1,41 @@
 {
-"generated": "2026-11-17T10:46:56Z",
+"generated": "2026-11-17T22:26:31Z",
 "region": "Remote",
-"count": 175,
+"count": 179,
 "jobs": [
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/vinova/jobs/ui-ux-designer",
-"company": "Vinova",
-"title": "UI/UX Designer",
-"location": "Singapore",
+"id": "ashby:clera:052b0ad8-4788-4236-b1e7-6a2e4fbea097",
+"company": "Clera",
+"title": "Founding Design Engineer",
+"location": "Palo Alto",
+"remote": "Remote",
+"posted": "2026-11-17",
+"url": "https://jobs.ashbyhq.com/Clera/052b0ad8-4788-4236-b1e7-6a2e4fbea097",
+"source": "ashby",
+"region": "Remote",
+"firstSeen": "2026-11-17"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/nitrogen/jobs/senior-product-designer-design-systems",
+"company": "Nitrogen",
+"title": "Senior Product Designer, Design Systems",
+"location": "United States",
 "remote": "remote",
-"posted": "2026-10-12",
-"url": "https://himalayas.app/companies/vinova/jobs/ui-ux-designer?utm_source=api",
+"posted": "2026-11-17",
+"url": "https://himalayas.app/companies/nitrogen/jobs/senior-product-designer-design-systems?utm_source=api",
 "source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-17"
+},
+{
+"id": "wwr:We Work Remotely:https://weworkremotely.com/remote-jobs/alveole-product-designer",
+"company": "Alveole",
+"title": "Product Designer",
+"location": "Canada Only",
+"remote": "remote",
+"posted": "2026-11-17",
+"url": "https://weworkremotely.com/remote-jobs/alveole-product-designer",
+"source": "We Work Remotely",
 "region": "Remote",
 "firstSeen": "2026-11-17"
 },
@@ -191,18 +215,6 @@
 "remote": "remote",
 "posted": "2026-11-12",
 "url": "https://himalayas.app/companies/codekeeper/jobs/digital-product-designer-7980129206?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-11-12"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/360-privacy/jobs/senior-product-designer-design-systems",
-"company": "360 Privacy",
-"title": "Senior Product Designer, Design Systems",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-11-11",
-"url": "https://himalayas.app/companies/360-privacy/jobs/senior-product-designer-design-systems?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-12"
@@ -422,6 +434,18 @@
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-02"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/robots-pencils/jobs/ux-ui-designer-4186268791",
+"company": "Robots & Pencils",
+"title": "UX/UI Designer",
+"location": "Canada",
+"remote": "remote",
+"posted": "2026-11-17",
+"url": "https://himalayas.app/companies/robots-pencils/jobs/ux-ui-designer-4186268791?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-01"
 },
 {
 "id": "himalayas:Himalayas:https://himalayas.app/companies/highlevel/jobs/lead-product-designer",
@@ -748,6 +772,18 @@
 "firstSeen": "2026-10-22"
 },
 {
+"id": "lever:contentsquare:af15ce6a-4685-47b8-9143-9b0d829bc053",
+"company": "Contentsquare (incl. Hotjar)",
+"title": "Staff Product Designer, AI (East Coast)",
+"location": "Pittsburgh, Pennsylvania",
+"remote": "remote",
+"posted": "2026-10-22",
+"url": "https://jobs.lever.co/contentsquare/af15ce6a-4685-47b8-9143-9b0d829bc053",
+"source": "lever",
+"region": "Remote",
+"firstSeen": "2026-10-22"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/lemon-io/jobs/senior-ui-ux-designer",
 "company": "lemon.io",
 "title": "Senior UI & UX Designer",
@@ -928,6 +964,18 @@
 "firstSeen": "2026-10-18"
 },
 {
+"id": "himalayas:Himalayas:https://himalayas.app/companies/questronix-corporation/jobs/ui-ux-designer",
+"company": "Questronix Corporation",
+"title": "UI/UX Designer",
+"location": "Philippines",
+"remote": "remote",
+"posted": "2026-11-17",
+"url": "https://himalayas.app/companies/questronix-corporation/jobs/ui-ux-designer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/rockstar/jobs/product-designer-2495373180",
 "company": "Rockstar",
 "title": "Product Designer",
@@ -959,18 +1007,6 @@
 "remote": "remote",
 "posted": "2026-11-14",
 "url": "https://jobicy.com/jobs/155321-staff-product-designer-contract",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
-"id": "jobicy:Jobicy:155255",
-"company": "MaintainX",
-"title": "Product Design Manager",
-"location": "Canada",
-"remote": "remote",
-"posted": "2026-11-14",
-"url": "https://jobicy.com/jobs/155255-product-design-manager",
 "source": "Jobicy",
 "region": "Remote",
 "firstSeen": "2026-10-18"
@@ -1836,6 +1872,18 @@
 "posted": "2026-10-02",
 "url": "https://himalayas.app/companies/perspire-tv/jobs/ui-ux-designer?utm_source=api",
 "source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "lever:contentsquare:5234af0a-e23e-4543-9f9f-a37b8d7e64d8",
+"company": "Contentsquare (incl. Hotjar)",
+"title": "Staff Product Designer, AI (East Coast)",
+"location": "Raleigh, North Carolina",
+"remote": "remote",
+"posted": "2026-10-01",
+"url": "https://jobs.lever.co/contentsquare/5234af0a-e23e-4543-9f9f-a37b8d7e64d8",
+"source": "lever",
 "region": "Remote",
 "firstSeen": "2026-10-17"
 },

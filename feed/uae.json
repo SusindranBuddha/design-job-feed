@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-16T23:25:01Z",
+"generated": "2026-11-17T10:46:56Z",
 "region": "UAE",
-"count": 13,
+"count": 10,
 "jobs": [
 {
 "id": "smartrecruiters:DeliveryHero:744000161755797",
@@ -112,18 +112,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "smartrecruiters:DeliveryHero:744000148421069",
-"company": "talabat",
-"title": "Associate Operations & User experience - Emirati -",
-"location": "Dubai, ae",
-"remote": null,
-"posted": "2026-09-09",
-"url": "https://jobs.smartrecruiters.com/DeliveryHero/744000148421069",
-"source": "smartrecruiters",
-"region": "UAE",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "ashby:ziina:9ba9497d-988b-4190-81ac-678de89f1c3b",
 "company": "Ziina",
 "title": "Product Designer",
@@ -132,30 +120,6 @@
 "posted": "2026-06-12",
 "url": "https://jobs.ashbyhq.com/ziina/9ba9497d-988b-4190-81ac-678de89f1c3b",
 "source": "ashby",
-"region": "UAE",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "smartrecruiters:DeliveryHero:744000131697085",
-"company": "talabat",
-"title": "Staff Product Designer (They/She/He)",
-"location": "Barcelona, es",
-"remote": null,
-"posted": "2026-06-11",
-"url": "https://jobs.smartrecruiters.com/DeliveryHero/744000131697085",
-"source": "smartrecruiters",
-"region": "UAE",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "smartrecruiters:DeliveryHero:744000125118396",
-"company": "talabat",
-"title": "Coordinator Operations & User Experience - UAE National",
-"location": "Dubai, ae",
-"remote": null,
-"posted": "2026-05-07",
-"url": "https://jobs.smartrecruiters.com/DeliveryHero/744000125118396",
-"source": "smartrecruiters",
 "region": "UAE",
 "firstSeen": "2026-10-17"
 }

@@ -1,8 +1,85 @@
 {
-"generated": "2026-11-16T23:25:01Z",
+"generated": "2026-11-17T10:46:56Z",
 "region": "APAC",
-"count": 69,
+"count": 73,
 "jobs": [
+{
+"id": "mcf:MyCareersFuture:5783f5c7bdc06b3695349a14049472ec",
+"company": "ACTIVATE INTERACTIVE PTE LTD",
+"title": "Experience & Interface Designer (Product Designer) - A26451",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-17",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/experience-interface-designer-a26451-activate-interactive-5783f5c7bdc06b3695349a14049472ec",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 6000-9000 /Monthly",
+"firstSeen": "2026-11-17"
+},
+{
+"id": "mcf:MyCareersFuture:2bc5627ee50cd2f325b99d13865be0c2",
+"company": "RAPSYS TECHNOLOGIES PTE. LTD.",
+"title": "Interface Designer (Design Systems)-product, UI or interaction design",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-17",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/interface-designer-product-ui-interaction-design-rapsys-technologies-2bc5627ee50cd2f325b99d13865be0c2",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 7400-8400 /Monthly",
+"firstSeen": "2026-11-17"
+},
+{
+"id": "mcf:MyCareersFuture:7477c86f8bdfa0123b4f7f8795dcbba5",
+"company": "NSEARCH GLOBAL PTE. LTD.",
+"title": "UI/UX Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-17",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/uiux-designer-nsearch-global-7477c86f8bdfa0123b4f7f8795dcbba5",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 7000-11000 /Monthly",
+"firstSeen": "2026-11-17"
+},
+{
+"id": "mcf:MyCareersFuture:264ce25cdede428ab18105762c32f9ad",
+"company": "ACTIVATE INTERACTIVE PTE LTD",
+"title": "Experience & Interface Designer (Design Systems) - A26450",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-17",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/experience-interface-designer-a26450-activate-interactive-264ce25cdede428ab18105762c32f9ad",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 6000-9000 /Monthly",
+"firstSeen": "2026-11-17"
+},
+{
+"id": "mcf:MyCareersFuture:d8964c0b59a78c76f6eedbc534690d6b",
+"company": "BOM BOM PTE. LTD.",
+"title": "Product Lead (UI/UX Design)",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-17",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/product-lead-bom-bom-d8964c0b59a78c76f6eedbc534690d6b",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 9000-11000 /Monthly",
+"firstSeen": "2026-11-17"
+},
+{
+"id": "ashby:airwallex:b10d4dad-e0c6-451a-9dae-a4e5b86276fe",
+"company": "Airwallex",
+"title": "Product Design Lead - Payments",
+"location": "UK - London",
+"remote": "Hybrid",
+"posted": "2026-04-30",
+"url": "https://jobs.ashbyhq.com/airwallex/b10d4dad-e0c6-451a-9dae-a4e5b86276fe",
+"source": "ashby",
+"region": "APAC",
+"firstSeen": "2026-11-17"
+},
 {
 "id": "mcf:MyCareersFuture:5e8e08ef8e7447f8142a136dab3371ee",
 "company": "ACTIVATE INTERACTIVE PTE LTD",
@@ -419,19 +496,6 @@
 "firstSeen": "2026-11-01"
 },
 {
-"id": "mcf:MyCareersFuture:49033166ba79edcd4caadb528f1b86a9",
-"company": "RAVENUE APP PTE. LTD.",
-"title": "UI/UX Designer [CCP for ICT Professionals (Software and Applications)]",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-29",
-"url": "https://www.mycareersfuture.gov.sg/job/design/uiux-designer-ccp-ict-professionals-ravenue-app-49033166ba79edcd4caadb528f1b86a9",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 8000-12000 /Monthly",
-"firstSeen": "2026-10-29"
-},
-{
 "id": "mcf:MyCareersFuture:7b0ce0e0b344053af448fb61586a9d1d",
 "company": "ACTIVATE INTERACTIVE PTE LTD",
 "title": "Senior UI/UX Designer",
@@ -821,18 +885,6 @@
 "posted": "2026-07-31",
 "url": "https://jobs.smartrecruiters.com/Grab/744000140956539",
 "source": "smartrecruiters",
-"region": "APAC",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "lever:blinq:5907ed9d-5642-42af-aea7-a7aa528680b6",
-"company": "Blinq",
-"title": "Staff Product Designer",
-"location": "Melbourne, Victoria",
-"remote": "hybrid",
-"posted": "2026-04-20",
-"url": "https://jobs.lever.co/blinq/5907ed9d-5642-42af-aea7-a7aa528680b6",
-"source": "lever",
 "region": "APAC",
 "firstSeen": "2026-10-17"
 },

@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-18T10:13:43Z",
+"generated": "2026-11-18T21:59:05Z",
 "region": "APAC",
-"count": 81,
+"count": 78,
 "jobs": [
 {
 "id": "smartrecruiters:Grab:744000162222689",
@@ -470,19 +470,6 @@
 "firstSeen": "2026-11-05"
 },
 {
-"id": "mcf:MyCareersFuture:27a7eb45365c6828b3e331d2c226f987",
-"company": "PERSOL SINGAPORE PTE. LTD.",
-"title": "UI/UX Designer (Banking, Central)",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-11-04",
-"url": "https://www.mycareersfuture.gov.sg/job/banking-finance/uiux-designer-persol-singapore-27a7eb45365c6828b3e331d2c226f987",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 6000-8000 /Monthly",
-"firstSeen": "2026-11-04"
-},
-{
 "id": "mcf:MyCareersFuture:3ba6968fb900552c327feaad0c8dc403",
 "company": "WEBSPARKS PTE. LTD.",
 "title": "UX/UI Designer for GDT (Contract)",
@@ -597,6 +584,19 @@
 "region": "APAC",
 "salary": "SGD 4000-6500 /Monthly",
 "firstSeen": "2026-11-01"
+},
+{
+"id": "mcf:MyCareersFuture:25d5dfd1e41c95059307ec647d75fb9a",
+"company": "ARGYLL SCOTT CONSULTING PTE. LTD.",
+"title": "Product Design Manager",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-18",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/product-design-manager-argyll-scott-consulting-25d5dfd1e41c95059307ec647d75fb9a",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 9000-12000 /Monthly",
+"firstSeen": "2026-10-30"
 },
 {
 "id": "mcf:MyCareersFuture:7b0ce0e0b344053af448fb61586a9d1d",
@@ -803,45 +803,6 @@
 "url": "https://jobs.ashbyhq.com/airwallex/552c4ab2-f483-4ecf-a631-f28880db7df5",
 "source": "ashby",
 "region": "APAC",
-"firstSeen": "2026-10-19"
-},
-{
-"id": "mcf:MyCareersFuture:7c2800f5061217d64d41d01fd478ac06",
-"company": "DCONSTRUCT PLUS PTE. LTD.",
-"title": "UI/UX Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-19",
-"url": "https://www.mycareersfuture.gov.sg/job/design/uiux-designer-dconstruct-plus-7c2800f5061217d64d41d01fd478ac06",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 5000-7000 /Monthly",
-"firstSeen": "2026-10-19"
-},
-{
-"id": "mcf:MyCareersFuture:a810642c2b114eb9c97ec806c2285a29",
-"company": "WEBSPARKS PTE. LTD.",
-"title": "UX/UI Designer (Public Sector)",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-19",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/uxui-designer-websparks-a810642c2b114eb9c97ec806c2285a29",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 5000-7000 /Monthly",
-"firstSeen": "2026-10-19"
-},
-{
-"id": "mcf:MyCareersFuture:a96c7df32d159710494cba20cbe743cb",
-"company": "KAROOOOO MANAGEMENT COMPANY PTE. LTD.",
-"title": "Senior Product Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-19",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-product-designer-karooooo-management-company-a96c7df32d159710494cba20cbe743cb",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 5000-10000 /Monthly",
 "firstSeen": "2026-10-19"
 },
 {

@@ -1,8 +1,20 @@
 {
-"generated": "2026-11-17T22:26:31Z",
+"generated": "2026-11-18T10:13:43Z",
 "region": "India",
-"count": 13,
+"count": 14,
 "jobs": [
+{
+"id": "greenhouse:razorpaysoftwareprivatelimited:4754926005",
+"company": "Razorpay",
+"title": "Communication Designer",
+"location": "Bengaluru",
+"remote": null,
+"posted": "2026-11-18",
+"url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4754926005",
+"source": "greenhouse",
+"region": "India",
+"firstSeen": "2026-11-18"
+},
 {
 "id": "lever:gohighlevel:84831da0-2dbf-4c92-bb9d-379bc20c61e5",
 "company": "HighLevel",

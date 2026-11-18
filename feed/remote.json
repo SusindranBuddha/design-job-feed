@@ -1,8 +1,32 @@
 {
-"generated": "2026-11-17T22:26:31Z",
+"generated": "2026-11-18T10:13:43Z",
 "region": "Remote",
-"count": 179,
+"count": 177,
 "jobs": [
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/careerswift/jobs/product-designer-ux-ui-6363142903",
+"company": "Careerswift",
+"title": "Product Designer (UX/UI)",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-11-18",
+"url": "https://himalayas.app/companies/careerswift/jobs/product-designer-ux-ui-6363142903?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/ngp-van/jobs/mb-lead-product-designer",
+"company": "NGP VAN",
+"title": "MB-Lead Product Designer",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-10-24",
+"url": "https://himalayas.app/companies/ngp-van/jobs/mb-lead-product-designer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-18"
+},
 {
 "id": "ashby:clera:052b0ad8-4788-4236-b1e7-6a2e4fbea097",
 "company": "Clera",
@@ -206,18 +230,6 @@
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-13"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/codekeeper/jobs/digital-product-designer-7980129206",
-"company": "Codekeeper",
-"title": "Digital Product Designer",
-"location": "Argentina",
-"remote": "remote",
-"posted": "2026-11-12",
-"url": "https://himalayas.app/companies/codekeeper/jobs/digital-product-designer-7980129206?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-11-12"
 },
 {
 "id": "himalayas:Himalayas:https://himalayas.app/companies/global-channel-management-inc/jobs/remote-senior-product-designer",
@@ -820,6 +832,18 @@
 "firstSeen": "2026-10-22"
 },
 {
+"id": "himalayas:Himalayas:https://himalayas.app/companies/bungie/jobs/senior-investment-designer-rewards-and-commerce",
+"company": "Bungie",
+"title": "Senior Investment Designer (Rewards and Commerce)",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-11-18",
+"url": "https://himalayas.app/companies/bungie/jobs/senior-investment-designer-rewards-and-commerce?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-21"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/code-and-theory/jobs/senior-designer-us",
 "company": "Code and Theory",
 "title": "Senior Designer (US)",
@@ -916,18 +940,6 @@
 "firstSeen": "2026-10-20"
 },
 {
-"id": "wwr:We Work Remotely:https://weworkremotely.com/remote-jobs/current-senior-product-designer-webflow-temp-to-perm",
-"company": "Current",
-"title": "Senior Product Designer (Webflow) Temp to Perm",
-"location": "Anywhere in the World",
-"remote": "remote",
-"posted": "2026-10-19",
-"url": "https://weworkremotely.com/remote-jobs/current-senior-product-designer-webflow-temp-to-perm",
-"source": "We Work Remotely",
-"region": "Remote",
-"firstSeen": "2026-10-19"
-},
-{
 "id": "jobicy:Jobicy:153327",
 "company": "Who Gives A Crap",
 "title": "Digital Designer",
@@ -984,30 +996,6 @@
 "posted": "2026-11-15",
 "url": "https://himalayas.app/companies/rockstar/jobs/product-designer-2495373180?utm_source=api",
 "source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
-"id": "jobicy:Jobicy:155335",
-"company": "MaintainX",
-"title": "Senior Product Designer, AI",
-"location": "Canada",
-"remote": "remote",
-"posted": "2026-11-14",
-"url": "https://jobicy.com/jobs/155335-senior-product-designer-ai",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
-"id": "jobicy:Jobicy:155321",
-"company": "Flex",
-"title": "Staff Product Designer (Contract)",
-"location": "USA",
-"remote": "remote",
-"posted": "2026-11-14",
-"url": "https://jobicy.com/jobs/155321-staff-product-designer-contract",
-"source": "Jobicy",
 "region": "Remote",
 "firstSeen": "2026-10-18"
 },
@@ -1991,18 +1979,6 @@
 "remote": "remote",
 "posted": "2026-09-21",
 "url": "https://himalayas.app/companies/bjak/jobs/ux-designer-ai-app?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/blink-interactive-inc/jobs/senior-ux-designer-general-opportunity-8508150358",
-"company": "Blink Interactive, Inc.",
-"title": "Senior UX Designer- General Opportunity",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-09-18",
-"url": "https://himalayas.app/companies/blink-interactive-inc/jobs/senior-ux-designer-general-opportunity-8508150358?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-17"

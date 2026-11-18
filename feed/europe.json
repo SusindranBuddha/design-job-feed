@@ -1,8 +1,104 @@
 {
-"generated": "2026-11-17T22:26:31Z",
+"generated": "2026-11-18T10:13:43Z",
 "region": "Europe",
-"count": 93,
+"count": 94,
 "jobs": [
+{
+"id": "greenhouse:okta:8022979",
+"company": "Okta (Spain)",
+"title": "Senior Product Designer",
+"location": "Bengaluru",
+"remote": null,
+"posted": "2026-11-18",
+"url": "https://www.okta.com/company/careers/opportunity/8022979?gh_jid=8022979",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-11-18"
+},
+{
+"id": "arbeitnow:Arbeitnow:product-designer-ux-ui-teil-oder-vollzeit-remote-berlin-492788",
+"company": "AZAV Pilot",
+"title": "Product Designer UX/UI (m/w/d), Teil- oder Vollzeit, Remote",
+"location": "Berlin",
+"remote": "remote",
+"posted": "2026-11-18",
+"url": "https://www.arbeitnow.com/jobs/companies/azav-pilot/product-designer-ux-ui-teil-oder-vollzeit-remote-berlin-492788",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-18"
+},
+{
+"id": "arbeitnow:Arbeitnow:design-engineer-teil-oder-vollzeit-remote-berlin-52039",
+"company": "AZAV Pilot",
+"title": "Design Engineer (m/w/d), Teil- oder Vollzeit, Remote",
+"location": "Berlin",
+"remote": "remote",
+"posted": "2026-11-18",
+"url": "https://www.arbeitnow.com/jobs/companies/azav-pilot/design-engineer-teil-oder-vollzeit-remote-berlin-52039",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-18"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-berlin-berlin-320475",
+"company": "raisin",
+"title": "Senior Product Designer (m/f/d)",
+"location": "Berlin, Berlin",
+"remote": null,
+"posted": "2026-11-18",
+"url": "https://www.arbeitnow.com/jobs/companies/raisin/senior-product-designer-berlin-berlin-320475",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-18"
+},
+{
+"id": "arbeitnow:Arbeitnow:principal-product-designer-ux-ui-london-164939",
+"company": "Algo1",
+"title": "Principal Product Designer: UX/UI",
+"location": "London",
+"remote": null,
+"posted": "2026-11-18",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/algo1/principal-product-designer-ux-ui-london-164939",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-18"
+},
+{
+"id": "arbeitnow:Arbeitnow:product-designer-bereal-paris-292149",
+"company": "BeReal",
+"title": "Product Designer - BeReal",
+"location": "Paris",
+"remote": null,
+"posted": "2026-11-18",
+"url": "https://www.arbeitnow.fr/jobs/companies/bereal/product-designer-bereal-paris-292149",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-18"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-ux-ui-amsterdam-68114",
+"company": "Optics11",
+"title": "Senior Product Designer (UX/UI)",
+"location": "Amsterdam, Noord-Holland, Netherlands",
+"remote": null,
+"posted": "2026-11-18",
+"url": "https://www.arbeitnow.nl/jobs/companies/optics11/senior-product-designer-ux-ui-amsterdam-68114",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-18"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-visual-designer-munich-bavaria-252473",
+"company": "Agilerobotsse",
+"title": "Senior Visual Designer (m/f/d)",
+"location": "Munich, Bavaria",
+"remote": null,
+"posted": "2026-11-17",
+"url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-visual-designer-munich-bavaria-252473",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-18"
+},
 {
 "id": "greenhouse:raisin:5035931101",
 "company": "Raisin",
@@ -16,18 +112,6 @@
 "firstSeen": "2026-11-17"
 },
 {
-"id": "arbeitnow:Arbeitnow:senior-product-designer-international-commerce-hybrid-london-471412",
-"company": "Oura",
-"title": "Senior Product Designer, International Commerce",
-"location": "Hybrid - London",
-"remote": null,
-"posted": "2026-11-17",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/oura/senior-product-designer-international-commerce-hybrid-london-471412",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-17"
-},
-{
 "id": "arbeitnow:Arbeitnow:senior-design-systems-manager-zurich-32220",
 "company": "Getyourguide",
 "title": "Senior Design Systems Manager",
@@ -35,18 +119,6 @@
 "remote": null,
 "posted": "2026-11-17",
 "url": "https://www.arbeitnow.ch/jobs/companies/getyourguide/senior-design-systems-manager-zurich-32220",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-17"
-},
-{
-"id": "arbeitnow:Arbeitnow:advanced-rd-physical-design-engineer-saint-sulpice-437324",
-"company": "Kandou Ai",
-"title": "Advanced R&D - Physical Design Engineer",
-"location": "Saint-Sulpice",
-"remote": null,
-"posted": "2026-11-17",
-"url": "https://www.arbeitnow.ch/jobs/companies/kandou-ai/advanced-rd-physical-design-engineer-saint-sulpice-437324",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-17"
@@ -76,6 +148,18 @@
 "firstSeen": "2026-11-17"
 },
 {
+"id": "arbeitnow:Arbeitnow:advanced-rd-physical-design-engineer-saint-sulpice-437324",
+"company": "Kandou Ai",
+"title": "Advanced R&D - Physical Design Engineer",
+"location": "Saint-Sulpice",
+"remote": null,
+"posted": "2026-11-17",
+"url": "https://www.arbeitnow.ch/jobs/companies/kandou-ai/advanced-rd-physical-design-engineer-saint-sulpice-437324",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-17"
+},
+{
 "id": "arbeitnow:Arbeitnow:lead-ux-designer-zurich-329833",
 "company": "Actcareers",
 "title": "Lead UX Designer",
@@ -88,109 +172,13 @@
 "firstSeen": "2026-11-17"
 },
 {
-"id": "arbeitnow:Arbeitnow:senior-designer-london-27127",
-"company": "Actcareers",
-"title": "Senior Designer",
-"location": "United Kingdom",
+"id": "arbeitnow:Arbeitnow:senior-product-designer-international-commerce-hybrid-london-471412",
+"company": "Oura",
+"title": "Senior Product Designer, International Commerce",
+"location": "Hybrid - London",
 "remote": null,
 "posted": "2026-11-17",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/actcareers/senior-designer-london-27127",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-17"
-},
-{
-"id": "arbeitnow:Arbeitnow:ai-phone-product-designer-london-442010",
-"company": "Actcareers",
-"title": "AI Phone - Product Designer",
-"location": "United Kingdom",
-"remote": null,
-"posted": "2026-11-17",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/actcareers/ai-phone-product-designer-london-442010",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-17"
-},
-{
-"id": "arbeitnow:Arbeitnow:ux-designer-ai-app-london-74566",
-"company": "Actcareers",
-"title": "UX Designer, AI App",
-"location": "United Kingdom",
-"remote": null,
-"posted": "2026-11-17",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/actcareers/ux-designer-ai-app-london-74566",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-17"
-},
-{
-"id": "arbeitnow:Arbeitnow:product-designer-ux-hci-london-73585",
-"company": "Actcareers",
-"title": "Product Designer (UX), HCI",
-"location": "United Kingdom",
-"remote": null,
-"posted": "2026-11-17",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/actcareers/product-designer-ux-hci-london-73585",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-17"
-},
-{
-"id": "arbeitnow:Arbeitnow:ux-designer-london-453542",
-"company": "Actcareers",
-"title": "UX Designer",
-"location": "United Kingdom",
-"remote": null,
-"posted": "2026-11-17",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/actcareers/ux-designer-london-453542",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-17"
-},
-{
-"id": "arbeitnow:Arbeitnow:interaction-designer-hci-london-301384",
-"company": "Actcareers",
-"title": "Interaction Designer, HCI",
-"location": "United Kingdom",
-"remote": null,
-"posted": "2026-11-17",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/actcareers/interaction-designer-hci-london-301384",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-17"
-},
-{
-"id": "arbeitnow:Arbeitnow:lead-ux-designer-london-315207",
-"company": "Actcareers",
-"title": "Lead UX Designer",
-"location": "United Kingdom",
-"remote": null,
-"posted": "2026-11-17",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/actcareers/lead-ux-designer-london-315207",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-17"
-},
-{
-"id": "arbeitnow:Arbeitnow:3d-designer-produktdesigner-spatial-designer-berlin-375215",
-"company": "New Wave Kreativmanufaktur",
-"title": "3D Designer / Produktdesigner / Spatial Designer (m/w/d)",
-"location": "Berlin",
-"remote": null,
-"posted": "2026-11-17",
-"url": "https://www.arbeitnow.com/jobs/companies/new-wave-kreativmanufaktur/3d-designer-produktdesigner-spatial-designer-berlin-375215",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-17"
-},
-{
-"id": "arbeitnow:Arbeitnow:lead-ux-designer-germany-420573",
-"company": "Actcareers",
-"title": "Lead UX Designer",
-"location": "Germany",
-"remote": null,
-"posted": "2026-11-17",
-"url": "https://www.arbeitnow.com/jobs/companies/actcareers/lead-ux-designer-germany-420573",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/oura/senior-product-designer-international-commerce-hybrid-london-471412",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-17"
@@ -239,18 +227,6 @@
 "remote": null,
 "posted": "2026-11-14",
 "url": "https://www.arbeitnow.nl/jobs/companies/housinganywhere/senior-product-designer-post-booking-experience-rotterdam-243060",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-14"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-product-designer-listing-finding-experience-rotterdam-187841",
-"company": "housinganywhere",
-"title": "Senior Product Designer - Listing & Finding experience",
-"location": "Rotterdam",
-"remote": null,
-"posted": "2026-11-14",
-"url": "https://www.arbeitnow.nl/jobs/companies/housinganywhere/senior-product-designer-listing-finding-experience-rotterdam-187841",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-14"
@@ -373,6 +349,19 @@
 "url": "https://www.okta.com/company/careers/opportunity/8232605?gh_jid=8232605",
 "source": "greenhouse",
 "region": "Europe",
+"firstSeen": "2026-11-04"
+},
+{
+"id": "workday:statestreet:/job/Burlington-Massachusetts/UX-Designer--Officer_R-795745",
+"company": "State Street",
+"title": "UX Designer, Officer",
+"location": "Burlington Massachusetts",
+"remote": null,
+"posted": null,
+"url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/UX-Designer--Officer_R-795745",
+"source": "workday",
+"region": "Europe",
+"postedText": "Posted 15 Days Ago",
 "firstSeen": "2026-11-04"
 },
 {
@@ -542,6 +531,32 @@
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-20"
+},
+{
+"id": "workday:statestreet:/job/Burlington-Massachusetts/Business-Analysis--AVP-1_R-786883",
+"company": "State Street",
+"title": "Product Designer, AVP",
+"location": "2 Locations",
+"remote": null,
+"posted": null,
+"url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Business-Analysis--AVP-1_R-786883",
+"source": "workday",
+"region": "Europe",
+"postedText": "Posted 30 Days Ago",
+"firstSeen": "2026-10-20"
+},
+{
+"id": "workday:statestreet:/job/Hangzhou-China/Platform-Engineering---Dev-UX--Production-Website---Off_R-799791-1",
+"company": "State Street",
+"title": "Platform Engineering - Dev/UX (Production Website), Off",
+"location": "Hangzhou, China",
+"remote": null,
+"posted": null,
+"url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Platform-Engineering---Dev-UX--Production-Website---Off_R-799791-1",
+"source": "workday",
+"region": "Europe",
+"postedText": "Posted 30 Days Ago",
+"firstSeen": "2026-10-19"
 },
 {
 "id": "greenhouse:ebury:4975330101",

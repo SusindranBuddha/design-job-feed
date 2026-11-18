@@ -1,8 +1,20 @@
 {
-"generated": "2026-11-17T22:26:31Z",
+"generated": "2026-11-18T10:13:43Z",
 "region": "Nordics",
-"count": 63,
+"count": 64,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31745993",
+"company": "JobBusters Aktiebolag",
+"title": "UX Designer",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-18",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31745993",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-18"
+},
 {
 "id": "platsbanken:Platsbanken:31741302",
 "company": "Soros Consulting AB",
@@ -364,6 +376,19 @@
 "firstSeen": "2026-11-04"
 },
 {
+"id": "workday:unitytech:/job/Brighton-United-Kingdom/Senior-Product-Designer_JOBREQ-2616581",
+"company": "Unity",
+"title": "Senior Product Designer",
+"location": "5 Locations",
+"remote": null,
+"posted": null,
+"url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Brighton-United-Kingdom/Senior-Product-Designer_JOBREQ-2616581",
+"source": "workday",
+"region": "Nordics",
+"postedText": "Posted 14 Days Ago",
+"firstSeen": "2026-11-04"
+},
+{
 "id": "platsbanken:Platsbanken:31680020",
 "company": "SAAB Aktiebolag",
 "title": "UX Designer - Mission Support System",
@@ -412,6 +437,19 @@
 "firstSeen": "2026-11-02"
 },
 {
+"id": "workday:unitytech:/job/Singapore/XMLNAME--Req----Product-Designer--2D_JOBREQ-2616662",
+"company": "Unity",
+"title": "Product Designer, 2D",
+"location": "Singapore",
+"remote": null,
+"posted": null,
+"url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Singapore/XMLNAME--Req----Product-Designer--2D_JOBREQ-2616662",
+"source": "workday",
+"region": "Nordics",
+"postedText": "Posted Yesterday",
+"firstSeen": "2026-11-02"
+},
+{
 "id": "platsbanken:Platsbanken:31665534",
 "company": "Q Innovations Sweden AB",
 "title": "FOUNDING PRODUCT DESIGNER",
@@ -432,18 +470,6 @@
 "posted": "2026-10-29",
 "url": "https://job-boards.greenhouse.io/oura/jobs/4472112009",
 "source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-29"
-},
-{
-"id": "platsbanken:Platsbanken:31660485",
-"company": "Försäkringskassan",
-"title": "UX-designer till Försäkringskassans Webb- och apputveckling i Karlskrona",
-"location": "Karlskrona",
-"remote": null,
-"posted": "2026-10-29",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31660485",
-"source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-29"
 },
@@ -518,18 +544,6 @@
 "source": "lever",
 "region": "Nordics",
 "firstSeen": "2026-10-21"
-},
-{
-"id": "platsbanken:Platsbanken:31621230",
-"company": "MultiMind Holding AB",
-"title": "Senior Accessory Designer",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-10-20",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31621230",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-20"
 },
 {
 "id": "greenhouse:smartlyio:6126661004",
@@ -616,18 +630,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:alphasense:8531119002",
-"company": "AlphaSense",
-"title": "Senior/Staff Product Designer",
-"location": "Remote - United Kingdom",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:alphasense:8530664002",
 "company": "AlphaSense",
 "title": "Senior/Staff Product Designer",
@@ -635,6 +637,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:alphasense:8531119002",
+"company": "AlphaSense",
+"title": "Senior/Staff Product Designer",
+"location": "Remote - United Kingdom",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"

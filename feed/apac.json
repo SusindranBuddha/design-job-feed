@@ -1,8 +1,47 @@
 {
-"generated": "2026-11-18T21:59:05Z",
+"generated": "2026-11-19T10:24:13Z",
 "region": "APAC",
-"count": 78,
+"count": 76,
 "jobs": [
+{
+"id": "mcf:MyCareersFuture:640674cce7ac6a4a1ac523f226b83542",
+"company": "MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD",
+"title": "Product Designer (UI/UX)",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-19",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/product-designer-manpower-staffing-services-640674cce7ac6a4a1ac523f226b83542",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 6500-7100 /Monthly",
+"firstSeen": "2026-11-19"
+},
+{
+"id": "mcf:MyCareersFuture:7faa0121b6528ee3dc98ae00c35a8d16",
+"company": "REAL ESTATE ANALYTICS PTE. LTD.",
+"title": "Product Design - UI / UX",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-19",
+"url": "https://www.mycareersfuture.gov.sg/job/design/product-design-ui-ux-real-estate-analytics-7faa0121b6528ee3dc98ae00c35a8d16",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 4000-5500 /Monthly",
+"firstSeen": "2026-11-19"
+},
+{
+"id": "mcf:MyCareersFuture:57abcc2f36394b4609fc44e7aa99553c",
+"company": "NSEARCH GLOBAL PTE. LTD.",
+"title": "UX / UI Experience & Interface Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-19",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/ux-ui-experience-interface-designer-nsearch-global-57abcc2f36394b4609fc44e7aa99553c",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 6500-9500 /Monthly",
+"firstSeen": "2026-11-19"
+},
 {
 "id": "smartrecruiters:Grab:744000162222689",
 "company": "Grab",
@@ -120,19 +159,6 @@
 "firstSeen": "2026-11-18"
 },
 {
-"id": "workday:cba:/job/Sydney-CBD-Area/Principle-UI-Designer_REQ267568",
-"company": "Commonwealth Bank",
-"title": "Principle UI Designer",
-"location": "Sydney CBD Area",
-"remote": null,
-"posted": null,
-"url": "https://cba.wd3.myworkdayjobs.com/CommBank_Careers/job/Sydney-CBD-Area/Principle-UI-Designer_REQ267568",
-"source": "workday",
-"region": "APAC",
-"postedText": "Posted Today",
-"firstSeen": "2026-11-18"
-},
-{
 "id": "mcf:MyCareersFuture:5783f5c7bdc06b3695349a14049472ec",
 "company": "ACTIVATE INTERACTIVE PTE LTD",
 "title": "Experience & Interface Designer (Product Designer) - A26451",
@@ -210,32 +236,6 @@
 "firstSeen": "2026-11-17"
 },
 {
-"id": "mcf:MyCareersFuture:5e8e08ef8e7447f8142a136dab3371ee",
-"company": "ACTIVATE INTERACTIVE PTE LTD",
-"title": "Experience & Interface Designer - A26447",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-11-16",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/experience-interface-designer-a26447-activate-interactive-5e8e08ef8e7447f8142a136dab3371ee",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 7000-9500 /Monthly",
-"firstSeen": "2026-11-16"
-},
-{
-"id": "mcf:MyCareersFuture:796d2096bb95fb71fa61d46ecd1d5fe1",
-"company": "HELIUS TECHNOLOGIES PTE. LTD.",
-"title": "Business Analyst UI-UX Tech Lead Product Manager",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-11-16",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/business-analyst-ui-ux-tech-lead-product-manager-helius-technologies-796d2096bb95fb71fa61d46ecd1d5fe1",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 9000-9500 /Monthly",
-"firstSeen": "2026-11-16"
-},
-{
 "id": "mcf:MyCareersFuture:b0219ffa76efd5bfc2583abd04493eae",
 "company": "MICHAEL PAGE INTERNATIONAL PTE LTD",
 "title": "UX Designer",
@@ -285,19 +285,6 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 5000-6800 /Monthly",
-"firstSeen": "2026-11-16"
-},
-{
-"id": "workday:dbs:/job/Singapore---Central/Senior-Associate--Product-Designer-for-IBG-Employee-Experience--Group-Design--Consumer-Banking-Group_WD90681",
-"company": "DBS",
-"title": "Senior Associate, Product Designer for IBG Employee Experience, Group Design, Consumer Banking Group",
-"location": "Singapore - Central",
-"remote": null,
-"posted": null,
-"url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/Senior-Associate--Product-Designer-for-IBG-Employee-Experience--Group-Design--Consumer-Banking-Group_WD90681",
-"source": "workday",
-"region": "APAC",
-"postedText": "Posted 2 Days Ago",
 "firstSeen": "2026-11-16"
 },
 {
@@ -454,19 +441,6 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 5000-7000 /Monthly",
-"firstSeen": "2026-11-05"
-},
-{
-"id": "mcf:MyCareersFuture:14063e0105a08af75e0ed996a6c1f62c",
-"company": "REAL ESTATE ANALYTICS PTE. LTD.",
-"title": "Product Design - UI / UX",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-11-05",
-"url": "https://www.mycareersfuture.gov.sg/job/design/product-design-ui-ux-real-estate-analytics-14063e0105a08af75e0ed996a6c1f62c",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 4000-5500 /Monthly",
 "firstSeen": "2026-11-05"
 },
 {
@@ -703,19 +677,6 @@
 "firstSeen": "2026-10-26"
 },
 {
-"id": "mcf:MyCareersFuture:b9c7a3379442cfe37fd7b6fd5fd17e2a",
-"company": "TALENTSIS PTE. LTD.",
-"title": "UI/UX Engineer (Permanent)",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-26",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/uiux-engineer-talentsis-b9c7a3379442cfe37fd7b6fd5fd17e2a",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 5000-6800 /Monthly",
-"firstSeen": "2026-10-26"
-},
-{
 "id": "mcf:MyCareersFuture:30e240fe43348379dcac1fdf6396f183",
 "company": "ISERIOUS PTE. LTD.",
 "title": "UI/UX Designer",
@@ -792,6 +753,19 @@
 "region": "APAC",
 "salary": "SGD 5000-10000 /Monthly",
 "firstSeen": "2026-10-20"
+},
+{
+"id": "mcf:MyCareersFuture:7c2800f5061217d64d41d01fd478ac06",
+"company": "DCONSTRUCT PLUS PTE. LTD.",
+"title": "UI/UX Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-19",
+"url": "https://www.mycareersfuture.gov.sg/job/design/uiux-designer-dconstruct-plus-7c2800f5061217d64d41d01fd478ac06",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 5000-7000 /Monthly",
+"firstSeen": "2026-10-19"
 },
 {
 "id": "ashby:airwallex:552c4ab2-f483-4ecf-a631-f28880db7df5",

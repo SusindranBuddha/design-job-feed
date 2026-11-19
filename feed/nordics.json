@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-18T21:59:05Z",
+"generated": "2026-11-19T10:24:13Z",
 "region": "Nordics",
-"count": 67,
+"count": 64,
 "jobs": [
 {
 "id": "platsbanken:Platsbanken:31750036",
@@ -304,18 +304,6 @@
 "firstSeen": "2026-11-12"
 },
 {
-"id": "platsbanken:Platsbanken:31716215",
-"company": "Soros Consulting AB",
-"title": "Component Designer (Gothenburg)",
-"location": "Göteborg",
-"remote": null,
-"posted": "2026-11-11",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31716215",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-11"
-},
-{
 "id": "platsbanken:Platsbanken:31718713",
 "company": "Sway Sourcing Sweden Aktiebolag",
 "title": "Senior UX-konsult inom AI-driven design – Kiruna/Gällivare/Luleå",
@@ -412,19 +400,6 @@
 "firstSeen": "2026-11-04"
 },
 {
-"id": "workday:unitytech:/job/Brighton-United-Kingdom/Senior-Product-Designer_JOBREQ-2616581",
-"company": "Unity",
-"title": "Senior Product Designer",
-"location": "5 Locations",
-"remote": null,
-"posted": null,
-"url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Brighton-United-Kingdom/Senior-Product-Designer_JOBREQ-2616581",
-"source": "workday",
-"region": "Nordics",
-"postedText": "Posted 14 Days Ago",
-"firstSeen": "2026-11-04"
-},
-{
 "id": "platsbanken:Platsbanken:31680020",
 "company": "SAAB Aktiebolag",
 "title": "UX Designer - Mission Support System",
@@ -470,19 +445,6 @@
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31673283",
 "source": "Platsbanken",
 "region": "Nordics",
-"firstSeen": "2026-11-02"
-},
-{
-"id": "workday:unitytech:/job/Singapore/XMLNAME--Req----Product-Designer--2D_JOBREQ-2616662",
-"company": "Unity",
-"title": "Product Designer, 2D",
-"location": "Singapore",
-"remote": null,
-"posted": null,
-"url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Singapore/XMLNAME--Req----Product-Designer--2D_JOBREQ-2616662",
-"source": "workday",
-"region": "Nordics",
-"postedText": "Posted Yesterday",
 "firstSeen": "2026-11-02"
 },
 {

@@ -1,5 +1,5 @@
 {
-"generated": "2026-11-19T10:24:13Z",
+"generated": "2026-11-19T22:10:58Z",
 "region": "APAC",
 "count": 76,
 "jobs": [
@@ -27,6 +27,19 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 4000-5500 /Monthly",
+"firstSeen": "2026-11-19"
+},
+{
+"id": "mcf:MyCareersFuture:1865ce491f0e8b3a1cdca2c4be60baca",
+"company": "MORGAN MCKINLEY PTE. LTD.",
+"title": "UX Designer (1 Year Contract)",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-19",
+"url": "https://www.mycareersfuture.gov.sg/job/design/ux-designer-morgan-mckinley-1865ce491f0e8b3a1cdca2c4be60baca",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 6500-8500 /Monthly",
 "firstSeen": "2026-11-19"
 },
 {
@@ -740,19 +753,6 @@
 "region": "APAC",
 "salary": "SGD 6000-9000 /Monthly",
 "firstSeen": "2026-10-21"
-},
-{
-"id": "mcf:MyCareersFuture:9828e29e282f56d5c2ce23cf06afbec8",
-"company": "SCIENTEC CONSULTING PTE. LTD.",
-"title": "UX Research & Service Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-20",
-"url": "https://www.mycareersfuture.gov.sg/job/design/ux-research-service-designer-scientec-consulting-9828e29e282f56d5c2ce23cf06afbec8",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 5000-10000 /Monthly",
-"firstSeen": "2026-10-20"
 },
 {
 "id": "mcf:MyCareersFuture:7c2800f5061217d64d41d01fd478ac06",

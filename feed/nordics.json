@@ -1,8 +1,116 @@
 {
-"generated": "2026-11-19T10:24:13Z",
+"generated": "2026-11-19T22:10:58Z",
 "region": "Nordics",
-"count": 64,
+"count": 69,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31753679",
+"company": "Ericsson AB",
+"title": "Power Designer",
+"location": "Göteborg",
+"remote": null,
+"posted": "2026-11-19",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31753679",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-19"
+},
+{
+"id": "platsbanken:Platsbanken:31754919",
+"company": "Framtiden i Sverige AB",
+"title": "Senior UX-designer till spännande digitaliseringsresa",
+"location": "Kiruna",
+"remote": null,
+"posted": "2026-11-19",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31754919",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-19"
+},
+{
+"id": "platsbanken:Platsbanken:31754987",
+"company": "Rosenthal, Emanuel",
+"title": "UX / UI Designer",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-19",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31754987",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-19"
+},
+{
+"id": "platsbanken:Platsbanken:31754360",
+"company": "Sandvik Aktiebolag",
+"title": "Design & UX Lead",
+"location": "",
+"remote": null,
+"posted": "2026-11-19",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31754360",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-19"
+},
+{
+"id": "platsbanken:Platsbanken:31754299",
+"company": "Sway Sourcing Sweden Aktiebolag",
+"title": "Senior UX-konsult inom AI-driven design – Kiruna/Gällivare/Luleå",
+"location": "Luleå",
+"remote": null,
+"posted": "2026-11-19",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31754299",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-19"
+},
+{
+"id": "platsbanken:Platsbanken:31754070",
+"company": "Sway Sourcing Sweden Aktiebolag",
+"title": "UX Designer – B2B & Enterprise – Stockholm",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-19",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31754070",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-19"
+},
+{
+"id": "platsbanken:Platsbanken:31752956",
+"company": "Deploja AB",
+"title": "Lead UX-Designer",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-19",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31752956",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-19"
+},
+{
+"id": "platsbanken:Platsbanken:31752908",
+"company": "Quest Consulting Sverige AB",
+"title": "Lead Designer (UX Lead & Designsystem) till Quest Consulting",
+"location": "Sundbyberg",
+"remote": null,
+"posted": "2026-11-19",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31752908",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-19"
+},
+{
+"id": "platsbanken:Platsbanken:31755013",
+"company": "Hykmann Global Business Solutions AB",
+"title": "Digital Design Engineer Fighter Radar & Defence Electronics",
+"location": "Göteborg",
+"remote": null,
+"posted": "2026-11-19",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31755013",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-19"
+},
 {
 "id": "platsbanken:Platsbanken:31750036",
 "company": "Agile Resources AB",
@@ -35,18 +143,6 @@
 "remote": null,
 "posted": "2026-11-18",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31748330",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-18"
-},
-{
-"id": "platsbanken:Platsbanken:31748064",
-"company": "Sway Sourcing Sweden Aktiebolag",
-"title": "UX Designer – B2B & Enterprise – Stockholm",
-"location": "Göteborg",
-"remote": null,
-"posted": "2026-11-18",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31748064",
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-11-18"
@@ -304,30 +400,6 @@
 "firstSeen": "2026-11-12"
 },
 {
-"id": "platsbanken:Platsbanken:31718713",
-"company": "Sway Sourcing Sweden Aktiebolag",
-"title": "Senior UX-konsult inom AI-driven design – Kiruna/Gällivare/Luleå",
-"location": "Luleå",
-"remote": null,
-"posted": "2026-11-11",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31718713",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-11"
-},
-{
-"id": "lever:spotify:a9d581f9-1361-4227-b230-94a0d6ffdef4",
-"company": "Spotify",
-"title": "Product Designer",
-"location": "Stockholm",
-"remote": "hybrid",
-"posted": "2026-11-04",
-"url": "https://jobs.lever.co/spotify/a9d581f9-1361-4227-b230-94a0d6ffdef4",
-"source": "lever",
-"region": "Nordics",
-"firstSeen": "2026-11-11"
-},
-{
 "id": "platsbanken:Platsbanken:31709189",
 "company": "H & M Hennes & Mauritz GBC AB",
 "title": "Senior Digital Product Designer",
@@ -465,7 +537,7 @@
 "title": "Staff Product Designer",
 "location": "Hybrid - San Francisco, California",
 "remote": null,
-"posted": "2026-10-29",
+"posted": "2026-11-19",
 "url": "https://job-boards.greenhouse.io/oura/jobs/4472112009",
 "source": "greenhouse",
 "region": "Nordics",
@@ -544,6 +616,18 @@
 "firstSeen": "2026-10-21"
 },
 {
+"id": "greenhouse:oura:4421754009",
+"company": "Oura",
+"title": "Senior Product Designer, Movement",
+"location": "Hybrid - San Francisco, California",
+"remote": null,
+"posted": "2026-11-19",
+"url": "https://job-boards.greenhouse.io/oura/jobs/4421754009",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
 "id": "greenhouse:smartlyio:6126661004",
 "company": "Smartly",
 "title": "Production Designer",
@@ -568,18 +652,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:oura:4452942009",
-"company": "Oura",
-"title": "Staff Antenna Design Engineer",
-"location": "On-site - Oulu, North Ostrobothnia",
-"remote": null,
-"posted": "2026-11-11",
-"url": "https://job-boards.greenhouse.io/oura/jobs/4452942009",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:smartlyio:6208020004",
 "company": "Smartly",
 "title": "Lead Product Designer",
@@ -587,18 +659,6 @@
 "remote": null,
 "posted": "2026-10-30",
 "url": "https://job-boards.greenhouse.io/smartlyio/jobs/6208020004",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:oura:4421754009",
-"company": "Oura",
-"title": "Senior Product Designer, Movement",
-"location": "Hybrid - San Francisco, California",
-"remote": null,
-"posted": "2026-10-27",
-"url": "https://job-boards.greenhouse.io/oura/jobs/4421754009",
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
@@ -628,18 +688,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:alphasense:8530664002",
-"company": "AlphaSense",
-"title": "Senior/Staff Product Designer",
-"location": "New York, New York, United States; Remote - United States",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:alphasense:8531119002",
 "company": "AlphaSense",
 "title": "Senior/Staff Product Designer",
@@ -647,6 +695,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:alphasense:8530664002",
+"company": "AlphaSense",
+"title": "Senior/Staff Product Designer",
+"location": "New York, New York, United States; Remote - United States",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"

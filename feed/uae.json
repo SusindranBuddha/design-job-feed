@@ -1,8 +1,32 @@
 {
-"generated": "2026-11-19T10:24:13Z",
+"generated": "2026-11-19T22:10:58Z",
 "region": "UAE",
-"count": 10,
+"count": 11,
 "jobs": [
+{
+"id": "smartrecruiters:DeliveryHero:744000162547160",
+"company": "talabat",
+"title": "UX Designer",
+"location": "Montevideo, uy",
+"remote": null,
+"posted": "2026-11-19",
+"url": "https://jobs.smartrecruiters.com/DeliveryHero/744000162547160",
+"source": "smartrecruiters",
+"region": "UAE",
+"firstSeen": "2026-11-19"
+},
+{
+"id": "smartrecruiters:DeliveryHero:744000162547380",
+"company": "talabat",
+"title": "UX Designer",
+"location": "Buenos Aires, ar",
+"remote": null,
+"posted": "2026-11-19",
+"url": "https://jobs.smartrecruiters.com/DeliveryHero/744000162547380",
+"source": "smartrecruiters",
+"region": "UAE",
+"firstSeen": "2026-11-19"
+},
 {
 "id": "smartrecruiters:DeliveryHero:744000161755797",
 "company": "talabat",
@@ -74,18 +98,6 @@
 "source": "pinpoint",
 "region": "UAE",
 "firstSeen": "2026-10-26"
-},
-{
-"id": "smartrecruiters:DeliveryHero:744000157408964",
-"company": "talabat",
-"title": "Staff Product Designer",
-"location": "Dubai, ae",
-"remote": null,
-"posted": "2026-10-23",
-"url": "https://jobs.smartrecruiters.com/DeliveryHero/744000157408964",
-"source": "smartrecruiters",
-"region": "UAE",
-"firstSeen": "2026-10-23"
 },
 {
 "id": "teamtailor:Property Finder:https://propertyfinder.teamtailor.com/jobs/8593872-senior-product-designer",

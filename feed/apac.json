@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-20T10:04:07Z",
+"generated": "2026-11-20T21:50:36Z",
 "region": "APAC",
-"count": 81,
+"count": 79,
 "jobs": [
 {
 "id": "mcf:MyCareersFuture:3f4b9111c4a4cddf37faf511ac8630ca",
@@ -431,19 +431,6 @@
 "firstSeen": "2026-11-10"
 },
 {
-"id": "mcf:MyCareersFuture:a9c9e68ee0428bc670857743278ed775",
-"company": "ERNST & YOUNG ADVISORY PTE. LTD.",
-"title": "UX Service Designer (SA), Technology Consulting",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-11-06",
-"url": "https://www.mycareersfuture.gov.sg/job/consulting/ux-service-designer-technology-consulting-ernst-young-advisory-a9c9e68ee0428bc670857743278ed775",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 5500-7500 /Monthly",
-"firstSeen": "2026-11-06"
-},
-{
 "id": "mcf:MyCareersFuture:1e00fe765e173140d7692857c9b48ffd",
 "company": "DOCTOR WORLD PTE. LTD.",
 "title": "Product Designer (UI/UX)",
@@ -807,19 +794,6 @@
 "firstSeen": "2026-10-22"
 },
 {
-"id": "mcf:MyCareersFuture:612aed06159204ac846034c42fc0b3b7",
-"company": "TAIDII PTE. LTD.",
-"title": "UI/ UX Designer [EdTech Products]",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-21",
-"url": "https://www.mycareersfuture.gov.sg/job/design/ui-ux-designer-edtech-products-taidii-612aed06159204ac846034c42fc0b3b7",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 6000-9000 /Monthly",
-"firstSeen": "2026-10-21"
-},
-{
 "id": "mcf:MyCareersFuture:7c2800f5061217d64d41d01fd478ac06",
 "company": "DCONSTRUCT PLUS PTE. LTD.",
 "title": "UI/UX Designer",
@@ -955,18 +929,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "smartrecruiters:Grab:744000146882579",
-"company": "Grab",
-"title": "Senior Product Designer, Payments",
-"location": "Singapore, sg",
-"remote": null,
-"posted": "2026-09-02",
-"url": "https://jobs.smartrecruiters.com/Grab/744000146882579",
-"source": "smartrecruiters",
-"region": "APAC",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "smartrecruiters:Grab:744000140956539",
 "company": "Grab",
 "title": "Senior Product Designer, Search and Personalisation",
@@ -1036,6 +998,19 @@
 "url": "https://jobs.ashbyhq.com/padlet/50cdf712-daba-4925-b344-d0b3530b5c1c",
 "source": "ashby",
 "region": "APAC",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "workday:hcf:/job/Sydney-CBD/Senior-Digital-Product-Designer_JR104415",
+"company": "HCF",
+"title": "Senior Digital Product Designer",
+"location": "Sydney CBD",
+"remote": null,
+"posted": null,
+"url": "https://hcf.wd105.myworkdayjobs.com/HCF_External_Career_Site/job/Sydney-CBD/Senior-Digital-Product-Designer_JR104415",
+"source": "workday",
+"region": "APAC",
+"postedText": "Posted Today",
 "firstSeen": "2026-10-17"
 }
 ]

@@ -1,8 +1,56 @@
 {
-"generated": "2026-11-20T10:04:07Z",
+"generated": "2026-11-20T21:50:36Z",
 "region": "Nordics",
-"count": 68,
+"count": 72,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31761156",
+"company": "Selftitled AB",
+"title": "Designer Womenswear",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-20",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31761156",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-20"
+},
+{
+"id": "platsbanken:Platsbanken:31759007",
+"company": "Ericsson AB",
+"title": "System Designer Technology Testbeds",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-20",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31759007",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-20"
+},
+{
+"id": "platsbanken:Platsbanken:31759053",
+"company": "Soros Consulting AB",
+"title": "Senior UX-konsult Stockholm/Göteborg/Malmö",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-20",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31759053",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-20"
+},
+{
+"id": "platsbanken:Platsbanken:31758244",
+"company": "Hey Idun AB",
+"title": "Design Engineer",
+"location": "Nybro",
+"remote": null,
+"posted": "2026-11-20",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31758244",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-20"
+},
 {
 "id": "platsbanken:Platsbanken:31756864",
 "company": "Arrowhead Game Studios AB",
@@ -676,18 +724,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:alphasense:8531119002",
-"company": "AlphaSense",
-"title": "Senior/Staff Product Designer",
-"location": "Remote - United Kingdom",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:alphasense:8530664002",
 "company": "AlphaSense",
 "title": "Senior/Staff Product Designer",
@@ -695,6 +731,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:alphasense:8531119002",
+"company": "AlphaSense",
+"title": "Senior/Staff Product Designer",
+"location": "Remote - United Kingdom",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"

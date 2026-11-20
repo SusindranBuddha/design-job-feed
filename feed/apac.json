@@ -1,8 +1,73 @@
 {
-"generated": "2026-11-19T22:10:58Z",
+"generated": "2026-11-20T10:04:07Z",
 "region": "APAC",
-"count": 76,
+"count": 81,
 "jobs": [
+{
+"id": "mcf:MyCareersFuture:3f4b9111c4a4cddf37faf511ac8630ca",
+"company": "RSM STONE FOREST ACCOUNTSERVE PTE. LTD.",
+"title": "Senior Product Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-20",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-product-designer-addepar-singapore-3f4b9111c4a4cddf37faf511ac8630ca",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 10000-15000 /Monthly",
+"firstSeen": "2026-11-20"
+},
+{
+"id": "mcf:MyCareersFuture:ff4f621775308cee6d1d60b9353e1db5",
+"company": "WEBSPARKS PTE. LTD.",
+"title": "UX Designer, Statistical Production Workflows (Public Sector)",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-20",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/ux-designer-statistical-production-workflows-websparks-ff4f621775308cee6d1d60b9353e1db5",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 7000-10000 /Monthly",
+"firstSeen": "2026-11-20"
+},
+{
+"id": "mcf:MyCareersFuture:e776b0078d5999ceb92d1c90fe995bf8",
+"company": "TRINITY CONSULTING SERVICES PTE. LTD.",
+"title": "Senior Designer -UX/UI",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-20",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-designer-uxui-trinity-consulting-services-e776b0078d5999ceb92d1c90fe995bf8",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 8000-10000 /Monthly",
+"firstSeen": "2026-11-20"
+},
+{
+"id": "mcf:MyCareersFuture:8906d2370141738cd78bdccd7ace88df",
+"company": "WEBSPARKS PTE. LTD.",
+"title": "Service Designer, Facilities Management Digital Platform (Public Sector)",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-20",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/service-designer-facilities-management-digital-platform-websparks-8906d2370141738cd78bdccd7ace88df",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 7000-10000 /Monthly",
+"firstSeen": "2026-11-20"
+},
+{
+"id": "mcf:MyCareersFuture:2da7381748abc6dcf27b5772e9da3c16",
+"company": "TECH AALTO PTE. LTD.",
+"title": "Experience & Interface Designer (Design Systems & AI Tooling)",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-20",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/experience-interface-designer-tech-aalto-2da7381748abc6dcf27b5772e9da3c16",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 6500-11000 /Monthly",
+"firstSeen": "2026-11-20"
+},
 {
 "id": "mcf:MyCareersFuture:640674cce7ac6a4a1ac523f226b83542",
 "company": "MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD",
@@ -780,6 +845,42 @@
 "firstSeen": "2026-10-19"
 },
 {
+"id": "greenhouse:agoda:8263608",
+"company": "Agoda",
+"title": "Specialist, Animation Designer (Bangkok-based, relocation provided)",
+"location": "Bangkok",
+"remote": null,
+"posted": "2026-11-20",
+"url": "https://job-boards.greenhouse.io/agoda/jobs/8263608",
+"source": "greenhouse",
+"region": "APAC",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:agoda:8263606",
+"company": "Agoda",
+"title": "Specialist, Interactive Designer (Bangkok-based, relocation provided)",
+"location": "Bangkok",
+"remote": null,
+"posted": "2026-11-20",
+"url": "https://job-boards.greenhouse.io/agoda/jobs/8263606",
+"source": "greenhouse",
+"region": "APAC",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:agoda:8263604",
+"company": "Agoda",
+"title": "Specialist, Multimedia designer (Bangkok-based, relocation provided)",
+"location": "Bangkok",
+"remote": null,
+"posted": "2026-11-20",
+"url": "https://job-boards.greenhouse.io/agoda/jobs/8263604",
+"source": "greenhouse",
+"region": "APAC",
+"firstSeen": "2026-10-17"
+},
+{
 "id": "ashby:airwallex:ec6557d1-5953-49a9-9855-90dec51002fb",
 "company": "Airwallex",
 "title": "Staff Product Designer, Spend",
@@ -815,42 +916,6 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 3000-4200 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:agoda:8263608",
-"company": "Agoda",
-"title": "Specialist, Animation Designer (Bangkok-based, relocation provided)",
-"location": "Bangkok",
-"remote": null,
-"posted": "2026-10-21",
-"url": "https://job-boards.greenhouse.io/agoda/jobs/8263608",
-"source": "greenhouse",
-"region": "APAC",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:agoda:8263606",
-"company": "Agoda",
-"title": "Specialist, Interactive Designer (Bangkok-based, relocation provided)",
-"location": "Bangkok",
-"remote": null,
-"posted": "2026-10-21",
-"url": "https://job-boards.greenhouse.io/agoda/jobs/8263606",
-"source": "greenhouse",
-"region": "APAC",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:agoda:8263604",
-"company": "Agoda",
-"title": "Specialist, Multimedia designer (Bangkok-based, relocation provided)",
-"location": "Bangkok",
-"remote": null,
-"posted": "2026-10-21",
-"url": "https://job-boards.greenhouse.io/agoda/jobs/8263604",
-"source": "greenhouse",
-"region": "APAC",
 "firstSeen": "2026-10-17"
 },
 {

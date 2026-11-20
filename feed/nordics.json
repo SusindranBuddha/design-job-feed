@@ -1,8 +1,20 @@
 {
-"generated": "2026-11-19T22:10:58Z",
+"generated": "2026-11-20T10:04:07Z",
 "region": "Nordics",
-"count": 69,
+"count": 68,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31756864",
+"company": "Arrowhead Game Studios AB",
+"title": "Senior Game Designer",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-20",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31756864",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-20"
+},
 {
 "id": "platsbanken:Platsbanken:31753679",
 "company": "Ericsson AB",
@@ -184,18 +196,6 @@
 "firstSeen": "2026-11-18"
 },
 {
-"id": "platsbanken:Platsbanken:31741302",
-"company": "Soros Consulting AB",
-"title": "Senior UX Design Lead",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-11-17",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31741302",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-17"
-},
-{
 "id": "platsbanken:Platsbanken:31744647",
 "company": "Hykmann Global Business Solutions AB",
 "title": "System Design Engineer Thermal Management | Automotive & Embedded Systems",
@@ -252,18 +252,6 @@
 "posted": "2026-11-16",
 "url": "https://job-boards.greenhouse.io/oura/jobs/4488086009",
 "source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-11-16"
-},
-{
-"id": "platsbanken:Platsbanken:31738379",
-"company": "Deploja AB",
-"title": "UX Design Lead",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-11-16",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31738379",
-"source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-11-16"
 },

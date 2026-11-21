@@ -1,16 +1,28 @@
 {
-"generated": "2026-11-21T09:52:25Z",
+"generated": "2026-11-21T20:33:05Z",
 "region": "Europe",
-"count": 88,
+"count": 92,
 "jobs": [
 {
-"id": "arbeitnow:Arbeitnow:langfuse-product-designer-berlin-465839",
-"company": "Clickhouse",
-"title": "Langfuse - Product Designer",
-"location": "Germany",
+"id": "arbeitnow:Arbeitnow:remote-3d-environment-artist-level-designer-457684",
+"company": "Scape",
+"title": "3D Environment Artist & Level Designer",
+"location": "Remote",
+"remote": "remote",
+"posted": "2026-11-21",
+"url": "https://www.arbeitnow.com/jobs/companies/scape/remote-3d-environment-artist-level-designer-457684",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-21"
+},
+{
+"id": "arbeitnow:Arbeitnow:ux-designer-at-private-equity-insights-london-223301",
+"company": "Privateequityinsights",
+"title": "UX designer at Private Equity Insights",
+"location": "London",
 "remote": null,
 "posted": "2026-11-21",
-"url": "https://www.arbeitnow.com/jobs/companies/clickhouse/langfuse-product-designer-berlin-465839",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/ux-designer-at-private-equity-insights-london-223301",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-21"
@@ -40,13 +52,61 @@
 "firstSeen": "2026-11-21"
 },
 {
-"id": "arbeitnow:Arbeitnow:ux-designer-at-united-media-london-151382",
-"company": "United Media",
-"title": "UX Designer at United Media",
-"location": "London, England, United Kingdom",
+"id": "arbeitnow:Arbeitnow:langfuse-product-designer-berlin-465839",
+"company": "Clickhouse",
+"title": "Langfuse - Product Designer",
+"location": "Germany",
 "remote": null,
 "posted": "2026-11-21",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/ux-designer-at-united-media-london-151382",
+"url": "https://www.arbeitnow.com/jobs/companies/clickhouse/langfuse-product-designer-berlin-465839",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-21"
+},
+{
+"id": "arbeitnow:Arbeitnow:staff-principal-product-designer-london-339273",
+"company": "intercom",
+"title": "Staff/Principal Product Designer",
+"location": "London",
+"remote": null,
+"posted": "2026-11-21",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/intercom/staff-principal-product-designer-london-339273",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-21"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-web-designer-growth-london-323149",
+"company": "intercom",
+"title": "Senior Web Designer, Growth",
+"location": "London",
+"remote": null,
+"posted": "2026-11-21",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/intercom/senior-web-designer-growth-london-323149",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-21"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-london-98959",
+"company": "intercom",
+"title": "Senior Product Designer",
+"location": "London",
+"remote": null,
+"posted": "2026-11-21",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/intercom/senior-product-designer-london-98959",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-21"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-qpu-design-engineer-oxford-116037",
+"company": "ionq",
+"title": "Senior QPU Design Engineer",
+"location": "Oxford",
+"remote": null,
+"posted": "2026-11-21",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/ionq/senior-qpu-design-engineer-oxford-116037",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-21"
@@ -148,18 +208,6 @@
 "firstSeen": "2026-11-20"
 },
 {
-"id": "arbeitnow:Arbeitnow:remote-1023-senior-ux-ui-designer-germany-329887",
-"company": "Intetics 2",
-"title": "1023 | Senior UX/UI Designer",
-"location": "Germany",
-"remote": "remote",
-"posted": "2026-11-20",
-"url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1023-senior-ux-ui-designer-germany-329887",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-20"
-},
-{
 "id": "arbeitnow:Arbeitnow:senior-product-designer-paris-436925",
 "company": "Pigment",
 "title": "Senior Product Designer",
@@ -167,6 +215,18 @@
 "remote": null,
 "posted": "2026-11-20",
 "url": "https://www.arbeitnow.fr/jobs/companies/pigment/senior-product-designer-paris-436925",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-20"
+},
+{
+"id": "arbeitnow:Arbeitnow:remote-1023-senior-ux-ui-designer-germany-329887",
+"company": "Intetics 2",
+"title": "1023 | Senior UX/UI Designer",
+"location": "Germany",
+"remote": "remote",
+"posted": "2026-11-20",
+"url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1023-senior-ux-ui-designer-germany-329887",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-20"
@@ -191,18 +251,6 @@
 "remote": null,
 "posted": "2026-11-19",
 "url": "https://www.arbeitnow.ch/jobs/companies/hyperscale-power/senior-mechanical-design-engineer-power-electronics-zurich-483575",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-19"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-design-engineer-berlin-438076",
-"company": "Peec AI",
-"title": "Senior Design Engineer",
-"location": "Berlin",
-"remote": null,
-"posted": "2026-11-19",
-"url": "https://www.arbeitnow.com/jobs/companies/peec-ai/senior-design-engineer-berlin-438076",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-19"

@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-21T09:52:25Z",
+"generated": "2026-11-21T20:33:05Z",
 "region": "APAC",
-"count": 79,
+"count": 78,
 "jobs": [
 {
 "id": "mcf:MyCareersFuture:3f4b9111c4a4cddf37faf511ac8630ca",
@@ -779,19 +779,6 @@
 "region": "APAC",
 "salary": "SGD 6500-9000 /Monthly",
 "firstSeen": "2026-10-23"
-},
-{
-"id": "mcf:MyCareersFuture:535bde1f15b4a66fd61fe97a10e51593",
-"company": "MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD",
-"title": "Product Designer (UI/UX) | Bank | Contract",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-22",
-"url": "https://www.mycareersfuture.gov.sg/job/banking-finance/product-designer-bank-contract-manpower-staffing-services-535bde1f15b4a66fd61fe97a10e51593",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 6500-9000 /Monthly",
-"firstSeen": "2026-10-22"
 },
 {
 "id": "mcf:MyCareersFuture:7c2800f5061217d64d41d01fd478ac06",

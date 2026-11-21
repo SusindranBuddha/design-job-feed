@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-20T21:50:36Z",
+"generated": "2026-11-21T09:52:25Z",
 "region": "Nordics",
-"count": 72,
+"count": 71,
 "jobs": [
 {
 "id": "platsbanken:Platsbanken:31761156",
@@ -215,18 +215,6 @@
 "remote": null,
 "posted": "2026-11-18",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31747892",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-18"
-},
-{
-"id": "platsbanken:Platsbanken:31746868",
-"company": "Deploja AB",
-"title": "Senior UX",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-11-18",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31746868",
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-11-18"
@@ -724,18 +712,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:alphasense:8530664002",
-"company": "AlphaSense",
-"title": "Senior/Staff Product Designer",
-"location": "New York, New York, United States; Remote - United States",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:alphasense:8531119002",
 "company": "AlphaSense",
 "title": "Senior/Staff Product Designer",
@@ -743,6 +719,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:alphasense:8530664002",
+"company": "AlphaSense",
+"title": "Senior/Staff Product Designer",
+"location": "New York, New York, United States; Remote - United States",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"

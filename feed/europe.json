@@ -1,8 +1,80 @@
 {
-"generated": "2026-11-20T21:50:36Z",
+"generated": "2026-11-21T09:52:25Z",
 "region": "Europe",
-"count": 89,
+"count": 88,
 "jobs": [
+{
+"id": "arbeitnow:Arbeitnow:langfuse-product-designer-berlin-465839",
+"company": "Clickhouse",
+"title": "Langfuse - Product Designer",
+"location": "Germany",
+"remote": null,
+"posted": "2026-11-21",
+"url": "https://www.arbeitnow.com/jobs/companies/clickhouse/langfuse-product-designer-berlin-465839",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-21"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-optical-design-engineer-toulouse-315988",
+"company": "E-Space",
+"title": "Senior Optical Design Engineer",
+"location": "Toulouse",
+"remote": null,
+"posted": "2026-11-21",
+"url": "https://www.arbeitnow.fr/jobs/companies/e-space/senior-optical-design-engineer-toulouse-315988",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-21"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-remote-in-europe-amsterdam-443609",
+"company": "Finom",
+"title": "Senior Product Designer (Remote in Europe)",
+"location": "Amsterdam",
+"remote": null,
+"posted": "2026-11-21",
+"url": "https://www.arbeitnow.nl/jobs/companies/finom/senior-product-designer-remote-in-europe-amsterdam-443609",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-21"
+},
+{
+"id": "arbeitnow:Arbeitnow:ux-designer-at-united-media-london-151382",
+"company": "United Media",
+"title": "UX Designer at United Media",
+"location": "London, England, United Kingdom",
+"remote": null,
+"posted": "2026-11-21",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/ux-designer-at-united-media-london-151382",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-21"
+},
+{
+"id": "arbeitnow:Arbeitnow:product-design-manager-germany-410873",
+"company": "N8N",
+"title": "Product Design Manager",
+"location": "Germany",
+"remote": null,
+"posted": "2026-11-20",
+"url": "https://www.arbeitnow.com/jobs/companies/n8n/product-design-manager-germany-410873",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-21"
+},
+{
+"id": "arbeitnow:Arbeitnow:ui-designer-casual-games-freelance-remote-berlin-403179",
+"company": "SOFTGAMES",
+"title": "UI Designer - Casual Games (Freelance Remote)",
+"location": "Remote job",
+"remote": "remote",
+"posted": "2026-11-20",
+"url": "https://www.arbeitnow.com/jobs/companies/softgames/ui-designer-casual-games-freelance-remote-berlin-403179",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-21"
+},
 {
 "id": "smartrecruiters:Wise:744000162757629",
 "company": "Wise",
@@ -36,18 +108,6 @@
 "posted": "2026-11-20",
 "url": "https://careers.hellofresh.com/global/en/job/8259030?gh_jid=8259030",
 "source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-11-20"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-product-designer-paris-436925",
-"company": "Pigment",
-"title": "Senior Product Designer",
-"location": "Paris",
-"remote": null,
-"posted": "2026-11-20",
-"url": "https://www.arbeitnow.fr/jobs/companies/pigment/senior-product-designer-paris-436925",
-"source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-20"
 },
@@ -100,6 +160,18 @@
 "firstSeen": "2026-11-20"
 },
 {
+"id": "arbeitnow:Arbeitnow:senior-product-designer-paris-436925",
+"company": "Pigment",
+"title": "Senior Product Designer",
+"location": "Paris",
+"remote": null,
+"posted": "2026-11-20",
+"url": "https://www.arbeitnow.fr/jobs/companies/pigment/senior-product-designer-paris-436925",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-20"
+},
+{
 "id": "arbeitnow:Arbeitnow:senior-product-designer-paris-161516",
 "company": "Moka.care",
 "title": "Senior Product Designer",
@@ -107,18 +179,6 @@
 "remote": null,
 "posted": "2026-11-20",
 "url": "https://www.arbeitnow.fr/jobs/companies/mokacare/senior-product-designer-paris-161516",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-20"
-},
-{
-"id": "arbeitnow:Arbeitnow:lead-physical-product-designer-4-days-p-w-12m-ftc-london-492882",
-"company": "Bloom & Wild Group",
-"title": "Lead Physical Product Designer (4 days p/w, 12m FTC)",
-"location": "London",
-"remote": null,
-"posted": "2026-11-20",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/bloom-wild-group/lead-physical-product-designer-4-days-p-w-12m-ftc-london-492882",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-20"
@@ -136,30 +196,6 @@
 "firstSeen": "2026-11-19"
 },
 {
-"id": "arbeitnow:Arbeitnow:product-designer-paris-148315",
-"company": "Hcompany",
-"title": "Product Designer - Paris",
-"location": "Hybrid Paris",
-"remote": null,
-"posted": "2026-11-19",
-"url": "https://www.arbeitnow.fr/jobs/companies/hcompany/product-designer-paris-148315",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-19"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-product-designer-h-f-paris-217282",
-"company": "Hubvisory",
-"title": "Senior Product Designer - H/F",
-"location": "Paris, Île-de-France, France",
-"remote": null,
-"posted": "2026-11-19",
-"url": "https://www.arbeitnow.fr/jobs/companies/hubvisory/senior-product-designer-h-f-paris-217282",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-19"
-},
-{
 "id": "arbeitnow:Arbeitnow:senior-design-engineer-berlin-438076",
 "company": "Peec AI",
 "title": "Senior Design Engineer",
@@ -172,25 +208,13 @@
 "firstSeen": "2026-11-19"
 },
 {
-"id": "arbeitnow:Arbeitnow:senior-product-designer-in-tech-data-team-berlin-49906",
-"company": "Thomann.io",
-"title": "Senior Product Designer (f/x/m) in Tech & Data Team",
-"location": "Berlin",
+"id": "arbeitnow:Arbeitnow:product-designer-paris-148315",
+"company": "Hcompany",
+"title": "Product Designer - Paris",
+"location": "Hybrid Paris",
 "remote": null,
 "posted": "2026-11-19",
-"url": "https://www.arbeitnow.com/jobs/companies/thomannio/senior-product-designer-in-tech-data-team-berlin-49906",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-19"
-},
-{
-"id": "arbeitnow:Arbeitnow:werkstudentin-ux-copywriting-berlin-345472",
-"company": "tide",
-"title": "Werkstudent:in (m/w/d) – UX Copywriting",
-"location": "Berlin",
-"remote": null,
-"posted": "2026-11-19",
-"url": "https://www.arbeitnow.com/jobs/companies/tide/werkstudentin-ux-copywriting-berlin-345472",
+"url": "https://www.arbeitnow.fr/jobs/companies/hcompany/product-designer-paris-148315",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-19"
@@ -240,18 +264,6 @@
 "posted": "2026-11-17",
 "url": "https://job-boards.eu.greenhouse.io/raisin/jobs/5035931101",
 "source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-11-17"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-design-systems-manager-zurich-32220",
-"company": "Getyourguide",
-"title": "Senior Design Systems Manager",
-"location": "Zurich",
-"remote": null,
-"posted": "2026-11-17",
-"url": "https://www.arbeitnow.ch/jobs/companies/getyourguide/senior-design-systems-manager-zurich-32220",
-"source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-17"
 },
@@ -424,18 +436,6 @@
 "firstSeen": "2026-10-27"
 },
 {
-"id": "greenhouse:okta:8326116",
-"company": "Okta (Spain)",
-"title": "Staff Product Designer - UI Platform",
-"location": "Bellevue, Washington; Chicago, Illinois; New York, New York; Toronto, Ontario, Canada; Washington, DC",
-"remote": null,
-"posted": "2026-11-18",
-"url": "https://www.okta.com/company/careers/opportunity/8326116?gh_jid=8326116",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-27"
-},
-{
 "id": "greenhouse:okta:8319247",
 "company": "Okta (Spain)",
 "title": "Manager, Product Design - Okta Research & Development",
@@ -532,18 +532,6 @@
 "firstSeen": "2026-10-20"
 },
 {
-"id": "greenhouse:intercom:7862050",
-"company": "Intercom",
-"title": "Senior Product Designer",
-"location": "Dublin, Ireland",
-"remote": null,
-"posted": "2026-11-20",
-"url": "https://job-boards.greenhouse.io/intercom/jobs/7862050",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:intercom:7861866",
 "company": "Intercom",
 "title": "Senior Product Designer",
@@ -551,6 +539,18 @@
 "remote": null,
 "posted": "2026-11-20",
 "url": "https://job-boards.greenhouse.io/intercom/jobs/7861866",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:intercom:7862050",
+"company": "Intercom",
+"title": "Senior Product Designer",
+"location": "Dublin, Ireland",
+"remote": null,
+"posted": "2026-11-20",
+"url": "https://job-boards.greenhouse.io/intercom/jobs/7862050",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -568,18 +568,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:intercom:7862038",
-"company": "Intercom",
-"title": "Staff/Principal Product Designer",
-"location": "Dublin, Ireland",
-"remote": null,
-"posted": "2026-11-20",
-"url": "https://job-boards.greenhouse.io/intercom/jobs/7862038",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:intercom:7862042",
 "company": "Intercom",
 "title": "Staff/Principal Product Designer",
@@ -592,6 +580,18 @@
 "firstSeen": "2026-10-17"
 },
 {
+"id": "greenhouse:intercom:7862038",
+"company": "Intercom",
+"title": "Staff/Principal Product Designer",
+"location": "Dublin, Ireland",
+"remote": null,
+"posted": "2026-11-20",
+"url": "https://job-boards.greenhouse.io/intercom/jobs/7862038",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
 "id": "greenhouse:stripe:8212314",
 "company": "Stripe",
 "title": "Design Engineer, Expansion",
@@ -599,18 +599,6 @@
 "remote": null,
 "posted": "2026-11-19",
 "url": "https://stripe.com/jobs/search?gh_jid=8212314",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:stripe:8130913",
-"company": "Stripe",
-"title": "Designer, Web Presence & Platform",
-"location": "US-Remote",
-"remote": null,
-"posted": "2026-11-19",
-"url": "https://stripe.com/jobs/search?gh_jid=8130913",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"

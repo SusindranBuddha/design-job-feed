@@ -1,10 +1,10 @@
 {
-"generated": "2026-11-21T20:33:05Z",
+"generated": "2026-11-22T09:49:05Z",
 "sources": 162,
-"ok": 140,
-"errors": 22,
-"designRoles": 455,
-"newRoles": 12,
+"ok": 139,
+"errors": 23,
+"designRoles": 457,
+"newRoles": 14,
 "detail": [
 {
 "company": "Aspire",
@@ -12,7 +12,7 @@
 "region": "APAC",
 "status": "error",
 "error": "HTTPError: 404 Client Error: Not Found for url: https://job-boards.greenhouse.io/aspire",
-"secs": 0.2
+"secs": 0.3
 },
 {
 "company": "Commonwealth Bank",
@@ -28,7 +28,7 @@
 "region": "APAC",
 "status": "error",
 "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://dbs.wd3.myworkdayjobs.com/wday/cxs/dbs/DBS_Careers/jobs",
-"secs": 0.3
+"secs": 0.4
 },
 {
 "company": "GXS Bank",
@@ -36,7 +36,15 @@
 "region": "APAC",
 "status": "error",
 "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://gxs.wd3.myworkdayjobs.com/wday/cxs/gxs/GXS/jobs",
-"secs": 0.3
+"secs": 0.4
+},
+{
+"company": "Paidy",
+"type": "greenhouse",
+"region": "APAC",
+"status": "error",
+"error": "HTTPError: 500 Server Error: Internal Server Error for url: https://job-boards.greenhouse.io/paidyinc",
+"secs": 0.4
 },
 {
 "company": "Iterable",
@@ -60,7 +68,7 @@
 "region": "Europe",
 "status": "error",
 "error": "HTTPError: 404 Client Error: Not Found for url: https://job-boards.greenhouse.io/truelayer",
-"secs": 0.2
+"secs": 0.3
 },
 {
 "company": "BrowserStack",
@@ -68,7 +76,7 @@
 "region": "India",
 "status": "error",
 "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://browserstack.wd3.myworkdayjobs.com/wday/cxs/browserstack/External/jobs",
-"secs": 0.4
+"secs": 0.3
 },
 {
 "company": "Innovaccer",
@@ -84,7 +92,7 @@
 "region": "India",
 "status": "error",
 "error": "HTTPError: 404 Client Error: Not Found for url: https://job-boards.greenhouse.io/phonepe",
-"secs": 0.2
+"secs": 0.4
 },
 {
 "company": "Postman",
@@ -92,7 +100,7 @@
 "region": "India",
 "status": "error",
 "error": "HTTPError: 404 Client Error: Not Found for url: https://job-boards.greenhouse.io/postman",
-"secs": 0.4
+"secs": 0.2
 },
 {
 "company": "Sprinklr",
@@ -116,7 +124,7 @@
 "region": "Nordics",
 "status": "error",
 "error": "HTTPError: 404 Client Error: Not Found for url: https://job-boards.greenhouse.io/aiven",
-"secs": 0.3
+"secs": 0.2
 },
 {
 "company": "Epidemic Sound",
@@ -132,7 +140,7 @@
 "region": "Nordics",
 "status": "error",
 "error": "HTTPError: 404 Client Error: Not Found for url: https://klarnagroup.teamtailor.com/jobs",
-"secs": 0.5
+"secs": 0.7
 },
 {
 "company": "Saxo Bank",
@@ -156,7 +164,7 @@
 "region": "Nordics",
 "status": "error",
 "error": "HTTPError: 404 Client Error: Not Found for url: https://job-boards.greenhouse.io/toogoodtogo",
-"secs": 0.3
+"secs": 0.2
 },
 {
 "company": "Unity",
@@ -207,7 +215,7 @@
 "status": "ok",
 "total": 9,
 "design": 1,
-"secs": 1.1
+"secs": 0.6
 },
 {
 "company": "Carousell",
@@ -225,7 +233,7 @@
 "status": "ok",
 "total": 0,
 "design": 0,
-"secs": 0.1
+"secs": 0.0
 },
 {
 "company": "Culture Amp",
@@ -241,9 +249,9 @@
 "type": "smartrecruiters",
 "region": "APAC",
 "status": "ok",
-"total": 429,
+"total": 433,
 "design": 3,
-"secs": 2.0
+"secs": 1.9
 },
 {
 "company": "HCF",
@@ -252,7 +260,7 @@
 "status": "ok",
 "total": 7,
 "design": 2,
-"secs": 1.8
+"secs": 1.4
 },
 {
 "company": "Karbon",
@@ -278,8 +286,8 @@
 "region": "APAC",
 "status": "ok",
 "total": 248,
-"design": 73,
-"secs": 20.8
+"design": 71,
+"secs": 11.6
 },
 {
 "company": "Ninja Van",
@@ -288,7 +296,7 @@
 "status": "ok",
 "total": 137,
 "design": 0,
-"secs": 0.8
+"secs": 2.2
 },
 {
 "company": "Nium",
@@ -297,7 +305,7 @@
 "status": "ok",
 "total": 31,
 "design": 0,
-"secs": 0.7
+"secs": 16.0
 },
 {
 "company": "Open Government Products",
@@ -315,15 +323,6 @@
 "status": "ok",
 "total": 20,
 "design": 2,
-"secs": 0.1
-},
-{
-"company": "Paidy",
-"type": "greenhouse",
-"region": "APAC",
-"status": "ok",
-"total": 0,
-"design": 0,
 "secs": 0.0
 },
 {
@@ -395,8 +394,8 @@
 "region": "Europe",
 "status": "ok",
 "total": 1500,
-"design": 22,
-"secs": 1.3
+"design": 23,
+"secs": 1.1
 },
 {
 "company": "Bitpanda",
@@ -459,7 +458,7 @@
 "status": "ok",
 "total": 190,
 "design": 6,
-"secs": 0.1
+"secs": 0.0
 },
 {
 "company": "Ebury",
@@ -468,7 +467,7 @@
 "status": "ok",
 "total": 162,
 "design": 3,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "GetYourGuide",
@@ -486,14 +485,14 @@
 "status": "ok",
 "total": 29,
 "design": 0,
-"secs": 0.1
+"secs": 0.0
 },
 {
 "company": "HelloFresh",
 "type": "greenhouse",
 "region": "Europe",
 "status": "ok",
-"total": 376,
+"total": 375,
 "design": 3,
 "secs": 0.0
 },
@@ -547,7 +546,7 @@
 "type": "greenhouse",
 "region": "Europe",
 "status": "ok",
-"total": 372,
+"total": 374,
 "design": 7,
 "secs": 0.0
 },
@@ -567,7 +566,7 @@
 "status": "ok",
 "total": 0,
 "design": 0,
-"secs": 0.3
+"secs": 0.4
 },
 {
 "company": "Raisin",
@@ -585,7 +584,7 @@
 "status": "ok",
 "total": 109,
 "design": 2,
-"secs": 0.8
+"secs": 0.7
 },
 {
 "company": "Starling Bank",
@@ -601,9 +600,9 @@
 "type": "greenhouse",
 "region": "Europe",
 "status": "ok",
-"total": 778,
+"total": 777,
 "design": 14,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Taktile",
@@ -648,7 +647,7 @@
 "status": "ok",
 "total": 433,
 "design": 9,
-"secs": 2.0
+"secs": 2.1
 },
 {
 "company": "Zilch",
@@ -666,7 +665,7 @@
 "status": "ok",
 "total": 60,
 "design": 0,
-"secs": 0.1
+"secs": 0.0
 },
 {
 "company": "CARS24",
@@ -684,7 +683,7 @@
 "status": "ok",
 "total": 11,
 "design": 0,
-"secs": 1.0
+"secs": 0.5
 },
 {
 "company": "Epifi (Fi)",
@@ -693,7 +692,7 @@
 "status": "ok",
 "total": 0,
 "design": 0,
-"secs": 1.2
+"secs": 14.6
 },
 {
 "company": "Freshworks",
@@ -709,7 +708,7 @@
 "type": "greenhouse",
 "region": "India",
 "status": "ok",
-"total": 9,
+"total": 8,
 "design": 0,
 "secs": 0.0
 },
@@ -720,16 +719,16 @@
 "status": "ok",
 "total": 90,
 "design": 8,
-"secs": 0.7
+"secs": 1.0
 },
 {
 "company": "Meesho",
 "type": "lever",
 "region": "India",
 "status": "ok",
-"total": 48,
+"total": 47,
 "design": 0,
-"secs": 1.2
+"secs": 0.3
 },
 {
 "company": "Mindtickle",
@@ -738,7 +737,7 @@
 "status": "ok",
 "total": 19,
 "design": 3,
-"secs": 2.3
+"secs": 0.6
 },
 {
 "company": "Razorpay",
@@ -873,7 +872,7 @@
 "status": "ok",
 "total": 28,
 "design": 1,
-"secs": 0.7
+"secs": 0.8
 },
 {
 "company": "Vio",
@@ -936,16 +935,16 @@
 "status": "ok",
 "total": 51,
 "design": 0,
-"secs": 0.8
+"secs": 0.2
 },
 {
 "company": "Legora",
 "type": "ashby",
 "region": "Nordics",
 "status": "ok",
-"total": 341,
-"design": 4,
-"secs": 0.2
+"total": 342,
+"design": 5,
+"secs": 0.1
 },
 {
 "company": "Lunar",
@@ -970,9 +969,9 @@
 "type": "platsbanken",
 "region": "Nordics",
 "status": "ok",
-"total": 170,
-"design": 64,
-"secs": 5.4
+"total": 169,
+"design": 63,
+"secs": 4.9
 },
 {
 "company": "Pleo",
@@ -990,7 +989,7 @@
 "status": "ok",
 "total": 21,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "RELEX",
@@ -1026,7 +1025,7 @@
 "status": "ok",
 "total": 91,
 "design": 1,
-"secs": 0.7
+"secs": 0.9
 },
 {
 "company": "Truecaller",
@@ -1078,7 +1077,7 @@
 "type": "greenhouse",
 "region": "Nordics",
 "status": "ok",
-"total": 181,
+"total": 178,
 "design": 0,
 "secs": 0.0
 },
@@ -1114,7 +1113,7 @@
 "type": "ashby",
 "region": "Remote",
 "status": "ok",
-"total": 306,
+"total": 305,
 "design": 4,
 "secs": 0.1
 },
@@ -1134,7 +1133,7 @@
 "status": "ok",
 "total": 33,
 "design": 1,
-"secs": 0.8
+"secs": 0.9
 },
 {
 "company": "Consensys",
@@ -1152,7 +1151,7 @@
 "status": "ok",
 "total": 25,
 "design": 2,
-"secs": 1.0
+"secs": 0.2
 },
 {
 "company": "DuckDuckGo",
@@ -1178,7 +1177,7 @@
 "region": "Remote",
 "status": "ok",
 "total": 180,
-"design": 144,
+"design": 142,
 "secs": 0.3
 },
 {
@@ -1197,7 +1196,7 @@
 "status": "ok",
 "total": 150,
 "design": 8,
-"secs": 0.4
+"secs": 0.5
 },
 {
 "company": "Linear",
@@ -1250,7 +1249,7 @@
 "region": "Remote",
 "status": "ok",
 "total": 99,
-"design": 4,
+"design": 6,
 "secs": 0.4
 },
 {
@@ -1296,7 +1295,7 @@
 "status": "ok",
 "total": 5,
 "design": 0,
-"secs": 0.1
+"secs": 0.2
 },
 {
 "company": "Vercel",
@@ -1312,9 +1311,9 @@
 "type": "wwr",
 "region": "Remote",
 "status": "ok",
-"total": 28,
-"design": 7,
-"secs": 0.3
+"total": 30,
+"design": 9,
+"secs": 0.2
 },
 {
 "company": "Wikimedia Foundation",
@@ -1350,7 +1349,7 @@
 "status": "ok",
 "total": 68,
 "design": 2,
-"secs": 0.1
+"secs": 0.0
 },
 {
 "company": "Careem",
@@ -1359,7 +1358,7 @@
 "status": "ok",
 "total": 11,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Etihad Airways",
@@ -1368,7 +1367,7 @@
 "status": "ok",
 "total": 76,
 "design": 0,
-"secs": 0.4
+"secs": 0.5
 },
 {
 "company": "Hostaway",
@@ -1386,7 +1385,7 @@
 "status": "ok",
 "total": 41,
 "design": 1,
-"secs": 0.5
+"secs": 0.6
 },
 {
 "company": "Qashio",
@@ -1395,7 +1394,7 @@
 "status": "ok",
 "total": 16,
 "design": 0,
-"secs": 0.3
+"secs": 0.1
 },
 {
 "company": "Tabby",
@@ -1413,7 +1412,7 @@
 "status": "ok",
 "total": 35,
 "design": 0,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "Ziina",
@@ -1422,14 +1421,14 @@
 "status": "ok",
 "total": 12,
 "design": 1,
-"secs": 0.0
+"secs": 0.1
 },
 {
 "company": "talabat",
 "type": "smartrecruiters",
 "region": "UAE",
 "status": "ok",
-"total": 789,
+"total": 791,
 "design": 7,
 "secs": 3.2
 },

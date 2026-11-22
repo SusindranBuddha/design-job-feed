@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-21T20:33:05Z",
+"generated": "2026-11-22T09:49:05Z",
 "region": "APAC",
-"count": 78,
+"count": 77,
 "jobs": [
 {
 "id": "mcf:MyCareersFuture:3f4b9111c4a4cddf37faf511ac8630ca",
@@ -237,32 +237,6 @@
 "firstSeen": "2026-11-18"
 },
 {
-"id": "mcf:MyCareersFuture:5783f5c7bdc06b3695349a14049472ec",
-"company": "ACTIVATE INTERACTIVE PTE LTD",
-"title": "Experience & Interface Designer (Product Designer) - A26451",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-11-17",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/experience-interface-designer-a26451-activate-interactive-5783f5c7bdc06b3695349a14049472ec",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 6000-9000 /Monthly",
-"firstSeen": "2026-11-17"
-},
-{
-"id": "mcf:MyCareersFuture:2bc5627ee50cd2f325b99d13865be0c2",
-"company": "RAPSYS TECHNOLOGIES PTE. LTD.",
-"title": "Interface Designer (Design Systems)-product, UI or interaction design",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-11-17",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/interface-designer-product-ui-interaction-design-rapsys-technologies-2bc5627ee50cd2f325b99d13865be0c2",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 7400-8400 /Monthly",
-"firstSeen": "2026-11-17"
-},
-{
 "id": "mcf:MyCareersFuture:7477c86f8bdfa0123b4f7f8795dcbba5",
 "company": "NSEARCH GLOBAL PTE. LTD.",
 "title": "UI/UX Designer",
@@ -286,6 +260,19 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 6000-9000 /Monthly",
+"firstSeen": "2026-11-17"
+},
+{
+"id": "mcf:MyCareersFuture:2bc5627ee50cd2f325b99d13865be0c2",
+"company": "RAPSYS TECHNOLOGIES PTE. LTD.",
+"title": "Interface Designer (Design Systems)-product, UI or interaction design",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-17",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/interface-designer-product-ui-interaction-design-rapsys-technologies-2bc5627ee50cd2f325b99d13865be0c2",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 7400-8400 /Monthly",
 "firstSeen": "2026-11-17"
 },
 {
@@ -997,7 +984,7 @@
 "url": "https://hcf.wd105.myworkdayjobs.com/HCF_External_Career_Site/job/Sydney-CBD/Senior-Digital-Product-Designer_JR104415",
 "source": "workday",
 "region": "APAC",
-"postedText": "Posted Yesterday",
+"postedText": "Posted 2 Days Ago",
 "firstSeen": "2026-10-17"
 }
 ]

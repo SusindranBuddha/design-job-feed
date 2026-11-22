@@ -1,8 +1,20 @@
 {
-"generated": "2026-11-21T20:33:05Z",
+"generated": "2026-11-22T09:49:05Z",
 "region": "Nordics",
 "count": 71,
 "jobs": [
+{
+"id": "ashby:legora:bb0aaeaa-d380-4e88-be7a-12f738af574d",
+"company": "Legora",
+"title": "Staff Design Engineer",
+"location": "Stockholm HQ",
+"remote": "OnSite",
+"posted": "2026-11-22",
+"url": "https://jobs.ashbyhq.com/legora/bb0aaeaa-d380-4e88-be7a-12f738af574d",
+"source": "ashby",
+"region": "Nordics",
+"firstSeen": "2026-11-22"
+},
 {
 "id": "platsbanken:Platsbanken:31761156",
 "company": "Selftitled AB",
@@ -23,18 +35,6 @@
 "remote": null,
 "posted": "2026-11-20",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31759007",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-20"
-},
-{
-"id": "platsbanken:Platsbanken:31759053",
-"company": "Soros Consulting AB",
-"title": "Senior UX-konsult Stockholm/Göteborg/Malmö",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-11-20",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31759053",
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-11-20"

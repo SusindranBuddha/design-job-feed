@@ -1,5 +1,5 @@
 {
-"generated": "2026-11-22T09:49:05Z",
+"generated": "2026-11-22T20:44:26Z",
 "region": "Remote",
 "count": 181,
 "jobs": [
@@ -172,13 +172,13 @@
 "firstSeen": "2026-11-21"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/flex/jobs/staff-product-designer-contract",
-"company": "Flex",
-"title": "Staff Product Designer (Contract)",
-"location": "Argentina, Australia, Bolivia, Brazil, Canada, Chile, Colombia, Ecuador, Falkland Islands (Malvinas), French Guiana, Guyana, Paraguay, Peru, Suriname, United St",
+"id": "himalayas:Himalayas:https://himalayas.app/companies/padsplit/jobs/senior-product-designer-fully-remote-anywhere-in-south-america",
+"company": "PadSplit",
+"title": "Senior Product Designer (Fully Remote - anywhere in South America)",
+"location": "Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Falkland Islands (Malvinas), French Guiana, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela",
 "remote": "remote",
 "posted": "2026-11-19",
-"url": "https://himalayas.app/companies/flex/jobs/staff-product-designer-contract?utm_source=api",
+"url": "https://himalayas.app/companies/padsplit/jobs/senior-product-designer-fully-remote-anywhere-in-south-america?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-21"
@@ -1024,6 +1024,18 @@
 "firstSeen": "2026-10-22"
 },
 {
+"id": "himalayas:Himalayas:https://himalayas.app/companies/xideral/jobs/ui-ux-designer-semi-senior-2762",
+"company": "Xideral",
+"title": "UI/UX Designer Semi Senior 2762",
+"location": "Mexico",
+"remote": "remote",
+"posted": "2026-10-29",
+"url": "https://himalayas.app/companies/xideral/jobs/ui-ux-designer-semi-senior-2762?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-22"
+},
+{
 "id": "lever:contentsquare:af15ce6a-4685-47b8-9143-9b0d829bc053",
 "company": "Contentsquare (incl. Hotjar)",
 "title": "Staff Product Designer, AI (East Coast)",
@@ -1142,6 +1154,42 @@
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-21"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/scalepex/jobs/ux-designer-fully-remote-mexico-only",
+"company": "Scalepex",
+"title": "UX Designer - Fully Remote - Mexico Only",
+"location": "Mexico",
+"remote": "remote",
+"posted": "2026-11-22",
+"url": "https://himalayas.app/companies/scalepex/jobs/ux-designer-fully-remote-mexico-only?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/bugece/jobs/ui-ux-designer-1888781552",
+"company": "Bugece",
+"title": "UI/UX Designer",
+"location": "Turkey",
+"remote": "remote",
+"posted": "2026-11-22",
+"url": "https://himalayas.app/companies/bugece/jobs/ui-ux-designer-1888781552?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/red-stamp-media/jobs/ux-ui-designer-5858537283",
+"company": "Red Stamp Media",
+"title": "UX/UI Designer",
+"location": "Costa Rica",
+"remote": "remote",
+"posted": "2026-11-22",
+"url": "https://himalayas.app/companies/red-stamp-media/jobs/ux-ui-designer-5858537283?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
 },
 {
 "id": "himalayas:Himalayas:https://himalayas.app/companies/catch-creation/jobs/ui-ux-designer-5570937710",
@@ -1307,18 +1355,6 @@
 "remote": "remote",
 "posted": "2026-11-19",
 "url": "https://himalayas.app/companies/questronix-corporation/jobs/ui-ux-designer?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/red-stamp-media/jobs/ux-ui-designer-5858537283",
-"company": "Red Stamp Media",
-"title": "UX/UI Designer",
-"location": "Costa Rica",
-"remote": "remote",
-"posted": "2026-11-19",
-"url": "https://himalayas.app/companies/red-stamp-media/jobs/ux-ui-designer-5858537283?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"
@@ -1992,42 +2028,6 @@
 "posted": "2026-09-28",
 "url": "https://job-boards.greenhouse.io/consensys/jobs/7256954",
 "source": "greenhouse",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/bjak/jobs/ux-designer-ai-app-2543933178",
-"company": "Bjak",
-"title": "UX Designer, AI App",
-"location": "Spain",
-"remote": "remote",
-"posted": "2026-09-23",
-"url": "https://himalayas.app/companies/bjak/jobs/ux-designer-ai-app-2543933178?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/bjak/jobs/ux-designer-ai-app-3557015613",
-"company": "Bjak",
-"title": "UX Designer, AI App",
-"location": "United Kingdom",
-"remote": "remote",
-"posted": "2026-09-23",
-"url": "https://himalayas.app/companies/bjak/jobs/ux-designer-ai-app-3557015613?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/bjak/jobs/ux-designer-ai-app-4291364907",
-"company": "Bjak",
-"title": "UX Designer, AI App",
-"location": "Austria",
-"remote": "remote",
-"posted": "2026-09-23",
-"url": "https://himalayas.app/companies/bjak/jobs/ux-designer-ai-app-4291364907?utm_source=api",
-"source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-17"
 },

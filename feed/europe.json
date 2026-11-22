@@ -1,16 +1,40 @@
 {
-"generated": "2026-11-22T09:49:05Z",
+"generated": "2026-11-22T20:44:26Z",
 "region": "Europe",
-"count": 93,
+"count": 85,
 "jobs": [
 {
-"id": "arbeitnow:Arbeitnow:senior-product-designer-systems-ai-b2b-saas-berlin-hybrid-405649",
-"company": "Packmatic",
-"title": "(Senior) Product Designer - Systems & AI (m/w/d) - B2B SaaS | Berlin (hybrid)",
-"location": "Berlin",
+"id": "arbeitnow:Arbeitnow:ux-designer-at-united-media-london-218799",
+"company": "Unitedmedia",
+"title": "UX Designer at United Media",
+"location": "London",
 "remote": null,
 "posted": "2026-11-22",
-"url": "https://www.arbeitnow.com/jobs/companies/packmatic/senior-product-designer-systems-ai-b2b-saas-berlin-hybrid-405649",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/ux-designer-at-united-media-london-218799",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-22"
+},
+{
+"id": "arbeitnow:Arbeitnow:founding-ui-ux-artist-unannounced-game-london-240379",
+"company": "Supercell",
+"title": "Founding UI/UX Artist, Unannounced Game",
+"location": "London",
+"remote": null,
+"posted": "2026-11-22",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/supercell/founding-ui-ux-artist-unannounced-game-london-240379",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-22"
+},
+{
+"id": "arbeitnow:Arbeitnow:ux-designer-at-cfo-insights-london-107091",
+"company": "Cfoinsights",
+"title": "UX designer at CFO Insights",
+"location": "London",
+"remote": null,
+"posted": "2026-11-22",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/ux-designer-at-cfo-insights-london-107091",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-22"
@@ -28,6 +52,18 @@
 "firstSeen": "2026-11-22"
 },
 {
+"id": "arbeitnow:Arbeitnow:design-engineer-praktikum-cad-konstruktion-und-additive-fertigung-esslingen-330132",
+"company": "eloprint",
+"title": "Design Engineer Praktikum - CAD-Konstruktion und Additive Fertigung",
+"location": "Esslingen",
+"remote": null,
+"posted": "2026-11-22",
+"url": "https://www.arbeitnow.com/jobs/companies/eloprint/design-engineer-praktikum-cad-konstruktion-und-additive-fertigung-esslingen-330132",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-22"
+},
+{
 "id": "arbeitnow:Arbeitnow:ux-designer-at-retail-insights-london-41238",
 "company": "Retailinsights",
 "title": "UX designer at Retail Insights",
@@ -38,54 +74,6 @@
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-22"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-ux-design-engineer-london-159917",
-"company": "Orbital",
-"title": "Senior UX Design Engineer",
-"location": "London",
-"remote": null,
-"posted": "2026-11-22",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/orbital/senior-ux-design-engineer-london-159917",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-22"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-product-designer-london-96283",
-"company": "Lendable",
-"title": "Senior Product Designer",
-"location": "London",
-"remote": null,
-"posted": "2026-11-22",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/senior-product-designer-london-96283",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-22"
-},
-{
-"id": "arbeitnow:Arbeitnow:web-designer-growth-at-aios-remote-100k-200k-yr-inc-equity-blackburn-499188",
-"company": "AIOS (YC W20/S21)",
-"title": "Web Designer, Growth at AIOS — Remote, $100k–$200k/yr inc equity",
-"location": "Remote (UK hours)",
-"remote": null,
-"posted": "2026-11-21",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/aios-yc-w20s21/web-designer-growth-at-aios-remote-100k-200k-yr-inc-equity-blackburn-499188",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-22"
-},
-{
-"id": "arbeitnow:Arbeitnow:remote-3d-environment-artist-level-designer-457684",
-"company": "Scape",
-"title": "3D Environment Artist & Level Designer",
-"location": "Remote",
-"remote": "remote",
-"posted": "2026-11-21",
-"url": "https://www.arbeitnow.com/jobs/companies/scape/remote-3d-environment-artist-level-designer-457684",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-21"
 },
 {
 "id": "arbeitnow:Arbeitnow:senior-product-designer-remote-in-europe-amsterdam-443609",
@@ -100,18 +88,6 @@
 "firstSeen": "2026-11-21"
 },
 {
-"id": "arbeitnow:Arbeitnow:langfuse-product-designer-berlin-465839",
-"company": "Clickhouse",
-"title": "Langfuse - Product Designer",
-"location": "Germany",
-"remote": null,
-"posted": "2026-11-21",
-"url": "https://www.arbeitnow.com/jobs/companies/clickhouse/langfuse-product-designer-berlin-465839",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-21"
-},
-{
 "id": "arbeitnow:Arbeitnow:senior-optical-design-engineer-toulouse-315988",
 "company": "E-Space",
 "title": "Senior Optical Design Engineer",
@@ -119,42 +95,6 @@
 "remote": null,
 "posted": "2026-11-21",
 "url": "https://www.arbeitnow.fr/jobs/companies/e-space/senior-optical-design-engineer-toulouse-315988",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-21"
-},
-{
-"id": "arbeitnow:Arbeitnow:ux-designer-at-private-equity-insights-london-223301",
-"company": "Privateequityinsights",
-"title": "UX designer at Private Equity Insights",
-"location": "London",
-"remote": null,
-"posted": "2026-11-21",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/ux-designer-at-private-equity-insights-london-223301",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-21"
-},
-{
-"id": "arbeitnow:Arbeitnow:product-design-manager-germany-410873",
-"company": "N8N",
-"title": "Product Design Manager",
-"location": "Germany",
-"remote": null,
-"posted": "2026-11-20",
-"url": "https://www.arbeitnow.com/jobs/companies/n8n/product-design-manager-germany-410873",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-21"
-},
-{
-"id": "arbeitnow:Arbeitnow:ui-designer-casual-games-freelance-remote-berlin-403179",
-"company": "SOFTGAMES",
-"title": "UI Designer - Casual Games (Freelance Remote)",
-"location": "Remote job",
-"remote": "remote",
-"posted": "2026-11-20",
-"url": "https://www.arbeitnow.com/jobs/companies/softgames/ui-designer-casual-games-freelance-remote-berlin-403179",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-21"
@@ -220,30 +160,6 @@
 "firstSeen": "2026-11-20"
 },
 {
-"id": "arbeitnow:Arbeitnow:praktikum-designerin-wurzburg-100956",
-"company": "Studio Kom. GmbH",
-"title": "Praktikum Designer:in (m/w/d)",
-"location": "Würzburg",
-"remote": null,
-"posted": "2026-11-20",
-"url": "https://www.arbeitnow.com/jobs/companies/studio-kom-gmbh/praktikum-designerin-wurzburg-100956",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-20"
-},
-{
-"id": "arbeitnow:Arbeitnow:remote-1023-senior-ux-ui-designer-germany-329887",
-"company": "Intetics 2",
-"title": "1023 | Senior UX/UI Designer",
-"location": "Germany",
-"remote": "remote",
-"posted": "2026-11-20",
-"url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1023-senior-ux-ui-designer-germany-329887",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-20"
-},
-{
 "id": "arbeitnow:Arbeitnow:senior-product-designer-paris-436925",
 "company": "Pigment",
 "title": "Senior Product Designer",
@@ -251,18 +167,6 @@
 "remote": null,
 "posted": "2026-11-20",
 "url": "https://www.arbeitnow.fr/jobs/companies/pigment/senior-product-designer-paris-436925",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-20"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-product-designer-paris-161516",
-"company": "Moka.care",
-"title": "Senior Product Designer",
-"location": "Paris",
-"remote": null,
-"posted": "2026-11-20",
-"url": "https://www.arbeitnow.fr/jobs/companies/mokacare/senior-product-designer-paris-161516",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-20"

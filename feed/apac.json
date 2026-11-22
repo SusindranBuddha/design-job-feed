@@ -1,8 +1,34 @@
 {
-"generated": "2026-11-22T09:49:05Z",
+"generated": "2026-11-22T20:44:26Z",
 "region": "APAC",
-"count": 77,
+"count": 74,
 "jobs": [
+{
+"id": "mcf:MyCareersFuture:2bc5e984dfc4a028f30ffaf0cde48e8e",
+"company": "WEBSPARKS PTE. LTD.",
+"title": "UX Designer with 5 years experience (Contract)",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-23",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/ux-designer-5-years-experience-websparks-2bc5e984dfc4a028f30ffaf0cde48e8e",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 4500-6500 /Monthly",
+"firstSeen": "2026-11-22"
+},
+{
+"id": "mcf:MyCareersFuture:d5d5f83ddd84ef76d9eeeb1d17a9bf6b",
+"company": "WEBSPARKS PTE. LTD.",
+"title": "UX/UI Designer for GDT (Contract)",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-23",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/uxui-designer-gdt-websparks-d5d5f83ddd84ef76d9eeeb1d17a9bf6b",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 4500-6500 /Monthly",
+"firstSeen": "2026-11-22"
+},
 {
 "id": "mcf:MyCareersFuture:3f4b9111c4a4cddf37faf511ac8630ca",
 "company": "RSM STONE FOREST ACCOUNTSERVE PTE. LTD.",
@@ -496,19 +522,6 @@
 "firstSeen": "2026-11-05"
 },
 {
-"id": "mcf:MyCareersFuture:3ba6968fb900552c327feaad0c8dc403",
-"company": "WEBSPARKS PTE. LTD.",
-"title": "UX/UI Designer for GDT (Contract)",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-11-04",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/uxui-designer-gdt-websparks-3ba6968fb900552c327feaad0c8dc403",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 4500-6500 /Monthly",
-"firstSeen": "2026-11-04"
-},
-{
 "id": "mcf:MyCareersFuture:1675b182b37cdc3b13e789ca90a595b6",
 "company": "TALENTSIS PTE. LTD.",
 "title": "[T04] Junir/ Senior UI/UX Engineer - Permanent Role",
@@ -520,19 +533,6 @@
 "region": "APAC",
 "salary": "SGD 5000-6800 /Monthly",
 "firstSeen": "2026-11-04"
-},
-{
-"id": "mcf:MyCareersFuture:fa39ac257a237c79dd831077c5b04d22",
-"company": "WEBSPARKS PTE. LTD.",
-"title": "UX Designer with 5 years experience (Contract)",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-11-03",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/ux-designer-5-years-experience-websparks-fa39ac257a237c79dd831077c5b04d22",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 4500-6500 /Monthly",
-"firstSeen": "2026-11-03"
 },
 {
 "id": "mcf:MyCareersFuture:5d2879faccd207928928621c49b4eccf",
@@ -742,32 +742,6 @@
 "firstSeen": "2026-10-24"
 },
 {
-"id": "mcf:MyCareersFuture:7d80a99fbca0ebfd2c04b35e81914c89",
-"company": "OPTIMUM SOLUTIONS (SINGAPORE) PTE LTD",
-"title": "UI/UX Product Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-23",
-"url": "https://www.mycareersfuture.gov.sg/job/design/uiux-product-designer-optimum-solutions-7d80a99fbca0ebfd2c04b35e81914c89",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 8500-10000 /Monthly",
-"firstSeen": "2026-10-23"
-},
-{
-"id": "mcf:MyCareersFuture:bcae68ea164fe197d051fd95a59cc993",
-"company": "SCIENTEC CONSULTING PTE. LTD.",
-"title": "*GOV* UIUX Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-23",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/gov-uiux-designer-scientec-consulting-bcae68ea164fe197d051fd95a59cc993",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 6500-9000 /Monthly",
-"firstSeen": "2026-10-23"
-},
-{
 "id": "mcf:MyCareersFuture:7c2800f5061217d64d41d01fd478ac06",
 "company": "DCONSTRUCT PLUS PTE. LTD.",
 "title": "UI/UX Designer",
@@ -851,19 +825,6 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 4000-6500 /Monthly",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "mcf:MyCareersFuture:2d9c4fe659a094f7415c5262592e64f0",
-"company": "HERDHR PRIVATE LIMITED",
-"title": "UX Designer (Experience Team)",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-23",
-"url": "https://www.mycareersfuture.gov.sg/job/design/ux-designer-herdhr-2d9c4fe659a094f7415c5262592e64f0",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 3000-4200 /Monthly",
 "firstSeen": "2026-10-17"
 },
 {

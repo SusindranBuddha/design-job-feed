@@ -1,8 +1,68 @@
 {
-"generated": "2026-11-22T20:44:26Z",
+"generated": "2026-11-23T10:49:27Z",
 "region": "Remote",
-"count": 181,
+"count": 186,
 "jobs": [
+{
+"id": "lever:contentsquare:500a0929-542b-4062-814c-08414811cc0b",
+"company": "Contentsquare (incl. Hotjar)",
+"title": "Senior Product Designer, Activation & Setup",
+"location": "London area",
+"remote": "hybrid",
+"posted": "2026-11-23",
+"url": "https://jobs.lever.co/contentsquare/500a0929-542b-4062-814c-08414811cc0b",
+"source": "lever",
+"region": "Remote",
+"firstSeen": "2026-11-23"
+},
+{
+"id": "lever:contentsquare:b2e30e3b-fe65-43ff-970a-0373db4905cf",
+"company": "Contentsquare (incl. Hotjar)",
+"title": "Senior Product Designer, Activation & Setup",
+"location": "Barcelona",
+"remote": "hybrid",
+"posted": "2026-11-23",
+"url": "https://jobs.lever.co/contentsquare/b2e30e3b-fe65-43ff-970a-0373db4905cf",
+"source": "lever",
+"region": "Remote",
+"firstSeen": "2026-11-23"
+},
+{
+"id": "wwr:We Work Remotely:https://weworkremotely.com/remote-jobs/elation-health-senior-or-staff-product-designer",
+"company": "Elation Health",
+"title": "Senior OR Staff Product Designer",
+"location": "Anywhere in the World",
+"remote": "remote",
+"posted": "2026-11-23",
+"url": "https://weworkremotely.com/remote-jobs/elation-health-senior-or-staff-product-designer",
+"source": "We Work Remotely",
+"region": "Remote",
+"firstSeen": "2026-11-23"
+},
+{
+"id": "remoteok:Remote OK:1134700",
+"company": "Digital",
+"title": "Senior Creative Designer Design Strategist",
+"location": "London, London, England, United Kingdom",
+"remote": "remote",
+"posted": "2026-07-09",
+"url": "https://remoteOK.com/remote-jobs/remote-senior-creative-designer-design-strategist-digital-1134700",
+"source": "Remote OK",
+"region": "Remote",
+"firstSeen": "2026-11-23"
+},
+{
+"id": "remoteok:Remote OK:1133097",
+"company": "Butter",
+"title": "Product Designer",
+"location": "San Francisco Bay Area",
+"remote": "remote",
+"posted": "2026-06-09",
+"url": "https://remoteOK.com/remote-jobs/remote-product-designer-butter-1133097",
+"source": "Remote OK",
+"region": "Remote",
+"firstSeen": "2026-11-23"
+},
 {
 "id": "himalayas:Himalayas:https://himalayas.app/companies/tilt-com/jobs/staff-product-designer",
 "company": "Tilt",
@@ -172,6 +232,18 @@
 "firstSeen": "2026-11-21"
 },
 {
+"id": "himalayas:Himalayas:https://himalayas.app/companies/flex/jobs/staff-product-designer-contract",
+"company": "Flex",
+"title": "Staff Product Designer (Contract)",
+"location": "Argentina, Australia, Bolivia, Brazil, Canada, Chile, Colombia, Ecuador, Falkland Islands (Malvinas), French Guiana, Guyana, Paraguay, Peru, Suriname, United St",
+"remote": "remote",
+"posted": "2026-11-19",
+"url": "https://himalayas.app/companies/flex/jobs/staff-product-designer-contract?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-21"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/padsplit/jobs/senior-product-designer-fully-remote-anywhere-in-south-america",
 "company": "PadSplit",
 "title": "Senior Product Designer (Fully Remote - anywhere in South America)",
@@ -228,18 +300,6 @@
 "posted": "2026-11-20",
 "url": "https://jobs.ashbyhq.com/Clera/c542ed3a-097e-42bc-a847-391e0cab9d3b",
 "source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-11-20"
-},
-{
-"id": "jobicy:Jobicy:163473",
-"company": "Phantom",
-"title": "Product Designer",
-"location": "USA",
-"remote": "remote",
-"posted": "2026-11-20",
-"url": "https://jobicy.com/jobs/163473-product-designer-6",
-"source": "Jobicy",
 "region": "Remote",
 "firstSeen": "2026-11-20"
 },
@@ -460,6 +520,18 @@
 "firstSeen": "2026-11-15"
 },
 {
+"id": "himalayas:Himalayas:https://himalayas.app/companies/neon/jobs/principal-product-designer",
+"company": "Neon",
+"title": "Principal Product Designer",
+"location": "Brazil",
+"remote": "remote",
+"posted": "2026-11-18",
+"url": "https://himalayas.app/companies/neon/jobs/principal-product-designer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-14"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/tivity-health/jobs/staff-product-designer-remote-opportunity",
 "company": "Tivity Health",
 "title": "Staff Product Designer - remote opportunity",
@@ -638,18 +710,6 @@
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-04"
-},
-{
-"id": "remoteok:Remote OK:1135340",
-"company": "Flint",
-"title": "Product Designer",
-"location": "New York, New York, New York, United States",
-"remote": "remote",
-"posted": "2026-07-24",
-"url": "https://remoteOK.com/remote-jobs/remote-product-designer-flint-1135340",
-"source": "Remote OK",
-"region": "Remote",
-"firstSeen": "2026-11-03"
 },
 {
 "id": "ashby:n8n:fe05c209-8069-4a88-aeba-8da23488cd30",
@@ -952,6 +1012,30 @@
 "firstSeen": "2026-10-24"
 },
 {
+"id": "jobicy:Jobicy:156555",
+"company": "TrustedHousesitters",
+"title": "Senior Product Designer - Growth",
+"location": "UK",
+"remote": "remote",
+"posted": "2026-11-23",
+"url": "https://jobicy.com/jobs/156555-senior-product-designer-growth",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-23"
+},
+{
+"id": "jobicy:Jobicy:156508",
+"company": "Monzo",
+"title": "Lead Product Designer",
+"location": "UK",
+"remote": "remote",
+"posted": "2026-11-23",
+"url": "https://jobicy.com/jobs/156508-lead-product-designer",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-23"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/wearekettle/jobs/product-design-lead-ai",
 "company": "Kettle",
 "title": "Product Design Lead, AI",
@@ -1120,18 +1204,6 @@
 "firstSeen": "2026-10-21"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/code-and-theory/jobs/senior-designer-us",
-"company": "Code and Theory",
-"title": "Senior Designer (US)",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-11-19",
-"url": "https://himalayas.app/companies/code-and-theory/jobs/senior-designer-us?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-21"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/gladly/jobs/senior-product-designer-ai-platform",
 "company": "Gladly",
 "title": "Senior Product Designer, AI Platform",
@@ -1139,6 +1211,18 @@
 "remote": "remote",
 "posted": "2026-11-19",
 "url": "https://himalayas.app/companies/gladly/jobs/senior-product-designer-ai-platform?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-21"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/code-and-theory/jobs/senior-designer-us",
+"company": "Code and Theory",
+"title": "Senior Designer (US)",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-11-19",
+"url": "https://himalayas.app/companies/code-and-theory/jobs/senior-designer-us?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-21"
@@ -1415,18 +1499,6 @@
 "remote": "remote",
 "posted": "2026-11-04",
 "url": "https://himalayas.app/companies/nearsource-technologies/jobs/ux-designer-retail-operational-systems?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/mercor/jobs/design-systems-specialist-fully-remote-upto-80-hr-9213104843",
-"company": "mercor",
-"title": "Design Systems Specialist - Fully Remote | Upto $80/hr",
-"location": "Canada",
-"remote": "remote",
-"posted": "2026-10-29",
-"url": "https://himalayas.app/companies/mercor/jobs/design-systems-specialist-fully-remote-upto-80-hr-9213104843?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"
@@ -2124,18 +2196,6 @@
 "posted": "2026-08-05",
 "url": "https://job-boards.greenhouse.io/canonical/jobs/5326986",
 "source": "greenhouse",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "remoteok:Remote OK:1136213",
-"company": "Control Shift Video",
-"title": "Freelance Designer",
-"location": "Texas,",
-"remote": "remote",
-"posted": "2026-08-05",
-"url": "https://remoteOK.com/remote-jobs/remote-freelance-designer-control-shift-video-1136213",
-"source": "Remote OK",
 "region": "Remote",
 "firstSeen": "2026-10-17"
 },

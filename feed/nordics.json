@@ -1,8 +1,20 @@
 {
-"generated": "2026-11-22T20:44:26Z",
+"generated": "2026-11-23T10:49:27Z",
 "region": "Nordics",
-"count": 71,
+"count": 67,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31765123",
+"company": "Alten Sverige Aktiebolag",
+"title": "Mechanical/Electrical Design Engineer",
+"location": "Örebro",
+"remote": null,
+"posted": "2026-11-23",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31765123",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-23"
+},
 {
 "id": "ashby:legora:bb0aaeaa-d380-4e88-be7a-12f738af574d",
 "company": "Legora",
@@ -184,18 +196,6 @@
 "firstSeen": "2026-11-18"
 },
 {
-"id": "platsbanken:Platsbanken:31748588",
-"company": "Quest Consulting Sverige AB",
-"title": "UX Desginer",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-11-18",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31748588",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-18"
-},
-{
 "id": "platsbanken:Platsbanken:31748330",
 "company": "Lynqa AB",
 "title": "UX-konsult, användar- och behovsanalys av extern webbplats",
@@ -251,30 +251,6 @@
 "remote": null,
 "posted": "2026-11-17",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31743953",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-17"
-},
-{
-"id": "platsbanken:Platsbanken:31743905",
-"company": "Agile Resources AB",
-"title": "EE System Design Engineer – Thermal Management",
-"location": "Göteborg",
-"remote": null,
-"posted": "2026-11-17",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31743905",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-17"
-},
-{
-"id": "platsbanken:Platsbanken:31743795",
-"company": "Veritaz AB",
-"title": "Electrical Harness & Hardware Design Engineer -20790-Stockholm",
-"location": "Södertälje",
-"remote": null,
-"posted": "2026-11-17",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31743795",
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-11-17"
@@ -592,18 +568,6 @@
 "firstSeen": "2026-10-26"
 },
 {
-"id": "platsbanken:Platsbanken:31636537",
-"company": "Curamet AB",
-"title": "Senior UX/UI Designer",
-"location": "Malmö",
-"remote": null,
-"posted": "2026-10-23",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31636537",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-23"
-},
-{
 "id": "platsbanken:Platsbanken:31636620",
 "company": "Embark Studios AB",
 "title": "UX Artist - ARC Raiders",
@@ -712,18 +676,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:alphasense:8531119002",
-"company": "AlphaSense",
-"title": "Senior/Staff Product Designer",
-"location": "Remote - United Kingdom",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:alphasense:8530664002",
 "company": "AlphaSense",
 "title": "Senior/Staff Product Designer",
@@ -731,6 +683,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:alphasense:8531119002",
+"company": "AlphaSense",
+"title": "Senior/Staff Product Designer",
+"location": "Remote - United Kingdom",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
@@ -780,18 +744,6 @@
 "posted": "2026-10-07",
 "url": "https://jobs.ashbyhq.com/legora/8b00a66a-c06b-44b9-a374-7c3b733fce20",
 "source": "ashby",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "platsbanken:Platsbanken:31535442",
-"company": "Nordic Air Defence AB",
-"title": "Senior Digital Designer",
-"location": "Solna",
-"remote": null,
-"posted": "2026-09-30",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31535442",
-"source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
 },

@@ -1,8 +1,47 @@
 {
-"generated": "2026-11-22T20:44:26Z",
+"generated": "2026-11-23T10:49:27Z",
 "region": "APAC",
-"count": 74,
+"count": 77,
 "jobs": [
+{
+"id": "mcf:MyCareersFuture:45f3e0c504a16143d6672b576d46641b",
+"company": "PIPO (SG) PTE. LTD.",
+"title": "Product Designer - Global Payment",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-23",
+"url": "https://www.mycareersfuture.gov.sg/job/design/product-designer-global-payment-pipo-45f3e0c504a16143d6672b576d46641b",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 10000-20000 /Monthly",
+"firstSeen": "2026-11-23"
+},
+{
+"id": "mcf:MyCareersFuture:ca446da114c642b105c5b4dbd68235a0",
+"company": "HCL SINGAPORE PTE. LTD.",
+"title": "UX Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-23",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/ux-designer-hcl-singapore-ca446da114c642b105c5b4dbd68235a0",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 6500-9000 /Monthly",
+"firstSeen": "2026-11-23"
+},
+{
+"id": "mcf:MyCareersFuture:a1a9043fdb95664997c2e48e34d47d4e",
+"company": "TALENTSIS PTE. LTD.",
+"title": "[T04] Junir/ Senior UI/UX Engineer - Permanent Role",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-23",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/t04-junir-senior-uiux-engineer-permanent-role-talentsis-a1a9043fdb95664997c2e48e34d47d4e",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 5000-6800 /Monthly",
+"firstSeen": "2026-11-23"
+},
 {
 "id": "mcf:MyCareersFuture:2bc5e984dfc4a028f30ffaf0cde48e8e",
 "company": "WEBSPARKS PTE. LTD.",
@@ -110,11 +149,11 @@
 {
 "id": "mcf:MyCareersFuture:7faa0121b6528ee3dc98ae00c35a8d16",
 "company": "REAL ESTATE ANALYTICS PTE. LTD.",
-"title": "Product Design - UI / UX",
+"title": "Product Strategist & Designer",
 "location": "Singapore",
 "remote": null,
 "posted": "2026-11-19",
-"url": "https://www.mycareersfuture.gov.sg/job/design/product-design-ui-ux-real-estate-analytics-7faa0121b6528ee3dc98ae00c35a8d16",
+"url": "https://www.mycareersfuture.gov.sg/job/design/product-strategist-designer-real-estate-analytics-7faa0121b6528ee3dc98ae00c35a8d16",
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 4000-5500 /Monthly",
@@ -317,7 +356,7 @@
 {
 "id": "ashby:airwallex:b10d4dad-e0c6-451a-9dae-a4e5b86276fe",
 "company": "Airwallex",
-"title": "Product Design Lead - Payments",
+"title": "Product Design Lead, Payments",
 "location": "UK - London",
 "remote": "Hybrid",
 "posted": "2026-04-30",
@@ -945,7 +984,7 @@
 "url": "https://hcf.wd105.myworkdayjobs.com/HCF_External_Career_Site/job/Sydney-CBD/Senior-Digital-Product-Designer_JR104415",
 "source": "workday",
 "region": "APAC",
-"postedText": "Posted 2 Days Ago",
+"postedText": "Posted 3 Days Ago",
 "firstSeen": "2026-10-17"
 }
 ]

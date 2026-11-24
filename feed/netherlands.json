@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-24T01:42:09Z",
+"generated": "2026-11-24T12:31:59Z",
 "region": "Netherlands",
-"count": 12,
+"count": 11,
 "jobs": [
 {
 "id": "greenhouse:bolcomen:8958336002",
@@ -40,18 +40,6 @@
 "firstSeen": "2026-11-20"
 },
 {
-"id": "greenhouse:bolcomen:8613332002",
-"company": "bol.com",
-"title": "Senior Product Designer - The Garage",
-"location": "Utrecht",
-"remote": null,
-"posted": "2026-11-16",
-"url": "https://job-boards.greenhouse.io/bolcomen/jobs/8613332002",
-"source": "greenhouse",
-"region": "Netherlands",
-"firstSeen": "2026-11-16"
-},
-{
 "id": "teamtailor:Sendcloud:https://jobs.sendcloud.com/jobs/8743153-senior-product-designer",
 "company": "Sendcloud",
 "title": "Senior Product Designer",
@@ -76,18 +64,6 @@
 "firstSeen": "2026-11-12"
 },
 {
-"id": "greenhouse:elastic:8301334",
-"company": "Elastic",
-"title": "Software Engineering Manager - Global UX - Applications - Platform",
-"location": "Spain",
-"remote": null,
-"posted": "2026-10-23",
-"url": "https://jobs.elastic.co/jobs?gh_jid=8301334&gh_jid=8301334",
-"source": "greenhouse",
-"region": "Netherlands",
-"firstSeen": "2026-10-24"
-},
-{
 "id": "greenhouse:elastic:8319082",
 "company": "Elastic",
 "title": "Software Engineering Manager - Global UX - Applications - Platform",
@@ -107,6 +83,18 @@
 "remote": null,
 "posted": "2026-10-23",
 "url": "https://jobs.elastic.co/jobs?gh_jid=8319081&gh_jid=8319081",
+"source": "greenhouse",
+"region": "Netherlands",
+"firstSeen": "2026-10-24"
+},
+{
+"id": "greenhouse:elastic:8301334",
+"company": "Elastic",
+"title": "Software Engineering Manager - Global UX - Applications - Platform",
+"location": "Spain",
+"remote": null,
+"posted": "2026-10-23",
+"url": "https://jobs.elastic.co/jobs?gh_jid=8301334&gh_jid=8301334",
 "source": "greenhouse",
 "region": "Netherlands",
 "firstSeen": "2026-10-24"

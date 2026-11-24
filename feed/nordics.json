@@ -1,8 +1,32 @@
 {
-"generated": "2026-11-24T01:42:09Z",
+"generated": "2026-11-24T12:31:59Z",
 "region": "Nordics",
-"count": 70,
+"count": 69,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31770827",
+"company": "Framna Sweden AB",
+"title": "UX Designer",
+"location": "Kalmar",
+"remote": null,
+"posted": "2026-11-24",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31770827",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-24"
+},
+{
+"id": "platsbanken:Platsbanken:31769359",
+"company": "ALSTOM Transport AB",
+"title": "Traction Electrical Design Engineer",
+"location": "Västerås",
+"remote": null,
+"posted": "2026-11-24",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31769359",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-24"
+},
 {
 "id": "platsbanken:Platsbanken:31768247",
 "company": "Sway Sourcing Sweden Aktiebolag",
@@ -23,18 +47,6 @@
 "remote": null,
 "posted": "2026-11-23",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31768599",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-24"
-},
-{
-"id": "platsbanken:Platsbanken:31768411",
-"company": "Sway Sourcing Sweden Aktiebolag",
-"title": "Senior UX Designer – Digital Customer Experience, Stockholm",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-11-23",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31768411",
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-11-24"
@@ -484,19 +496,6 @@
 "firstSeen": "2026-11-04"
 },
 {
-"id": "workday:unitytech:/job/Brighton-United-Kingdom/Senior-Product-Designer_JOBREQ-2616581",
-"company": "Unity",
-"title": "Senior Product Designer",
-"location": "5 Locations",
-"remote": null,
-"posted": null,
-"url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Brighton-United-Kingdom/Senior-Product-Designer_JOBREQ-2616581",
-"source": "workday",
-"region": "Nordics",
-"postedText": "Posted 19 Days Ago",
-"firstSeen": "2026-11-04"
-},
-{
 "id": "platsbanken:Platsbanken:31680020",
 "company": "SAAB Aktiebolag",
 "title": "UX Designer - Mission Support System",
@@ -530,19 +529,6 @@
 "url": "https://www.relexsolutions.com/careers/jobs/?gh_jid=8105403003",
 "source": "greenhouse",
 "region": "Nordics",
-"firstSeen": "2026-11-02"
-},
-{
-"id": "workday:unitytech:/job/Singapore/XMLNAME--Req----Product-Designer--2D_JOBREQ-2616662",
-"company": "Unity",
-"title": "Product Designer, 2D",
-"location": "Singapore",
-"remote": null,
-"posted": null,
-"url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Singapore/XMLNAME--Req----Product-Designer--2D_JOBREQ-2616662",
-"source": "workday",
-"region": "Nordics",
-"postedText": "Posted 6 Days Ago",
 "firstSeen": "2026-11-02"
 },
 {

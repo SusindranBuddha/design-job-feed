@@ -1,8 +1,44 @@
 {
-"generated": "2026-11-24T12:31:59Z",
+"generated": "2026-11-24T23:29:52Z",
 "region": "Nordics",
-"count": 69,
+"count": 70,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31774693",
+"company": "Incluso AB",
+"title": "UI/UX Designer",
+"location": "Lund",
+"remote": null,
+"posted": "2026-11-24",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31774693",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-24"
+},
+{
+"id": "platsbanken:Platsbanken:31774221",
+"company": "Sway Sourcing Sweden Aktiebolag",
+"title": "Senior UX Designer – Digital Banking, Stockholm",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-24",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31774221",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-24"
+},
+{
+"id": "platsbanken:Platsbanken:31774017",
+"company": "Deploja AB",
+"title": "Senior UX Designer",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-24",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31774017",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-24"
+},
 {
 "id": "platsbanken:Platsbanken:31770827",
 "company": "Framna Sweden AB",
@@ -11,6 +47,18 @@
 "remote": null,
 "posted": "2026-11-24",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31770827",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-24"
+},
+{
+"id": "platsbanken:Platsbanken:31773716",
+"company": "Axis Communications Aktiebolag",
+"title": "Mechanical Design Engineer, Production Hardware Development",
+"location": "Lund",
+"remote": null,
+"posted": "2026-11-24",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31773716",
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-11-24"
@@ -160,18 +208,6 @@
 "firstSeen": "2026-11-19"
 },
 {
-"id": "platsbanken:Platsbanken:31754987",
-"company": "Rosenthal, Emanuel",
-"title": "UX / UI Designer",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-11-19",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31754987",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-19"
-},
-{
 "id": "platsbanken:Platsbanken:31754360",
 "company": "Sandvik Aktiebolag",
 "title": "Design & UX Lead",
@@ -242,18 +278,6 @@
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-11-19"
-},
-{
-"id": "platsbanken:Platsbanken:31748330",
-"company": "Lynqa AB",
-"title": "UX-konsult, användar- och behovsanalys av extern webbplats",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-11-18",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31748330",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-18"
 },
 {
 "id": "platsbanken:Platsbanken:31747892",
@@ -436,18 +460,6 @@
 "firstSeen": "2026-11-10"
 },
 {
-"id": "platsbanken:Platsbanken:31712055",
-"company": "Axis Communications Aktiebolag",
-"title": "Senior UX Designer - Stockholm",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-11-10",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31712055",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-10"
-},
-{
 "id": "platsbanken:Platsbanken:31703838",
 "company": "ABB AB",
 "title": "Innovative User Experience Designer",
@@ -616,6 +628,18 @@
 "firstSeen": "2026-10-21"
 },
 {
+"id": "greenhouse:smartlyio:6126661004",
+"company": "Smartly",
+"title": "Production Designer",
+"location": "Philippines",
+"remote": null,
+"posted": "2026-11-24",
+"url": "https://job-boards.greenhouse.io/smartlyio/jobs/6126661004",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
 "id": "greenhouse:oura:4452942009",
 "company": "Oura",
 "title": "Staff Antenna Design Engineer",
@@ -635,18 +659,6 @@
 "remote": null,
 "posted": "2026-11-19",
 "url": "https://job-boards.greenhouse.io/oura/jobs/4421754009",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:smartlyio:6126661004",
-"company": "Smartly",
-"title": "Production Designer",
-"location": "Philippines",
-"remote": null,
-"posted": "2026-11-11",
-"url": "https://job-boards.greenhouse.io/smartlyio/jobs/6126661004",
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"
@@ -700,18 +712,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:alphasense:8530664002",
-"company": "AlphaSense",
-"title": "Senior/Staff Product Designer",
-"location": "New York, New York, United States; Remote - United States",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:alphasense:8531119002",
 "company": "AlphaSense",
 "title": "Senior/Staff Product Designer",
@@ -719,6 +719,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:alphasense:8530664002",
+"company": "AlphaSense",
+"title": "Senior/Staff Product Designer",
+"location": "New York, New York, United States; Remote - United States",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"

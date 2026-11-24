@@ -1,8 +1,21 @@
 {
-"generated": "2026-11-24T12:31:59Z",
+"generated": "2026-11-24T23:29:52Z",
 "region": "APAC",
-"count": 79,
+"count": 80,
 "jobs": [
+{
+"id": "mcf:MyCareersFuture:03b77ac98681051395b95075eb7df169",
+"company": "WEBSPARKS PTE. LTD.",
+"title": "Senior UX / Service Designer for MOF (min 7 years of experience)",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-25",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-ux-service-designer-mof-websparks-03b77ac98681051395b95075eb7df169",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 7000-9500 /Monthly",
+"firstSeen": "2026-11-24"
+},
 {
 "id": "mcf:MyCareersFuture:3b2be79164b92c727f7d25a126cadb72",
 "company": "MALTEM ASIA PTE. LTD.",
@@ -522,19 +535,6 @@
 "firstSeen": "2026-11-11"
 },
 {
-"id": "mcf:MyCareersFuture:cf28241e6732e1db04c7822deed083e1",
-"company": "GPAY NETWORK (S) PTE. LTD.",
-"title": "Senior Product Designer, Payments",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-11-10",
-"url": "https://www.mycareersfuture.gov.sg/job/design/senior-product-designer-payments-gpay-network-cf28241e6732e1db04c7822deed083e1",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 8600-12500 /Monthly",
-"firstSeen": "2026-11-10"
-},
-{
 "id": "mcf:MyCareersFuture:1e00fe765e173140d7692857c9b48ffd",
 "company": "DOCTOR WORLD PTE. LTD.",
 "title": "Product Designer (UI/UX)",
@@ -752,6 +752,19 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 7100-9700 /Monthly",
+"firstSeen": "2026-10-29"
+},
+{
+"id": "mcf:MyCareersFuture:6bec438a3512a36461d33dc503105f53",
+"company": "ST ENGINEERING CLOUD AND DATA CENTRE SOLUTIONS PTE. LTD.",
+"title": "Electrical System Design Engineer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-10-29",
+"url": "https://www.mycareersfuture.gov.sg/job/engineering/electrical-system-design-engineer-st-engineering-cloud-data-centre-solutions-6bec438a3512a36461d33dc503105f53",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 6500-9000 /Monthly",
 "firstSeen": "2026-10-29"
 },
 {

@@ -1,8 +1,56 @@
 {
-"generated": "2026-11-23T10:49:27Z",
+"generated": "2026-11-24T01:42:09Z",
 "region": "Nordics",
-"count": 67,
+"count": 70,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31768247",
+"company": "Sway Sourcing Sweden Aktiebolag",
+"title": "Senior Product Designer – Cross-Platform UX/UI, Stockholm",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-23",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31768247",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-24"
+},
+{
+"id": "platsbanken:Platsbanken:31768599",
+"company": "Quest Consulting Sverige AB",
+"title": "UX Designer",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-23",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31768599",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-24"
+},
+{
+"id": "platsbanken:Platsbanken:31768411",
+"company": "Sway Sourcing Sweden Aktiebolag",
+"title": "Senior UX Designer – Digital Customer Experience, Stockholm",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-23",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31768411",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-24"
+},
+{
+"id": "platsbanken:Platsbanken:31766864",
+"company": "Soros Consulting AB",
+"title": "Senior UX-ansvarig Kollektivtrafik (Malmö)",
+"location": "Malmö",
+"remote": null,
+"posted": "2026-11-23",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31766864",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-24"
+},
 {
 "id": "platsbanken:Platsbanken:31765123",
 "company": "Alten Sverige Aktiebolag",
@@ -184,18 +232,6 @@
 "firstSeen": "2026-11-19"
 },
 {
-"id": "platsbanken:Platsbanken:31750036",
-"company": "Agile Resources AB",
-"title": "UX Designer – Customer Service Workspace",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-11-18",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31750036",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-18"
-},
-{
 "id": "platsbanken:Platsbanken:31748330",
 "company": "Lynqa AB",
 "title": "UX-konsult, användar- och behovsanalys av extern webbplats",
@@ -230,30 +266,6 @@
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-11-18"
-},
-{
-"id": "platsbanken:Platsbanken:31744647",
-"company": "Hykmann Global Business Solutions AB",
-"title": "System Design Engineer Thermal Management | Automotive & Embedded Systems",
-"location": "Göteborg",
-"remote": null,
-"posted": "2026-11-17",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31744647",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-17"
-},
-{
-"id": "platsbanken:Platsbanken:31743953",
-"company": "Integro Consulting AB",
-"title": "Electronics Design Engineer – MedTech",
-"location": "Göteborg",
-"remote": null,
-"posted": "2026-11-17",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31743953",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-17"
 },
 {
 "id": "greenhouse:oura:4488086009",
@@ -472,6 +484,19 @@
 "firstSeen": "2026-11-04"
 },
 {
+"id": "workday:unitytech:/job/Brighton-United-Kingdom/Senior-Product-Designer_JOBREQ-2616581",
+"company": "Unity",
+"title": "Senior Product Designer",
+"location": "5 Locations",
+"remote": null,
+"posted": null,
+"url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Brighton-United-Kingdom/Senior-Product-Designer_JOBREQ-2616581",
+"source": "workday",
+"region": "Nordics",
+"postedText": "Posted 19 Days Ago",
+"firstSeen": "2026-11-04"
+},
+{
 "id": "platsbanken:Platsbanken:31680020",
 "company": "SAAB Aktiebolag",
 "title": "UX Designer - Mission Support System",
@@ -508,15 +533,16 @@
 "firstSeen": "2026-11-02"
 },
 {
-"id": "platsbanken:Platsbanken:31673283",
-"company": "Quest Consulting Sverige AB",
-"title": "UX Designer",
-"location": "Malmö",
+"id": "workday:unitytech:/job/Singapore/XMLNAME--Req----Product-Designer--2D_JOBREQ-2616662",
+"company": "Unity",
+"title": "Product Designer, 2D",
+"location": "Singapore",
 "remote": null,
-"posted": "2026-11-02",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31673283",
-"source": "Platsbanken",
+"posted": null,
+"url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Singapore/XMLNAME--Req----Product-Designer--2D_JOBREQ-2616662",
+"source": "workday",
 "region": "Nordics",
+"postedText": "Posted 6 Days Ago",
 "firstSeen": "2026-11-02"
 },
 {
@@ -602,6 +628,18 @@
 "source": "lever",
 "region": "Nordics",
 "firstSeen": "2026-10-21"
+},
+{
+"id": "greenhouse:oura:4452942009",
+"company": "Oura",
+"title": "Staff Antenna Design Engineer",
+"location": "On-site - Oulu, North Ostrobothnia",
+"remote": null,
+"posted": "2026-11-23",
+"url": "https://job-boards.greenhouse.io/oura/jobs/4452942009",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
 },
 {
 "id": "greenhouse:oura:4421754009",

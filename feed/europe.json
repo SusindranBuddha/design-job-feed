@@ -1,8 +1,80 @@
 {
-"generated": "2026-11-23T10:49:27Z",
+"generated": "2026-11-24T01:42:09Z",
 "region": "Europe",
-"count": 86,
+"count": 85,
 "jobs": [
+{
+"id": "smartrecruiters:Wise:744000163216250",
+"company": "Wise",
+"title": "Staff Product Designer – Tooling Platform",
+"location": "London, gb",
+"remote": null,
+"posted": "2026-11-23",
+"url": "https://jobs.smartrecruiters.com/Wise/744000163216250",
+"source": "smartrecruiters",
+"region": "Europe",
+"firstSeen": "2026-11-24"
+},
+{
+"id": "arbeitnow:Arbeitnow:ui-ux-designer-in-vollzeit-stuttgart-432291",
+"company": "MCI Solutions GmbH",
+"title": "UI/UX-Designer (m/w/d) in Vollzeit",
+"location": "Stuttgart",
+"remote": null,
+"posted": "2026-11-23",
+"url": "https://www.arbeitnow.com/jobs/companies/mci-solutions-gmbh/ui-ux-designer-in-vollzeit-stuttgart-432291",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-24"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-designer-food-retail-store-experience-dusseldorf-347389",
+"company": "Schweitzer Project Spa",
+"title": "Senior Designer Food Retail & Store Experience (w/m/d)",
+"location": "Düsseldorf",
+"remote": null,
+"posted": "2026-11-23",
+"url": "https://www.arbeitnow.com/jobs/companies/schweitzer-project-spa/senior-designer-food-retail-store-experience-dusseldorf-347389",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-24"
+},
+{
+"id": "arbeitnow:Arbeitnow:produktentwickler-designer-socken-footwear-berlin-56767",
+"company": "GC Footwear GmbH",
+"title": "Produktentwickler & Designer (M/W/D) - Socken & Footwear",
+"location": "Berlin",
+"remote": null,
+"posted": "2026-11-23",
+"url": "https://www.arbeitnow.com/jobs/companies/gc-footwear-gmbh/produktentwickler-designer-socken-footwear-berlin-56767",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-24"
+},
+{
+"id": "arbeitnow:Arbeitnow:graduate-industrial-design-engineer-2027-start-66004",
+"company": "Cambridgeconsultantslimited",
+"title": "Graduate Industrial Design Engineer - (2027 start)",
+"location": "",
+"remote": null,
+"posted": "2026-11-23",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-industrial-design-engineer-2027-start-66004",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-24"
+},
+{
+"id": "arbeitnow:Arbeitnow:lead-product-designer-manchester-480321",
+"company": "Street Group",
+"title": "Lead Product Designer",
+"location": "Manchester",
+"remote": null,
+"posted": "2026-11-23",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/street-group/lead-product-designer-manchester-480321",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-24"
+},
 {
 "id": "arbeitnow:Arbeitnow:design-engineer-hanover-473626",
 "company": "Neoskop GmbH",
@@ -35,18 +107,6 @@
 "remote": "remote",
 "posted": "2026-11-23",
 "url": "https://www.arbeitnow.com/jobs/companies/cannaleo-digital-gmbh/ui-ux-designer-mit-product-design-erfahrung-im-saas-umfeld-berlin-67875",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-23"
-},
-{
-"id": "arbeitnow:Arbeitnow:product-manager-ux-ui-focus-ai-x-greentech-augsburg-97347",
-"company": "Reonic",
-"title": "Product Manager - UX/UI Focus (AI x Greentech) (m/f/d)",
-"location": "Augsburg",
-"remote": null,
-"posted": "2026-11-23",
-"url": "https://www.arbeitnow.com/jobs/companies/reonic/product-manager-ux-ui-focus-ai-x-greentech-augsburg-97347",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-23"
@@ -100,30 +160,6 @@
 "firstSeen": "2026-11-22"
 },
 {
-"id": "arbeitnow:Arbeitnow:ux-designer-at-cfo-insights-london-107091",
-"company": "Cfoinsights",
-"title": "UX designer at CFO Insights",
-"location": "London",
-"remote": null,
-"posted": "2026-11-22",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/ux-designer-at-cfo-insights-london-107091",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-22"
-},
-{
-"id": "arbeitnow:Arbeitnow:design-engineer-praktikum-cad-konstruktion-und-additive-fertigung-esslingen-330132",
-"company": "eloprint",
-"title": "Design Engineer Praktikum - CAD-Konstruktion und Additive Fertigung",
-"location": "Esslingen",
-"remote": null,
-"posted": "2026-11-22",
-"url": "https://www.arbeitnow.com/jobs/companies/eloprint/design-engineer-praktikum-cad-konstruktion-und-additive-fertigung-esslingen-330132",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-22"
-},
-{
 "id": "arbeitnow:Arbeitnow:senior-product-designer-remote-in-europe-amsterdam-443609",
 "company": "Finom",
 "title": "Senior Product Designer (Remote in Europe)",
@@ -155,18 +191,6 @@
 "remote": null,
 "posted": "2026-11-20",
 "url": "https://jobs.smartrecruiters.com/Wise/744000162757629",
-"source": "smartrecruiters",
-"region": "Europe",
-"firstSeen": "2026-11-20"
-},
-{
-"id": "smartrecruiters:Wise:744000162748049",
-"company": "Wise",
-"title": "Principal Product Designer – Mitigation Platform",
-"location": "London, gb",
-"remote": null,
-"posted": "2026-11-20",
-"url": "https://jobs.smartrecruiters.com/Wise/744000162748049",
 "source": "smartrecruiters",
 "region": "Europe",
 "firstSeen": "2026-11-20"
@@ -544,13 +568,13 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:intercom:8242627",
+"id": "greenhouse:intercom:7862042",
 "company": "Intercom",
-"title": "Senior Web Designer, Growth",
+"title": "Staff/Principal Product Designer",
 "location": "London, England",
 "remote": null,
 "posted": "2026-11-20",
-"url": "https://job-boards.greenhouse.io/intercom/jobs/8242627",
+"url": "https://job-boards.greenhouse.io/intercom/jobs/7862042",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -568,18 +592,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:intercom:7862042",
-"company": "Intercom",
-"title": "Staff/Principal Product Designer",
-"location": "London, England",
-"remote": null,
-"posted": "2026-11-20",
-"url": "https://job-boards.greenhouse.io/intercom/jobs/7862042",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:stripe:8212314",
 "company": "Stripe",
 "title": "Design Engineer, Expansion",
@@ -587,18 +599,6 @@
 "remote": null,
 "posted": "2026-11-19",
 "url": "https://stripe.com/jobs/search?gh_jid=8212314",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:stripe:7663023",
-"company": "Stripe",
-"title": "Product Designer, Connect",
-"location": "Canada",
-"remote": null,
-"posted": "2026-11-19",
-"url": "https://stripe.com/jobs/search?gh_jid=7663023",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -972,18 +972,6 @@
 "posted": "2026-09-28",
 "url": "https://jobs.smartrecruiters.com/Wise/744000152184429",
 "source": "smartrecruiters",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "lever:deliverect:964659ab-95fd-4ed0-bb7e-2377593b9063",
-"company": "Deliverect",
-"title": "Senior Product Designer",
-"location": "Paris",
-"remote": "hybrid",
-"posted": "2026-09-17",
-"url": "https://jobs.lever.co/deliverect/964659ab-95fd-4ed0-bb7e-2377593b9063",
-"source": "lever",
 "region": "Europe",
 "firstSeen": "2026-10-17"
 },

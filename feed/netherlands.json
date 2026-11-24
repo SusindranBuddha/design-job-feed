@@ -1,8 +1,32 @@
 {
-"generated": "2026-11-23T10:49:27Z",
+"generated": "2026-11-24T01:42:09Z",
 "region": "Netherlands",
-"count": 10,
+"count": 12,
 "jobs": [
+{
+"id": "greenhouse:bolcomen:8958336002",
+"company": "bol.com",
+"title": "Senior Product Designer – Agentic Shopping",
+"location": "Utrecht",
+"remote": null,
+"posted": "2026-11-23",
+"url": "https://job-boards.greenhouse.io/bolcomen/jobs/8958336002",
+"source": "greenhouse",
+"region": "Netherlands",
+"firstSeen": "2026-11-24"
+},
+{
+"id": "greenhouse:bolcomen:8958361002",
+"company": "bol.com",
+"title": "Senior Product Designer - Marketing & Advertising Offsite",
+"location": "Utrecht",
+"remote": null,
+"posted": "2026-11-23",
+"url": "https://job-boards.greenhouse.io/bolcomen/jobs/8958361002",
+"source": "greenhouse",
+"region": "Netherlands",
+"firstSeen": "2026-11-24"
+},
 {
 "id": "greenhouse:catawiki:8405557",
 "company": "Catawiki",
@@ -52,6 +76,18 @@
 "firstSeen": "2026-11-12"
 },
 {
+"id": "greenhouse:elastic:8301334",
+"company": "Elastic",
+"title": "Software Engineering Manager - Global UX - Applications - Platform",
+"location": "Spain",
+"remote": null,
+"posted": "2026-10-23",
+"url": "https://jobs.elastic.co/jobs?gh_jid=8301334&gh_jid=8301334",
+"source": "greenhouse",
+"region": "Netherlands",
+"firstSeen": "2026-10-24"
+},
+{
 "id": "greenhouse:elastic:8319082",
 "company": "Elastic",
 "title": "Software Engineering Manager - Global UX - Applications - Platform",
@@ -71,18 +107,6 @@
 "remote": null,
 "posted": "2026-10-23",
 "url": "https://jobs.elastic.co/jobs?gh_jid=8319081&gh_jid=8319081",
-"source": "greenhouse",
-"region": "Netherlands",
-"firstSeen": "2026-10-24"
-},
-{
-"id": "greenhouse:elastic:8301334",
-"company": "Elastic",
-"title": "Software Engineering Manager - Global UX - Applications - Platform",
-"location": "Spain",
-"remote": null,
-"posted": "2026-10-23",
-"url": "https://jobs.elastic.co/jobs?gh_jid=8301334&gh_jid=8301334",
 "source": "greenhouse",
 "region": "Netherlands",
 "firstSeen": "2026-10-24"

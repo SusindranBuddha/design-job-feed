@@ -1,31 +1,55 @@
 {
-"generated": "2026-11-23T10:49:27Z",
+"generated": "2026-11-24T01:42:09Z",
 "region": "Remote",
-"count": 186,
+"count": 194,
 "jobs": [
 {
-"id": "lever:contentsquare:500a0929-542b-4062-814c-08414811cc0b",
-"company": "Contentsquare (incl. Hotjar)",
-"title": "Senior Product Designer, Activation & Setup",
-"location": "London area",
-"remote": "hybrid",
+"id": "jobicy:Jobicy:163993",
+"company": "R/GA",
+"title": "Visual Designer",
+"location": "Argentina",
+"remote": "remote",
 "posted": "2026-11-23",
-"url": "https://jobs.lever.co/contentsquare/500a0929-542b-4062-814c-08414811cc0b",
-"source": "lever",
+"url": "https://jobicy.com/jobs/163993-visual-designer-2",
+"source": "Jobicy",
 "region": "Remote",
-"firstSeen": "2026-11-23"
+"firstSeen": "2026-11-24"
 },
 {
-"id": "lever:contentsquare:b2e30e3b-fe65-43ff-970a-0373db4905cf",
-"company": "Contentsquare (incl. Hotjar)",
-"title": "Senior Product Designer, Activation & Setup",
-"location": "Barcelona",
-"remote": "hybrid",
+"id": "jobicy:Jobicy:163953",
+"company": "BJAK",
+"title": "Mobile UI Designer",
+"location": "Ireland",
+"remote": "remote",
 "posted": "2026-11-23",
-"url": "https://jobs.lever.co/contentsquare/b2e30e3b-fe65-43ff-970a-0373db4905cf",
-"source": "lever",
+"url": "https://jobicy.com/jobs/163953-mobile-ui-designer",
+"source": "Jobicy",
 "region": "Remote",
-"firstSeen": "2026-11-23"
+"firstSeen": "2026-11-24"
+},
+{
+"id": "jobicy:Jobicy:163951",
+"company": "BJAK",
+"title": "Product Designer (UI/UX)",
+"location": "Sweden",
+"remote": "remote",
+"posted": "2026-11-23",
+"url": "https://jobicy.com/jobs/163951-product-designer-ui-ux",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-24"
+},
+{
+"id": "jobicy:Jobicy:163909",
+"company": "Monzo",
+"title": "Lead Product Designer, Growth",
+"location": "UK",
+"remote": "remote",
+"posted": "2026-11-23",
+"url": "https://jobicy.com/jobs/163909-lead-product-designer-growth-2",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-24"
 },
 {
 "id": "wwr:We Work Remotely:https://weworkremotely.com/remote-jobs/elation-health-senior-or-staff-product-designer",
@@ -232,18 +256,6 @@
 "firstSeen": "2026-11-21"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/flex/jobs/staff-product-designer-contract",
-"company": "Flex",
-"title": "Staff Product Designer (Contract)",
-"location": "Argentina, Australia, Bolivia, Brazil, Canada, Chile, Colombia, Ecuador, Falkland Islands (Malvinas), French Guiana, Guyana, Paraguay, Peru, Suriname, United St",
-"remote": "remote",
-"posted": "2026-11-19",
-"url": "https://himalayas.app/companies/flex/jobs/staff-product-designer-contract?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-11-21"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/padsplit/jobs/senior-product-designer-fully-remote-anywhere-in-south-america",
 "company": "PadSplit",
 "title": "Senior Product Designer (Fully Remote - anywhere in South America)",
@@ -251,6 +263,18 @@
 "remote": "remote",
 "posted": "2026-11-19",
 "url": "https://himalayas.app/companies/padsplit/jobs/senior-product-designer-fully-remote-anywhere-in-south-america?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-21"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/flex/jobs/staff-product-designer-contract",
+"company": "Flex",
+"title": "Staff Product Designer (Contract)",
+"location": "Argentina, Australia, Bolivia, Brazil, Canada, Chile, Colombia, Ecuador, Falkland Islands (Malvinas), French Guiana, Guyana, Paraguay, Peru, Suriname, United St",
+"remote": "remote",
+"posted": "2026-11-19",
+"url": "https://himalayas.app/companies/flex/jobs/staff-product-designer-contract?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-21"
@@ -300,6 +324,18 @@
 "posted": "2026-11-20",
 "url": "https://jobs.ashbyhq.com/Clera/c542ed3a-097e-42bc-a847-391e0cab9d3b",
 "source": "ashby",
+"region": "Remote",
+"firstSeen": "2026-11-20"
+},
+{
+"id": "jobicy:Jobicy:163473",
+"company": "Phantom",
+"title": "Product Designer",
+"location": "USA",
+"remote": "remote",
+"posted": "2026-11-20",
+"url": "https://jobicy.com/jobs/163473-product-designer-6",
+"source": "Jobicy",
 "region": "Remote",
 "firstSeen": "2026-11-20"
 },
@@ -376,6 +412,18 @@
 "firstSeen": "2026-11-19"
 },
 {
+"id": "jobicy:Jobicy:163237",
+"company": "BJAK",
+"title": "UI Designer - AI Neobank App",
+"location": "Germany",
+"remote": "remote",
+"posted": "2026-11-19",
+"url": "https://jobicy.com/jobs/163237-ui-designer-ai-neobank-app",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-19"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/sequoia-connect/jobs/remote-sr-ux-ui-designer",
 "company": "Sequoia Connect",
 "title": "Remote Sr UX/UI Designer",
@@ -410,6 +458,30 @@
 "source": "We Work Remotely",
 "region": "Remote",
 "firstSeen": "2026-11-19"
+},
+{
+"id": "jobicy:Jobicy:163073",
+"company": "Homebound",
+"title": "Senior Product Designer, Mobile",
+"location": "USA",
+"remote": "remote",
+"posted": "2026-11-18",
+"url": "https://jobicy.com/jobs/163073-senior-product-designer-mobile-2",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-18"
+},
+{
+"id": "jobicy:Jobicy:163111",
+"company": "Consensys",
+"title": "Senior Design Engineer",
+"location": "EMEA, USA",
+"remote": "remote",
+"posted": "2026-11-18",
+"url": "https://jobicy.com/jobs/163111-senior-design-engineer-2",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-18"
 },
 {
 "id": "himalayas:Himalayas:https://himalayas.app/companies/careerswift/jobs/product-designer-ux-ui-6363142903",
@@ -456,18 +528,6 @@
 "posted": "2026-11-19",
 "url": "https://himalayas.app/companies/nitrogen/jobs/senior-product-designer-design-systems?utm_source=api",
 "source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-11-17"
-},
-{
-"id": "ashby:clera:052b0ad8-4788-4236-b1e7-6a2e4fbea097",
-"company": "Clera",
-"title": "Founding Design Engineer",
-"location": "Palo Alto",
-"remote": "Remote",
-"posted": "2026-11-17",
-"url": "https://jobs.ashbyhq.com/Clera/052b0ad8-4788-4236-b1e7-6a2e4fbea097",
-"source": "ashby",
 "region": "Remote",
 "firstSeen": "2026-11-17"
 },
@@ -1204,18 +1264,6 @@
 "firstSeen": "2026-10-21"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/gladly/jobs/senior-product-designer-ai-platform",
-"company": "Gladly",
-"title": "Senior Product Designer, AI Platform",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-11-19",
-"url": "https://himalayas.app/companies/gladly/jobs/senior-product-designer-ai-platform?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-21"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/code-and-theory/jobs/senior-designer-us",
 "company": "Code and Theory",
 "title": "Senior Designer (US)",
@@ -1223,6 +1271,18 @@
 "remote": "remote",
 "posted": "2026-11-19",
 "url": "https://himalayas.app/companies/code-and-theory/jobs/senior-designer-us?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-21"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/gladly/jobs/senior-product-designer-ai-platform",
+"company": "Gladly",
+"title": "Senior Product Designer, AI Platform",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-11-19",
+"url": "https://himalayas.app/companies/gladly/jobs/senior-product-designer-ai-platform?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-21"
@@ -1480,6 +1540,42 @@
 "firstSeen": "2026-10-18"
 },
 {
+"id": "jobicy:Jobicy:153327",
+"company": "Who Gives A Crap",
+"title": "Digital Designer",
+"location": "Philippines",
+"remote": "remote",
+"posted": "2026-11-17",
+"url": "https://jobicy.com/jobs/153327-digital-designer",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "jobicy:Jobicy:150781",
+"company": "Fueled",
+"title": "Product Designer – Content Solutions",
+"location": "LATAM",
+"remote": "remote",
+"posted": "2026-11-17",
+"url": "https://jobicy.com/jobs/150781-product-designer-content-solutions",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
+"id": "jobicy:Jobicy:150689",
+"company": "Ashby",
+"title": "Senior Product Designer",
+"location": "USA",
+"remote": "remote",
+"posted": "2026-11-17",
+"url": "https://jobicy.com/jobs/150689-senior-product-designer",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/mercor/jobs/design-systems-specialist-fully-remote-upto-80-hr-5591764381",
 "company": "mercor",
 "title": "Design Systems Specialist - Fully Remote | Upto $80/hr",
@@ -1600,6 +1696,30 @@
 "firstSeen": "2026-10-18"
 },
 {
+"id": "greenhouse:proton:4908174101",
+"company": "Proton",
+"title": "Senior Product Designer (Inbox)",
+"location": "Paris, London",
+"remote": null,
+"posted": "2026-11-23",
+"url": "https://job-boards.eu.greenhouse.io/proton/jobs/4908174101",
+"source": "greenhouse",
+"region": "Remote",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:proton:4999112101",
+"company": "Proton",
+"title": "Senior Product Designer - (VPN)",
+"location": "Geneva, Barcelona",
+"remote": null,
+"posted": "2026-11-23",
+"url": "https://job-boards.eu.greenhouse.io/proton/jobs/4999112101",
+"source": "greenhouse",
+"region": "Remote",
+"firstSeen": "2026-10-17"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/high-voltage-software/jobs/technical-ui-ux-designer",
 "company": "High Voltage Software",
 "title": "Technical UI/UX Designer",
@@ -1632,18 +1752,6 @@
 "posted": "2026-11-21",
 "url": "https://himalayas.app/companies/pavago/jobs/product-designer-ux-ui-design-systems-4068753111?utm_source=api",
 "source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:proton:4908174101",
-"company": "Proton",
-"title": "Senior Product Designer (Inbox)",
-"location": "Paris, London",
-"remote": null,
-"posted": "2026-11-20",
-"url": "https://job-boards.eu.greenhouse.io/proton/jobs/4908174101",
-"source": "greenhouse",
 "region": "Remote",
 "firstSeen": "2026-10-17"
 },
@@ -2040,18 +2148,6 @@
 "posted": "2026-10-07",
 "url": "https://weworkremotely.com/remote-jobs/contra-senior-game-designer",
 "source": "We Work Remotely",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:proton:4999112101",
-"company": "Proton",
-"title": "Senior Product Designer - (VPN)",
-"location": "Geneva, Barcelona",
-"remote": null,
-"posted": "2026-10-06",
-"url": "https://job-boards.eu.greenhouse.io/proton/jobs/4999112101",
-"source": "greenhouse",
 "region": "Remote",
 "firstSeen": "2026-10-17"
 },

@@ -1,8 +1,44 @@
 {
-"generated": "2026-11-24T23:29:52Z",
+"generated": "2026-11-25T11:21:14Z",
 "region": "Remote",
-"count": 185,
+"count": 187,
 "jobs": [
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/givelify/jobs/lead-product-designer",
+"company": "Givelify",
+"title": "Lead Product Designer",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-11-19",
+"url": "https://himalayas.app/companies/givelify/jobs/lead-product-designer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-25"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/ehvert-engineering-inc/jobs/fire-alarm-fire-protection-design-engineer",
+"company": "Ehvert Engineering Inc.",
+"title": "Fire Alarm & Fire Protection Design Engineer",
+"location": "Ukraine",
+"remote": "remote",
+"posted": "2026-11-19",
+"url": "https://himalayas.app/companies/ehvert-engineering-inc/jobs/fire-alarm-fire-protection-design-engineer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-25"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/instacart/jobs/product-designer-ii-l4-ads-experiences",
+"company": "Instacart",
+"title": "Product Designer II (L4) - Ads Experiences",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-10-29",
+"url": "https://himalayas.app/companies/instacart/jobs/product-designer-ii-l4-ads-experiences?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-25"
+},
 {
 "id": "ashby:clera:7291fb68-a9a9-46a7-a140-5c0184560494",
 "company": "Clera",
@@ -172,18 +208,6 @@
 "firstSeen": "2026-11-22"
 },
 {
-"id": "wwr:We Work Remotely:https://weworkremotely.com/remote-jobs/metamask-senior-design-engineer",
-"company": "MetaMask",
-"title": "Senior Design Engineer",
-"location": "Anywhere in the World",
-"remote": "remote",
-"posted": "2026-11-22",
-"url": "https://weworkremotely.com/remote-jobs/metamask-senior-design-engineer",
-"source": "We Work Remotely",
-"region": "Remote",
-"firstSeen": "2026-11-22"
-},
-{
 "id": "remoteok:Remote OK:1137928",
 "company": "LastPass",
 "title": "Senior Product Design Manager",
@@ -228,18 +252,6 @@
 "posted": "2026-11-21",
 "url": "https://jobs.ashbyhq.com/Clera/507a2662-aa91-4f75-899c-72c513308bb2",
 "source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-11-21"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/revizto/jobs/product-designer-design-system-6597699822",
-"company": "Revizto",
-"title": "Product Designer (Design System)",
-"location": "Armenia, France, Germany, United Kingdom",
-"remote": "remote",
-"posted": "2026-11-21",
-"url": "https://himalayas.app/companies/revizto/jobs/product-designer-design-system-6597699822?utm_source=api",
-"source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-21"
 },
@@ -292,18 +304,6 @@
 "firstSeen": "2026-11-21"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/flex/jobs/staff-product-designer-contract",
-"company": "Flex",
-"title": "Staff Product Designer (Contract)",
-"location": "Argentina, Australia, Bolivia, Brazil, Canada, Chile, Colombia, Ecuador, Falkland Islands (Malvinas), French Guiana, Guyana, Paraguay, Peru, Suriname, United St",
-"remote": "remote",
-"posted": "2026-11-19",
-"url": "https://himalayas.app/companies/flex/jobs/staff-product-designer-contract?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-11-21"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/padsplit/jobs/senior-product-designer-fully-remote-anywhere-in-south-america",
 "company": "PadSplit",
 "title": "Senior Product Designer (Fully Remote - anywhere in South America)",
@@ -311,6 +311,18 @@
 "remote": "remote",
 "posted": "2026-11-19",
 "url": "https://himalayas.app/companies/padsplit/jobs/senior-product-designer-fully-remote-anywhere-in-south-america?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-21"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/flex/jobs/staff-product-designer-contract",
+"company": "Flex",
+"title": "Staff Product Designer (Contract)",
+"location": "Argentina, Australia, Bolivia, Brazil, Canada, Chile, Colombia, Ecuador, Falkland Islands (Malvinas), French Guiana, Guyana, Paraguay, Peru, Suriname, United St",
+"remote": "remote",
+"posted": "2026-11-19",
+"url": "https://himalayas.app/companies/flex/jobs/staff-product-designer-contract?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-21"
@@ -916,18 +928,6 @@
 "firstSeen": "2026-10-30"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/hatch-co/jobs/senior-product-designer",
-"company": "Hatch",
-"title": "Senior Product Designer",
-"location": "Canada, United States",
-"remote": "remote",
-"posted": "2026-11-19",
-"url": "https://himalayas.app/companies/hatch-co/jobs/senior-product-designer?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-29"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/fluxcap/jobs/product-designer",
 "company": "Fluxcap",
 "title": "Product Designer",
@@ -1010,6 +1010,42 @@
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-27"
+},
+{
+"id": "jobicy:Jobicy:157027",
+"company": "Wrapbook",
+"title": "Senior Product Designer II",
+"location": "Canada, USA",
+"remote": "remote",
+"posted": "2026-11-25",
+"url": "https://jobicy.com/jobs/157027-senior-product-designer-ii",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-26"
+},
+{
+"id": "jobicy:Jobicy:156914",
+"company": "PadSplit",
+"title": "Senior Product Designer (Fully Remote)",
+"location": "USA",
+"remote": "remote",
+"posted": "2026-11-25",
+"url": "https://jobicy.com/jobs/156914-senior-product-designer-fully-remote",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-25"
+},
+{
+"id": "jobicy:Jobicy:156935",
+"company": "Spotify",
+"title": "Staff Product Designer - Platform Design",
+"location": "Sweden, UK",
+"remote": "remote",
+"posted": "2026-11-25",
+"url": "https://jobicy.com/jobs/156935-staff-product-designer-platform-design",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-25"
 },
 {
 "id": "jobicy:Jobicy:156861",
@@ -1727,18 +1763,6 @@
 "remote": "remote",
 "posted": "2026-11-19",
 "url": "https://himalayas.app/companies/padsplit/jobs/senior-product-designer-fully-remote?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/wearekettle/jobs/senior-product-designer-design-systems",
-"company": "Kettle",
-"title": "Senior Product Designer, Design Systems",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-11-19",
-"url": "https://himalayas.app/companies/wearekettle/jobs/senior-product-designer-design-systems?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-17"

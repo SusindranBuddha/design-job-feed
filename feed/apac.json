@@ -1,8 +1,73 @@
 {
-"generated": "2026-11-24T23:29:52Z",
+"generated": "2026-11-25T11:21:14Z",
 "region": "APAC",
-"count": 80,
+"count": 83,
 "jobs": [
+{
+"id": "mcf:MyCareersFuture:a77f43ba00a732971cbfd81bd37f7008",
+"company": "WSH EXPERTS PTE. LTD.",
+"title": "UI/UX Designer / Product Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-25",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/uiux-designer-product-designer-wsh-experts-a77f43ba00a732971cbfd81bd37f7008",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 5000-8000 /Monthly",
+"firstSeen": "2026-11-25"
+},
+{
+"id": "mcf:MyCareersFuture:a13175eda2ea58519f238f09f296b466",
+"company": "ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)",
+"title": "Lead UI/UX Product Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-25",
+"url": "https://www.mycareersfuture.gov.sg/job/insurance/lead-uiux-product-designer-zurich-insurance-company-a13175eda2ea58519f238f09f296b466",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 15000-19500 /Monthly",
+"firstSeen": "2026-11-25"
+},
+{
+"id": "mcf:MyCareersFuture:3e0d1b1300858d610892abbd31eedb55",
+"company": "ACTIVATE INTERACTIVE PTE LTD",
+"title": "Experience & Interface Designer - A26462",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-25",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/experience-interface-designer-a26462-activate-interactive-3e0d1b1300858d610892abbd31eedb55",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 6000-8000 /Monthly",
+"firstSeen": "2026-11-25"
+},
+{
+"id": "mcf:MyCareersFuture:249f20f2f78f845bc14d11d0eff670f5",
+"company": "SCIENTEC CONSULTING PTE. LTD.",
+"title": "UX Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-25",
+"url": "https://www.mycareersfuture.gov.sg/job/design/ux-designer-scientec-consulting-249f20f2f78f845bc14d11d0eff670f5",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 5000-10000 /Monthly",
+"firstSeen": "2026-11-25"
+},
+{
+"id": "mcf:MyCareersFuture:af67af5f234d8d0dcf68af5d39d5d494",
+"company": "USER EXPERIENCE RESEARCHERS PTE. LTD.",
+"title": "Senior Interaction/UX Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-25",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-interactionux-designer-user-experience-researchers-af67af5f234d8d0dcf68af5d39d5d494",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 7000-10000 /Monthly",
+"firstSeen": "2026-11-25"
+},
 {
 "id": "mcf:MyCareersFuture:03b77ac98681051395b95075eb7df169",
 "company": "WEBSPARKS PTE. LTD.",
@@ -199,32 +264,6 @@
 "firstSeen": "2026-11-20"
 },
 {
-"id": "mcf:MyCareersFuture:640674cce7ac6a4a1ac523f226b83542",
-"company": "MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD",
-"title": "Product Designer (UI/UX)",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-11-19",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/product-designer-manpower-staffing-services-640674cce7ac6a4a1ac523f226b83542",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 6500-7100 /Monthly",
-"firstSeen": "2026-11-19"
-},
-{
-"id": "mcf:MyCareersFuture:7faa0121b6528ee3dc98ae00c35a8d16",
-"company": "REAL ESTATE ANALYTICS PTE. LTD.",
-"title": "Product Strategist & Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-11-19",
-"url": "https://www.mycareersfuture.gov.sg/job/design/product-strategist-designer-real-estate-analytics-7faa0121b6528ee3dc98ae00c35a8d16",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 4000-5500 /Monthly",
-"firstSeen": "2026-11-19"
-},
-{
 "id": "mcf:MyCareersFuture:1865ce491f0e8b3a1cdca2c4be60baca",
 "company": "MORGAN MCKINLEY PTE. LTD.",
 "title": "UX Designer (1 Year Contract)",
@@ -248,6 +287,19 @@
 "source": "MyCareersFuture",
 "region": "APAC",
 "salary": "SGD 6500-9500 /Monthly",
+"firstSeen": "2026-11-19"
+},
+{
+"id": "mcf:MyCareersFuture:640674cce7ac6a4a1ac523f226b83542",
+"company": "MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD",
+"title": "Product Designer (UI/UX)",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-19",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/product-designer-manpower-staffing-services-640674cce7ac6a4a1ac523f226b83542",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 6500-7100 /Monthly",
 "firstSeen": "2026-11-19"
 },
 {
@@ -755,19 +807,6 @@
 "firstSeen": "2026-10-29"
 },
 {
-"id": "mcf:MyCareersFuture:6bec438a3512a36461d33dc503105f53",
-"company": "ST ENGINEERING CLOUD AND DATA CENTRE SOLUTIONS PTE. LTD.",
-"title": "Electrical System Design Engineer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-29",
-"url": "https://www.mycareersfuture.gov.sg/job/engineering/electrical-system-design-engineer-st-engineering-cloud-data-centre-solutions-6bec438a3512a36461d33dc503105f53",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 6500-9000 /Monthly",
-"firstSeen": "2026-10-29"
-},
-{
 "id": "mcf:MyCareersFuture:64f9ef5973d3b7f825ec247db512d455",
 "company": "CYBERBOT (S) PTE. LTD.",
 "title": "UI/UX Designer (Mobile Applications)",
@@ -1023,7 +1062,7 @@
 "url": "https://hcf.wd105.myworkdayjobs.com/HCF_External_Career_Site/job/Sydney-CBD/Senior-Digital-Product-Designer_JR104415",
 "source": "workday",
 "region": "APAC",
-"postedText": "Posted 4 Days Ago",
+"postedText": "Posted 5 Days Ago",
 "firstSeen": "2026-10-17"
 }
 ]

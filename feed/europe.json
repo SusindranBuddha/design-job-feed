@@ -1,8 +1,56 @@
 {
-"generated": "2026-11-24T23:29:52Z",
+"generated": "2026-11-25T11:21:14Z",
 "region": "Europe",
-"count": 82,
+"count": 78,
 "jobs": [
+{
+"id": "greenhouse:n26:8355849",
+"company": "N26",
+"title": "Associate Product Designer - Wealth building and Lending",
+"location": "Barcelona",
+"remote": null,
+"posted": "2026-11-25",
+"url": "https://n26.com/en-eu/careers/positions/8355849?gh_jid=8355849",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-11-25"
+},
+{
+"id": "arbeitnow:Arbeitnow:product-designer-contract-paris-209160",
+"company": "Lemrock",
+"title": "Product Designer (Contract)",
+"location": "Paris",
+"remote": null,
+"posted": "2026-11-25",
+"url": "https://www.arbeitnow.fr/jobs/companies/lemrock/product-designer-contract-paris-209160",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-25"
+},
+{
+"id": "arbeitnow:Arbeitnow:ux-designer-london-468383",
+"company": "Harmonic Security Inc",
+"title": "UX Designer",
+"location": "London, England - Hybrid",
+"remote": null,
+"posted": "2026-11-25",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/harmonic-security-inc/ux-designer-london-468383",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-25"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-freelance-product-designer-basingstoke-262263",
+"company": "Wearebeyondsports",
+"title": "Senior Freelance Product Designer",
+"location": "Basingstoke",
+"remote": null,
+"posted": "2026-11-25",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/wearebeyondsports/senior-freelance-product-designer-basingstoke-262263",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-25"
+},
 {
 "id": "greenhouse:stripe:8397257",
 "company": "Stripe",
@@ -112,66 +160,6 @@
 "firstSeen": "2026-11-24"
 },
 {
-"id": "arbeitnow:Arbeitnow:ui-ux-designer-in-vollzeit-stuttgart-432291",
-"company": "MCI Solutions GmbH",
-"title": "UI/UX-Designer (m/w/d) in Vollzeit",
-"location": "Stuttgart",
-"remote": null,
-"posted": "2026-11-23",
-"url": "https://www.arbeitnow.com/jobs/companies/mci-solutions-gmbh/ui-ux-designer-in-vollzeit-stuttgart-432291",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-24"
-},
-{
-"id": "arbeitnow:Arbeitnow:lead-product-designer-manchester-480321",
-"company": "Street Group",
-"title": "Lead Product Designer",
-"location": "Manchester",
-"remote": null,
-"posted": "2026-11-23",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/street-group/lead-product-designer-manchester-480321",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-24"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-designer-food-retail-store-experience-dusseldorf-347389",
-"company": "Schweitzer Project Spa",
-"title": "Senior Designer Food Retail & Store Experience (w/m/d)",
-"location": "Düsseldorf",
-"remote": null,
-"posted": "2026-11-23",
-"url": "https://www.arbeitnow.com/jobs/companies/schweitzer-project-spa/senior-designer-food-retail-store-experience-dusseldorf-347389",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-24"
-},
-{
-"id": "arbeitnow:Arbeitnow:produktentwickler-designer-socken-footwear-berlin-56767",
-"company": "GC Footwear GmbH",
-"title": "Produktentwickler & Designer (M/W/D) - Socken & Footwear",
-"location": "Berlin",
-"remote": null,
-"posted": "2026-11-23",
-"url": "https://www.arbeitnow.com/jobs/companies/gc-footwear-gmbh/produktentwickler-designer-socken-footwear-berlin-56767",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-24"
-},
-{
-"id": "arbeitnow:Arbeitnow:ux-designer-at-setsales-london-84838",
-"company": "Setsales",
-"title": "UX designer at SetSales",
-"location": "London",
-"remote": null,
-"posted": "2026-11-22",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/setsales/ux-designer-at-setsales-london-84838",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-23"
-},
-{
 "id": "arbeitnow:Arbeitnow:senior-product-designer-remote-in-europe-amsterdam-443609",
 "company": "Finom",
 "title": "Senior Product Designer (Remote in Europe)",
@@ -179,18 +167,6 @@
 "remote": null,
 "posted": "2026-11-21",
 "url": "https://www.arbeitnow.nl/jobs/companies/finom/senior-product-designer-remote-in-europe-amsterdam-443609",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-21"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-optical-design-engineer-toulouse-315988",
-"company": "E-Space",
-"title": "Senior Optical Design Engineer",
-"location": "Toulouse",
-"remote": null,
-"posted": "2026-11-21",
-"url": "https://www.arbeitnow.fr/jobs/companies/e-space/senior-optical-design-engineer-toulouse-315988",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-21"
@@ -251,18 +227,6 @@
 "remote": null,
 "posted": "2026-11-19",
 "url": "https://www.arbeitnow.ch/jobs/companies/hyperscale-power/senior-mechanical-design-engineer-power-electronics-zurich-483575",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-19"
-},
-{
-"id": "arbeitnow:Arbeitnow:product-designer-ux-ui-rotterdam-60958",
-"company": "Wellis",
-"title": "Product Designer (UX/UI)",
-"location": "Rotterdam, Zuid-Holland, Netherlands",
-"remote": null,
-"posted": "2026-11-18",
-"url": "https://www.arbeitnow.nl/jobs/companies/wellis/product-designer-ux-ui-rotterdam-60958",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-19"
@@ -544,18 +508,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:intercom:7861866",
-"company": "Intercom",
-"title": "Senior Product Designer",
-"location": "London, England",
-"remote": null,
-"posted": "2026-11-20",
-"url": "https://job-boards.greenhouse.io/intercom/jobs/7861866",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:intercom:7862050",
 "company": "Intercom",
 "title": "Senior Product Designer",
@@ -568,13 +520,13 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:intercom:7862038",
+"id": "greenhouse:intercom:7861866",
 "company": "Intercom",
-"title": "Staff/Principal Product Designer",
-"location": "Dublin, Ireland",
+"title": "Senior Product Designer",
+"location": "London, England",
 "remote": null,
 "posted": "2026-11-20",
-"url": "https://job-boards.greenhouse.io/intercom/jobs/7862038",
+"url": "https://job-boards.greenhouse.io/intercom/jobs/7861866",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -587,6 +539,18 @@
 "remote": null,
 "posted": "2026-11-20",
 "url": "https://job-boards.greenhouse.io/intercom/jobs/7862042",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:intercom:7862038",
+"company": "Intercom",
+"title": "Staff/Principal Product Designer",
+"location": "Dublin, Ireland",
+"remote": null,
+"posted": "2026-11-20",
+"url": "https://job-boards.greenhouse.io/intercom/jobs/7862038",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -874,7 +838,7 @@
 "location": "London",
 "remote": "Hybrid",
 "posted": "2026-10-15",
-"url": "https://jobs.ashbyhq.com/lendable/207bb4cf-b1ae-4298-bb17-19dbcdcfa20a",
+"url": "https://jobs.ashbyhq.com/Zable/207bb4cf-b1ae-4298-bb17-19dbcdcfa20a",
 "source": "ashby",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -960,18 +924,6 @@
 "posted": "2026-08-07",
 "url": "https://jobs.smartrecruiters.com/Wise/744000142130824",
 "source": "smartrecruiters",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "ashby:lendable:42176bd7-78f8-422a-9187-f97131806ab2",
-"company": "Lendable",
-"title": "Creative Designer",
-"location": "London",
-"remote": "Hybrid",
-"posted": "2026-07-23",
-"url": "https://jobs.ashbyhq.com/lendable/42176bd7-78f8-422a-9187-f97131806ab2",
-"source": "ashby",
 "region": "Europe",
 "firstSeen": "2026-10-17"
 },

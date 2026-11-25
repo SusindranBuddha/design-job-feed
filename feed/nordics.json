@@ -1,8 +1,68 @@
 {
-"generated": "2026-11-24T23:29:52Z",
+"generated": "2026-11-25T11:21:14Z",
 "region": "Nordics",
-"count": 70,
+"count": 75,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31776818",
+"company": "H & M Hennes & Mauritz GBC AB",
+"title": "Technical Fit Designer H&M Womenswear",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-25",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31776818",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-25"
+},
+{
+"id": "platsbanken:Platsbanken:31776795",
+"company": "Quattro Bemanning & Rekrytering AB",
+"title": "UI/UX Designer – utveckla framtidens mobila applikationer",
+"location": "Lund",
+"remote": null,
+"posted": "2026-11-25",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31776795",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-25"
+},
+{
+"id": "platsbanken:Platsbanken:31775368",
+"company": "Sway Sourcing Sweden Aktiebolag",
+"title": "UI/UX Designer for Mobile App Development – Lund",
+"location": "Lund",
+"remote": null,
+"posted": "2026-11-25",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31775368",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-25"
+},
+{
+"id": "platsbanken:Platsbanken:31775348",
+"company": "Agile Resources AB",
+"title": "UI/UX-designer för mobila applikationer",
+"location": "Lund",
+"remote": null,
+"posted": "2026-11-25",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31775348",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-25"
+},
+{
+"id": "platsbanken:Platsbanken:31775344",
+"company": "Agile Resources AB",
+"title": "Senior UX Designer",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-25",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31775344",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-25"
+},
 {
 "id": "platsbanken:Platsbanken:31774693",
 "company": "Incluso AB",

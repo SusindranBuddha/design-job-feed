@@ -1,17 +1,125 @@
 {
-"generated": "2026-11-25T11:21:14Z",
+"generated": "2026-11-25T23:07:41Z",
 "region": "Europe",
 "count": 78,
 "jobs": [
 {
+"id": "ashby:lendable:a195d2de-1fc0-4baf-bf60-4c1c9a6683b5",
+"company": "Lendable",
+"title": "Senior Product Designer",
+"location": "London",
+"remote": "Hybrid",
+"posted": "2026-11-25",
+"url": "https://jobs.ashbyhq.com/Zable/a195d2de-1fc0-4baf-bf60-4c1c9a6683b5",
+"source": "ashby",
+"region": "Europe",
+"firstSeen": "2026-11-25"
+},
+{
 "id": "greenhouse:n26:8355849",
 "company": "N26",
 "title": "Associate Product Designer - Wealth building and Lending",
-"location": "Barcelona",
+"location": "Berlin",
 "remote": null,
 "posted": "2026-11-25",
 "url": "https://n26.com/en-eu/careers/positions/8355849?gh_jid=8355849",
 "source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-11-25"
+},
+{
+"id": "arbeitnow:Arbeitnow:remote-senior-ui-ux-artist-freelance-talent-pool-2027-netherlands-147530",
+"company": "Keywords Intl1",
+"title": "Senior UI/ UX Artist Freelance Talent Pool (2027)",
+"location": "Netherlands",
+"remote": "remote",
+"posted": "2026-11-25",
+"url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-ui-ux-artist-freelance-talent-pool-2027-netherlands-147530",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-25"
+},
+{
+"id": "arbeitnow:Arbeitnow:remote-senior-technical-designer-freelance-talent-pool-2027-opportunities-netherlands-483492",
+"company": "Keywords Intl1",
+"title": "Senior Technical Designer - Freelance Talent Pool (2027 Opportunities",
+"location": "Netherlands",
+"remote": "remote",
+"posted": "2026-11-25",
+"url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-technical-designer-freelance-talent-pool-2027-opportunities-netherlands-483492",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-25"
+},
+{
+"id": "arbeitnow:Arbeitnow:remote-senior-systems-designer-freelance-talent-pool-2027-opportunities-netherlands-253379",
+"company": "Keywords Intl1",
+"title": "Senior Systems Designer - Freelance Talent Pool (2027 Opportunities",
+"location": "Netherlands",
+"remote": "remote",
+"posted": "2026-11-25",
+"url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-systems-designer-freelance-talent-pool-2027-opportunities-netherlands-253379",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-25"
+},
+{
+"id": "arbeitnow:Arbeitnow:remote-senior-level-designer-freelance-talent-pool-2027-opportunities-netherlands-292459",
+"company": "Keywords Intl1",
+"title": "Senior Level Designer - Freelance Talent Pool (2027 Opportunities",
+"location": "Netherlands",
+"remote": "remote",
+"posted": "2026-11-25",
+"url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-level-designer-freelance-talent-pool-2027-opportunities-netherlands-292459",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-25"
+},
+{
+"id": "arbeitnow:Arbeitnow:remote-senior-boss-designer-freelance-talent-pool-2027-opportunities-netherlands-327619",
+"company": "Keywords Intl1",
+"title": "Senior Boss Designer - Freelance Talent Pool (2027 Opportunities",
+"location": "Netherlands",
+"remote": "remote",
+"posted": "2026-11-25",
+"url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-boss-designer-freelance-talent-pool-2027-opportunities-netherlands-327619",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-25"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-designer-team-lead-design-berlin-404432",
+"company": "PB3C GmbH",
+"title": "Senior Designer & Team Lead Design (m/w/d)",
+"location": "Berlin",
+"remote": null,
+"posted": "2026-11-25",
+"url": "https://www.arbeitnow.com/jobs/companies/pb3c-gmbh/senior-designer-team-lead-design-berlin-404432",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-25"
+},
+{
+"id": "arbeitnow:Arbeitnow:ux-ui-designerin-mit-shopify-fokus-all-genders-dresden-203313",
+"company": "Createsome Community GmbH",
+"title": "UX/UI Designer:in mit Shopify-Fokus (all genders)",
+"location": "Dresden",
+"remote": null,
+"posted": "2026-11-25",
+"url": "https://www.arbeitnow.com/jobs/companies/createsome-community-gmbh/ux-ui-designerin-mit-shopify-fokus-all-genders-dresden-203313",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-25"
+},
+{
+"id": "arbeitnow:Arbeitnow:artworker-jr-designer-peterborough-108812",
+"company": "Caddy Comps",
+"title": "Artworker / Jr Designer",
+"location": "Peterborough",
+"remote": null,
+"posted": "2026-11-25",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/caddy-comps/artworker-jr-designer-peterborough-108812",
+"source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-25"
 },
@@ -28,25 +136,37 @@
 "firstSeen": "2026-11-25"
 },
 {
-"id": "arbeitnow:Arbeitnow:ux-designer-london-468383",
-"company": "Harmonic Security Inc",
-"title": "UX Designer",
-"location": "London, England - Hybrid",
+"id": "arbeitnow:Arbeitnow:senior-product-designer-london-445132",
+"company": "Goodstack",
+"title": "Senior Product Designer",
+"location": "🇬🇧 London",
 "remote": null,
 "posted": "2026-11-25",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/harmonic-security-inc/ux-designer-london-468383",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/goodstack/senior-product-designer-london-445132",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-25"
 },
 {
-"id": "arbeitnow:Arbeitnow:senior-freelance-product-designer-basingstoke-262263",
-"company": "Wearebeyondsports",
-"title": "Senior Freelance Product Designer",
-"location": "Basingstoke",
+"id": "arbeitnow:Arbeitnow:product-designer-fin-london-387603",
+"company": "Goodmaven",
+"title": "Product Designer (Fin)",
+"location": "London, UK",
 "remote": null,
 "posted": "2026-11-25",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/wearebeyondsports/senior-freelance-product-designer-basingstoke-262263",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/goodmaven/product-designer-fin-london-387603",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-25"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-london-336115",
+"company": "Lendable",
+"title": "Senior Product Designer",
+"location": "London",
+"remote": null,
+"posted": "2026-11-25",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/senior-product-designer-london-336115",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-25"
@@ -88,54 +208,6 @@
 "firstSeen": "2026-11-24"
 },
 {
-"id": "arbeitnow:Arbeitnow:senior-product-designer-saas-munchen-389684",
-"company": "Techpilot",
-"title": "Senior Product Designer SaaS (m/w/d)",
-"location": "München",
-"remote": null,
-"posted": "2026-11-24",
-"url": "https://www.arbeitnow.com/jobs/companies/techpilot/senior-product-designer-saas-munchen-389684",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-24"
-},
-{
-"id": "arbeitnow:Arbeitnow:design-engineer-london-467699",
-"company": "Tldraw",
-"title": "Design Engineer",
-"location": "London Office",
-"remote": null,
-"posted": "2026-11-24",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/tldraw/design-engineer-london-467699",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-24"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-match-3-level-designer-new-game-london-417626",
-"company": "Supercell",
-"title": "Senior Match-3 Level Designer, New Game",
-"location": "London",
-"remote": null,
-"posted": "2026-11-24",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/supercell/senior-match-3-level-designer-new-game-london-417626",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-24"
-},
-{
-"id": "arbeitnow:Arbeitnow:design-engineer-london-198430",
-"company": "Spaitial",
-"title": "Design Engineer",
-"location": "London",
-"remote": null,
-"posted": "2026-11-24",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/spaitial/design-engineer-london-198430",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-24"
-},
-{
 "id": "smartrecruiters:Wise:744000163216250",
 "company": "Wise",
 "title": "Staff Product Designer – Tooling Platform",
@@ -144,18 +216,6 @@
 "posted": "2026-11-23",
 "url": "https://jobs.smartrecruiters.com/Wise/744000163216250",
 "source": "smartrecruiters",
-"region": "Europe",
-"firstSeen": "2026-11-24"
-},
-{
-"id": "arbeitnow:Arbeitnow:graduate-industrial-design-engineer-2027-start-66004",
-"company": "Cambridgeconsultantslimited",
-"title": "Graduate Industrial Design Engineer - (2027 start)",
-"location": "",
-"remote": null,
-"posted": "2026-11-23",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-industrial-design-engineer-2027-start-66004",
-"source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-24"
 },
@@ -170,18 +230,6 @@
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-21"
-},
-{
-"id": "smartrecruiters:Wise:744000162757629",
-"company": "Wise",
-"title": "Staff Product Designer - Money Movement",
-"location": "London, gb",
-"remote": null,
-"posted": "2026-11-20",
-"url": "https://jobs.smartrecruiters.com/Wise/744000162757629",
-"source": "smartrecruiters",
-"region": "Europe",
-"firstSeen": "2026-11-20"
 },
 {
 "id": "greenhouse:hellofresh:8259030",
@@ -218,18 +266,6 @@
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-20"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-mechanical-design-engineer-power-electronics-zurich-483575",
-"company": "Hyperscale Power",
-"title": "Senior Mechanical Design Engineer (Power Electronics)",
-"location": "Zürich",
-"remote": null,
-"posted": "2026-11-19",
-"url": "https://www.arbeitnow.ch/jobs/companies/hyperscale-power/senior-mechanical-design-engineer-power-electronics-zurich-483575",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-19"
 },
 {
 "id": "greenhouse:okta:8022979",
@@ -532,18 +568,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:intercom:7862042",
-"company": "Intercom",
-"title": "Staff/Principal Product Designer",
-"location": "London, England",
-"remote": null,
-"posted": "2026-11-20",
-"url": "https://job-boards.greenhouse.io/intercom/jobs/7862042",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:intercom:7862038",
 "company": "Intercom",
 "title": "Staff/Principal Product Designer",
@@ -551,6 +575,18 @@
 "remote": null,
 "posted": "2026-11-20",
 "url": "https://job-boards.greenhouse.io/intercom/jobs/7862038",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:intercom:7862042",
+"company": "Intercom",
+"title": "Staff/Principal Product Designer",
+"location": "London, England",
+"remote": null,
+"posted": "2026-11-20",
+"url": "https://job-boards.greenhouse.io/intercom/jobs/7862042",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -688,18 +724,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:hellofresh:8242900",
-"company": "HelloFresh",
-"title": "Senior Service Designer, Food Systems & Fulfillment",
-"location": "Warszawa, Masovian Voivodeship, Poland",
-"remote": null,
-"posted": "2026-11-17",
-"url": "https://careers.hellofresh.com/global/en/job/8242900?gh_jid=8242900",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:ebury:5006123101",
 "company": "Ebury",
 "title": "Senior Product Designer - Mobile",
@@ -832,18 +856,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "ashby:lendable:207bb4cf-b1ae-4298-bb17-19dbcdcfa20a",
-"company": "Lendable",
-"title": "Senior Product Designer",
-"location": "London",
-"remote": "Hybrid",
-"posted": "2026-10-15",
-"url": "https://jobs.ashbyhq.com/Zable/207bb4cf-b1ae-4298-bb17-19dbcdcfa20a",
-"source": "ashby",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "ashby:perk:78dafbf1-0f6d-46b7-b71a-2c59f7af31cf",
 "company": "Perk (TravelPerk)",
 "title": "Senior Design Systems Designer",
@@ -911,18 +923,6 @@
 "remote": null,
 "posted": "2026-08-07",
 "url": "https://jobs.smartrecruiters.com/Wise/744000142161034",
-"source": "smartrecruiters",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "smartrecruiters:Wise:744000142130824",
-"company": "Wise",
-"title": "Staff Product Designer - Wise Assistant Experience",
-"location": "London, gb",
-"remote": null,
-"posted": "2026-08-07",
-"url": "https://jobs.smartrecruiters.com/Wise/744000142130824",
 "source": "smartrecruiters",
 "region": "Europe",
 "firstSeen": "2026-10-17"

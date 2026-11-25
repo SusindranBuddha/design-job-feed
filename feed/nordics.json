@@ -1,8 +1,20 @@
 {
-"generated": "2026-11-25T11:21:14Z",
+"generated": "2026-11-25T23:07:41Z",
 "region": "Nordics",
-"count": 75,
+"count": 73,
 "jobs": [
+{
+"id": "greenhouse:oura:4519420009",
+"company": "Oura",
+"title": "Senior Packaging Product Design Engineer",
+"location": "Hybrid - San Francisco, California",
+"remote": null,
+"posted": "2026-11-25",
+"url": "https://job-boards.greenhouse.io/oura/jobs/4519420009",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-11-25"
+},
 {
 "id": "platsbanken:Platsbanken:31776818",
 "company": "H & M Hennes & Mauritz GBC AB",
@@ -64,6 +76,30 @@
 "firstSeen": "2026-11-25"
 },
 {
+"id": "platsbanken:Platsbanken:31778822",
+"company": "Veritaz AB",
+"title": "Electrical Design engineer - 21040",
+"location": "Mjölby",
+"remote": null,
+"posted": "2026-11-25",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31778822",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-25"
+},
+{
+"id": "platsbanken:Platsbanken:31778709",
+"company": "Veritaz AB",
+"title": "Design Engineer Core Turbine Integration (CTI) - 21035",
+"location": "Finspång",
+"remote": null,
+"posted": "2026-11-25",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31778709",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-25"
+},
+{
 "id": "platsbanken:Platsbanken:31774693",
 "company": "Incluso AB",
 "title": "UI/UX Designer",
@@ -71,18 +107,6 @@
 "remote": null,
 "posted": "2026-11-24",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31774693",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-24"
-},
-{
-"id": "platsbanken:Platsbanken:31774221",
-"company": "Sway Sourcing Sweden Aktiebolag",
-"title": "Senior UX Designer – Digital Banking, Stockholm",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-11-24",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31774221",
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-11-24"
@@ -220,18 +244,6 @@
 "firstSeen": "2026-11-20"
 },
 {
-"id": "platsbanken:Platsbanken:31758244",
-"company": "Hey Idun AB",
-"title": "Design Engineer",
-"location": "Nybro",
-"remote": null,
-"posted": "2026-11-20",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31758244",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-20"
-},
-{
 "id": "platsbanken:Platsbanken:31756864",
 "company": "Arrowhead Game Studios AB",
 "title": "Senior Game Designer",
@@ -328,18 +340,6 @@
 "firstSeen": "2026-11-19"
 },
 {
-"id": "platsbanken:Platsbanken:31755013",
-"company": "Hykmann Global Business Solutions AB",
-"title": "Digital Design Engineer Fighter Radar & Defence Electronics",
-"location": "Göteborg",
-"remote": null,
-"posted": "2026-11-19",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31755013",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-19"
-},
-{
 "id": "platsbanken:Platsbanken:31747892",
 "company": "Sway Sourcing Sweden Aktiebolag",
 "title": "UX Designer – B2B & Enterprise Applications – Stockholm",
@@ -398,18 +398,6 @@
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-11-16"
-},
-{
-"id": "platsbanken:Platsbanken:31726360",
-"company": "Quest Consulting Sverige AB",
-"title": "Senior UX/UI Designer",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-11-13",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31726360",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-13"
 },
 {
 "id": "platsbanken:Platsbanken:31724445",
@@ -638,18 +626,6 @@
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-10-28"
-},
-{
-"id": "platsbanken:Platsbanken:31643632",
-"company": "ALSTOM Transport AB",
-"title": "Program V&V Test Designer - 530990",
-"location": "Västerås",
-"remote": null,
-"posted": "2026-10-26",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31643632",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-26"
 },
 {
 "id": "platsbanken:Platsbanken:31636620",

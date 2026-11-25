@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-25T11:21:14Z",
+"generated": "2026-11-25T23:07:41Z",
 "region": "APAC",
-"count": 83,
+"count": 80,
 "jobs": [
 {
 "id": "mcf:MyCareersFuture:a77f43ba00a732971cbfd81bd37f7008",
@@ -805,45 +805,6 @@
 "region": "APAC",
 "salary": "SGD 7100-9700 /Monthly",
 "firstSeen": "2026-10-29"
-},
-{
-"id": "mcf:MyCareersFuture:64f9ef5973d3b7f825ec247db512d455",
-"company": "CYBERBOT (S) PTE. LTD.",
-"title": "UI/UX Designer (Mobile Applications)",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-26",
-"url": "https://www.mycareersfuture.gov.sg/job/design/uiux-designer-cyberbot-64f9ef5973d3b7f825ec247db512d455",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 3000-5000 /Monthly",
-"firstSeen": "2026-10-26"
-},
-{
-"id": "mcf:MyCareersFuture:a10bdf35ba1f831ac33f05f3fcbcdb13",
-"company": "CYBERBOT (S) PTE. LTD.",
-"title": "Senior UI/UX Designer (Mobile Applications)",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-26",
-"url": "https://www.mycareersfuture.gov.sg/job/design/senior-uiux-designer-cyberbot-a10bdf35ba1f831ac33f05f3fcbcdb13",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 6000-8000 /Monthly",
-"firstSeen": "2026-10-26"
-},
-{
-"id": "mcf:MyCareersFuture:dfab0aeac6d75b986eb558dcfaca5dd9",
-"company": "PERCEPT SOLUTIONS PTE. LTD.",
-"title": "Senior UX Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-10-26",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-ux-designer-percept-solutions-dfab0aeac6d75b986eb558dcfaca5dd9",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 10000-11500 /Monthly",
-"firstSeen": "2026-10-26"
 },
 {
 "id": "mcf:MyCareersFuture:30e240fe43348379dcac1fdf6396f183",

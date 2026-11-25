@@ -1,8 +1,20 @@
 {
-"generated": "2026-11-25T11:21:14Z",
+"generated": "2026-11-25T23:07:41Z",
 "region": "Remote",
-"count": 187,
+"count": 194,
 "jobs": [
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/ehvert-engineering-inc/jobs/senior-ict-designer-canada",
+"company": "Ehvert Engineering Inc.",
+"title": "Senior ICT Designer (Canada)",
+"location": "Canada",
+"remote": "remote",
+"posted": "2026-11-25",
+"url": "https://himalayas.app/companies/ehvert-engineering-inc/jobs/senior-ict-designer-canada?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-25"
+},
 {
 "id": "himalayas:Himalayas:https://himalayas.app/companies/givelify/jobs/lead-product-designer",
 "company": "Givelify",
@@ -28,13 +40,13 @@
 "firstSeen": "2026-11-25"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/instacart/jobs/product-designer-ii-l4-ads-experiences",
-"company": "Instacart",
-"title": "Product Designer II (L4) - Ads Experiences",
+"id": "himalayas:Himalayas:https://himalayas.app/companies/techopx/jobs/product-designer-mobile-commerce",
+"company": "TechOpX",
+"title": "Product Designer, Mobile Commerce",
 "location": "United States",
 "remote": "remote",
-"posted": "2026-10-29",
-"url": "https://himalayas.app/companies/instacart/jobs/product-designer-ii-l4-ads-experiences?utm_source=api",
+"posted": "2026-10-13",
+"url": "https://himalayas.app/companies/techopx/jobs/product-designer-mobile-commerce?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-25"
@@ -256,6 +268,18 @@
 "firstSeen": "2026-11-21"
 },
 {
+"id": "jobicy:Jobicy:163712",
+"company": "LastPass",
+"title": "Senior Product Design Manager",
+"location": "Hungary",
+"remote": "remote",
+"posted": "2026-11-21",
+"url": "https://jobicy.com/jobs/163712-senior-product-design-manager",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-21"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/stefanini/jobs/disenador-ui-design-system-aplicaciones-mobile-proyecto-de-3-meses",
 "company": "Stefanini",
 "title": "Diseñador UI (Design System & Aplicaciones Mobile) - Proyecto de 3 meses",
@@ -400,6 +424,18 @@
 "firstSeen": "2026-11-20"
 },
 {
+"id": "jobicy:Jobicy:163473",
+"company": "Phantom",
+"title": "Product Designer",
+"location": "USA",
+"remote": "remote",
+"posted": "2026-11-20",
+"url": "https://jobicy.com/jobs/163473-product-designer-6",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-20"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/atomic-hr/jobs/ux-experience-systems-designer-websites-for-universities-remote-latam",
 "company": "Atomic HR",
 "title": "UX & Experience Systems Designer | Websites for Universities | Remote (LATAM) 🎨🎓",
@@ -468,6 +504,18 @@
 "posted": "2026-11-19",
 "url": "https://jobs.ashbyhq.com/n8n/10ad6075-8917-4812-af67-d83e25ac1031",
 "source": "ashby",
+"region": "Remote",
+"firstSeen": "2026-11-19"
+},
+{
+"id": "jobicy:Jobicy:163237",
+"company": "BJAK",
+"title": "UI Designer - AI Neobank App",
+"location": "Germany",
+"remote": "remote",
+"posted": "2026-11-19",
+"url": "https://jobicy.com/jobs/163237-ui-designer-ai-neobank-app",
+"source": "Jobicy",
 "region": "Remote",
 "firstSeen": "2026-11-19"
 },
@@ -1168,6 +1216,30 @@
 "firstSeen": "2026-10-23"
 },
 {
+"id": "jobicy:Jobicy:156358",
+"company": "AlphaSense",
+"title": "Senior/Staff Product Designer",
+"location": "UK",
+"remote": "remote",
+"posted": "2026-11-22",
+"url": "https://jobicy.com/jobs/156358-senior-staff-product-designer",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-22"
+},
+{
+"id": "jobicy:Jobicy:156212",
+"company": "Life360",
+"title": "Senior Product Designer II, Revenue Experimentation",
+"location": "Canada, USA",
+"remote": "remote",
+"posted": "2026-11-21",
+"url": "https://jobicy.com/jobs/156212-senior-product-designer-ii-revenue-experimentation",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-22"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/granum/jobs/senior-product-designer",
 "company": "Granum",
 "title": "Senior Product Designer",
@@ -1226,6 +1298,18 @@
 "source": "lever",
 "region": "Remote",
 "firstSeen": "2026-10-22"
+},
+{
+"id": "jobicy:Jobicy:156135",
+"company": "Envato",
+"title": "Product Designer - Visual Craft & AI",
+"location": "Australia, New Zealand",
+"remote": "remote",
+"posted": "2026-11-21",
+"url": "https://jobicy.com/jobs/156135-product-designer-visual-craft-ai",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-21"
 },
 {
 "id": "himalayas:Himalayas:https://himalayas.app/companies/gladly/jobs/senior-product-designer-ai-platform",

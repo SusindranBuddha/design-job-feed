@@ -1,8 +1,34 @@
 {
-"generated": "2026-11-25T23:07:41Z",
+"generated": "2026-11-26T10:57:03Z",
 "region": "APAC",
-"count": 80,
+"count": 81,
 "jobs": [
+{
+"id": "mcf:MyCareersFuture:1e4ab9cb552db77fb8d02639405dedf1",
+"company": "BGC GROUP PTE. LTD.",
+"title": "UX/ Product Designer (Figma | Public Sector | 12-24 months contact)",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-26",
+"url": "https://www.mycareersfuture.gov.sg/job/design/ux-product-designer-bgc-group-1e4ab9cb552db77fb8d02639405dedf1",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 6000-8000 /Monthly",
+"firstSeen": "2026-11-26"
+},
+{
+"id": "mcf:MyCareersFuture:93c3b28d1a958619e47022ab080f8887",
+"company": "MOLEX SINGAPORE PTE. LTD.",
+"title": "UI/UX Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-26",
+"url": "https://www.mycareersfuture.gov.sg/job/design/uiux-designer-molex-singapore-93c3b28d1a958619e47022ab080f8887",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 4000-6000 /Monthly",
+"firstSeen": "2026-11-26"
+},
 {
 "id": "mcf:MyCareersFuture:a77f43ba00a732971cbfd81bd37f7008",
 "company": "WSH EXPERTS PTE. LTD.",
@@ -197,19 +223,6 @@
 "region": "APAC",
 "salary": "SGD 4500-6500 /Monthly",
 "firstSeen": "2026-11-22"
-},
-{
-"id": "mcf:MyCareersFuture:3f4b9111c4a4cddf37faf511ac8630ca",
-"company": "RSM STONE FOREST ACCOUNTSERVE PTE. LTD.",
-"title": "Senior Product Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-11-20",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-product-designer-addepar-singapore-3f4b9111c4a4cddf37faf511ac8630ca",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 10000-15000 /Monthly",
-"firstSeen": "2026-11-20"
 },
 {
 "id": "mcf:MyCareersFuture:ff4f621775308cee6d1d60b9353e1db5",
@@ -729,19 +742,6 @@
 "firstSeen": "2026-11-02"
 },
 {
-"id": "mcf:MyCareersFuture:b0595295ed685b70eea27937f5b73e74",
-"company": "TALENTSIS PTE. LTD.",
-"title": "UI/UX Engineer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-11-02",
-"url": "https://www.mycareersfuture.gov.sg/job/engineering/uiux-engineer-talentsis-b0595295ed685b70eea27937f5b73e74",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 4500-6500 /Monthly",
-"firstSeen": "2026-11-02"
-},
-{
 "id": "mcf:MyCareersFuture:0bf06bd76b6637d346306d103cb1279a",
 "company": "HELIUS TECHNOLOGIES PTE. LTD.",
 "title": "UX/UI Product Designer",
@@ -818,6 +818,19 @@
 "region": "APAC",
 "salary": "SGD 3000-4800 /Monthly",
 "firstSeen": "2026-10-24"
+},
+{
+"id": "mcf:MyCareersFuture:612aed06159204ac846034c42fc0b3b7",
+"company": "TAIDII PTE. LTD.",
+"title": "UI/ UX Designer [EdTech Products]",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-26",
+"url": "https://www.mycareersfuture.gov.sg/job/design/ui-ux-designer-edtech-products-taidii-612aed06159204ac846034c42fc0b3b7",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 6000-9000 /Monthly",
+"firstSeen": "2026-10-21"
 },
 {
 "id": "mcf:MyCareersFuture:7c2800f5061217d64d41d01fd478ac06",
@@ -1023,7 +1036,7 @@
 "url": "https://hcf.wd105.myworkdayjobs.com/HCF_External_Career_Site/job/Sydney-CBD/Senior-Digital-Product-Designer_JR104415",
 "source": "workday",
 "region": "APAC",
-"postedText": "Posted 5 Days Ago",
+"postedText": "Posted 6 Days Ago",
 "firstSeen": "2026-10-17"
 }
 ]

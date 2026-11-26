@@ -1,8 +1,44 @@
 {
-"generated": "2026-11-25T23:07:41Z",
+"generated": "2026-11-26T10:57:03Z",
 "region": "Nordics",
-"count": 73,
+"count": 74,
 "jobs": [
+{
+"id": "platsbanken:Platsbanken:31781434",
+"company": "Soros Consulting AB",
+"title": "Senior Service Designer, Södertälje",
+"location": "Södertälje",
+"remote": null,
+"posted": "2026-11-26",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31781434",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-26"
+},
+{
+"id": "platsbanken:Platsbanken:31780198",
+"company": "Agile Resources AB",
+"title": "Senior Service Designer",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-26",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31780198",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-26"
+},
+{
+"id": "platsbanken:Platsbanken:31780597",
+"company": "Volvo Business Services Aktiebolag",
+"title": "System Design Engineer",
+"location": "Göteborg",
+"remote": null,
+"posted": "2026-11-26",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31780597",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-26"
+},
 {
 "id": "greenhouse:oura:4519420009",
 "company": "Oura",
@@ -172,18 +208,6 @@
 "firstSeen": "2026-11-24"
 },
 {
-"id": "platsbanken:Platsbanken:31768599",
-"company": "Quest Consulting Sverige AB",
-"title": "UX Designer",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-11-23",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31768599",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-24"
-},
-{
 "id": "platsbanken:Platsbanken:31766864",
 "company": "Soros Consulting AB",
 "title": "Senior UX-ansvarig Kollektivtrafik (Malmö)",
@@ -239,18 +263,6 @@
 "remote": null,
 "posted": "2026-11-20",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31759007",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-20"
-},
-{
-"id": "platsbanken:Platsbanken:31756864",
-"company": "Arrowhead Game Studios AB",
-"title": "Senior Game Designer",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-11-20",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31756864",
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-11-20"
@@ -748,18 +760,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:alphasense:8531119002",
-"company": "AlphaSense",
-"title": "Senior/Staff Product Designer",
-"location": "Remote - United Kingdom",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:alphasense:8530664002",
 "company": "AlphaSense",
 "title": "Senior/Staff Product Designer",
@@ -767,6 +767,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:alphasense:8531119002",
+"company": "AlphaSense",
+"title": "Senior/Staff Product Designer",
+"location": "Remote - United Kingdom",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"

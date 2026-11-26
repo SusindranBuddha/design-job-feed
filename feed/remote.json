@@ -1,8 +1,20 @@
 {
-"generated": "2026-11-25T23:07:41Z",
+"generated": "2026-11-26T10:57:03Z",
 "region": "Remote",
-"count": 194,
+"count": 196,
 "jobs": [
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/cisco/jobs/lead-product-designer-ai-and-platform-experience-3500042868",
+"company": "Cisco",
+"title": "Lead Product Designer - AI and Platform Experience",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-11-26",
+"url": "https://himalayas.app/companies/cisco/jobs/lead-product-designer-ai-and-platform-experience-3500042868?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-26"
+},
 {
 "id": "himalayas:Himalayas:https://himalayas.app/companies/ehvert-engineering-inc/jobs/senior-ict-designer-canada",
 "company": "Ehvert Engineering Inc.",
@@ -23,18 +35,6 @@
 "remote": "remote",
 "posted": "2026-11-19",
 "url": "https://himalayas.app/companies/givelify/jobs/lead-product-designer?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-11-25"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/ehvert-engineering-inc/jobs/fire-alarm-fire-protection-design-engineer",
-"company": "Ehvert Engineering Inc.",
-"title": "Fire Alarm & Fire Protection Design Engineer",
-"location": "Ukraine",
-"remote": "remote",
-"posted": "2026-11-19",
-"url": "https://himalayas.app/companies/ehvert-engineering-inc/jobs/fire-alarm-fire-protection-design-engineer?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-25"
@@ -412,6 +412,18 @@
 "firstSeen": "2026-11-21"
 },
 {
+"id": "himalayas:Himalayas:https://himalayas.app/companies/atomic-hr/jobs/ux-experience-systems-designer-websites-for-universities-remote-latam",
+"company": "Atomic HR",
+"title": "UX & Experience Systems Designer | Websites for Universities | Remote (LATAM) 🎨🎓",
+"location": "Argentina, Bolivia, Chile, Colombia, Costa Rica, Ecuador, Guatemala, Mexico, Panama, Peru, Uruguay",
+"remote": "remote",
+"posted": "2026-11-26",
+"url": "https://himalayas.app/companies/atomic-hr/jobs/ux-experience-systems-designer-websites-for-universities-remote-latam?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-20"
+},
+{
 "id": "ashby:clera:c542ed3a-097e-42bc-a847-391e0cab9d3b",
 "company": "Clera",
 "title": "Founding Designer",
@@ -432,18 +444,6 @@
 "posted": "2026-11-20",
 "url": "https://jobicy.com/jobs/163473-product-designer-6",
 "source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-11-20"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/atomic-hr/jobs/ux-experience-systems-designer-websites-for-universities-remote-latam",
-"company": "Atomic HR",
-"title": "UX & Experience Systems Designer | Websites for Universities | Remote (LATAM) 🎨🎓",
-"location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, C",
-"remote": "remote",
-"posted": "2026-11-20",
-"url": "https://himalayas.app/companies/atomic-hr/jobs/ux-experience-systems-designer-websites-for-universities-remote-latam?utm_source=api",
-"source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-20"
 },
@@ -504,18 +504,6 @@
 "posted": "2026-11-19",
 "url": "https://jobs.ashbyhq.com/n8n/10ad6075-8917-4812-af67-d83e25ac1031",
 "source": "ashby",
-"region": "Remote",
-"firstSeen": "2026-11-19"
-},
-{
-"id": "jobicy:Jobicy:163237",
-"company": "BJAK",
-"title": "UI Designer - AI Neobank App",
-"location": "Germany",
-"remote": "remote",
-"posted": "2026-11-19",
-"url": "https://jobicy.com/jobs/163237-ui-designer-ai-neobank-app",
-"source": "Jobicy",
 "region": "Remote",
 "firstSeen": "2026-11-19"
 },
@@ -1070,6 +1058,54 @@
 "source": "Jobicy",
 "region": "Remote",
 "firstSeen": "2026-10-26"
+},
+{
+"id": "jobicy:Jobicy:154008",
+"company": "TrustedHousesitters",
+"title": "Senior Product Designer",
+"location": "UK",
+"remote": "remote",
+"posted": "2026-11-26",
+"url": "https://jobicy.com/jobs/154008-senior-product-designer-14",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-25"
+},
+{
+"id": "jobicy:Jobicy:154021",
+"company": "Ashby",
+"title": "Design Engineer - EU",
+"location": "Croatia, Estonia, Germany, Ireland, Italy, Portugal, Romania, Spain, Sweden, Switzerland",
+"remote": "remote",
+"posted": "2026-11-26",
+"url": "https://jobicy.com/jobs/154021-design-engineer-eu",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-25"
+},
+{
+"id": "jobicy:Jobicy:153996",
+"company": "Carrot",
+"title": "Product Design Lead",
+"location": "USA",
+"remote": "remote",
+"posted": "2026-11-26",
+"url": "https://jobicy.com/jobs/153996-product-design-lead",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-25"
+},
+{
+"id": "jobicy:Jobicy:154023",
+"company": "Ashby",
+"title": "Design Engineer - UK",
+"location": "UK",
+"remote": "remote",
+"posted": "2026-11-26",
+"url": "https://jobicy.com/jobs/154023-design-engineer-uk",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-25"
 },
 {
 "id": "jobicy:Jobicy:156914",
@@ -1979,18 +2015,6 @@
 "remote": "remote",
 "posted": "2026-11-19",
 "url": "https://himalayas.app/companies/skillhat/jobs/product-design-ux-ui-teaching-assistant-canada?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/dealeron/jobs/ux-designer",
-"company": "DealerOn",
-"title": "UX Designer",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-11-19",
-"url": "https://himalayas.app/companies/dealeron/jobs/ux-designer?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-17"

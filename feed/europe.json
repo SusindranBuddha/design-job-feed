@@ -1,8 +1,44 @@
 {
-"generated": "2026-11-25T23:07:41Z",
+"generated": "2026-11-26T10:57:03Z",
 "region": "Europe",
-"count": 78,
+"count": 77,
 "jobs": [
+{
+"id": "arbeitnow:Arbeitnow:remote-founding-product-designer-471103",
+"company": "3Ive",
+"title": "Founding Product Designer",
+"location": "Remote Germany",
+"remote": null,
+"posted": "2026-11-26",
+"url": "https://www.arbeitnow.com/jobs/companies/3ive/remote-founding-product-designer-471103",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-26"
+},
+{
+"id": "arbeitnow:Arbeitnow:elektrokonstrukteur-electrical-design-engineer-wurzburg-176305",
+"company": "AXSOL GmbH",
+"title": "Elektrokonstrukteur / Electrical Design Engineer (m/w/d)",
+"location": "Würzburg",
+"remote": null,
+"posted": "2026-11-26",
+"url": "https://www.arbeitnow.com/jobs/companies/axsol-gmbh/elektrokonstrukteur-electrical-design-engineer-wurzburg-176305",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-26"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-due-diligence-design-engineer-emea-apac-london-157605",
+"company": "Coreweaveu",
+"title": "Senior Due Diligence Design Engineer - EMEA/APAC",
+"location": "London",
+"remote": null,
+"posted": "2026-11-26",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/senior-due-diligence-design-engineer-emea-apac-london-157605",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-26"
+},
 {
 "id": "ashby:lendable:a195d2de-1fc0-4baf-bf60-4c1c9a6683b5",
 "company": "Lendable",
@@ -100,6 +136,18 @@
 "firstSeen": "2026-11-25"
 },
 {
+"id": "arbeitnow:Arbeitnow:product-designer-contract-paris-209160",
+"company": "Lemrock",
+"title": "Product Designer (Contract)",
+"location": "Paris",
+"remote": null,
+"posted": "2026-11-25",
+"url": "https://www.arbeitnow.fr/jobs/companies/lemrock/product-designer-contract-paris-209160",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-25"
+},
+{
 "id": "arbeitnow:Arbeitnow:ux-ui-designerin-mit-shopify-fokus-all-genders-dresden-203313",
 "company": "Createsome Community GmbH",
 "title": "UX/UI Designer:in mit Shopify-Fokus (all genders)",
@@ -119,18 +167,6 @@
 "remote": null,
 "posted": "2026-11-25",
 "url": "https://www.arbeitnow.co.uk/jobs/companies/caddy-comps/artworker-jr-designer-peterborough-108812",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-25"
-},
-{
-"id": "arbeitnow:Arbeitnow:product-designer-contract-paris-209160",
-"company": "Lemrock",
-"title": "Product Designer (Contract)",
-"location": "Paris",
-"remote": null,
-"posted": "2026-11-25",
-"url": "https://www.arbeitnow.fr/jobs/companies/lemrock/product-designer-contract-paris-209160",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-25"
@@ -160,18 +196,6 @@
 "firstSeen": "2026-11-25"
 },
 {
-"id": "arbeitnow:Arbeitnow:senior-product-designer-london-336115",
-"company": "Lendable",
-"title": "Senior Product Designer",
-"location": "London",
-"remote": null,
-"posted": "2026-11-25",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/senior-product-designer-london-336115",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-25"
-},
-{
 "id": "greenhouse:stripe:8397257",
 "company": "Stripe",
 "title": "Designer, Web Presence & Platform",
@@ -180,30 +204,6 @@
 "posted": "2026-11-24",
 "url": "https://stripe.com/jobs/search?gh_jid=8397257",
 "source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-11-24"
-},
-{
-"id": "arbeitnow:Arbeitnow:ux-ui-designerin-berlin-308229",
-"company": "Jonasundderwolf",
-"title": "UX/UI-Designer*in (m/w/d)",
-"location": "Berlin",
-"remote": null,
-"posted": "2026-11-24",
-"url": "https://www.arbeitnow.com/jobs/companies/jonasundderwolf/ux-ui-designerin-berlin-308229",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-24"
-},
-{
-"id": "arbeitnow:Arbeitnow:hardwareentwickler-automotive-altium-designer-stuttgart-478773",
-"company": "pmX Group",
-"title": "Hardwareentwickler – Automotive / Altium Designer (m/w/d)",
-"location": "Stuttgart",
-"remote": null,
-"posted": "2026-11-24",
-"url": "https://www.arbeitnow.com/jobs/companies/pmx-group/hardwareentwickler-automotive-altium-designer-stuttgart-478773",
-"source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-24"
 },
@@ -251,18 +251,6 @@
 "remote": null,
 "posted": "2026-11-20",
 "url": "https://www.arbeitnow.ch/jobs/companies/lever-implementation-training-environment/hardware-design-engineer-zurich-switzerland-303509",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-20"
-},
-{
-"id": "arbeitnow:Arbeitnow:product-designer-geneva-411308",
-"company": "Sonarsource",
-"title": "Product Designer",
-"location": "Geneva",
-"remote": null,
-"posted": "2026-11-20",
-"url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/product-designer-geneva-411308",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-20"
@@ -568,18 +556,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:intercom:7862038",
-"company": "Intercom",
-"title": "Staff/Principal Product Designer",
-"location": "Dublin, Ireland",
-"remote": null,
-"posted": "2026-11-20",
-"url": "https://job-boards.greenhouse.io/intercom/jobs/7862038",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:intercom:7862042",
 "company": "Intercom",
 "title": "Staff/Principal Product Designer",
@@ -587,6 +563,18 @@
 "remote": null,
 "posted": "2026-11-20",
 "url": "https://job-boards.greenhouse.io/intercom/jobs/7862042",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:intercom:7862038",
+"company": "Intercom",
+"title": "Staff/Principal Product Designer",
+"location": "Dublin, Ireland",
+"remote": null,
+"posted": "2026-11-20",
+"url": "https://job-boards.greenhouse.io/intercom/jobs/7862038",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"

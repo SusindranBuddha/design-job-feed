@@ -1,8 +1,68 @@
 {
-"generated": "2026-11-26T10:57:03Z",
+"generated": "2026-11-26T23:00:26Z",
 "region": "Europe",
-"count": 77,
+"count": 79,
 "jobs": [
+{
+"id": "smartrecruiters:Wise:744000163886936",
+"company": "Wise",
+"title": "Senior Product Designer - Scalable Growth",
+"location": "London, gb",
+"remote": null,
+"posted": "2026-11-26",
+"url": "https://jobs.smartrecruiters.com/Wise/744000163886936",
+"source": "smartrecruiters",
+"region": "Europe",
+"firstSeen": "2026-11-26"
+},
+{
+"id": "greenhouse:intercom:6706842",
+"company": "Intercom",
+"title": "Staff/Principal Product Designer",
+"location": "Berlin, Germany",
+"remote": null,
+"posted": "2026-11-26",
+"url": "https://job-boards.greenhouse.io/intercom/jobs/6706842",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-11-26"
+},
+{
+"id": "arbeitnow:Arbeitnow:service-designer-consultant-senior-consultant-deutschlandweit-munich-227914",
+"company": "Infosys Consulting Europe",
+"title": "Service Designer - Consultant / Senior Consultant- Deutschlandweit",
+"location": "Munich, Germany",
+"remote": null,
+"posted": "2026-11-26",
+"url": "https://www.arbeitnow.com/jobs/companies/infosys-consulting-europe/service-designer-consultant-senior-consultant-deutschlandweit-munich-227914",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-26"
+},
+{
+"id": "arbeitnow:Arbeitnow:lead-product-designer-cardiff-332155",
+"company": "Monzo",
+"title": "Lead Product Designer",
+"location": "Cardiff",
+"remote": null,
+"posted": "2026-11-26",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/lead-product-designer-cardiff-332155",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-26"
+},
+{
+"id": "arbeitnow:Arbeitnow:staff-product-designer-b2c-zurich-221000",
+"company": "Getyourguide",
+"title": "Staff Product Designer (B2C)",
+"location": "Zurich",
+"remote": null,
+"posted": "2026-11-26",
+"url": "https://www.arbeitnow.ch/jobs/companies/getyourguide/staff-product-designer-b2c-zurich-221000",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-26"
+},
 {
 "id": "arbeitnow:Arbeitnow:remote-founding-product-designer-471103",
 "company": "3Ive",
@@ -23,6 +83,18 @@
 "remote": null,
 "posted": "2026-11-26",
 "url": "https://www.arbeitnow.com/jobs/companies/axsol-gmbh/elektrokonstrukteur-electrical-design-engineer-wurzburg-176305",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-26"
+},
+{
+"id": "arbeitnow:Arbeitnow:product-designer-london-gb-197467",
+"company": "Octopus Energy Group",
+"title": "Product Designer",
+"location": "London (GB)",
+"remote": null,
+"posted": "2026-11-26",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/product-designer-london-gb-197467",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-26"
@@ -136,18 +208,6 @@
 "firstSeen": "2026-11-25"
 },
 {
-"id": "arbeitnow:Arbeitnow:product-designer-contract-paris-209160",
-"company": "Lemrock",
-"title": "Product Designer (Contract)",
-"location": "Paris",
-"remote": null,
-"posted": "2026-11-25",
-"url": "https://www.arbeitnow.fr/jobs/companies/lemrock/product-designer-contract-paris-209160",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-25"
-},
-{
 "id": "arbeitnow:Arbeitnow:ux-ui-designerin-mit-shopify-fokus-all-genders-dresden-203313",
 "company": "Createsome Community GmbH",
 "title": "UX/UI Designer:in mit Shopify-Fokus (all genders)",
@@ -160,37 +220,13 @@
 "firstSeen": "2026-11-25"
 },
 {
-"id": "arbeitnow:Arbeitnow:artworker-jr-designer-peterborough-108812",
-"company": "Caddy Comps",
-"title": "Artworker / Jr Designer",
-"location": "Peterborough",
+"id": "arbeitnow:Arbeitnow:product-designer-contract-paris-209160",
+"company": "Lemrock",
+"title": "Product Designer (Contract)",
+"location": "Paris",
 "remote": null,
 "posted": "2026-11-25",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/caddy-comps/artworker-jr-designer-peterborough-108812",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-25"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-product-designer-london-445132",
-"company": "Goodstack",
-"title": "Senior Product Designer",
-"location": "🇬🇧 London",
-"remote": null,
-"posted": "2026-11-25",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/goodstack/senior-product-designer-london-445132",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-25"
-},
-{
-"id": "arbeitnow:Arbeitnow:product-designer-fin-london-387603",
-"company": "Goodmaven",
-"title": "Product Designer (Fin)",
-"location": "London, UK",
-"remote": null,
-"posted": "2026-11-25",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/goodmaven/product-designer-fin-london-387603",
+"url": "https://www.arbeitnow.fr/jobs/companies/lemrock/product-designer-contract-paris-209160",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-25"
@@ -328,18 +364,6 @@
 "firstSeen": "2026-11-11"
 },
 {
-"id": "smartrecruiters:ScalableGmbH:744000160847599",
-"company": "Scalable Capital",
-"title": "Digital Product Designer (m/f/x)",
-"location": "München, de",
-"remote": null,
-"posted": "2026-11-10",
-"url": "https://jobs.smartrecruiters.com/ScalableGmbH/744000160847599",
-"source": "smartrecruiters",
-"region": "Europe",
-"firstSeen": "2026-11-10"
-},
-{
 "id": "greenhouse:okta:8232605",
 "company": "Okta (Spain)",
 "title": "Staff UX Designer",
@@ -441,7 +465,7 @@
 "title": "Staff Conversation Designer (Support)",
 "location": "London, United Kingdom - Deliveroo",
 "remote": null,
-"posted": "2026-11-05",
+"posted": "2026-11-26",
 "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8317865",
 "source": "greenhouse",
 "region": "Europe",
@@ -520,6 +544,42 @@
 "firstSeen": "2026-10-20"
 },
 {
+"id": "greenhouse:deliveroo:8284786",
+"company": "Deliveroo",
+"title": "Principal Product Designer (Ventures)",
+"location": "London, United Kingdom - Deliveroo",
+"remote": null,
+"posted": "2026-11-26",
+"url": "https://job-boards.greenhouse.io/deliveroo/jobs/8284786",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:deliveroo:8258559",
+"company": "Deliveroo",
+"title": "Staff Product Designer (Retail)",
+"location": "London, United Kingdom - Deliveroo",
+"remote": null,
+"posted": "2026-11-26",
+"url": "https://job-boards.greenhouse.io/deliveroo/jobs/8258559",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:deliveroo:8284768",
+"company": "Deliveroo",
+"title": "Staff Product Designer (Ventures)",
+"location": "London, United Kingdom - Deliveroo",
+"remote": null,
+"posted": "2026-11-26",
+"url": "https://job-boards.greenhouse.io/deliveroo/jobs/8284768",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
 "id": "greenhouse:tide:8006663003",
 "company": "Tide",
 "title": "Werkstudent:in (m/w/d) – UX Copywriting",
@@ -532,18 +592,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:intercom:7862050",
-"company": "Intercom",
-"title": "Senior Product Designer",
-"location": "Dublin, Ireland",
-"remote": null,
-"posted": "2026-11-20",
-"url": "https://job-boards.greenhouse.io/intercom/jobs/7862050",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:intercom:7861866",
 "company": "Intercom",
 "title": "Senior Product Designer",
@@ -551,6 +599,18 @@
 "remote": null,
 "posted": "2026-11-20",
 "url": "https://job-boards.greenhouse.io/intercom/jobs/7861866",
+"source": "greenhouse",
+"region": "Europe",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:intercom:7862050",
+"company": "Intercom",
+"title": "Senior Product Designer",
+"location": "Dublin, Ireland",
+"remote": null,
+"posted": "2026-11-20",
+"url": "https://job-boards.greenhouse.io/intercom/jobs/7862050",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"
@@ -760,18 +820,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:deliveroo:8284786",
-"company": "Deliveroo",
-"title": "Principal Product Designer (Ventures)",
-"location": "London, United Kingdom - Deliveroo",
-"remote": null,
-"posted": "2026-11-05",
-"url": "https://job-boards.greenhouse.io/deliveroo/jobs/8284786",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:deliveroo:8202562",
 "company": "Deliveroo",
 "title": "Staff Product Designer",
@@ -791,30 +839,6 @@
 "remote": null,
 "posted": "2026-11-05",
 "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8258301",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:deliveroo:8258559",
-"company": "Deliveroo",
-"title": "Staff Product Designer (Retail)",
-"location": "London, United Kingdom - Deliveroo",
-"remote": null,
-"posted": "2026-11-05",
-"url": "https://job-boards.greenhouse.io/deliveroo/jobs/8258559",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:deliveroo:8284768",
-"company": "Deliveroo",
-"title": "Staff Product Designer (Ventures)",
-"location": "London, United Kingdom - Deliveroo",
-"remote": null,
-"posted": "2026-11-05",
-"url": "https://job-boards.greenhouse.io/deliveroo/jobs/8284768",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"

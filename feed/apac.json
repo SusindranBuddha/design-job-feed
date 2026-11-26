@@ -1,5 +1,5 @@
 {
-"generated": "2026-11-26T10:57:03Z",
+"generated": "2026-11-26T23:00:26Z",
 "region": "APAC",
 "count": 81,
 "jobs": [
@@ -561,19 +561,6 @@
 "firstSeen": "2026-11-13"
 },
 {
-"id": "mcf:MyCareersFuture:5f6f7b1e3c5a3ea37008910c1c2c4f76",
-"company": "NUVISTA TECHNOLOGIES PTE. LTD.",
-"title": "Interaction / UX Designer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-11-12",
-"url": "https://www.mycareersfuture.gov.sg/job/information-technology/interaction-ux-designer-nuvista-technologies-5f6f7b1e3c5a3ea37008910c1c2c4f76",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 8000-10000 /Monthly",
-"firstSeen": "2026-11-12"
-},
-{
 "id": "mcf:MyCareersFuture:159460d1c9f106249bb789fba0419b87",
 "company": "JOBSTER PRIVATE LTD.",
 "title": "Senior Interaction/UX Designer - #1784",
@@ -739,6 +726,19 @@
 "url": "https://job-boards.greenhouse.io/zipcolimited/jobs/4719148006",
 "source": "greenhouse",
 "region": "APAC",
+"firstSeen": "2026-11-02"
+},
+{
+"id": "mcf:MyCareersFuture:b0595295ed685b70eea27937f5b73e74",
+"company": "TALENTSIS PTE. LTD.",
+"title": "UI/UX Engineer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-02",
+"url": "https://www.mycareersfuture.gov.sg/job/engineering/uiux-engineer-talentsis-b0595295ed685b70eea27937f5b73e74",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 4500-6500 /Monthly",
 "firstSeen": "2026-11-02"
 },
 {

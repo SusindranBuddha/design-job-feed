@@ -1,8 +1,68 @@
 {
-"generated": "2026-11-26T10:57:03Z",
+"generated": "2026-11-26T23:00:26Z",
 "region": "Nordics",
-"count": 74,
+"count": 77,
 "jobs": [
+{
+"id": "ashby:legora:74caf8aa-f849-4edf-b5b0-fce1bc82a2ba",
+"company": "Legora",
+"title": "Staff Product Designer",
+"location": "Stockholm HQ",
+"remote": "OnSite",
+"posted": "2026-11-26",
+"url": "https://jobs.ashbyhq.com/legora/74caf8aa-f849-4edf-b5b0-fce1bc82a2ba",
+"source": "ashby",
+"region": "Nordics",
+"firstSeen": "2026-11-26"
+},
+{
+"id": "platsbanken:Platsbanken:31782800",
+"company": "Legora AB",
+"title": "Staff Product Designer",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-26",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31782800",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-26"
+},
+{
+"id": "platsbanken:Platsbanken:31783564",
+"company": "Sway Sourcing Sweden Aktiebolag",
+"title": "UX-designer inom användarundersökningar – Stockholm",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-26",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31783564",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-26"
+},
+{
+"id": "platsbanken:Platsbanken:31782743",
+"company": "Soros Consulting AB",
+"title": "UI/UX-designer mobilappar Lund",
+"location": "Lund",
+"remote": null,
+"posted": "2026-11-26",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31782743",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-26"
+},
+{
+"id": "platsbanken:Platsbanken:31782281",
+"company": "Soros Consulting AB",
+"title": "Lead UX-Designer Stockholm",
+"location": "Stockholm",
+"remote": null,
+"posted": "2026-11-26",
+"url": "https://arbetsformedlingen.se/platsbanken/annonser/31782281",
+"source": "Platsbanken",
+"region": "Nordics",
+"firstSeen": "2026-11-26"
+},
 {
 "id": "platsbanken:Platsbanken:31781434",
 "company": "Soros Consulting AB",
@@ -218,18 +278,6 @@
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-11-24"
-},
-{
-"id": "platsbanken:Platsbanken:31765123",
-"company": "Alten Sverige Aktiebolag",
-"title": "Mechanical/Electrical Design Engineer",
-"location": "Örebro",
-"remote": null,
-"posted": "2026-11-23",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31765123",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-23"
 },
 {
 "id": "ashby:legora:bb0aaeaa-d380-4e88-be7a-12f738af574d",
@@ -568,18 +616,6 @@
 "firstSeen": "2026-11-04"
 },
 {
-"id": "platsbanken:Platsbanken:31680020",
-"company": "SAAB Aktiebolag",
-"title": "UX Designer - Mission Support System",
-"location": "Arboga",
-"remote": null,
-"posted": "2026-11-03",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31680020",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-03"
-},
-{
 "id": "platsbanken:Platsbanken:31679949",
 "company": "SAAB Aktiebolag",
 "title": "UX Designer - Mission Support System",
@@ -760,18 +796,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:alphasense:8530664002",
-"company": "AlphaSense",
-"title": "Senior/Staff Product Designer",
-"location": "New York, New York, United States; Remote - United States",
-"remote": null,
-"posted": "2026-10-16",
-"url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
-"source": "greenhouse",
-"region": "Nordics",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:alphasense:8531119002",
 "company": "AlphaSense",
 "title": "Senior/Staff Product Designer",
@@ -779,6 +803,18 @@
 "remote": null,
 "posted": "2026-10-16",
 "url": "https://job-boards.greenhouse.io/alphasense/jobs/8531119002",
+"source": "greenhouse",
+"region": "Nordics",
+"firstSeen": "2026-10-17"
+},
+{
+"id": "greenhouse:alphasense:8530664002",
+"company": "AlphaSense",
+"title": "Senior/Staff Product Designer",
+"location": "New York, New York, United States; Remote - United States",
+"remote": null,
+"posted": "2026-10-16",
+"url": "https://job-boards.greenhouse.io/alphasense/jobs/8530664002",
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-17"

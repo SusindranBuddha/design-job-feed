@@ -1,8 +1,20 @@
 {
-"generated": "2026-11-26T10:57:03Z",
+"generated": "2026-11-26T23:00:26Z",
 "region": "India",
-"count": 14,
+"count": 15,
 "jobs": [
+{
+"id": "lever:meesho:15cbdb02-e678-462b-b3ac-d70f48144eb8",
+"company": "Meesho",
+"title": "Product Designer II (Kirana Club)",
+"location": "Bangalore, Karnataka",
+"remote": "onsite",
+"posted": "2026-11-18",
+"url": "https://jobs.lever.co/meesho/15cbdb02-e678-462b-b3ac-d70f48144eb8",
+"source": "lever",
+"region": "India",
+"firstSeen": "2026-11-26"
+},
 {
 "id": "lever:cred:70783f5e-1264-4149-b165-bd3b72854da8",
 "company": "CRED",

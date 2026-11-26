@@ -1,8 +1,20 @@
 {
-"generated": "2026-11-26T10:57:03Z",
+"generated": "2026-11-26T23:00:26Z",
 "region": "Remote",
 "count": 196,
 "jobs": [
+{
+"id": "jobicy:Jobicy:164402",
+"company": "Findem",
+"title": "Senior UX Designer (Contractor)",
+"location": "USA",
+"remote": "remote",
+"posted": "2026-11-26",
+"url": "https://jobicy.com/jobs/164402-senior-ux-designer-contractor",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-11-26"
+},
 {
 "id": "himalayas:Himalayas:https://himalayas.app/companies/cisco/jobs/lead-product-designer-ai-and-platform-experience-3500042868",
 "company": "Cisco",
@@ -11,6 +23,18 @@
 "remote": "remote",
 "posted": "2026-11-26",
 "url": "https://himalayas.app/companies/cisco/jobs/lead-product-designer-ai-and-platform-experience-3500042868?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-26"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/mercor/jobs/product-design-expert-ux-specialist-5111008565",
+"company": "mercor",
+"title": "Product Design Expert - UX Specialist",
+"location": "Germany",
+"remote": "remote",
+"posted": "2026-11-06",
+"url": "https://himalayas.app/companies/mercor/jobs/product-design-expert-ux-specialist-5111008565?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-26"
@@ -420,18 +444,6 @@
 "posted": "2026-11-26",
 "url": "https://himalayas.app/companies/atomic-hr/jobs/ux-experience-systems-designer-websites-for-universities-remote-latam?utm_source=api",
 "source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-11-20"
-},
-{
-"id": "ashby:clera:c542ed3a-097e-42bc-a847-391e0cab9d3b",
-"company": "Clera",
-"title": "Founding Designer",
-"location": "remote",
-"remote": null,
-"posted": "2026-11-20",
-"url": "https://jobs.ashbyhq.com/Clera/c542ed3a-097e-42bc-a847-391e0cab9d3b",
-"source": "ashby",
 "region": "Remote",
 "firstSeen": "2026-11-20"
 },
@@ -2148,18 +2160,6 @@
 "posted": "2026-10-08",
 "url": "https://himalayas.app/companies/tahche-outsourcing-services-inc/jobs/senior-ux-designer?utm_source=api",
 "source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "lever:coinspaid:85c1df11-5bea-443c-95b8-0296336eed3a",
-"company": "CoinsPaid",
-"title": "Senior Product Designer",
-"location": "Remote - European Region",
-"remote": "hybrid",
-"posted": "2026-10-07",
-"url": "https://jobs.eu.lever.co/coinspaid/85c1df11-5bea-443c-95b8-0296336eed3a",
-"source": "lever",
 "region": "Remote",
 "firstSeen": "2026-10-17"
 },

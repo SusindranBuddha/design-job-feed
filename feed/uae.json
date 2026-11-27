@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-27T10:54:41Z",
+"generated": "2026-11-27T22:44:14Z",
 "region": "UAE",
-"count": 11,
+"count": 10,
 "jobs": [
 {
 "id": "smartrecruiters:DeliveryHero:744000162547160",
@@ -83,18 +83,6 @@
 "remote": "remote",
 "posted": null,
 "url": "https://tabby.pinpointhq.com/en/postings/71c10dc9-c190-491a-8079-a23c3478e652",
-"source": "pinpoint",
-"region": "UAE",
-"firstSeen": "2026-10-26"
-},
-{
-"id": "pinpoint:Tabby:593422",
-"company": "Tabby",
-"title": "Senior Product Designer, Customer Lifecycle",
-"location": "Remote",
-"remote": "remote",
-"posted": null,
-"url": "https://tabby.pinpointhq.com/en/postings/f8c6fb24-d179-442f-8729-38a860fc2983",
 "source": "pinpoint",
 "region": "UAE",
 "firstSeen": "2026-10-26"

@@ -1,8 +1,44 @@
 {
-"generated": "2026-11-27T10:54:41Z",
+"generated": "2026-11-27T22:44:14Z",
 "region": "Europe",
-"count": 79,
+"count": 75,
 "jobs": [
+{
+"id": "arbeitnow:Arbeitnow:founding-ui-ux-artist-unannounced-game-london-117449",
+"company": "Supercell",
+"title": "Founding UI/UX Artist, Unannounced Game",
+"location": "London",
+"remote": null,
+"posted": "2026-11-27",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/supercell/founding-ui-ux-artist-unannounced-game-london-117449",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-27"
+},
+{
+"id": "arbeitnow:Arbeitnow:design-engineer-web-brand-old-street-384376",
+"company": "Granola",
+"title": "Design Engineer (Web & Brand)",
+"location": "London",
+"remote": null,
+"posted": "2026-11-27",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/granola/design-engineer-web-brand-old-street-384376",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-27"
+},
+{
+"id": "arbeitnow:Arbeitnow:electrical-design-engineer-machine-safety-specialist-m-f-masevaux-niederbruck-157190",
+"company": "One Mobility",
+"title": "Electrical Design Engineer & Machine Safety Specialist (M/F)",
+"location": "Masevaux-Niederbruck , Grand-Est, France",
+"remote": null,
+"posted": "2026-11-27",
+"url": "https://www.arbeitnow.fr/jobs/companies/one-mobility/electrical-design-engineer-machine-safety-specialist-m-f-masevaux-niederbruck-157190",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-27"
+},
 {
 "id": "arbeitnow:Arbeitnow:staff-principal-product-designer-berlin-222705",
 "company": "intercom",
@@ -52,54 +88,6 @@
 "firstSeen": "2026-11-27"
 },
 {
-"id": "arbeitnow:Arbeitnow:staff-product-designer-retail-london-11444",
-"company": "Deliveroo",
-"title": "Staff Product Designer (Retail)",
-"location": "London",
-"remote": null,
-"posted": "2026-11-27",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/staff-product-designer-retail-london-11444",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-27"
-},
-{
-"id": "arbeitnow:Arbeitnow:staff-product-designer-motion-london-139342",
-"company": "Deliveroo",
-"title": "Staff Product Designer (Motion)",
-"location": "London",
-"remote": null,
-"posted": "2026-11-27",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/staff-product-designer-motion-london-139342",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-27"
-},
-{
-"id": "arbeitnow:Arbeitnow:satellite-mechanical-design-engineer-reading-327516",
-"company": "Neworbit",
-"title": "Satellite Mechanical Design Engineer",
-"location": "Reading, UK",
-"remote": null,
-"posted": "2026-11-27",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/neworbit/satellite-mechanical-design-engineer-reading-327516",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-27"
-},
-{
-"id": "arbeitnow:Arbeitnow:staff-product-designer-retail-london-61541",
-"company": "Deliveroo ",
-"title": "Staff Product Designer (Retail)",
-"location": "London, England, United Kingdom",
-"remote": null,
-"posted": "2026-11-26",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/staff-product-designer-retail-london-61541",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-27"
-},
-{
 "id": "smartrecruiters:Wise:744000163886936",
 "company": "Wise",
 "title": "Senior Product Designer - Scalable Growth",
@@ -124,18 +112,6 @@
 "firstSeen": "2026-11-26"
 },
 {
-"id": "arbeitnow:Arbeitnow:service-designer-consultant-senior-consultant-deutschlandweit-munich-227914",
-"company": "Infosys Consulting Europe",
-"title": "Service Designer - Consultant / Senior Consultant- Deutschlandweit",
-"location": "Munich, Germany",
-"remote": null,
-"posted": "2026-11-26",
-"url": "https://www.arbeitnow.com/jobs/companies/infosys-consulting-europe/service-designer-consultant-senior-consultant-deutschlandweit-munich-227914",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-26"
-},
-{
 "id": "arbeitnow:Arbeitnow:staff-product-designer-b2c-zurich-221000",
 "company": "Getyourguide",
 "title": "Staff Product Designer (B2C)",
@@ -155,30 +131,6 @@
 "remote": null,
 "posted": "2026-11-26",
 "url": "https://www.arbeitnow.com/jobs/companies/3ive/remote-founding-product-designer-471103",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-26"
-},
-{
-"id": "arbeitnow:Arbeitnow:elektrokonstrukteur-electrical-design-engineer-wurzburg-176305",
-"company": "AXSOL GmbH",
-"title": "Elektrokonstrukteur / Electrical Design Engineer (m/w/d)",
-"location": "Würzburg",
-"remote": null,
-"posted": "2026-11-26",
-"url": "https://www.arbeitnow.com/jobs/companies/axsol-gmbh/elektrokonstrukteur-electrical-design-engineer-wurzburg-176305",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-26"
-},
-{
-"id": "arbeitnow:Arbeitnow:lead-product-designer-cardiff-332155",
-"company": "Monzo",
-"title": "Lead Product Designer",
-"location": "Cardiff",
-"remote": null,
-"posted": "2026-11-26",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/lead-product-designer-cardiff-332155",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-26"

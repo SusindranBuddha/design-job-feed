@@ -1,8 +1,60 @@
 {
-"generated": "2026-11-26T23:00:26Z",
+"generated": "2026-11-27T10:54:41Z",
 "region": "APAC",
-"count": 81,
+"count": 85,
 "jobs": [
+{
+"id": "mcf:MyCareersFuture:d651e07911b3e9875625975d0c955596",
+"company": "KYNDRYL (SINGAPORE) PTE. LTD.",
+"title": "Senior Product Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-27",
+"url": "https://www.mycareersfuture.gov.sg/job/design/senior-product-designer-kyndryl-d651e07911b3e9875625975d0c955596",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 7000-10000 /Monthly",
+"firstSeen": "2026-11-27"
+},
+{
+"id": "mcf:MyCareersFuture:461f876c15f6dc747c4e1fe1a89834f9",
+"company": "KAROOOOO MANAGEMENT COMPANY PTE. LTD.",
+"title": "Product Manager & Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-27",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/product-manager-designer-karooooo-management-company-461f876c15f6dc747c4e1fe1a89834f9",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 7000-14000 /Monthly",
+"firstSeen": "2026-11-27"
+},
+{
+"id": "mcf:MyCareersFuture:392d373aae1db6a78614527a5839266d",
+"company": "WPH DIGITAL PTE. LTD.",
+"title": "H04 - Experience & Interface Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-27",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/h04-experience-interface-designer-wph-digital-392d373aae1db6a78614527a5839266d",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 5500-9600 /Monthly",
+"firstSeen": "2026-11-27"
+},
+{
+"id": "mcf:MyCareersFuture:20a74200495fb27bae545ad96ffb71aa",
+"company": "RAPSYS TECHNOLOGIES PTE. LTD.",
+"title": "UI/UX Designer",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-27",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/uiux-designer-rapsys-technologies-20a74200495fb27bae545ad96ffb71aa",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 6000-8000 /Monthly",
+"firstSeen": "2026-11-27"
+},
 {
 "id": "mcf:MyCareersFuture:1e4ab9cb552db77fb8d02639405dedf1",
 "company": "BGC GROUP PTE. LTD.",
@@ -729,19 +781,6 @@
 "firstSeen": "2026-11-02"
 },
 {
-"id": "mcf:MyCareersFuture:b0595295ed685b70eea27937f5b73e74",
-"company": "TALENTSIS PTE. LTD.",
-"title": "UI/UX Engineer",
-"location": "Singapore",
-"remote": null,
-"posted": "2026-11-02",
-"url": "https://www.mycareersfuture.gov.sg/job/engineering/uiux-engineer-talentsis-b0595295ed685b70eea27937f5b73e74",
-"source": "MyCareersFuture",
-"region": "APAC",
-"salary": "SGD 4500-6500 /Monthly",
-"firstSeen": "2026-11-02"
-},
-{
 "id": "mcf:MyCareersFuture:0bf06bd76b6637d346306d103cb1279a",
 "company": "HELIUS TECHNOLOGIES PTE. LTD.",
 "title": "UX/UI Product Designer",
@@ -805,6 +844,19 @@
 "region": "APAC",
 "salary": "SGD 7100-9700 /Monthly",
 "firstSeen": "2026-10-29"
+},
+{
+"id": "mcf:MyCareersFuture:5c2af06ed31242f01685a87c42ba9519",
+"company": "TALENTSIS PTE. LTD.",
+"title": "Senior Product Designer - Permanent Role",
+"location": "Singapore",
+"remote": null,
+"posted": "2026-11-27",
+"url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-product-designer-permanent-role-talentsis-5c2af06ed31242f01685a87c42ba9519",
+"source": "MyCareersFuture",
+"region": "APAC",
+"salary": "SGD 6000-7000 /Monthly",
+"firstSeen": "2026-10-27"
 },
 {
 "id": "mcf:MyCareersFuture:30e240fe43348379dcac1fdf6396f183",
@@ -1036,7 +1088,7 @@
 "url": "https://hcf.wd105.myworkdayjobs.com/HCF_External_Career_Site/job/Sydney-CBD/Senior-Digital-Product-Designer_JR104415",
 "source": "workday",
 "region": "APAC",
-"postedText": "Posted 6 Days Ago",
+"postedText": "Posted 7 Days Ago",
 "firstSeen": "2026-10-17"
 }
 ]

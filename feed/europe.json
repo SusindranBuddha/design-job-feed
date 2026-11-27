@@ -1,8 +1,104 @@
 {
-"generated": "2026-11-26T23:00:26Z",
+"generated": "2026-11-27T10:54:41Z",
 "region": "Europe",
 "count": 79,
 "jobs": [
+{
+"id": "arbeitnow:Arbeitnow:staff-principal-product-designer-berlin-222705",
+"company": "intercom",
+"title": "Staff/Principal Product Designer",
+"location": "Berlin",
+"remote": null,
+"posted": "2026-11-27",
+"url": "https://www.arbeitnow.com/jobs/companies/intercom/staff-principal-product-designer-berlin-222705",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-27"
+},
+{
+"id": "arbeitnow:Arbeitnow:senior-product-designer-berlin-50865",
+"company": "Klim",
+"title": "Senior Product Designer (m/f/d)",
+"location": "Berlin I DE Remote",
+"remote": null,
+"posted": "2026-11-27",
+"url": "https://www.arbeitnow.com/jobs/companies/klim/senior-product-designer-berlin-50865",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-27"
+},
+{
+"id": "arbeitnow:Arbeitnow:design-engineer-london-295236",
+"company": "Vega",
+"title": "Design Engineer",
+"location": "London",
+"remote": null,
+"posted": "2026-11-27",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/vega/design-engineer-london-295236",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-27"
+},
+{
+"id": "arbeitnow:Arbeitnow:freelance-lead-service-designer-london-154394",
+"company": "Projectsbyif",
+"title": "Freelance Lead Service Designer",
+"location": "London",
+"remote": null,
+"posted": "2026-11-27",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/projectsbyif/freelance-lead-service-designer-london-154394",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-27"
+},
+{
+"id": "arbeitnow:Arbeitnow:staff-product-designer-retail-london-11444",
+"company": "Deliveroo",
+"title": "Staff Product Designer (Retail)",
+"location": "London",
+"remote": null,
+"posted": "2026-11-27",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/staff-product-designer-retail-london-11444",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-27"
+},
+{
+"id": "arbeitnow:Arbeitnow:staff-product-designer-motion-london-139342",
+"company": "Deliveroo",
+"title": "Staff Product Designer (Motion)",
+"location": "London",
+"remote": null,
+"posted": "2026-11-27",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/staff-product-designer-motion-london-139342",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-27"
+},
+{
+"id": "arbeitnow:Arbeitnow:satellite-mechanical-design-engineer-reading-327516",
+"company": "Neworbit",
+"title": "Satellite Mechanical Design Engineer",
+"location": "Reading, UK",
+"remote": null,
+"posted": "2026-11-27",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/neworbit/satellite-mechanical-design-engineer-reading-327516",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-27"
+},
+{
+"id": "arbeitnow:Arbeitnow:staff-product-designer-retail-london-61541",
+"company": "Deliveroo ",
+"title": "Staff Product Designer (Retail)",
+"location": "London, England, United Kingdom",
+"remote": null,
+"posted": "2026-11-26",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/staff-product-designer-retail-london-61541",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-27"
+},
 {
 "id": "smartrecruiters:Wise:744000163886936",
 "company": "Wise",
@@ -35,18 +131,6 @@
 "remote": null,
 "posted": "2026-11-26",
 "url": "https://www.arbeitnow.com/jobs/companies/infosys-consulting-europe/service-designer-consultant-senior-consultant-deutschlandweit-munich-227914",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-26"
-},
-{
-"id": "arbeitnow:Arbeitnow:lead-product-designer-cardiff-332155",
-"company": "Monzo",
-"title": "Lead Product Designer",
-"location": "Cardiff",
-"remote": null,
-"posted": "2026-11-26",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/lead-product-designer-cardiff-332155",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-26"
@@ -88,25 +172,13 @@
 "firstSeen": "2026-11-26"
 },
 {
-"id": "arbeitnow:Arbeitnow:product-designer-london-gb-197467",
-"company": "Octopus Energy Group",
-"title": "Product Designer",
-"location": "London (GB)",
+"id": "arbeitnow:Arbeitnow:lead-product-designer-cardiff-332155",
+"company": "Monzo",
+"title": "Lead Product Designer",
+"location": "Cardiff",
 "remote": null,
 "posted": "2026-11-26",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/product-designer-london-gb-197467",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-26"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-due-diligence-design-engineer-emea-apac-london-157605",
-"company": "Coreweaveu",
-"title": "Senior Due Diligence Design Engineer - EMEA/APAC",
-"location": "London",
-"remote": null,
-"posted": "2026-11-26",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/senior-due-diligence-design-engineer-emea-apac-london-157605",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/lead-product-designer-cardiff-332155",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-26"
@@ -196,42 +268,6 @@
 "firstSeen": "2026-11-25"
 },
 {
-"id": "arbeitnow:Arbeitnow:senior-designer-team-lead-design-berlin-404432",
-"company": "PB3C GmbH",
-"title": "Senior Designer & Team Lead Design (m/w/d)",
-"location": "Berlin",
-"remote": null,
-"posted": "2026-11-25",
-"url": "https://www.arbeitnow.com/jobs/companies/pb3c-gmbh/senior-designer-team-lead-design-berlin-404432",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-25"
-},
-{
-"id": "arbeitnow:Arbeitnow:ux-ui-designerin-mit-shopify-fokus-all-genders-dresden-203313",
-"company": "Createsome Community GmbH",
-"title": "UX/UI Designer:in mit Shopify-Fokus (all genders)",
-"location": "Dresden",
-"remote": null,
-"posted": "2026-11-25",
-"url": "https://www.arbeitnow.com/jobs/companies/createsome-community-gmbh/ux-ui-designerin-mit-shopify-fokus-all-genders-dresden-203313",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-25"
-},
-{
-"id": "arbeitnow:Arbeitnow:product-designer-contract-paris-209160",
-"company": "Lemrock",
-"title": "Product Designer (Contract)",
-"location": "Paris",
-"remote": null,
-"posted": "2026-11-25",
-"url": "https://www.arbeitnow.fr/jobs/companies/lemrock/product-designer-contract-paris-209160",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-25"
-},
-{
 "id": "greenhouse:stripe:8397257",
 "company": "Stripe",
 "title": "Designer, Web Presence & Platform",
@@ -276,18 +312,6 @@
 "posted": "2026-11-20",
 "url": "https://careers.hellofresh.com/global/en/job/8259030?gh_jid=8259030",
 "source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-11-20"
-},
-{
-"id": "arbeitnow:Arbeitnow:hardware-design-engineer-zurich-switzerland-303509",
-"company": "Lever Implementation Training Environment",
-"title": "Hardware Design Engineer",
-"location": "Zurich, Switzerland",
-"remote": null,
-"posted": "2026-11-20",
-"url": "https://www.arbeitnow.ch/jobs/companies/lever-implementation-training-environment/hardware-design-engineer-zurich-switzerland-303509",
-"source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-20"
 },
@@ -700,18 +724,6 @@
 "firstSeen": "2026-10-17"
 },
 {
-"id": "greenhouse:stripe:8170920",
-"company": "Stripe",
-"title": "Senior Mechanical and Industrial Design Engineer",
-"location": "Taipei,Taiwan",
-"remote": null,
-"posted": "2026-11-19",
-"url": "https://stripe.com/jobs/search?gh_jid=8170920",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
 "id": "greenhouse:stripe:8268059",
 "company": "Stripe",
 "title": "Staff Product Designer, Checkout",
@@ -755,18 +767,6 @@
 "remote": null,
 "posted": "2026-11-18",
 "url": "https://job-boards.greenhouse.io/monzo/jobs/8185694",
-"source": "greenhouse",
-"region": "Europe",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "greenhouse:ebury:4975330101",
-"company": "Ebury",
-"title": "Product Designer - Channels",
-"location": "Valencia",
-"remote": null,
-"posted": "2026-11-17",
-"url": "https://job-boards.eu.greenhouse.io/ebury/jobs/4975330101",
 "source": "greenhouse",
 "region": "Europe",
 "firstSeen": "2026-10-17"

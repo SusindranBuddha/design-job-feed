@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-26T23:00:26Z",
+"generated": "2026-11-27T10:54:41Z",
 "region": "Netherlands",
-"count": 10,
+"count": 9,
 "jobs": [
 {
 "id": "greenhouse:bolcomen:8958361002",
@@ -108,18 +108,6 @@
 "posted": "2026-09-08",
 "url": "https://jobs.ashbyhq.com/lightspeedhq/5b8ef427-872c-4012-a68f-7eb8a7907c43",
 "source": "ashby",
-"region": "Netherlands",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "lever:tomtom:b93bd63d-e7d1-4f7f-87e2-3ff959cdb10f",
-"company": "TomTom",
-"title": "Senior UX Designer - Map Visualisation",
-"location": "Amsterdam, The Netherlands",
-"remote": "remote",
-"posted": "2026-04-17",
-"url": "https://jobs.eu.lever.co/tomtom/b93bd63d-e7d1-4f7f-87e2-3ff959cdb10f",
-"source": "lever",
 "region": "Netherlands",
 "firstSeen": "2026-10-17"
 }

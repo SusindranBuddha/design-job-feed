@@ -1,31 +1,43 @@
 {
-"generated": "2026-11-27T22:44:14Z",
+"generated": "2026-11-28T10:29:45Z",
 "region": "Europe",
-"count": 75,
+"count": 76,
 "jobs": [
 {
-"id": "arbeitnow:Arbeitnow:founding-ui-ux-artist-unannounced-game-london-117449",
-"company": "Supercell",
-"title": "Founding UI/UX Artist, Unannounced Game",
-"location": "London",
+"id": "arbeitnow:Arbeitnow:vo2-force-senior-ui-designer-design-system-ios-paris-france-199870",
+"company": "VO2 Group",
+"title": "[VO2 FORCE] - Senior UI Designer – Design System iOS",
+"location": "Paris, France",
 "remote": null,
-"posted": "2026-11-27",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/supercell/founding-ui-ux-artist-unannounced-game-london-117449",
+"posted": "2026-11-28",
+"url": "https://www.arbeitnow.fr/jobs/companies/vo2-group/vo2-force-senior-ui-designer-design-system-ios-paris-france-199870",
 "source": "Arbeitnow",
 "region": "Europe",
-"firstSeen": "2026-11-27"
+"firstSeen": "2026-11-28"
 },
 {
-"id": "arbeitnow:Arbeitnow:design-engineer-web-brand-old-street-384376",
-"company": "Granola",
-"title": "Design Engineer (Web & Brand)",
-"location": "London",
+"id": "arbeitnow:Arbeitnow:vo2-force-senior-product-designer-ui-paris-france-93937",
+"company": "VO2 Group",
+"title": "[VO2 FORCE] - Senior Product Designer – UI",
+"location": "Paris, France",
 "remote": null,
-"posted": "2026-11-27",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/granola/design-engineer-web-brand-old-street-384376",
+"posted": "2026-11-28",
+"url": "https://www.arbeitnow.fr/jobs/companies/vo2-group/vo2-force-senior-product-designer-ui-paris-france-93937",
 "source": "Arbeitnow",
 "region": "Europe",
-"firstSeen": "2026-11-27"
+"firstSeen": "2026-11-28"
+},
+{
+"id": "arbeitnow:Arbeitnow:design-engineer-zurich-402663",
+"company": "AMINI GmbH",
+"title": "Design Engineer",
+"location": "Zürich",
+"remote": null,
+"posted": "2026-11-27",
+"url": "https://www.arbeitnow.ch/jobs/companies/amini-gmbh/design-engineer-zurich-402663",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-28"
 },
 {
 "id": "arbeitnow:Arbeitnow:electrical-design-engineer-machine-safety-specialist-m-f-masevaux-niederbruck-157190",
@@ -47,6 +59,18 @@
 "remote": null,
 "posted": "2026-11-27",
 "url": "https://www.arbeitnow.com/jobs/companies/intercom/staff-principal-product-designer-berlin-222705",
+"source": "Arbeitnow",
+"region": "Europe",
+"firstSeen": "2026-11-27"
+},
+{
+"id": "arbeitnow:Arbeitnow:founding-ui-ux-artist-unannounced-game-london-117449",
+"company": "Supercell",
+"title": "Founding UI/UX Artist, Unannounced Game",
+"location": "London",
+"remote": null,
+"posted": "2026-11-27",
+"url": "https://www.arbeitnow.co.uk/jobs/companies/supercell/founding-ui-ux-artist-unannounced-game-london-117449",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-27"
@@ -124,13 +148,13 @@
 "firstSeen": "2026-11-26"
 },
 {
-"id": "arbeitnow:Arbeitnow:remote-founding-product-designer-471103",
-"company": "3Ive",
-"title": "Founding Product Designer",
-"location": "Remote Germany",
+"id": "arbeitnow:Arbeitnow:service-designer-consultant-senior-consultant-deutschlandweit-munich-227914",
+"company": "Infosys Consulting Europe",
+"title": "Service Designer - Consultant / Senior Consultant- Deutschlandweit",
+"location": "Munich, Germany",
 "remote": null,
 "posted": "2026-11-26",
-"url": "https://www.arbeitnow.com/jobs/companies/3ive/remote-founding-product-designer-471103",
+"url": "https://www.arbeitnow.com/jobs/companies/infosys-consulting-europe/service-designer-consultant-senior-consultant-deutschlandweit-munich-227914",
 "source": "Arbeitnow",
 "region": "Europe",
 "firstSeen": "2026-11-26"
@@ -242,18 +266,6 @@
 "source": "smartrecruiters",
 "region": "Europe",
 "firstSeen": "2026-11-24"
-},
-{
-"id": "arbeitnow:Arbeitnow:senior-product-designer-remote-in-europe-amsterdam-443609",
-"company": "Finom",
-"title": "Senior Product Designer (Remote in Europe)",
-"location": "Amsterdam",
-"remote": null,
-"posted": "2026-11-21",
-"url": "https://www.arbeitnow.nl/jobs/companies/finom/senior-product-designer-remote-in-europe-amsterdam-443609",
-"source": "Arbeitnow",
-"region": "Europe",
-"firstSeen": "2026-11-21"
 },
 {
 "id": "greenhouse:hellofresh:8259030",

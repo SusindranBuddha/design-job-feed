@@ -1,102 +1,54 @@
 {
-"generated": "2026-11-27T22:44:14Z",
-"count": 8,
+"generated": "2026-11-28T10:29:45Z",
+"count": 4,
 "jobs": [
 {
-"id": "arbeitnow:Arbeitnow:founding-ui-ux-artist-unannounced-game-london-117449",
-"company": "Supercell",
-"title": "Founding UI/UX Artist, Unannounced Game",
-"location": "London",
+"id": "arbeitnow:Arbeitnow:vo2-force-senior-ui-designer-design-system-ios-paris-france-199870",
+"company": "VO2 Group",
+"title": "[VO2 FORCE] - Senior UI Designer – Design System iOS",
+"location": "Paris, France",
 "remote": null,
-"posted": "2026-11-27",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/supercell/founding-ui-ux-artist-unannounced-game-london-117449",
+"posted": "2026-11-28",
+"url": "https://www.arbeitnow.fr/jobs/companies/vo2-group/vo2-force-senior-ui-designer-design-system-ios-paris-france-199870",
 "source": "Arbeitnow",
 "region": "Europe",
-"firstSeen": "2026-11-27"
+"firstSeen": "2026-11-28"
 },
 {
-"id": "arbeitnow:Arbeitnow:design-engineer-web-brand-old-street-384376",
-"company": "Granola",
-"title": "Design Engineer (Web & Brand)",
-"location": "London",
+"id": "arbeitnow:Arbeitnow:vo2-force-senior-product-designer-ui-paris-france-93937",
+"company": "VO2 Group",
+"title": "[VO2 FORCE] - Senior Product Designer – UI",
+"location": "Paris, France",
 "remote": null,
-"posted": "2026-11-27",
-"url": "https://www.arbeitnow.co.uk/jobs/companies/granola/design-engineer-web-brand-old-street-384376",
+"posted": "2026-11-28",
+"url": "https://www.arbeitnow.fr/jobs/companies/vo2-group/vo2-force-senior-product-designer-ui-paris-france-93937",
 "source": "Arbeitnow",
 "region": "Europe",
-"firstSeen": "2026-11-27"
+"firstSeen": "2026-11-28"
 },
 {
-"id": "arbeitnow:Arbeitnow:electrical-design-engineer-machine-safety-specialist-m-f-masevaux-niederbruck-157190",
-"company": "One Mobility",
-"title": "Electrical Design Engineer & Machine Safety Specialist (M/F)",
-"location": "Masevaux-Niederbruck , Grand-Est, France",
+"id": "arbeitnow:Arbeitnow:design-engineer-zurich-402663",
+"company": "AMINI GmbH",
+"title": "Design Engineer",
+"location": "Zürich",
 "remote": null,
 "posted": "2026-11-27",
-"url": "https://www.arbeitnow.fr/jobs/companies/one-mobility/electrical-design-engineer-machine-safety-specialist-m-f-masevaux-niederbruck-157190",
+"url": "https://www.arbeitnow.ch/jobs/companies/amini-gmbh/design-engineer-zurich-402663",
 "source": "Arbeitnow",
 "region": "Europe",
-"firstSeen": "2026-11-27"
+"firstSeen": "2026-11-28"
 },
 {
-"id": "platsbanken:Platsbanken:31788500",
-"company": "Sway Sourcing Sweden Aktiebolag",
-"title": "Senior UX Designer – Digitala självservicetjänster, Göteborg",
-"location": "Göteborg",
-"remote": null,
-"posted": "2026-11-27",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31788500",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-27"
-},
-{
-"id": "jobicy:Jobicy:164549",
-"company": "Elation Health",
-"title": "Senior OR Staff Product Designer",
-"location": "Canada, USA",
+"id": "himalayas:Himalayas:https://himalayas.app/companies/paradigm-information-services-inc/jobs/senior-product-designer",
+"company": "Paradigm Information Services, Inc.",
+"title": "Senior Product Designer",
+"location": "United States",
 "remote": "remote",
-"posted": "2026-11-27",
-"url": "https://jobicy.com/jobs/164549-senior-or-staff-product-designer",
-"source": "Jobicy",
-"region": "Remote",
-"firstSeen": "2026-11-27"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/micro1/jobs/mechanical-design-engineer-semiconductor-vacuum-hardware",
-"company": "micro1",
-"title": "Mechanical Design Engineer — Semiconductor & Vacuum Hardware",
-"location": "Worldwide",
-"remote": "remote",
-"posted": "2026-11-27",
-"url": "https://himalayas.app/companies/micro1/jobs/mechanical-design-engineer-semiconductor-vacuum-hardware?utm_source=api",
+"posted": "2026-11-28",
+"url": "https://himalayas.app/companies/paradigm-information-services-inc/jobs/senior-product-designer?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
-"firstSeen": "2026-11-27"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/savi-security-inc/jobs/product-designer",
-"company": "Savi Security, Inc.",
-"title": "Product Designer",
-"location": "Anguilla, Antigua and Barbuda, Aruba, Bahamas, Barbados, Belize, Bermuda, Bonaire, Sint Eustatius and Saba, Canada, Cayman Islands, Costa Rica, Cuba, Curaçao, D",
-"remote": "remote",
-"posted": "2026-11-19",
-"url": "https://himalayas.app/companies/savi-security-inc/jobs/product-designer?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-11-27"
-},
-{
-"id": "wwr:We Work Remotely:https://weworkremotely.com/remote-jobs/tilt-staff-product-designer",
-"company": "Tilt",
-"title": "Staff Product Designer",
-"location": "USA Only",
-"remote": "remote",
-"posted": "2026-11-27",
-"url": "https://weworkremotely.com/remote-jobs/tilt-staff-product-designer",
-"source": "We Work Remotely",
-"region": "Remote",
-"firstSeen": "2026-11-27"
+"firstSeen": "2026-11-28"
 }
 ]
 }

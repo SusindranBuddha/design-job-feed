@@ -1,7 +1,7 @@
 {
-"generated": "2026-11-27T22:44:14Z",
+"generated": "2026-11-28T10:29:45Z",
 "region": "Nordics",
-"count": 70,
+"count": 67,
 "jobs": [
 {
 "id": "platsbanken:Platsbanken:31788500",
@@ -208,18 +208,6 @@
 "firstSeen": "2026-11-25"
 },
 {
-"id": "platsbanken:Platsbanken:31774017",
-"company": "Deploja AB",
-"title": "Senior UX Designer",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-11-24",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31774017",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-24"
-},
-{
 "id": "platsbanken:Platsbanken:31770827",
 "company": "Framna Sweden AB",
 "title": "UX Designer",
@@ -263,18 +251,6 @@
 "remote": null,
 "posted": "2026-11-23",
 "url": "https://arbetsformedlingen.se/platsbanken/annonser/31768247",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-11-24"
-},
-{
-"id": "platsbanken:Platsbanken:31766864",
-"company": "Soros Consulting AB",
-"title": "Senior UX-ansvarig Kollektivtrafik (Malmö)",
-"location": "Malmö",
-"remote": null,
-"posted": "2026-11-23",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31766864",
 "source": "Platsbanken",
 "region": "Nordics",
 "firstSeen": "2026-11-24"
@@ -578,18 +554,6 @@
 "source": "greenhouse",
 "region": "Nordics",
 "firstSeen": "2026-10-29"
-},
-{
-"id": "platsbanken:Platsbanken:31657908",
-"company": "Veritaz AB",
-"title": "Product Designer - 20455",
-"location": "Stockholm",
-"remote": null,
-"posted": "2026-10-28",
-"url": "https://arbetsformedlingen.se/platsbanken/annonser/31657908",
-"source": "Platsbanken",
-"region": "Nordics",
-"firstSeen": "2026-10-28"
 },
 {
 "id": "platsbanken:Platsbanken:31636620",

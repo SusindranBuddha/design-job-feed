@@ -1,8 +1,20 @@
 {
-"generated": "2026-11-27T22:44:14Z",
+"generated": "2026-11-28T10:29:45Z",
 "region": "Remote",
-"count": 185,
+"count": 186,
 "jobs": [
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/paradigm-information-services-inc/jobs/senior-product-designer",
+"company": "Paradigm Information Services, Inc.",
+"title": "Senior Product Designer",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-11-28",
+"url": "https://himalayas.app/companies/paradigm-information-services-inc/jobs/senior-product-designer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-28"
+},
 {
 "id": "jobicy:Jobicy:164549",
 "company": "Elation Health",
@@ -280,6 +292,18 @@
 "firstSeen": "2026-11-22"
 },
 {
+"id": "himalayas:Himalayas:https://himalayas.app/companies/flex/jobs/staff-product-designer-contract",
+"company": "Flex",
+"title": "Staff Product Designer (Contract)",
+"location": "Argentina, Australia, Bolivia, Brazil, Canada, Chile, Colombia, Ecuador, Falkland Islands (Malvinas), French Guiana, Guyana, Paraguay, Peru, Suriname, United St",
+"remote": "remote",
+"posted": "2026-11-28",
+"url": "https://himalayas.app/companies/flex/jobs/staff-product-designer-contract?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-11-21"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/stefanini/jobs/disenador-ui-design-system-aplicaciones-mobile-proyecto-de-3-meses",
 "company": "Stefanini",
 "title": "Diseñador UI (Design System & Aplicaciones Mobile) - Proyecto de 3 meses",
@@ -324,18 +348,6 @@
 "posted": "2026-11-20",
 "url": "https://remoteOK.com/remote-jobs/remote-product-designer-tebra-1137873",
 "source": "Remote OK",
-"region": "Remote",
-"firstSeen": "2026-11-21"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/flex/jobs/staff-product-designer-contract",
-"company": "Flex",
-"title": "Staff Product Designer (Contract)",
-"location": "Argentina, Australia, Bolivia, Brazil, Canada, Chile, Colombia, Ecuador, Falkland Islands (Malvinas), French Guiana, Guyana, Paraguay, Peru, Suriname, United St",
-"remote": "remote",
-"posted": "2026-11-19",
-"url": "https://himalayas.app/companies/flex/jobs/staff-product-designer-contract?utm_source=api",
-"source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-21"
 },
@@ -407,18 +419,6 @@
 "remote": "remote",
 "posted": "2026-11-26",
 "url": "https://himalayas.app/companies/atomic-hr/jobs/ux-experience-systems-designer-websites-for-universities-remote-latam?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-11-20"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/keywords-studios-plc/jobs/systems-designer-live-ops-economy-6-month-ftc-freelance-electric-square",
-"company": "Keywords Studios Plc",
-"title": "Systems Designer (Live Ops & Economy) - 6 Month FTC/Freelance, Electric Square",
-"location": "United Kingdom",
-"remote": "remote",
-"posted": "2026-11-20",
-"url": "https://himalayas.app/companies/keywords-studios-plc/jobs/systems-designer-live-ops-economy-6-month-ftc-freelance-electric-square?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-11-20"
@@ -868,6 +868,18 @@
 "firstSeen": "2026-11-01"
 },
 {
+"id": "himalayas:Himalayas:https://himalayas.app/companies/life-science-connect/jobs/ux-ui-designer",
+"company": "Life Science Connect",
+"title": "UX/UI Designer",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-11-28",
+"url": "https://himalayas.app/companies/life-science-connect/jobs/ux-ui-designer?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-30"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/warp/jobs/product-designer",
 "company": "Warp",
 "title": "Product Designer",
@@ -892,24 +904,12 @@
 "firstSeen": "2026-10-30"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/life-science-connect/jobs/ux-ui-designer",
-"company": "Life Science Connect",
-"title": "UX/UI Designer",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-10-30",
-"url": "https://himalayas.app/companies/life-science-connect/jobs/ux-ui-designer?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-30"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/fluxcap/jobs/product-designer",
 "company": "Fluxcap",
 "title": "Product Designer",
 "location": "United States",
 "remote": "remote",
-"posted": "2026-11-19",
+"posted": "2026-11-28",
 "url": "https://himalayas.app/companies/fluxcap/jobs/product-designer?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
@@ -974,6 +974,18 @@
 "source": "greenhouse",
 "region": "Remote",
 "firstSeen": "2026-10-28"
+},
+{
+"id": "jobicy:Jobicy:151702",
+"company": "Future PLC",
+"title": "Senior Product Designer",
+"location": "USA",
+"remote": "remote",
+"posted": "2026-11-28",
+"url": "https://jobicy.com/jobs/151702-senior-product-designer-2",
+"source": "Jobicy",
+"region": "Remote",
+"firstSeen": "2026-10-27"
 },
 {
 "id": "himalayas:Himalayas:https://himalayas.app/companies/tabby/jobs/senior-product-designer-bnpl",
@@ -1324,6 +1336,18 @@
 "firstSeen": "2026-10-21"
 },
 {
+"id": "himalayas:Himalayas:https://himalayas.app/companies/mercor/jobs/design-systems-specialist-fully-remote-upto-80-hr-5591764381",
+"company": "mercor",
+"title": "Design Systems Specialist - Fully Remote | Upto $80/hr",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-11-28",
+"url": "https://himalayas.app/companies/mercor/jobs/design-systems-specialist-fully-remote-upto-80-hr-5591764381?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-18"
+},
+{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/upwardly-global/jobs/digital-product-designer",
 "company": "Upwardly Global",
 "title": "Digital Product Designer",
@@ -1552,18 +1576,6 @@
 "firstSeen": "2026-10-18"
 },
 {
-"id": "himalayas:Himalayas:https://himalayas.app/companies/mercor/jobs/design-systems-specialist-fully-remote-upto-80-hr-5591764381",
-"company": "mercor",
-"title": "Design Systems Specialist - Fully Remote | Upto $80/hr",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-11-09",
-"url": "https://himalayas.app/companies/mercor/jobs/design-systems-specialist-fully-remote-upto-80-hr-5591764381?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-18"
-},
-{
 "id": "himalayas:Himalayas:https://himalayas.app/companies/nearsource-technologies/jobs/ux-designer-retail-operational-systems",
 "company": "NearSource Technologies",
 "title": "UX Designer – Retail & Operational Systems",
@@ -1646,6 +1658,18 @@
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-18"
+},
+{
+"id": "himalayas:Himalayas:https://himalayas.app/companies/blink-interactive-inc/jobs/senior-ux-designer-general-opportunity-8508150358",
+"company": "Blink Interactive, Inc.",
+"title": "Senior UX Designer- General Opportunity",
+"location": "United States",
+"remote": "remote",
+"posted": "2026-11-28",
+"url": "https://himalayas.app/companies/blink-interactive-inc/jobs/senior-ux-designer-general-opportunity-8508150358?utm_source=api",
+"source": "Himalayas",
+"region": "Remote",
+"firstSeen": "2026-10-17"
 },
 {
 "id": "himalayas:Himalayas:https://himalayas.app/companies/dealeron/jobs/ux-designer",
@@ -1883,18 +1907,6 @@
 "remote": "remote",
 "posted": "2026-11-19",
 "url": "https://himalayas.app/companies/clay/jobs/ui-ux-design-lead?utm_source=api",
-"source": "Himalayas",
-"region": "Remote",
-"firstSeen": "2026-10-17"
-},
-{
-"id": "himalayas:Himalayas:https://himalayas.app/companies/blink-interactive-inc/jobs/senior-ux-designer-general-opportunity-8508150358",
-"company": "Blink Interactive, Inc.",
-"title": "Senior UX Designer- General Opportunity",
-"location": "United States",
-"remote": "remote",
-"posted": "2026-11-19",
-"url": "https://himalayas.app/companies/blink-interactive-inc/jobs/senior-ux-designer-general-opportunity-8508150358?utm_source=api",
 "source": "Himalayas",
 "region": "Remote",
 "firstSeen": "2026-10-17"
